@@ -14,7 +14,7 @@ jobs:
 
       - name: Clone Gitee repo(s)
         run: |
-          git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/text-effects.git text-effects
+          git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/text-effects.git
 
       - name: Commit and Push
         run: |
