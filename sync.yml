@@ -1,0 +1,27 @@
+name: 定时同步 Gitee 仓库
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout GitHub repo
+        uses: actions/checkout@v4
+
+      - name: Clone Gitee repo(s)
+        run: |
+          git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/text-effects.git text-effects
+
+      - name: Commit and Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p gitee_repos
+          cp -r frontend backend docs gitee_repos/
+          git add .
+          git commit -m "🔄 Auto sync from Gitee on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+          git push
