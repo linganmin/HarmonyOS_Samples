@@ -1,4 +1,6 @@
 **/*.mp4
+**/*.gif
+**/*.wav
 MSLiteHumanSegmentation/entry/src/main/resources/rawfile/rmbg_fp16.ms
 video-player/screenshots/videoPlayer.gif
 video-player/screenshots/videoPlayer_EN.gif
