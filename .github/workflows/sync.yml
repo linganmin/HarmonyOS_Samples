@@ -440,7 +440,9 @@ jobs:
               rm -rf "$dir/.git"
             fi
             # 移动内容到 GitHub 仓库根目录
-            mv "$dir" ./
+            if [ -d "$dir" ]; then
+              mv "$dir" ./
+            fi
           done
           rm -rf repos                   # 清理临时目录
           git add .
