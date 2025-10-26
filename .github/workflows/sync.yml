@@ -445,7 +445,7 @@ jobs:
             fi
             # 移动内容到 GitHub 仓库根目录
             if [ -d "$dir" ]; then
-              rm -rf target_dir && mv source_dir ./
+              rm -rf $dir && mv $dir ./
             fi
           done
           rm -rf repos                   # 清理临时目录
