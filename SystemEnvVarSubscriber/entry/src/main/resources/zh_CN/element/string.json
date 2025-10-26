@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SystemEnvVarSubscriber"
+    },
+    {
+      "name": "page_title",
+      "value": "订阅系统环境变量变化 "
+    },
+    {
+      "name": "button_subscribe",
+      "value": "订阅"
+    },
+    {
+      "name": "button_unsubscribe",
+      "value": "取消订阅"
+    },
+    {
+      "name": "item_system_language",
+      "value": "系统语言"
+    },
+    {
+      "name": "item_color_mode",
+      "value": "深浅色模式"
+    },
+    {
+      "name": "item_screen_direction",
+      "value": "屏幕方向"
+    },
+    {
+      "name": "item_screen_density",
+      "value": "屏幕像素密度"
+    },
+    {
+      "name": "item_display_id",
+      "value": "物理屏幕ID"
+    },
+    {
+      "name": "item_has_pointer_device",
+      "value": "指针类型设备是否已连接"
+    },
+    {
+      "name": "item_fontsize_scale",
+      "value": "字体大小缩放比例"
+    },
+    {
+      "name": "item_font_weight_scale",
+      "value": "字体粗细缩放比例"
+    },
+    {
+      "name": "subscribe_success",
+      "value": "请阅成功"
+    },
+    {
+      "name": "unsubscribe_success",
+      "value": "取消订阅成功"
+    },
+    {
+      "name": "subscribed",
+      "value": "您已经订阅，请勿重复订阅"
+    }
+  ]
+}

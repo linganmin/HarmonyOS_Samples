@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "location_reason",
+      "value": "To provide more accurate and personalized services, you need to obtain your location information"
+    },
+    {
+      "name": "camera_reason",
+      "value": "The QR code scanning function requires camera permissions to scan images"
+    },
+    {
+      "name": "get_approximately_location",
+      "value": "Get approximately location"
+    },
+    {
+      "name": "use_picker",
+      "value": "Accessing files using picker"
+    },
+    {
+      "name": "apply_camera_permissions",
+      "value": "Applying for camera permissions"
+    },
+    {
+      "name": "use_approximately_location",
+      "value": "Use approximately location"
+    },
+    {
+      "name": "select_picture",
+      "value": "Select picture"
+    }
+  ]
+}

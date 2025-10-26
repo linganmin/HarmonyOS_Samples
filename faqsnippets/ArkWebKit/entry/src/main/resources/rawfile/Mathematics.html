@@ -1,0 +1,51 @@
+<!-- Copyright (c) 2024 Huawei Device Co., Ltd.-->
+<!-- Licensed under the Apache License, Version 2.0 (the "License");-->
+<!-- you may not use this file except in compliance with the License.-->
+<!-- You may obtain a copy of the License at-->
+
+<!-- http://www.apache.org/licenses/LICENSE-2.0-->
+
+<!-- Unless required by applicable law or agreed to in writing, software-->
+<!-- distributed under the License is distributed on an "AS IS" BASIS,-->
+<!-- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.-->
+<!-- See the License for the specific language governing permissions and-->
+<!-- limitations under the License.-->
+
+<!-- FAQ：返回的html里包含数学公式，怎么合理渲染到页面-->
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>数学公式</title>
+    <!-- 使用KateX渲染数学公式 -->
+    <link rel="stylesheet" href="https://cdn.hsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+    <script defer src="https://cdn.hsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+    <script defer src="https://cdn.hsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+    <style>
+        body {
+           padding: 20px;
+           font-size: 18px;
+       }
+       .math {
+           margin: 15px 0;
+       }
+    </style>
+</head>
+<body>
+<h2>数学公式示例</h2>
+
+<div class="math">勾股定理：\(a^2 + b^2 = c^2\)</div>
+<div class="math">二次方程：\[x = \frac{-b \pm \sqrt{b^2 -4ac}}{2a} \]</div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                { left: "\\(", right:"\\)", display: false },
+                { left: "\\[", right:"\\]", display: false }
+            ]
+        })
+    })
+</script>
+
+</body>
+</html>

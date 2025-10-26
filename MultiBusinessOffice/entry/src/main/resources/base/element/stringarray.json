@@ -1,0 +1,332 @@
+{
+  "strarray": [
+    {
+      "name": "memo_list",
+      "value": [
+        {
+          "value": "All Memos"
+        },
+        {
+          "value": "Collection"
+        },
+        {
+          "value": "Add Lock"
+        },
+        {
+          "value": "Recently deleted"
+        }
+      ]
+    },
+    {
+      "name": "folder_list",
+      "value": [
+        {
+          "value": "Default"
+        },
+        {
+          "value": "Personal"
+        },
+        {
+          "value": "Work"
+        },
+        {
+          "value": "Travel"
+        },
+        {
+          "value": "Life"
+        }
+      ]
+    },
+    {
+      "name": "week_message",
+      "value": [
+        {
+          "value": "Sun."
+        },
+        {
+          "value": "Mon."
+        },
+        {
+          "value": "Tue."
+        },
+        {
+          "value": "Wed."
+        },
+        {
+          "value": "Thu."
+        },
+        {
+          "value": "Fri."
+        },
+        {
+          "value": "Sat."
+        }
+      ]
+    },
+    {
+      "name": "trip_schedule_view",
+      "value": [
+        {
+          "value": "Today"
+        },
+        {
+          "value": "农历"
+        },
+        {
+          "value": "八月"
+        },
+        {
+          "value": "September"
+        }
+      ]
+    },
+    {
+      "name": "calendar_side_bar_text",
+      "value": [
+        {
+          "value": "Calendar"
+        },
+        {
+          "value": "Calendar Account"
+        },
+        {
+          "value": "Add"
+        },
+        {
+          "value": "Huawei Account"
+        },
+        {
+          "value": "My Calendar"
+        },
+        {
+          "value": "Chinese Mainland Holidays"
+        },
+        {
+          "value": "Welink"
+        },
+        {
+          "value": "0012345678..."
+        },
+        {
+          "value": "Subscription"
+        },
+        {
+          "value": "Adm."
+        },
+        {
+          "value": "Huangli (Chinese almanac)"
+        },
+        {
+          "value": "Constellation"
+        },
+        {
+          "value": "Message Center"
+        },
+        {
+          "value": "Unread"
+        },
+        {
+          "value": "Read Already"
+        }
+      ]
+    },
+    {
+      "name": "entrances",
+      "value": [
+        {
+          "value": "Multi business office entrance"
+        },
+        {
+          "value": "One click access, efficient office work."
+        }
+      ]
+    },
+    {
+      "name": "title_list",
+      "value": [
+        {
+          "value": "Memorandum"
+        },
+        {
+          "value": "Calendar"
+        }
+      ]
+    },
+    {
+      "name": "notes_list",
+      "value": [
+        {
+          "value": "All Memos"
+        },
+        {
+          "value": "18 Memos"
+        },
+        {
+          "value": "Search..."
+        },
+        {
+          "value": "Today"
+        },
+        {
+          "value": "Last month"
+        }
+      ]
+    },
+    {
+      "name": "notes_content",
+      "value": [
+        {
+          "value": "Default"
+        },
+        {
+          "value": "This morning at 11:56"
+        },
+        {
+          "value": "熟悉的图像会自动给人一种平静和怀旧的感觉。熟悉的图像会自动给人一种平静和怀旧的感觉。熟悉的图像会自动给人一种平静和怀旧的感觉。"
+        },
+        {
+          "value": "Share"
+        },
+        {
+          "value": "Collection"
+        },
+        {
+          "value": "Delete"
+        },
+        {
+          "value": "More"
+        }
+      ]
+    },
+    {
+      "name": "notes_side_bar_text",
+      "value": [
+        {
+          "value": "Memorandum"
+        },
+        {
+          "value": "Notes"
+        },
+        {
+          "value": "Folder"
+        },
+        {
+          "value": "Edit"
+        },
+        {
+          "value": "Add Folders"
+        }
+      ]
+    },
+    {
+      "name": "september",
+      "value": [
+        {
+          "value": "廿九"
+        },
+        {
+          "value": "三十"
+        },
+        {
+          "value": "八月"
+        },
+        {
+          "value": "初二"
+        },
+        {
+          "value": "初三"
+        },
+        {
+          "value": "初四"
+        },
+        {
+          "value": "白露"
+        },
+        {
+          "value": "初六"
+        },
+        {
+          "value": "初七"
+        },
+        {
+          "value": "初八"
+        },
+        {
+          "value": "初九"
+        },
+        {
+          "value": "初十"
+        },
+        {
+          "value": "十一"
+        },
+        {
+          "value": "十二"
+        },
+        {
+          "value": "十三"
+        },
+        {
+          "value": "十四"
+        },
+        {
+          "value": "中秋"
+        },
+        {
+          "value": "九一八"
+        },
+        {
+          "value": "十七"
+        },
+        {
+          "value": "十八"
+        },
+        {
+          "value": "十九"
+        },
+        {
+          "value": "秋分"
+        },
+        {
+          "value": "廿一"
+        },
+        {
+          "value": "廿二"
+        },
+        {
+          "value": "廿三"
+        },
+        {
+          "value": "廿四"
+        },
+        {
+          "value": "廿五"
+        },
+        {
+          "value": "廿六"
+        },
+        {
+          "value": "廿七"
+        },
+        {
+          "value": "廿八"
+        },
+        {
+          "value": "廿九"
+        },
+        {
+          "value": "三十"
+        },
+        {
+          "value": "九月"
+        },
+        {
+          "value": "初二"
+        },
+        {
+          "value": "初三"
+        }
+      ]
+    }
+  ]
+}

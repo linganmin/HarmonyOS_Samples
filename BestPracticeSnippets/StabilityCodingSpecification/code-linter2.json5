@@ -1,0 +1,17 @@
+{
+  "rules": {
+    "@typescript-eslint/no-restricted-syntax": [
+      // Alarm level: Enumeration type, supports configuration as error, warn, off
+      "error",
+      {
+        // The selector attribute is mandatory. Configure the syntax to be disabled
+        // The statements to be restricted can be filtered through a specific DSL. The CallExpression represents the method call expression, and the square brackets behind it are the filtering conditions (determined according to the Node of the syntax tree).
+        // Among them, callee.oobject.name filters the objects (class, namespace, or module) that call the method based on the specified name, which is "Foo" in the above example
+        // Callee-propey.name filters the called methods based on the specified name, which is "bar" in the above example
+        "selector": "CallExpression[callee.object.name='Foo'][callee.property.name='bar']",
+        // The message attribute is optional, configure the error message to be displayed
+        "message": "Foo.bar() is not allowed"
+      }
+    ]
+  },
+}

@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SM2Data"
+    },
+    {
+      "name": "text_origin_data",
+      "value": "Raw data"
+    },
+    {
+      "name": "text_encode_data",
+      "value": "Encrypted data"
+    },
+    {
+      "name": "text_decode_data",
+      "value": "Decrypted data"
+    },
+    {
+      "name": "btn_encode",
+      "value": "Encrypt"
+    },
+    {
+      "name": "btn_decode",
+      "value": "Decrypt"
+    },
+    {
+      "name": "btn_base64_convert",
+      "value": "Base64 convert"
+    },
+    {
+      "name": "btn_asn1_convert",
+      "value": "ASN.1 convert"
+    },
+    {
+      "name": "text_asn1",
+      "value": " (ASN.1) "
+    },
+    {
+      "name": "text_hex",
+      "value": "  (Hex)  "
+    },
+    {
+      "name": "text_base64",
+      "value": "(base64) "
+    },
+    {
+      "name": "text_c1c3c2",
+      "value": "(c1c3c2) "
+    }
+  ]
+}

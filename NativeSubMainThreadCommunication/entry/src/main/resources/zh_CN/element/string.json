@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Native侧子线程与UI主线程通信"
+    },
+    {
+      "name": "result_description",
+      "value": "Value计算结果："
+    },
+    {
+      "name": "title_description",
+      "value": "Native侧子线程与UI主线程通信"
+    },
+    {
+      "name": "threadSafe_Case",
+      "value": "线程安全函数方式调用"
+    },
+    {
+      "name": "libUV_Case",
+      "value": "LibUV异步库方式调用"
+    },
+    {
+      "name": "threadSafe_message",
+      "value": "线程安全函数方式执行加30操作"
+    },
+    {
+      "name": "libUV_message",
+      "value": "LibUV异步库方式执行加30操作"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "网格元素拖拽交换"
+    },
+    {
+      "name": "grid_element_drag_swap",
+      "value": "Grid网格元素拖拽交换"
+    },
+    {
+      "name": "same_size_press_drag",
+      "value": "相同大小item长按拖拽"
+    },
+    {
+      "name": "different_size_press_drag",
+      "value": "不同大小item长按拖拽"
+    },
+    {
+      "name": "directly_drag_item",
+      "value": "直接拖拽item不需长按"
+    },
+    {
+      "name": "show_jitter_animation",
+      "value": "长按item后显示抖动动画"
+    },
+    {
+      "name": "details_page",
+      "value": "详情页"
+    },
+    {
+      "name": "text",
+      "value": "三江源地区位于青海省南部，平均海拔4000米以上，这里是长江、黄河和澜沧江的源头汇水区，被誉为“中华水塔”。在这里，可以看到雪豹在山崖上凝视远方，还可以看到成群的藏羚羊在嬉戏玩耍。这里是中国海拔最高的天然湿地和生物多样性分布区以及生物物种形成、演化的区域之一，其保护价值对全国乃至全球都意义重大。"
+    },
+    {
+      "name": "equipment",
+      "value": "设备"
+    },
+    {
+      "name": "space",
+      "value": "空间"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    }
+  ]
+}

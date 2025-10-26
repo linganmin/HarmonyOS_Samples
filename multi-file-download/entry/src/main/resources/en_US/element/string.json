@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiFileDownload"
+    },
+    {
+      "name": "multiple_files_download_text_width",
+      "value": "60%"
+    },
+    {
+      "name": "multiple_files_download_relative_container_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_relative_container_height",
+      "value": "30%"
+    },
+    {
+      "name": "multiple_files_download_row_width",
+      "value": "50%"
+    },
+    {
+      "name": "multiple_files_download_row_text_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_outer_row_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_transfer_list",
+      "value": "Downloading Multiple Files"
+    },
+    {
+      "name": "multiple_files_download_queue",
+      "value": "Download List"
+    },
+    {
+      "name": "multiple_files_download_completed",
+      "value": "Done"
+    },
+    {
+      "name": "multiple_files_download_function_only_display_purposes",
+      "value": "Display Only"
+    },
+    {
+      "name": "multiple_files_download_list",
+      "value": "Download"
+    },
+    {
+      "name": "multiple_files_download_file_upload",
+      "value": "Upload"
+    },
+    {
+      "name": "multiple_files_download_album_backup",
+      "value": "Album"
+    },
+    {
+      "name": "multiple_files_download_row_height",
+      "value": "30%"
+    },
+    {
+      "name": "multiple_files_download_list_width",
+      "value": "100%"
+    },
+    {
+      "name": "pause_all",
+      "value": "Pause All"
+    },
+    {
+      "name": "start_all",
+      "value": "Start All"
+    },
+    {
+      "name": "paused",
+      "value": "Paused"
+    },
+    {
+      "name": "download_fail",
+      "value": "Failed"
+    },
+    {
+      "name": "unknow_size",
+      "value": "Unknow"
+    },
+    {
+      "name": "downloading",
+      "value": "Downloading"
+    },
+    {
+      "name": "download_completed",
+      "value": "Done"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used for file download scenarios using the Internet network."
+    }
+  ]
+}

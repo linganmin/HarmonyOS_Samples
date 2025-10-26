@@ -1,0 +1,92 @@
+{
+  "integer": [
+    {
+      "name": "comm_pic_height",
+      "value": 150
+    },
+    {
+      "name": "offset_y",
+      "value": 5
+    },
+    {
+      "name": "background_map_size",
+      "value": 1000
+    },
+    {
+      "name": "icon_size",
+      "value": 24
+    },
+    {
+      "name": "top_area_radius",
+      "value": 40
+    },
+    {
+      "name": "top_area_size",
+      "value": 40
+    },
+    {
+      "name": "comm_margin_padding_size6",
+      "value": 6
+    },
+    {
+      "name": "comm_margin_padding_size12",
+      "value": 12
+    },
+    {
+      "name": "comm_margin_padding_size16",
+      "value": 16
+    },
+    {
+      "name": "comm_margin_padding_size30",
+      "value": 30
+    },
+    {
+      "name": "comm_height50",
+      "value": 50
+    },
+    {
+      "name": "not_border_radius",
+      "value": 0
+    },
+    {
+      "name": "comm_border_radius8",
+      "value": 8
+    },
+    {
+      "name": "comm_border_radius10",
+      "value": 10
+    },
+    {
+      "name": "comm_border_radius20",
+      "value": 20
+    },
+    {
+      "name": "comm_border_radius30",
+      "value": 30
+    },
+    {
+      "name": "comm_border_radius32",
+      "value": 32
+    },
+    {
+      "name": "comm_font_size14",
+      "value": 14
+    },
+    {
+      "name": "comm_font_size20",
+      "value": 20
+    },
+    {
+      "name": "comm_font_size24",
+      "value": 24
+    },
+    {
+      "name": "comm_icon_size18",
+      "value": 18
+    },
+    {
+      "name": "dot_size",
+      "value": 8
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "CallSystemAsyncWorkAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "CallSystemAsyncWorkAbility_label",
+      "value": "label"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "apiType": "stageMode",
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          },
+          "consumerFiles": [
+            "./consumer-rules.txt"
+          ]
+        }
+      },
+    },
+  ],
+  "targets": [
+    {
+      "name": "official",
+      "config": {
+        "buildOption": {
+          "arkOptions": {
+            "buildProfileFields": {
+              "productName": "official"
+            }
+          },
+          "nativeLib": {
+            "filter": {
+              "excludes": [
+                "../libs/arm64-v8a/libentry.so"
+              ]
+            }
+          }
+        }
+      },
+      "runtimeOS": "HarmonyOS",
+      "output": {
+        "artifactName": "official"
+      },
+      "source": {
+        "sourceRoots": [
+          "./src/official_pages"
+        ]
+      },
+      "resource": {
+        "directories": [
+          "./src/main/official/resources",
+          "./src/main/resources"
+        ]
+      }
+    },
+    {
+      "name": "test",
+      "config": {
+        "buildOption": {
+          "arkOptions": {
+            "buildProfileFields": {
+              "productName": "test"
+            }
+          }
+        }
+      },
+      "runtimeOS": "HarmonyOS",
+      "output": {
+        "artifactName": "test"
+      },
+      "source": {
+        "sourceRoots": [
+          "./src/test_pages"
+        ]
+      },
+      "resource": {
+        "directories": [
+          "./src/main/test/resources",
+          "./src/main/resources"
+        ]
+      }
+    }
+  ]
+}

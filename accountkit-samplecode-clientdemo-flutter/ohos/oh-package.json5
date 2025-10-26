@@ -1,0 +1,18 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "flutter_login",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@ohos/flutter_ohos": "file:./har/flutter.har"
+  },
+  "overrides": {
+    "@ohos/flutter_ohos": "file:./har/flutter.har",
+    "fluttertoast": "file:./har/fluttertoast.har",
+    "@ohos/flutter_module": "file:./entry",
+    "webview_flutter_ohos": "file:./har/webview_flutter_ohos.har"
+  }
+}

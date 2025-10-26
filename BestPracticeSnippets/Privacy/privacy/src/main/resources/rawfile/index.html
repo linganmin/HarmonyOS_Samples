@@ -1,0 +1,22 @@
+<!--
+/**
+ * 最佳实践：应用安全编码实践
+ * 场景十四：避免加载不可信的JavaScript脚本—html文件
+ */
+-->
+
+// [Start run_java_script_html]
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<body>
+Hello world!
+</body>
+<script type="text/javascript">
+    function test() {
+        console.log('Ark WebComponent')
+        return "This value is from index.html"
+    }
+</script>
+</html>
+// [End run_java_script_html]

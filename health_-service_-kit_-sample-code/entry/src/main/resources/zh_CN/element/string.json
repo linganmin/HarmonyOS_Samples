@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SampleCode"
+    },
+    {
+      "name": "Kit",
+      "value": "运动健康服务"
+    },
+    {
+      "name": "DataSource",
+      "value": "数据源管理"
+    },
+    {
+      "name": "SamplePoint",
+      "value": "采样数据管理"
+    },
+    {
+      "name": "ExerciseSequence",
+      "value": "锻炼记录管理"
+    },
+    {
+      "name": "HealthSequence",
+      "value": "健康记录管理"
+    },
+    {
+      "name": "Auth",
+      "value": "授权管理"
+    },
+    {
+      "name": "Workout",
+      "value": "运动联动"
+    },
+    {
+      "name": "Print_log",
+      "value": "日志打印："
+    },
+    {
+      "name": "SaveData",
+      "value": "保存数据"
+    },
+    {
+      "name": "ReadData",
+      "value": "读取数据"
+    },
+    {
+      "name": "DeleteByRequest",
+      "value": "根据请求删除"
+    },
+    {
+      "name": "DeleteBySamplePoint",
+      "value": "删除指定数据"
+    },
+    {
+      "name": "DeleteByExerciseSequence",
+      "value": "删除指定数据"
+    },
+    {
+      "name": "DeleteByHealthSequence",
+      "value": "删除指定数据"
+    },
+    {
+      "name": "AggregateData",
+      "value": "聚合查询"
+    },
+    {
+      "name": "InsertDataSource",
+      "value": "插入数据源"
+    },
+    {
+      "name": "UpdateDataSource",
+      "value": "更新数据源"
+    },
+    {
+      "name": "ReadDataSource",
+      "value": "读取数据源"
+    },
+    {
+      "name": "RequestAuthorizations",
+      "value": "授权"
+    },
+    {
+      "name": "CancelAuthorizations",
+      "value": "取消授权"
+    },
+    {
+      "name": "GetAuthorizations",
+      "value": "查询权限"
+    },
+    {
+      "name": "ReadActivityReport",
+      "value": "读取实时三环数据"
+    }
+  ]
+}

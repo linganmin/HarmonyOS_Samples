@@ -1,0 +1,36 @@
+{
+  "module": {
+    "name": "conversion",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "ConversionAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "ConversionAbility",
+        "srcEntry": "./ets/conversionability/ConversionAbility.ets",
+        "description": "$string:ConversionAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:ConversionAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

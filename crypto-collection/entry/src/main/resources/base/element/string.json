@@ -1,0 +1,212 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CryptoCollection"
+    },
+    {
+      "name": "total_count",
+      "value": "%d types in total"
+    },
+    {
+      "name": "encrypt_sample",
+      "value": "Crypto framework sample"
+    },
+    {
+      "name": "text_encrypted",
+      "value": "Text to be encrypted"
+    },
+    {
+      "name": "after_encryption",
+      "value": "Encrypted data"
+    },
+    {
+      "name": "detail",
+      "value": "detail"
+    },
+    {
+      "name": "encrypt_btn",
+      "value": "Encryption/Decryption"
+    },
+    {
+      "name": "signature_btn",
+      "value": "Signing & signature verification"
+    },
+    {
+      "name": "message_btn",
+      "value": "MD"
+    },
+    {
+      "name": "code_btn",
+      "value": "MAC"
+    },
+    {
+      "name": "text_message_code",
+      "value": "Enter the data to be hashed."
+    },
+    {
+      "name": "message_code_result",
+      "value": "Calculation result:"
+    },
+    {
+      "name": "text_signature",
+      "value": "Entering Data to Be Signed"
+    },
+    {
+      "name": "signature_result",
+      "value": "Verification result:"
+    },
+    {
+      "name": "Signed",
+      "value": "Sign"
+    },
+    {
+      "name": "signature_verification",
+      "value": "Verify signature"
+    },
+    {
+      "name": "text_summary",
+      "value": "Enter the data to be summarized."
+    },
+    {
+      "name": "summary_result",
+      "value": "Result:"
+    },
+    {
+      "name": "SHA256",
+      "value": "MD with SHA256"
+    },
+    {
+      "name": "SHA256Segments",
+      "value": "MD with SHA256 segmentation calculation"
+    },
+    {
+      "name": "MD5",
+      "value": "MD with MD5"
+    },
+    {
+      "name": "SM3",
+      "value": "MD with SM3"
+    },
+    {
+      "name": "empty",
+      "value": ""
+    },
+    {
+      "name": "calculate_code",
+      "value": "MAC with AES128|SHA256"
+    },
+    {
+      "name": "calculate_seg_code",
+      "value": "MAC with AES128|SHA256 Segmental calculation"
+    },
+    {
+      "name": "rsa_pkcs1",
+      "value": "RSA PKCS1"
+    },
+    {
+      "name": "rsa_pkcs1_seg",
+      "value": "RSA PKCS1 segmented"
+    },
+    {
+      "name": "rsa_pass",
+      "value": "RSA PASS"
+    },
+    {
+      "name": "ecdsa",
+      "value": "ECDSA"
+    },
+    {
+      "name": "sm2",
+      "value": "SM2"
+    },
+    {
+      "name": "AES_GCM",
+      "value": "AES GCM"
+    },
+    {
+      "name": "AES_CBC",
+      "value": "AES CBC"
+    },
+    {
+      "name": "AES_EBC",
+      "value": "AES ECB"
+    },
+    {
+      "name": "3DES_EBC",
+      "value": "3DES ECB"
+    },
+    {
+      "name": "SM4_EBC",
+      "value": "SM4 ECB"
+    },
+    {
+      "name": "SM4_CBC",
+      "value": "SM4 CBC"
+    },
+    {
+      "name": "RSA_PKCS1",
+      "value": "RSA PKCS1"
+    },
+    {
+      "name": "RSA_PKCS1_OAEP",
+      "value": "RSA PKCS1_OAEP"
+    },
+    {
+      "name": "SM2_crypto",
+      "value": "SM2"
+    },
+    {
+      "name": "rsa_dissymmetry_pkcs1",
+      "value": "RSA PKCS1 Asymmetric key"
+    },
+    {
+      "name": "encrypted_text",
+      "value": "Encrypted text"
+    },
+    {
+      "name": "decrypted_text",
+      "value": "Decrypted text"
+    },
+    {
+      "name": "encrypt",
+      "value": "Encrypt"
+    },
+    {
+      "name": "decrypt",
+      "value": "Decrypt"
+    },
+    {
+      "name": "format_conversion",
+      "value": "SM2 key format conversion"
+    },
+    {
+      "name": "format_error",
+      "value": "Incorrect ciphertext format"
+    },
+    {
+      "name": "private_key",
+      "value": "Hexadecimal private key"
+    },
+    {
+      "name": "public_key",
+      "value": "Hexadecimal public key"
+    },
+    {
+      "name": "ASN_1",
+      "value": "ASN.1 format ciphertext"
+    },
+    {
+      "name": "naked_ciphertext",
+      "value": "Naked ciphertext"
+    }
+  ]
+}

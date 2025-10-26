@@ -1,0 +1,48 @@
+{
+  "strarray": [
+    {
+      "name": "power_operations",
+      "value": [
+        {
+          "value": "检测亮灭屏状态"
+        },
+        {
+          "value": "获取电源模式"
+        }
+      ]
+    },
+    {
+      "name": "running_lock_operations",
+      "value": [
+        {
+          "value": "设备支持的休眠锁类型"
+        }
+      ]
+    },
+    {
+      "name": "power_mode",
+      "value": [
+        {
+          "value": "标准模式"
+        },
+        {
+          "value": "省电模式"
+        },
+        {
+          "value": "性能模式"
+        },
+        {
+          "value": "超级省电模式"
+        }
+      ]
+    },
+    {
+      "name": "settings_operations",
+      "value": [
+        {
+          "value": "获取数据项uri"
+        }
+      ]
+    }
+  ]
+}

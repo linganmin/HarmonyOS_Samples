@@ -1,0 +1,7 @@
+// 将index.d.ts与CMake编译的so文件关联起来
+{
+  "name": "libconversion.so",
+  "types": "./index.d.ts",
+  "version": "1.0.0",
+  "description": "Basic data type conversions."
+}

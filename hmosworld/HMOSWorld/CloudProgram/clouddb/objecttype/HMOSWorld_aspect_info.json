@@ -1,0 +1,108 @@
+{
+  "objectTypeName": "aspect_info",
+  "fields": [
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "versionName",
+      "notNull": false,
+      "isSensitive": false,
+      "defaultValue": "''",
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "methodClassName",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "methodName",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "params",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "type",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "createTime",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "Date"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "id",
+      "notNull": true,
+      "isSensitive": false,
+      "belongPrimaryKey": true,
+      "fieldType": "IntAutoIncrement"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "time",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "isStatic",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "Boolean"
+    }
+  ],
+  "indexes": [],
+  "permissions": [
+    {
+      "role": "World",
+      "rights": [
+        "Read"
+      ]
+    },
+    {
+      "role": "Authenticated",
+      "rights": [
+        "Read"
+      ]
+    },
+    {
+      "role": "Creator",
+      "rights": [
+        "Read",
+        "Upsert"
+      ]
+    },
+    {
+      "role": "Administrator",
+      "rights": [
+        "Read",
+        "Upsert",
+        "Delete"
+      ]
+    }
+  ]
+}

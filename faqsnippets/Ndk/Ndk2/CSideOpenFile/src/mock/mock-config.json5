@@ -1,0 +1,5 @@
+{
+  "libcsideopenfile.so": {
+    "source": "src/mock/Libcsideopenfile.mock.ets"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Add and delete Tab"
+    },
+    {
+      "name": "HandleTabs",
+      "value": "Add or delete tabs"
+    },
+    {
+      "name": "HandleTabsDesc",
+      "value": "This example describes how to add or delete Tab pages. This scenario applies to scenarios such as browsers."
+    },
+    {
+      "name": "newSheet",
+      "value": "New label"
+    }
+  ]
+}

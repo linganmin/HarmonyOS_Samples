@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "carKit_api_label",
+      "value": "CarKit—交互接口用法示例"
+    },
+    {
+      "name": "navigation_information",
+      "value": "导航信息交互接口"
+    },
+    {
+      "name": "mobility_service",
+      "value": "出行业务交互接口"
+    },
+    {
+      "name": "navigation_information_interaction_examples",
+      "value": "导航信息交互接口用法示例"
+    },
+    {
+      "name": "update_navigation_status_1",
+      "value": "更新导航状态1"
+    },
+    {
+      "name": "update_navigation_status_2",
+      "value": "更新导航状态2"
+    },
+    {
+      "name": "register_system_signal_listener",
+      "value": "注册系统信号监听"
+    },
+    {
+      "name": "unregister_system_signal_listener",
+      "value": "解注册系统信号监听"
+    },
+    {
+      "name": "update_navigation_metadata",
+      "value": "更新导航元数据"
+    },
+    {
+      "name": "mobility_service_interaction_examples",
+      "value": "出行业务交互接口用法示例"
+    },
+    {
+      "name": "event_listening",
+      "value": "事件监听示例"
+    },
+    {
+      "name": "register_mobility_service_event_listener",
+      "value": "注册出行业务事件监听"
+    },
+    {
+      "name": "unregister_mobility_service_event_listener",
+      "value": "解注册出行业务事件监听"
+    },
+    {
+      "name": "obtain_mobility_service_event_information",
+      "value": "获取出行业务事件信息"
+    },
+    {
+      "name": "status_listening",
+      "value": "状态监听示例"
+    },
+    {
+      "name": "register_smart_mobility_connection_status_listener",
+      "value": "注册出行业务连接状态监听"
+    },
+    {
+      "name": "unregister_smart_mobility_connection_status_listener",
+      "value": "解注册出行业务连接状态监听"
+    },
+    {
+      "name": "obtain_smart_mobility_connection_status",
+      "value": "获取出行业务连接状态"
+    }
+  ]
+}

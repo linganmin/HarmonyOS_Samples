@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "description"
+    },
+    {
+      "name": "entryability_label",
+      "value": "意图新闻推新"
+    },
+    {
+      "name": "home_title",
+      "value": "首页"
+    },
+    {
+      "name": "home_no_content",
+      "value": "当前没有内容了~"
+    },
+    {
+      "name": "home_tabs_one",
+      "value": "推荐"
+    },
+    {
+      "name": "home_tabs_two",
+      "value": "体育"
+    },
+    {
+      "name": "home_tabs_three",
+      "value": "财经"
+    },
+    {
+      "name": "home_tabs_four",
+      "value": "科技"
+    },
+    {
+      "name": "home_tabs_five",
+      "value": "小说"
+    },
+    {
+      "name": "news_detail_title",
+      "value": "新闻详情"
+    },
+    {
+      "name": "news_detail_concern_btn",
+      "value": "关注"
+    }
+  ]
+}

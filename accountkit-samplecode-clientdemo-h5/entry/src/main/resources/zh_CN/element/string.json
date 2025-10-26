@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "网络未连接，请检查网络设置。"
+    },
+    {
+      "name":"hwid_text_button_known",
+      "value":"知道了"
+    },
+    {
+      "name": "login",
+      "value": "登录 / 注册"
+    },
+    {
+      "name": "login_for_enjoy_service",
+      "value": "登录后享受更多服务"
+    },
+    {
+      "name": "personalInfo",
+      "value": "个人信息"
+    },
+    {
+      "name": "phone",
+      "value": "手机号"
+    },
+    {
+      "name": "logout",
+      "value": "退出登录"
+    }
+  ]
+}

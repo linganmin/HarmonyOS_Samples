@@ -1,0 +1,264 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Audio Detection"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "reason_background",
+      "value": "Used for audio playback and recording scenarios, keeping audio playing in the background and recording running in the background"
+    },
+    {
+      "name": "reason_microphone",
+      "value": "Apply for microphone recording for recording scenarios"
+    },
+    {
+      "name": "common_previous",
+      "value": "Previous step"
+    },
+    {
+      "name": "common_next",
+      "value": "Next step"
+    },
+    {
+      "name": "common_select",
+      "value": "Please select"
+    },
+    {
+      "name": "common_skip",
+      "value": "Skip"
+    },
+    {
+      "name": "common_start",
+      "value": "Start"
+    },
+    {
+      "name": "common_confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "common_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "common_retry",
+      "value": "Retry"
+    },
+    {
+      "name": "common_continue",
+      "value": "Continue"
+    },
+    {
+      "name": "common_hint",
+      "value": "Hint"
+    },
+    {
+      "name": "detection_title",
+      "value": "Audio capability testing"
+    },
+    {
+      "name": "detection_description",
+      "value": "Audio applications need to detect a total of 13 scenes, of which 3 scenes are mandatory. If skipped, all scores for that scene will be deducted; The remaining 10 scenes are non mandatory scenes. If skipped, the scene cannot be scored and the total score does not include the scene score."
+    },
+    {
+      "name": "select_app",
+      "value": "Select an application: "
+    },
+    {
+      "name": "audio_app",
+      "value": "Audio applications"
+    },
+    {
+      "name": "home_title_1",
+      "value": "Testing content:"
+    },
+    {
+      "name": "home_title_2",
+      "value": "Best Experience:"
+    },
+    {
+      "name": "home_title_3",
+      "value": "Step Tips:"
+    },
+    {
+      "name": "skip_dialog_title",
+      "value": "Confirm to skip this detection item?"
+    },
+    {
+      "name": "skip_dialog_content",
+      "value": "After skipping the detection, this item will not be rated."
+    },
+    {
+      "name": "sound_recording_progress",
+      "value": "Recording in progress"
+    },
+    {
+      "name": "sound_recording_stop",
+      "value": "Stop recording"
+    },
+    {
+      "name": "sound_recording_forbidden_tips",
+      "value": "This feature requires microphone permission to be activated before it can be used. Please click the \"OK\" button again, bring up the permission pop-up window, and allow the permission to be detected."
+    },
+    {
+      "name": "optimization_guide",
+      "value": "Optimization guide"
+    },
+    {
+      "name": "optimization_schemes",
+      "value": "Optimization schemes"
+    },
+    {
+      "name": "optimization_reference",
+      "value": "Reference Guide, Best Practices, Sample: "
+    },
+    {
+      "name": "confirm_service_dial_ok_title",
+      "value": "Please call your mobile phone"
+    },
+    {
+      "name": "confirm_service_dial_ok_content",
+      "value": "1.Please confirm that the detected application has been placed in the background and started playing; 2.Please confirm if the local phone number has been called"
+    },
+    {
+      "name": "confirm_service_dial_wrong_title",
+      "value": "Please insert SIM card"
+    },
+    {
+      "name": "confirm_service_dial_wrong_content",
+      "value": "Please insert the SIM card and continue testing"
+    },
+    {
+      "name": "score_congratulations",
+      "value": "Congratulations on completion; total score is "
+    },
+    {
+      "name": "score_required_scene",
+      "value": "Required Scene"
+    },
+    {
+      "name": "score_recommended_scene",
+      "value": "Recommended Scene"
+    },
+    {
+      "name": "score_comma",
+      "value": ","
+    },
+    {
+      "name": "score_advice",
+      "value": "Advice"
+    },
+    {
+      "name": "export_report",
+      "value": "Export Report"
+    },
+    {
+      "name": "export_log_guide",
+      "value": "Export log guidance"
+    },
+    {
+      "name": "export_csv_hint",
+      "value": "Exporting the file will generate a CSV file, which needs to be opened using WPS or exported to a PC to open"
+    },
+    {
+      "name": "export_cancel",
+      "value": "Cancel export"
+    },
+    {
+      "name": "export_log_guide_title",
+      "value": "You can export the logs in the following ways"
+    },
+    {
+      "name": "export_log_guide_1",
+      "value": "One: Export hilog logs to the current directory through hdc"
+    },
+    {
+      "name": "export_log_guide_1_1",
+      "value": "1.hdc file recv data/log/hilog/ \"current directory\"；"
+    },
+    {
+      "name": "export_log_guide_1_2",
+      "value": "2.There are files such as \"hilog. xxx. yyyMMMDD-ss. gz\" in the local hilog (yyyyMMDD-ss is the time), just find the compressed file that is close to the operation time."
+    },
+    {
+      "name": "export_log_guide_2",
+      "value": "Two: Export hilog logs to the current directory through DevEco Studio"
+    },
+    {
+      "name": "export_log_guide_2_1",
+      "value": "1.Open DevEco Studio and click on the Device File Browser in the bottom right corner;"
+    },
+    {
+      "name": "export_log_guide_2_2",
+      "value": "2.Open the hilog directory according to the path 'data/log/hilog';"
+    },
+    {
+      "name": "export_log_guide_2_3",
+      "value": "3.In the hilog directory, there are files such as \"hilog. xxx. yyyMMMDD-ss. gz\" (yyyyMMDD-ss is the time), just find the compressed file that is close to the operation time."
+    },
+    {
+      "name": "scene",
+      "value": "Scene"
+    },
+    {
+      "name": "operation",
+      "value": "Operation"
+    },
+    {
+      "name": "sub_scene",
+      "value": "Sub scene"
+    },
+    {
+      "name": "recommended_performance",
+      "value": "Recommended performance"
+    },
+    {
+      "name": "actual_performance",
+      "value": "Actual performance"
+    },
+    {
+      "name": "optimization_suggestions",
+      "value": "Optimization suggestions"
+    },
+    {
+      "name": "csv_generate_skiped",
+      "value": "Skiped"
+    },
+    {
+      "name": "csv_generate_completed",
+      "value": "Completed"
+    },
+    {
+      "name": "csv_generate_none",
+      "value": "None"
+    },
+    {
+      "name": "csv_generate_reference_guide",
+      "value": "Reference Guide, Best Practices, Sample:"
+    },
+    {
+      "name": "csv_generate_semicolon",
+      "value": ";"
+    },
+    {
+      "name": "dons",
+      "value": "."
+    }
+  ]
+}

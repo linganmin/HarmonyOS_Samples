@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "实现简单聊天列表功能"
+    },
+    {
+      "name": "Back_to_top",
+      "value": "回到顶部"
+    },
+    {
+      "name": "Sample_title",
+      "value": "实现简单聊天列表功能"
+    },
+    {
+      "name": "Message_time",
+      "value": "下午 2：30"
+    },
+    {
+      "name": "Where_are_you",
+      "value": "你到哪了"
+    },
+    {
+      "name": "Just_went_out",
+      "value": "我刚出门"
+    },
+    {
+      "name": "have_arrived_at_the_coffee_shop",
+      "value": "我已经到咖啡店啦，这里环境还不错，你现在到哪儿了？"
+    },
+    {
+      "name": "go_eat_together",
+      "value": "一起去吃饭吧,哈哈"
+    },
+    {
+      "name": "No_problem",
+      "value": "没问题"
+    },
+    {
+      "name": "Nice_day",
+      "value": "今天天气真好"
+    },
+    {
+      "name": "Ok",
+      "value": "ok."
+    },
+    {
+      "name": "Dont_have_time",
+      "value": "我今天没时间，下次再约"
+    },
+    {
+      "name": "Half_past_eight",
+      "value": "八点半"
+    },
+    {
+      "name": "Come_on",
+      "value": "加油"
+    },
+    {
+      "name": "Not",
+      "value": "不是"
+    },
+    {
+      "name": "Completed",
+      "value": "已完成"
+    }
+  ]
+}

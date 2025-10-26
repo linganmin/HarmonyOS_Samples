@@ -1,0 +1,380 @@
+{
+  "string": [
+    {
+      "name": "DialogHubDialogExamples",
+      "value": "DialogHub弹窗示例"
+    },
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DialogHubSample"
+    },
+    {
+      "name": "CommonDialogExamples",
+      "value": "常见弹窗示例"
+    },
+    {
+      "name": "OperableDialogExamples",
+      "value": "弹窗与页面/用户交互示例"
+    },
+    {
+      "name": "ReusableDialogExamples",
+      "value": "弹窗复用示例"
+    },
+    {
+      "name": "MultipleDialogExamples",
+      "value": "多个弹窗处理示例"
+    },
+    {
+      "name": "ModelDialog",
+      "value": "模态弹窗"
+    },
+    {
+      "name": "ModelessDialog",
+      "value": "非模态弹窗"
+    },
+    {
+      "name": "Tooltip_with_duration",
+      "value": "纯文本有持续时间的提示窗"
+    },
+    {
+      "name": "Click_to_show",
+      "value": "点击演示"
+    },
+    {
+      "name": "Click_to_move",
+      "value": "点击前往"
+    },
+    {
+      "name": "Popup_specified_location",
+      "value": "指定位置的非模态弹窗"
+    },
+    {
+      "name": "Popup_disappears_intervals",
+      "value": "会定时消失且带弹出动效的弹窗"
+    },
+    {
+      "name": "Avoid_keyboard_dialog",
+      "value": "会避让键盘的弹窗"
+    },
+    {
+      "name": "Arrow_pointing_dialog",
+      "value": "指向选定组件的带箭头弹窗"
+    },
+    {
+      "name": "Mask_automatically_close_dialog",
+      "value": "点击蒙层自动关闭的弹窗"
+    },
+    {
+      "name": "Actively_close_dialog",
+      "value": "可主动关闭的弹窗"
+    },
+    {
+      "name": "Adjust_height_dialog",
+      "value": "能够动态调整高度的底部弹窗"
+    },
+    {
+      "name": "Perceive_status_dialog",
+      "value": "感知弹窗的打开和关闭状态"
+    },
+    {
+      "name": "Snackbar_builder_title",
+      "value": "Single-line snackbar with action"
+    },
+    {
+      "name": "Login_my_account",
+      "value": "登录我的账号"
+    },
+    {
+      "name": "Login",
+      "value": "登录"
+    },
+    {
+      "name": "Sheet_builder_placeholder_phone",
+      "value": "手机号/邮件地址/账号名"
+    },
+    {
+      "name": "Sheet_builder_placeholder_password",
+      "value": "密码"
+    },
+    {
+      "name": "Input_builder_placeholder",
+      "value": "写评论"
+    },
+    {
+      "name": "Image_popup_builder_title",
+      "value": "AAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "name": "Auto_dismiss_builder_title",
+      "value": "您有新人福利"
+    },
+    {
+      "name": "Auto_dismiss_builder_content",
+      "value": "华为官方旗舰店"
+    },
+    {
+      "name": "Auto_dismiss_builder_desc",
+      "value": "HUAWEI Mate 60 12GB+1TB 青"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_rmb",
+      "value": "￥"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_price",
+      "value": "XXXX"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_more",
+      "value": "华为官方旗舰店  更多 "
+    },
+    {
+      "name": "Not_interested",
+      "value": "不感兴趣"
+    },
+    {
+      "name": "Find_out_more",
+      "value": "了解更多"
+    },
+    {
+      "name": "DialogStateOpen",
+      "value": "当前弹窗状态：打开"
+    },
+    {
+      "name": "DialogStateClose",
+      "value": "当前弹窗状态：关闭"
+    },
+    {
+      "name": "Dialog_A",
+      "value": "弹窗A"
+    },
+    {
+      "name": "Suppression_tips",
+      "value": "弹窗A存在时不可弹出的弹窗B"
+    },
+    {
+      "name": "Dialog_D",
+      "value": "普通弹窗D"
+    },
+    {
+      "name": "Dialog_E",
+      "value": "普通弹窗E"
+    },
+    {
+      "name": "Dialog_F",
+      "value": "层级为10的弹窗F"
+    },
+    {
+      "name": "Dialog_G",
+      "value": "置顶弹窗(Old_First)G"
+    },
+    {
+      "name": "Dialog_H",
+      "value": "置顶弹窗(New_First)H"
+    },
+    {
+      "name": "Shut_down",
+      "value": "关闭"
+    },
+    {
+      "name": "Click_to_shut_down",
+      "value": "点击关闭"
+    },
+    {
+      "name": "currentlyAllocatedPage",
+      "value": "当前配置: 返回手势作用于页面"
+    },
+    {
+      "name": "currentlyAllocatedDialog",
+      "value": "当前配置: 返回手势作用于弹窗"
+    },
+    {
+      "name": "numbersOfDialogInCurrentPage",
+      "value": "当前页面弹窗数: "
+    },
+    {
+      "name": "tagName",
+      "value": "标签名:"
+    },
+    {
+      "name": "break_on_page",
+      "value": "返回手势作用于页面"
+    },
+    {
+      "name": "break_on_dialog",
+      "value": "返回手势作用于弹窗"
+    },
+    {
+      "name": "Click_to_update",
+      "value": "点击修改"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_1",
+      "value": "弹出普通弹窗1"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_2",
+      "value": "弹出普通弹窗2"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_3",
+      "value": "弹出不响应返回手势弹窗3"
+    },
+    {
+      "name": "UserPassThroughGestureDialog",
+      "value": "用户可以透过弹窗内容操作页面"
+    },
+    {
+      "name": "passThroughGestureDialog",
+      "value": "可透传手势的弹窗"
+    },
+    {
+      "name": "dialog_interacts_with_page",
+      "value": "弹窗与页面进行数据交互"
+    },
+    {
+      "name": "ReturnDataDialog",
+      "value": "需要向页面返回数据的弹窗"
+    },
+    {
+      "name": "DialogWithPage",
+      "value": "弹窗与页面的关系"
+    },
+    {
+      "name": "SkipRouter",
+      "value": "存在跳转链接的弹窗(Router)"
+    },
+    {
+      "name": "SkipNavigation",
+      "value": "存在跳转链接的弹窗(Navigation)"
+    },
+    {
+      "name": "DifferentPositionShow",
+      "value": "(宽屏)在特定分屏展示弹窗"
+    },
+    {
+      "name": "LeftDialog",
+      "value": "(宽屏左)在特定分屏展示弹窗"
+    },
+    {
+      "name": "RightDialog",
+      "value": "(宽屏右)在特定分屏展示弹窗"
+    },
+    {
+      "name": "IconToastBuilderText",
+      "value": "成功提示"
+    },
+    {
+      "name": "ReuseExample_ItemHead",
+      "value": "通过自定义弹窗模板进行弹窗"
+    },
+    {
+      "name": "Create_dialog_template",
+      "value": "创建弹窗模板"
+    },
+    {
+      "name": "Click_to_create",
+      "value": "点击创建"
+    },
+    {
+      "name": "Delete_template",
+      "value": "删除弹窗模板"
+    },
+    {
+      "name": "Click_to_delete",
+      "value": "点击删除"
+    },
+    {
+      "name": "Randomize_template_background",
+      "value": "修改弹窗模板为随机背景色"
+    },
+    {
+      "name": "Click_to_modify",
+      "value": "点击修改"
+    },
+    {
+      "name": "Directly_popup_dialog",
+      "value": "直接弹出弹窗模板"
+    },
+    {
+      "name": "Click_to_demonstrate",
+      "value": "点击演示"
+    },
+    {
+      "name": "Click_to_demonstrate_button_id",
+      "value": "popupDirectlyButton"
+    },
+    {
+      "name": "Popup_with_animation",
+      "value": "定义本次弹出动画后弹出"
+    },
+    {
+      "name": "Popup_with_animation_button_id",
+      "value": "popupWithAnimationButton"
+    },
+    {
+      "name": "Popup_after_defining_position",
+      "value": "定义本次弹出位置后弹出"
+    },
+    {
+      "name": "Create_dialog_from_same_instance",
+      "value": "通过同一对象进行弹窗"
+    },
+    {
+      "name": "Dialog_text",
+      "value": "弹窗"
+    },
+    {
+      "name": "Singleton_dialog_id",
+      "value": "singletonPopup"
+    },
+    {
+      "name": "Reuse_example_title",
+      "value": "弹窗复用示例"
+    },
+    {
+      "name": "FatherPageUpdateDialogContent",
+      "value": "父页面可刷新弹窗内容的弹窗"
+    },
+    {
+      "name": "createNewDialog",
+      "value": "新建弹窗"
+    },
+    {
+      "name": "inputNameForDialog",
+      "value": "请为此弹窗输入名称"
+    },
+    {
+      "name": "pleaseInput",
+      "value": "请输入"
+    },
+    {
+      "name": "SkipBuilderText_1",
+      "value": "XX服务"
+    },
+    {
+      "name": "SkipBuilderText_2",
+      "value": "\"XX\"是XXXXXXXXXXX（业务说明）。"
+    },
+    {
+      "name": "SkipBuilderSpan_1",
+      "value": "本应用需联网，调用XX，XX权限，使用蓝牙，NFC功能，开启XX，XX，读取XX、XXX、读取和修改XX、XX，读取并传送XX、XX，以提供XX相关服务。我们仅在您使用具体业务功能是，才会触发上述行为收集使用相关的个人信息。详情请参阅"
+    },
+    {
+      "name": "SkipBuilderSpan_2",
+      "value": "关于XX业务与隐私的声明"
+    },
+    {
+      "name": "SkipBuilderSpan_3",
+      "value": "。请您仔细阅读上述声明，点击“同意”，即表示您知悉并同意我们向您提供本应用服务"
+    }
+  ]
+}

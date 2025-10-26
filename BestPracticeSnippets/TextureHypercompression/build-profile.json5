@@ -1,0 +1,79 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "targetSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+        // [Start texture_compression]
+        "buildOption": {
+          "resOptions": {
+            "compression": {
+              "media": {
+                "enable": true // Whether to enable texture compression for media images
+              },
+              // Filtering of texture compression files. This field is not mandatory. If this field is not set, all images in the resource directory will be compressed
+              "filters": [
+                {
+                  "method": {
+                    "type": "sut", // conversion type
+                    "blocks": "4x4" // The extended parameters of the conversion type
+                  },
+                  // Specifies the files used for compression. Only files that meet all conditions and are not excluded can be compressed
+                  "files": {
+                    "path": ["./**/*"], // All files in the specified resource directory
+                    "size": [[0, '1000k']], // Files with a specified size of less than 1000k
+                    // Pictures with a resolution smaller than 3000 x 3000
+                    "resolution": [
+                      [
+                        { "width": 0, "height": 0 }, // minimum width and height
+                        { "width": 3000, "height": 3000 } // Maximum width and height
+                      ]
+                    ]
+                  },
+                  // Remove files that do not need to be compressed from the files list. Only files that meet all filtering conditions are deleted
+                  "exclude": {
+                    "path": ["./**/*.webp"], // Filter all webp files
+                    "size": [[0, '1k']], // Filter files smaller than 1k in size
+                    // Filter images with a resolution smaller than 1024 x 1024
+                    "resolution": [
+                      [
+                        { "width": 0, "height": 0 }, // minimum width and height
+                        { "width": 1024, "height": 1024 } // Maximum width and height
+                      ]
+                    ]
+                  }
+                }
+              ]
+            }
+          }},
+        // [End texture_compression]
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

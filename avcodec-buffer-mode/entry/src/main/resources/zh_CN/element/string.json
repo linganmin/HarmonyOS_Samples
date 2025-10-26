@@ -1,0 +1,81 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVCodecBufferMode"
+    },
+    {
+      "name": "alert",
+      "value": "未选择视频！"
+    },
+
+    {
+      "name": "reason",
+      "value": "允许应用使用麦克风"
+    },
+    {
+      "name": "video_transcoding",
+      "value": "视频转码"
+    },
+    {
+      "name": "transcoding",
+      "value": "视频转码中"
+    },
+    {
+      "name": "video_player",
+      "value": "视频播放"
+    },
+    {
+      "name": "buffer_mode",
+      "value": "基于Buffer模式进行转码"
+    },
+    {
+      "name": "select_video",
+      "value": "选择视频文件"
+    },
+    {
+      "name": "config_video",
+      "value": "参数设置"
+    },
+    {
+      "name": "start_transcoding",
+      "value": "开始转码"
+    },
+    {
+      "name": "before_transcoding",
+      "value": "转码前"
+    },
+    {
+      "name": "after_transcoding",
+      "value": "转码后"
+    },
+    {
+      "name": "alert_setting",
+      "value": "当前设备不支持该设置。"
+    },
+    {
+      "name": "saveButtonNote",
+      "value": "是否允许AVCodecVideo保存拍摄的视频到图库？"
+    },
+    {
+      "name": "saveButtonCancel",
+      "value": "取消"
+    },
+    {
+      "name": "return",
+      "value": "返回首页"
+    },
+    {
+      "name": "saveButtonTitle",
+      "value": "视频保存位置确认"
+    }
+  ]
+}

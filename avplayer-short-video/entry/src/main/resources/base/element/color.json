@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "toggle",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "default_track_color_show",
+      "value": "#E8E8E8"
+    },
+    {
+      "name": "default_select_color_show",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "white_opacity_1_color",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "speed_dialog",
+      "value": "#33bab4b4"
+    },
+    {
+      "name": "dialog_title_color",
+      "value": "#e5ffffff"
+    },
+    {
+      "name": "dialog_text_color",
+      "value": "#99ffffff"
+    },
+    {
+      "name": "dialog_cancel_color",
+      "value": "#ff317af7"
+    },
+    {
+      "name": "dialog_background_color",
+      "value": "#ff202224"
+    }
+  ]
+}

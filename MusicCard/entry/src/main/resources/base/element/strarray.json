@@ -1,0 +1,62 @@
+{
+  "strarray": [
+    {
+      "name": "song_titles",
+      "value": [
+        {
+          "value": "$string:dream_it_possible"
+        },
+        {
+          "value": "$string:china_is_promising"
+        },
+        {
+          "value": "$string:remain_true_to_our_original_aspiration"
+        },
+        {
+          "value": "$string:i_got_it"
+        },
+        {
+          "value": "$string:ha_ha_ha"
+        },
+        {
+          "value": "$string:study_hard"
+        },
+        {
+          "value": "$string:when_will_the_moon_be_clear_and_bright"
+        },
+        {
+          "value": "$string:serious"
+        }
+      ]
+    },
+    {
+      "name": "song_singers",
+      "value": [
+        {
+          "value": "Delacey"
+        },
+        {
+          "value": "guitar"
+        },
+        {
+          "value": "张三"
+        },
+        {
+          "value": "李四"
+        },
+        {
+          "value": "王五"
+        },
+        {
+          "value": "赵六"
+        },
+        {
+          "value": "名佚"
+        },
+        {
+          "value": "名佚"
+        }
+      ]
+    }
+  ]
+}

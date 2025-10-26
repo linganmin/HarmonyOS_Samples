@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "首选项"
+    },
+    {
+      "name": "dialer",
+      "value": "电话"
+    },
+    {
+      "name": "shopping",
+      "value": "商城"
+    },
+    {
+      "name": "notes",
+      "value": "备忘录"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "camera",
+      "value": "相机"
+    },
+    {
+      "name": "album",
+      "value": "相册"
+    },
+    {
+      "name": "music",
+      "value": "音乐"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SmartWatchRideNavigation"
+    },
+    {
+      "name": "search_result_one",
+      "value": "Entrance A"
+    },
+    {
+      "name": "search_result_two",
+      "value": "Entrance B"
+    },
+    {
+      "name": "search_result_three",
+      "value": "Entrance C"
+    },
+    {
+      "name": "search_result_four",
+      "value": "Entrance D"
+    },
+    {
+      "name": "search_result_five",
+      "value": "Entrance E"
+    },
+    {
+      "name": "search_result_six",
+      "value": "Entrance F"
+    },
+    {
+      "name": "search_result_seven",
+      "value": "Entrance G"
+    },
+    {
+      "name": "search_result_eight",
+      "value": "Entrance H"
+    },
+    {
+      "name": "search_result_nine",
+      "value": "Entrance I"
+    },
+    {
+      "name": "search_result_ten",
+      "value": "Entrance J"
+    },
+    {
+      "name": "route_information_duration",
+      "value": "27min  "
+    },
+    {
+      "name": "route_information_distance",
+      "value": "1.9km"
+    },
+    {
+      "name": "route_information_description",
+      "value": "Short route, few lights"
+    },
+    {
+      "name": "QRCode_message",
+      "value": "Ride Navigation APP"
+    },
+    {
+      "name": "scan_QRCode_login",
+      "value": "Scan QRCode"
+    },
+    {
+      "name": "please_scan_QRCode_login",
+      "value": "Scan QR to login"
+    },
+    {
+      "name": "ride_navigation",
+      "value": "Ride Nav"
+    },
+    {
+      "name": "navigation_message_one",
+      "value": "250m, go east"
+    },
+    {
+      "name": "navigation_message_two",
+      "value": "500m straight, cross lights"
+    },
+    {
+      "name": "stop_navigation",
+      "value": "Stop Navigation"
+    },
+    {
+      "name": "result",
+      "value": "Result"
+    },
+    {
+      "name": "ride",
+      "value": "Ride"
+    },
+    {
+      "name": "walk",
+      "value": "Walk"
+    },
+    {
+      "name": "voice_search",
+      "value": "Voice Search"
+    }
+  ]
+}

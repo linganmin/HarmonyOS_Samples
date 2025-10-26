@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "wearable_desc",
+      "value": "description"
+    },
+    {
+      "name": "wearable_label",
+      "value": "Smartwatch Feature Collection"
+    },
+    {
+      "name": "interconnection_communication",
+      "value": "Mobile phone watch interconnection communication"
+    },
+    {
+      "name": "Watch_sensor",
+      "value": "Watch sensor"
+    },
+    {
+      "name": "Watch_sensor_toast",
+      "value": "Go to the app on your watch to check the sensor function."
+    },
+    {
+      "name": "sendMessage",
+      "value": "Send Message"
+    },
+    {
+      "name": "message_input",
+      "value": "lease enter a message to send to your watch"
+    },
+    {
+      "name": "message_response",
+      "value": "The watch receives a message from the phone."
+    },
+    {
+      "name": "Heart_rate_monitoring",
+      "value": "Heart rate monitoring"
+    },
+    {
+      "name": "reason",
+      "value": "Heart rate getting"
+    }
+  ]
+}

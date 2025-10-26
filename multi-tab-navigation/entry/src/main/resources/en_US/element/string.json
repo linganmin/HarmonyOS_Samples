@@ -1,0 +1,284 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Common navigation UI styles"
+    },
+    {
+      "name": "hei_ti_medium",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "hei_ti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "message",
+      "value": "message"
+    },
+    {
+      "name": "people",
+      "value": "contact"
+    },
+    {
+      "name": "activity",
+      "value": "dynamic"
+    },
+    {
+      "name": "list_name",
+      "value": "List options"
+    },
+    {
+      "name": "add_list",
+      "value": "Add list"
+    },
+    {
+      "name": "content",
+      "value": "Content area"
+    },
+    {
+      "name": "title",
+      "value": "Common navigation UI styles"
+    },
+    {
+      "name": "tab_homepage",
+      "value": "home"
+    },
+    {
+      "name": "tab_video",
+      "value": "video"
+    },
+    {
+      "name": "tab_mall",
+      "value": "mall"
+    },
+    {
+      "name": "tab_mine",
+      "value": "mine"
+    },
+    {
+      "name": "tab_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "tab_video_height",
+      "value": "calc(100% - 60vp)"
+    },
+    {
+      "name": "tab_upgrade_hot",
+      "value": "upgrade hot"
+    },
+    {
+      "name": "tab_online_people",
+      "value": "98 million people are watching."
+    },
+    {
+      "name": "tab_toast_message",
+      "value": "For UI display only. The function is not developed yet."
+    },
+    {
+      "name": "tab_share",
+      "value": "share"
+    },
+    {
+      "name": "tab_focus",
+      "value": "focus"
+    },
+    {
+      "name": "tab_selected",
+      "value": "seleted"
+    },
+    {
+      "name": "tab_recommendation",
+      "value": "recommend"
+    },
+    {
+      "name": "tab_screening_hall",
+      "value": "hall"
+    },
+    {
+      "name": "tab_focus_width",
+      "value": "calc((100% - 120vp)/4)"
+    },
+    {
+      "name": "index_tab_scroll",
+      "value": "calc(100% - 112vp)"
+    },
+    {
+      "name": "bottom_nav",
+      "value": "Bottom tab"
+    },
+    {
+      "name": "common_bottom_nav",
+      "value": "Common bottom tab"
+    },
+    {
+      "name": "rudder_bottom_nav",
+      "value": "Rudder bottom tab"
+    },
+    {
+      "name": "video_slide",
+      "value": "Video slide"
+    },
+    {
+      "name": "top_nav",
+      "value": "Top tab"
+    },
+    {
+      "name": "underline_tab",
+      "value": "Underline tab"
+    },
+    {
+      "name": "background_light_tab",
+      "value": "Background light tab"
+    },
+    {
+      "name": "word_tab",
+      "value": "Word tab"
+    },
+    {
+      "name": "double_nesting_tab_one",
+      "value": "Double nesting tab one"
+    },
+    {
+      "name": "double_nesting_tab_two",
+      "value": "Double nesting tab two"
+    },
+    {
+      "name": "slide_and_mor_tab",
+      "value": "Slide and more tab"
+    },
+    {
+      "name": "side_tab",
+      "value": "Side tab"
+    },
+    {
+      "name": "common_side_tab",
+      "value": "Common side tab"
+    },
+    {
+      "name": "drawer_tab",
+      "value": "Drawer tab "
+    },
+    {
+      "name": "literature",
+      "value": "Literature"
+    },
+    {
+      "name": "making_friends",
+      "value": "Friends"
+    },
+    {
+      "name": "live_broadcast",
+      "value": "Live"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "ceremony",
+      "value": "Ceremony"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "follow",
+      "value": "Follow"
+    },
+    {
+      "name": "recommended",
+      "value": "Recommend"
+    },
+    {
+      "name": "book",
+      "value": "Book"
+    },
+    {
+      "name": "novel",
+      "value": "Novel"
+    },
+    {
+      "name": "caricature",
+      "value": "Caricature"
+    },
+    {
+      "name": "listen_book",
+      "value": "Listen book"
+    },
+    {
+      "name": "popular_course",
+      "value": "Popular course"
+    },
+    {
+      "name": "latest_courses",
+      "value": "Latest courses"
+    },
+    {
+      "name": "wonderful_activity",
+      "value": "Wonderful activity"
+    },
+    {
+      "name": "developer_said",
+      "value": "Developer said"
+    },
+    {
+      "name": "back_end_development",
+      "value": "Back-end development"
+    },
+    {
+      "name": "front_end_development",
+      "value": "Front-end development"
+    },
+    {
+      "name": "tip1",
+      "value": "Home screen, for Tabs only."
+    },
+    {
+      "name": "tip2",
+      "value": "Mall interface, only for Tabs display."
+    },
+    {
+      "name": "tip3",
+      "value": "My interface is for Tabs only."
+    },
+    {
+      "name": "user",
+      "value": "@user"
+    },
+    {
+      "name": "desc",
+      "value": "It's cloudy today"
+    },
+    {
+      "name": "hot_dot",
+      "value": "Hot spot"
+    },
+    {
+      "name": "left_tab",
+      "value": "Left Alignment Style"
+    },
+    {
+      "name": "tab",
+      "value": "tab"
+    },
+    {
+      "name": "page",
+      "value": "this is page"
+    },
+    {
+      "name": "page_content",
+      "value": "content"
+    }
+  ]
+}

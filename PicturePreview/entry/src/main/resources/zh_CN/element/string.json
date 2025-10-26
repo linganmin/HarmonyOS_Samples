@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "图片预览器"
+    },
+    {
+      "name": "text_share",
+      "value": "分享"
+    },
+    {
+      "name": "text_collect",
+      "value": "收藏"
+    },
+    {
+      "name": "text_edit",
+      "value": "编辑"
+    },
+    {
+      "name": "text_delete",
+      "value": "删除"
+    },
+    {
+      "name": "text_title",
+      "value": "图片预览器"
+    }
+  ]
+}

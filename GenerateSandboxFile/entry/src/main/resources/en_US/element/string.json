@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GenerateSandboxFile"
+    },
+    {
+      "name": "tab1",
+      "value": "File Debugging"
+    },
+    {
+      "name": "tab2",
+      "value": "Generate File"
+    },
+    {
+      "name": "tab3",
+      "value": "List of files"
+    },
+    {
+      "name": "txt1",
+      "value": "Sandbox file name:"
+    },
+    {
+      "name": "txt2",
+      "value": "Preference instance name:"
+    },
+    {
+      "name": "txt3",
+      "value": "The name of the relational database:"
+    },
+    {
+      "name": "txt4",
+      "value": "The name of the key-value database:"
+    },
+    {
+      "name": "message",
+      "value": "generate success"
+    },
+    {
+      "name": "reason",
+      "value": "network port transmission for FTP services"
+    }
+  ]
+}

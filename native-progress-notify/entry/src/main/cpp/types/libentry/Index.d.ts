@@ -1,0 +1,1 @@
+export const startDownload: (cbFn: (progress: number) => void) => void;

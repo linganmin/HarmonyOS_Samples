@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "VideoProcessing"
+    },
+    {
+      "name": "video_processing_not_support",
+      "value": "The video does not support the current operation"
+    },
+    {
+      "name": "color_space_sdr",
+      "value": "SDR"
+    },
+    {
+      "name": "color_space_hdr",
+      "value": "HDR"
+    },
+    {
+      "name": "video_processing_title",
+      "value": "VideoProcessing"
+    },
+    {
+      "name": "video_processing_after",
+      "value": "After optimization"
+    },
+    {
+      "name": "video_processing_after_area",
+      "value": "Please select the video first, and then display the content"
+    },
+    {
+      "name": "video_processing_before",
+      "value": "Original video"
+    },
+    {
+      "name": "video_processing_select_file",
+      "value": "Select Video"
+    },
+    {
+      "name": "video_processing_before_are",
+      "value": "Please select the video first"
+    },
+    {
+      "name": "video_processing_meta_generate",
+      "value": "Metadata generation"
+    },
+    {
+      "name": "video_processing_scale",
+      "value": "Video zoom"
+    },
+    {
+      "name": "meta_list",
+      "value": "HDR metadata support"
+    },
+    {
+      "name": "scale_enhance_list",
+      "value": "Zoom Boost Gear"
+    },
+    {
+      "name": "video_processing_color_space",
+      "value": "Color space conversion"
+    },
+    {
+      "name": "video_processing_play",
+      "value": "Play the video"
+    },
+    {
+      "name": "color_space_list",
+      "value": "Color space conversion"
+    },
+    {
+      "name": "video_is_processing_try_later",
+      "value": "Video is processing, try later"
+    }
+  ]
+}

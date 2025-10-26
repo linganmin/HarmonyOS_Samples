@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CustomCanvas"
+    },
+    {
+      "name": "paint",
+      "value": "paint"
+    },
+    {
+      "name": "brash",
+      "value": "brush"
+    },
+    {
+      "name": "ballpoint",
+      "value": "ballpoint"
+    },
+    {
+      "name": "marker",
+      "value": "marker"
+    },
+    {
+      "name": "pencil",
+      "value": "pencil"
+    },
+    {
+      "name": "fountain_pen",
+      "value": "fountain pen"
+    },
+    {
+      "name": "laser_pointer",
+      "value": "laser pointer"
+    },
+    {
+      "name": "color",
+      "value": "color"
+    },
+    {
+      "name": "opacity",
+      "value": "opacity"
+    },
+    {
+      "name": "thicknesses",
+      "value": "thicknesses"
+    },
+    {
+      "name": "rubber",
+      "value": "rubber"
+    },
+    {
+      "name": "redo",
+      "value": "redo"
+    },
+    {
+      "name": "undo",
+      "value": "undo"
+    },
+    {
+      "name": "clear",
+      "value": "clear"
+    }
+  ]
+}

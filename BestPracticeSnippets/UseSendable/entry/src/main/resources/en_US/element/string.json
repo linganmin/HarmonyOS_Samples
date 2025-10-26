@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UseSendable"
+    },
+    {
+      "name": "home_title",
+      "value": "UseSendable Homologous Engineering"
+    },
+    {
+      "name": "time_consuming_task_title",
+      "value": "Scenarios for concurrent execution of time-consuming tasks"
+    },
+    {
+      "name": "long_term_task_title",
+      "value": "Scenario of concurrent execution of long-duration tasks"
+    },
+    {
+      "name": "multitasking_title",
+      "value": "Multi-tasking concurrent execution (serial sequential dependency)"
+    },
+    {
+      "name": "tree_like_dependency_title",
+      "value": "Multi-task concurrent execution (tree-like dependency)"
+    },
+    {
+      "name": "task_set_title",
+      "value": "Multi-task synchronous waiting for results (task group)"
+    },
+    {
+      "name": "priority_scheduling_title",
+      "value": "Multi-task priority scheduling"
+    },
+    {
+      "name": "task_delay_scheduling_title",
+      "value": "Task Delay Scheduling"
+    },
+    {
+      "name": "multithreaded_communication_title",
+      "value": "Cross-language multithreaded communication (C++ and ArkTS)"
+    },
+    {
+      "name": "singleton_pattern_title",
+      "value": "Inter-thread module sharing (Singleton pattern) (Solution 1)"
+    },
+    {
+      "name": "singleton_solution_two_title",
+      "value": "Module sharing among threads (Singleton pattern)"
+    },
+    {
+      "name": "immutable_data_sharing_title",
+      "value": "Shared immutable data among threads"
+    }
+  ]
+}

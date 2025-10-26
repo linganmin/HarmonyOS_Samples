@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  - Copyright (c) 2024 Huawei Device Co., Ltd.
+  - Licensed under the Apache License, Version 2.0 (the "License");
+  - you may not use this file except in compliance with the License.
+  - You may obtain a copy of the License at
+  -
+  -     http://www.apache.org/licenses/LICENSE-2.0
+  -
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -->
+
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Public/ic_public_view_list备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.903483073">
+        <g id="折叠屏_图文详情横图（上下布局）" transform="translate(-631.000000, -54.000000)" fill="#000000">
+            <g id="Navigation/TitleBar/Tablet/1-Line/Drawer-with-toolbar" transform="translate(24.000000, 36.000000)">
+                <g id="Public/ic_public_view_list备份" transform="translate(607.000000, 18.000000)">
+                    <path d="M13.25,3.25 C15.1829966,3.25 16.75,4.81700338 16.75,6.75 L16.75,13.25 C16.75,15.1829966 15.1829966,16.75 13.25,16.75 L0.25,16.75 C-1.68299662,16.75 -3.25,15.1829966 -3.25,13.25 L-3.25,6.75 C-3.25,4.81700338 -1.68299662,3.25 0.25,3.25 L13.25,3.25 Z M13.5,4.75 L4.4408921e-16,4.75 C-0.966498312,4.75 -1.75,5.53350169 -1.75,6.5 L-1.75,13.5 C-1.75,14.4664983 -0.966498312,15.25 0,15.25 L13.5,15.25 C14.4664983,15.25 15.25,14.4664983 15.25,13.5 L15.25,6.5 C15.25,5.53350169 14.4664983,4.75 13.5,4.75 Z" id="形状结合" transform="translate(6.750000, 10.000000) rotate(-90.000000) translate(-6.750000, -10.000000) "></path>
+                    <path d="M25,7.5 C26.3807119,7.5 27.5,8.61928813 27.5,10 C27.5,11.3807119 26.3807119,12.5 25,12.5 L10,12.5 C8.61928813,12.5 7.5,11.3807119 7.5,10 C7.5,8.61928813 8.61928813,7.5 10,7.5 L25,7.5 Z M25,9 L10,9 C9.44771525,9 9,9.44771525 9,10 C9,10.5522847 9.44771525,11 10,11 L25,11 C25.5522847,11 26,10.5522847 26,10 C26,9.44771525 25.5522847,9 25,9 Z" id="形状结合" transform="translate(17.500000, 10.000000) rotate(-90.000000) translate(-17.500000, -10.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

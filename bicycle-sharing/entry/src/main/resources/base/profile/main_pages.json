@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/CyclingPage",
+    "pages/ConfirmUnlock",
+    "pages/Riding",
+    "pages/Pay",
+    "pages/PayCompleted",
+    "pages/FindBike",
+    "pages/LiveViewLockScreenPage"
+  ]
+}

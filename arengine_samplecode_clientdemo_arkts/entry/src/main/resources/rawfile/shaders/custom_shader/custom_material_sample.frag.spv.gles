@@ -1,0 +1,24 @@
+#version 320 es
+precision highp float;
+precision highp int;
+
+struct MyMaterialSampleStruct
+{
+    vec4 vec_1;
+    float time;
+    uint dof;
+    uint motionblur;
+};
+
+layout(std140) uniform s1_b4
+{
+    MyMaterialSampleStruct uMyData;
+} _s1_b4;
+
+layout(location = 0) out vec4 outColor;
+
+void main()
+{
+    outColor = vec4(_s1_b4.uMyData.vec_1.xyz, _s1_b4.uMyData.vec_1.w);
+}
+

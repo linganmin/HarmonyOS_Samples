@@ -1,0 +1,108 @@
+{
+  "integer": [
+    {
+      "name": "multiple_files_download_image_size",
+      "value": 48
+    },
+    {
+      "name": "multiple_files_download_image_size_twenty_five",
+      "value": 25
+    },
+    {
+      "name": "multiple_files_download_text_font_size",
+      "value": 16
+    },
+    {
+      "name": "multiple_files_download_text_font_size_sixteen",
+      "value": 16
+    },
+    {
+      "name": "multiple_files_download_text_font_size_fourteen",
+      "value": 14
+    },
+    {
+      "name": "multiple_files_download_text_font_size_twenty_five",
+      "value": 25
+    },
+    {
+      "name": "multiple_files_download_text_font_size_twenty",
+      "value": 20
+    },
+    {
+      "name": "multiple_files_download_padding",
+      "value": 16
+    },
+    {
+      "name": "multiple_files_download_padding_fifteen",
+      "value": 15
+    },
+    {
+      "name": "multiple_files_download_margin_bottom",
+      "value": 12
+    },
+    {
+      "name": "multiple_files_download_margin_bottom_twelve",
+      "value": 20
+    },
+    {
+      "name": "multiple_files_download_margin_top_twenty_eight",
+      "value": 28
+    },
+    {
+      "name": "multiple_files_download_margin_top",
+      "value": 10
+    },
+    {
+      "name": "multiple_files_download_margin_top_five",
+      "value": 5
+    },
+    {
+      "name": "multiple_files_download_progress_height",
+      "value": 5
+    },
+    {
+      "name": "multiple_files_download_border_width",
+      "value": 5
+    },
+    {
+      "name": "multiple_files_download_border_radius",
+      "value": 10
+    },
+    {
+      "name": "multiple_files_download_margin_top_thirty",
+      "value": 30
+    },
+    {
+      "name": "item_height",
+      "value": 72
+    },
+    {
+      "name": "title_font_size",
+      "value": 30
+    },
+    {
+      "name": "tab_padding",
+      "value": 7
+    },
+    {
+      "name": "progress_btn_width",
+      "value": 72
+    },
+    {
+      "name": "item_name_top_margin",
+      "value": 2
+    },
+    {
+      "name": "segment_height",
+      "value": 56
+    },
+    {
+      "name": "segment_margin_top",
+      "value": 12
+    },
+    {
+      "name": "margin_eight",
+      "value": 8
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Scroll组件嵌套滑动"
+    },
+    {
+      "name": "title",
+      "value": "发现"
+    },
+    {
+      "name": "Promotional",
+      "value": "促销活动"
+    },
+    {
+      "name": "Travel",
+      "value": "行程服务"
+    },
+    {
+      "name": "goods",
+      "value": "促销商品"
+    },
+    {
+      "name": "Itinerary",
+      "value": "行程安排"
+    }
+  ]
+}

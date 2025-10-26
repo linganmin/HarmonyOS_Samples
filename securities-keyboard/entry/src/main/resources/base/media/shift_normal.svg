@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shift_border</title>
+    <g id="咨询文章及详情折叠屏pad适配" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.1" stroke-opacity="0.9">
+        <g id="画板" transform="translate(-3.000000, -3.000000)" fill="#FFFFFF" stroke="#000000" stroke-width="1.5">
+            <g id="shift_border" transform="translate(3.000000, 3.000000)">
+                <path d="M8.86072708,0.75046535 C9.04332068,0.744271012 9.22763143,0.799950083 9.37881689,0.917751327 L16.9518167,8.74656143 L12.6062458,9.19976433 L12.6070908,15.8651588 L5.70292409,16.3984921 L5.16848859,9.19849215 L1.01666762,9.19849215 L8.34059057,0.966929966 C8.48751824,0.828823685 8.6733,0.756823661 8.86072708,0.75046535 Z" id="path-1"></path>
+            </g>
+        </g>
+    </g>
+</svg>

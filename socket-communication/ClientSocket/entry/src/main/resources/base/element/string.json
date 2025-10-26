@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ClientSocket"
+    },
+    {
+      "name": "text_input_placeholder",
+      "value": "input your word..."
+    },
+    {
+      "name": "app_title",
+      "value": "Client"
+    },
+    {
+      "name": "show_message",
+      "value": "Received Message"
+    },
+    {
+      "name": "show_address",
+      "value": "Bound IP addres"
+    },
+    {
+      "name": "show_family",
+      "value": "Network protocol type"
+    },
+    {
+      "name": "show_port",
+      "value": "Port number"
+    },
+    {
+      "name": "show_size",
+      "value": "Message Length"
+    },
+    {
+      "name": "connection_button",
+      "value": "connect server"
+    },
+    {
+      "name": "connect_server_success",
+      "value": "Successfully connected to the server"
+    },
+    {
+      "name": "bind_fail_tips",
+      "value": "Connection failed. Please initialize the server first, then restart this application and connect again."
+    },
+    {
+      "name": "connect_success_tips",
+      "value": "Connection successful"
+    },
+    {
+      "name": "connected_tips",
+      "value": "Connected"
+    },
+    {
+      "name": "message_send_tips",
+      "value": "Message send successfully"
+    },
+    {
+      "name": "message_not_send_tips",
+      "value": "Please enter the message to be sent"
+    },
+    {
+      "name": "connect_server_tips",
+      "value": "Please connect to the server first"
+    },
+    {
+      "name": "application_tips",
+      "value": "Please open the server-side application first and initialize the server-side. Open the client application again and connect to the server."
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "Used for cross process communication using the Internet network."
+    }
+  ]
+}

@@ -1,0 +1,1392 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "实况窗Sample"
+    },
+    {
+      "name": "Index_title",
+      "value": "实况窗体验"
+    },
+    {
+      "name": "Index_delivery",
+      "value": "即时配送"
+    },
+    {
+      "name": "Delivery_title",
+      "value": "即时配送"
+    },
+    {
+      "name": "Delivery_tips",
+      "value": "注：默认情况下，每隔15秒刷新一次进展，可通过”更新进展“按钮，加快刷新。"
+    },
+    {
+      "name": "Split_text",
+      "value": "-----以下为特殊场景-----"
+    },
+    {
+      "name": "Delivery_submit",
+      "value": "提交订单"
+    },
+    {
+      "name": "Delivery_update",
+      "value": "更新进展"
+    },
+    {
+      "name": "Delivery_stop",
+      "value": "结束订单"
+    },
+    {
+      "name": "Delivery_default_primary_title",
+      "value": "现在支付，预计23:49送达"
+    },
+    {
+      "name": "Delivery_default_primary_content1",
+      "value": "咖啡"
+    },
+    {
+      "name": "Delivery_default_primary_content2",
+      "value": "等2件商品"
+    },
+    {
+      "name": "Delivery_default_layout_title",
+      "value": "待支付金额"
+    },
+    {
+      "name": "Delivery_default_layout_content",
+      "value": "25.5元"
+    },
+    {
+      "name": "Delivery_default_capsule_title",
+      "value": "待支付"
+    },
+    {
+      "name": "Delivery_merchant_primary_title",
+      "value": "预计23:49送达"
+    },
+    {
+      "name": "Delivery_merchant_primary_content1",
+      "value": "等待商家接单，"
+    },
+    {
+      "name": "Delivery_merchant_primary_content2",
+      "value": "03:20未接单自动取消"
+    },
+    {
+      "name": "Delivery_merchant_capsule_title",
+      "value": "待商家接单"
+    },
+    {
+      "name": "Delivery_rider_primary_content1",
+      "value": "商家已接单，"
+    },
+    {
+      "name": "Delivery_rider_primary_content2",
+      "value": "正在召唤骑手"
+    },
+    {
+      "name": "Delivery_rider_capsule_title",
+      "value": "商家已接单"
+    },
+    {
+      "name": "Delivery_order_capsule_title",
+      "value": "骑手已接单"
+    },
+    {
+      "name": "Delivery_order_primary_content1",
+      "value": "商家已出餐，"
+    },
+    {
+      "name": "Delivery_order_primary_content2",
+      "value": "骑手正赶往商家"
+    },
+    {
+      "name": "Delivery_store_primary_content1",
+      "value": "商家已出餐，"
+    },
+    {
+      "name": "Delivery_store_primary_content2",
+      "value": "骑手已到店"
+    },
+    {
+      "name": "Delivery_product_primary_title",
+      "value": "预计5分钟后送达"
+    },
+    {
+      "name": "Delivery_product_primary_content1",
+      "value": "骑手正在送货"
+    },
+    {
+      "name": "Delivery_product_capsule_title",
+      "value": "送货中"
+    },
+    {
+      "name": "Delivery_cabinet_primary_title",
+      "value": "已放入取餐柜"
+    },
+    {
+      "name": "Delivery_cabinet_primary_content1",
+      "value": "柜门号 "
+    },
+    {
+      "name": "Delivery_cabinet_primary_content3",
+      "value": "取餐码 "
+    },
+    {
+      "name": "Delivery_cabinet_capsule_title",
+      "value": "待取餐"
+    },
+    {
+      "name": "Delivery_delivered_primary_title",
+      "value": "商品已送达"
+    },
+    {
+      "name": "Delivery_delivered_primary_content1",
+      "value": "感谢您的认可,"
+    },
+    {
+      "name": "Delivery_delivered_primary_content2",
+      "value": "期待下一次光临"
+    },
+    {
+      "name": "Delivery_delivered_capsule_title",
+      "value": "已送达"
+    },
+    {
+      "name": "Taxi_travel",
+      "value": "打车出行"
+    },
+    {
+      "name": "Taxi_title",
+      "value": "打车出行"
+    },
+    {
+      "name": "Calling_title",
+      "value": "呼叫车辆中"
+    },
+    {
+      "name": "Calling_content",
+      "value": "正在召唤司机，预计三分钟内接单"
+    },
+    {
+      "name": "Calling_capsule_title",
+      "value": "待接单"
+    },
+    {
+      "name": "About_to_begin_title",
+      "value": "行程即将开始"
+    },
+    {
+      "name": "About_to_begin_content",
+      "value": "预计5分钟后到达指定地点 "
+    },
+    {
+      "name": "About_to_begin_layout_title",
+      "value": "车牌号"
+    },
+    {
+      "name": "About_to_begin_layout_content",
+      "value": "苏AD88888"
+    },
+    {
+      "name": "About_to_begin_capsule_title",
+      "value": "已接单"
+    },
+    {
+      "name": "Driver_on_the_way_title",
+      "value": "司机正在赶来"
+    },
+    {
+      "name": "Driver_on_the_way_capsule_title",
+      "value": "接驾中"
+    },
+    {
+      "name": "Driver_arrive_title",
+      "value": "司机已到达上车点"
+    },
+    {
+      "name": "Driver_arrive_content",
+      "value": "AITO M5新能源丨曾师父"
+    },
+    {
+      "name": "Heading_to_destination_title",
+      "value": "正在去往目的地"
+    },
+    {
+      "name": "Heading_to_destination_content1",
+      "value": "预计达到目的地时间："
+    },
+    {
+      "name": "Heading_to_destination_content2",
+      "value": "23:49"
+    },
+    {
+      "name": "Heading_to_destination_capsule_title",
+      "value": "行程中"
+    },
+    {
+      "name": "Completed_title",
+      "value": "行程结束"
+    },
+    {
+      "name": "Completed_content",
+      "value": "乘客已送达"
+    },
+    {
+      "name": "Completed_capsule_title",
+      "value": "行程结束"
+    },
+    {
+      "name": "Taxi_pend_payment_title",
+      "value": "待支付"
+    },
+    {
+      "name": "Taxi_pend_payment_content",
+      "value": "已到达指定地点，待支付"
+    },
+    {
+      "name": "Taxi_for_payment_capsule_title",
+      "value": "待支付"
+    },
+    {
+      "name": "Order_completed_title",
+      "value": "订单已完成"
+    },
+    {
+      "name": "Order_completed_content",
+      "value": "祝您有一个愉快的旅途"
+    },
+    {
+      "name": "Order_completed_layout_title",
+      "value": "已完成"
+    },
+    {
+      "name": "Order_completed_layout_content",
+      "value": "订单已完成"
+    },
+    {
+      "name": "Order_completed_capsule_title",
+      "value": "已完成"
+    },
+    {
+      "name": "Train_travel",
+      "value": "高铁旅行"
+    },
+    {
+      "name": "Train_title",
+      "value": "高铁旅行"
+    },
+    {
+      "name": "Train_submit",
+      "value": "提交订单"
+    },
+    {
+      "name": "Train_update",
+      "value": "更新进展"
+    },
+    {
+      "name": "Train_stop",
+      "value": "结束订单"
+    },
+    {
+      "name": "Train_tips",
+      "value": "注：默认情况下，每隔15秒刷新一次进展，可通过”更新进展“按钮，加快刷新。"
+    },
+    {
+      "name": "Train_number",
+      "value": " | 车次 G1"
+    },
+    {
+      "name": "Train_number_two",
+      "value": " | 车次 G2"
+    },
+    {
+      "name": "Depart_title",
+      "value": "计划出发"
+    },
+    {
+      "name": "Depart_content1",
+      "value": "检票口 "
+    },
+    {
+      "name": "Depart_content2",
+      "value": "6B "
+    },
+    {
+      "name": "Depart_content3",
+      "value": "| 座位 "
+    },
+    {
+      "name": "Depart_content4",
+      "value": "03车 12F"
+    },
+    {
+      "name": "Depart_layout_first_title",
+      "value": "16:00"
+    },
+    {
+      "name": "Depart_layout_first_title_two",
+      "value": "20:20"
+    },
+    {
+      "name": "Depart_layout_first_content",
+      "value": "上海虹桥"
+    },
+    {
+      "name": "Depart_layout_last_title",
+      "value": "19:00"
+    },
+    {
+      "name": "Depart_layout_last_title_two",
+      "value": "23:20"
+    },
+    {
+      "name": "Depart_layout_last_content",
+      "value": "汉口"
+    },
+    {
+      "name": "Depart_layout_text",
+      "value": "列车出发前5分钟停止检票"
+    },
+    {
+      "name": "Depart_capsule_title",
+      "value": "计划出发"
+    },
+    {
+      "name": "Passed_security_check_title",
+      "value": "已安检"
+    },
+    {
+      "name": "Passed_security_check_capsule_title",
+      "value": "已安检"
+    },
+    {
+      "name": "Ticket_check_title",
+      "value": "列车检票提醒"
+    },
+    {
+      "name": "Ticket_check_capsule_title",
+      "value": "检票中"
+    },
+    {
+      "name": "Checked_title",
+      "value": "已检票"
+    },
+    {
+      "name": "Checked_capsule_title",
+      "value": "已检票"
+    },
+    {
+      "name": "Check_in_closed_title",
+      "value": "停止检票"
+    },
+    {
+      "name": "Check_in_closed_capsule_title",
+      "value": "停止检票"
+    },
+    {
+      "name": "Set_off_title",
+      "value": "列车运行中"
+    },
+    {
+      "name": "Set_off_content1",
+      "value": "预计"
+    },
+    {
+      "name": "Set_off_content2",
+      "value": "5小时20分钟"
+    },
+    {
+      "name": "Set_off_content3",
+      "value": "后到达汉口站"
+    },
+    {
+      "name": "Set_off_capsule_title",
+      "value": "行程中"
+    },
+    {
+      "name": "Set_off_break_title",
+      "value": "停车中"
+    },
+    {
+      "name": "Set_off_break_content1",
+      "value": "计划"
+    },
+    {
+      "name": "Set_off_break_content2",
+      "value": "5分钟"
+    },
+    {
+      "name": "Set_off_break_content3",
+      "value": "后出发"
+    },
+    {
+      "name": "Set_off_break_capsule_title",
+      "value": "停车中"
+    },
+    {
+      "name": "Set_off_continue_title",
+      "value": "列车运行中"
+    },
+    {
+      "name": "Set_off_continue_content1",
+      "value": "预计"
+    },
+    {
+      "name": "Set_off_continue_content2",
+      "value": "3小时"
+    },
+    {
+      "name": "Set_off_continue_content3",
+      "value": "后到达汉口站"
+    },
+    {
+      "name": "Set_off_continue_capsule_title",
+      "value": "行程中"
+    },
+    {
+      "name": "Arrived_title",
+      "value": "列车已到达"
+    },
+    {
+      "name": "Arrived_content",
+      "value": "请您带好行李准备下车"
+    },
+    {
+      "name": "Arrived_capsule_title",
+      "value": "已到达"
+    },
+    {
+      "name": "Train_delayed",
+      "value": "列车晚点"
+    },
+    {
+      "name": "Train_rescheduling",
+      "value": "改签"
+    },
+    {
+      "name": "Train_delay_title",
+      "value": "列车晚点"
+    },
+    {
+      "name": "Train_delay_capsule_title",
+      "value": "列车晚点"
+    },
+    {
+      "name": "Train_reschedule_title",
+      "value": "已改签"
+    },
+    {
+      "name": "Train_reschedule_capsule_title",
+      "value": "已改签"
+    },
+    {
+      "name": "Train_refund_ticket",
+      "value": "退票"
+    },
+    {
+      "name": "Train_cancellation",
+      "value": "列车停运"
+    },
+    {
+      "name": "Train_Suspend",
+      "value": "临时停车"
+    },
+    {
+      "name": "Train_refund_ticket_title",
+      "value": "已退票"
+    },
+    {
+      "name": "Train_cancel_title",
+      "value": "列车停运"
+    },
+    {
+      "name": "Call_queue",
+      "value": "排队叫号"
+    },
+    {
+      "name": "Queue_title",
+      "value": "排队叫号"
+    },
+    {
+      "name": "Queue_submit",
+      "value": "叫号"
+    },
+    {
+      "name": "Queue_update",
+      "value": "更新进展"
+    },
+    {
+      "name": "Queue_stop",
+      "value": "结束排队"
+    },
+    {
+      "name": "Queue_tips",
+      "value": "注：默认情况下，每隔15秒刷新一次进展，可通过”更新进展“按钮，加快刷新。"
+    },
+    {
+      "name": "Queue_wait_title",
+      "value": "大桌4人等位  32桌"
+    },
+    {
+      "name": "Queue_wait_Content1",
+      "value": "已等待 "
+    },
+    {
+      "name": "Queue_wait_Content2",
+      "value": " | 预计还需>30分钟 "
+    },
+    {
+      "name": "Queue_waiting_call_layout_title",
+      "value": "排队号码"
+    },
+    {
+      "name": "Queue_waiting_call_layout_content",
+      "value": "B33"
+    },
+    {
+      "name": "Queue_wait_layout_title",
+      "value": "店铺名称"
+    },
+    {
+      "name": "Queue_wait_layout_content",
+      "value": "星光食堂"
+    },
+    {
+      "name": "Queue_wait_capsule_title",
+      "value": "排队中"
+    },
+    {
+      "name": "Queue_second_wait_title",
+      "value": "大桌4人等位  16桌"
+    },
+    {
+      "name": "Queue_second_wait_content1",
+      "value": "已等待 "
+    },
+    {
+      "name": "Queue_second_wait_content2",
+      "value": " | 预计还需>15分钟 "
+    },
+    {
+      "name": "Queue_upcoming_call_title",
+      "value": "大桌4人等位  3桌"
+    },
+    {
+      "name": "Queue_upcoming_call_content1",
+      "value": "已等待 "
+    },
+    {
+      "name": "Queue_upcoming_call_content2",
+      "value": " | 即将到号 "
+    },
+    {
+      "name": "Queue_upcoming_call_capsule_title",
+      "value": "即将到号"
+    },
+    {
+      "name": "Queue_calling_in_title",
+      "value": "大桌4人等位  0桌"
+    },
+    {
+      "name": "Queue_calling_in_content1",
+      "value": "已等待"
+    },
+    {
+      "name": "Queue_calling_in_content2",
+      "value": " | 叫号中 "
+    },
+    {
+      "name": "Queue_calling_in_capsule_title",
+      "value": "叫号中"
+    },
+    {
+      "name": "Queue_end_title",
+      "value": "请就餐"
+    },
+    {
+      "name": "Queue_end_content",
+      "value": "祝您有一个完美的用餐体验"
+    },
+    {
+      "name": "Queue_end_capsule_title",
+      "value": "排队完成"
+    },
+    {
+      "name": "Match_score",
+      "value": "赛事比分"
+    },
+    {
+      "name": "Score_submit",
+      "value": "提交进展"
+    },
+    {
+      "name": "Score_update",
+      "value": "更新进展"
+    },
+    {
+      "name": "Score_stop",
+      "value": "结束进展"
+    },
+    {
+      "name": "Section_one_title",
+      "value": "第一节比赛中"
+    },
+    {
+      "name": "Section_one_content_text_one",
+      "value": "火狐队 VS M队"
+    },
+    {
+      "name": "Section_one_content_text_two",
+      "value": " 丨 "
+    },
+    {
+      "name": "Section_one_content_text_three",
+      "value": "小组赛第五场"
+    },
+    {
+      "name": "Section_one_layout_host_name",
+      "value": "火狐队"
+    },
+    {
+      "name": "Section_one_layout_host_score",
+      "value": "0"
+    },
+    {
+      "name": "Section_one_layout_guest_name",
+      "value": "M队"
+    },
+    {
+      "name": "Section_one_layout_guest_score",
+      "value": "0"
+    },
+    {
+      "name": "Score_competition_desc",
+      "value": "●"
+    },
+    {
+      "name": "Section_one_layout_competition_desc",
+      "value": "Q1"
+    },
+    {
+      "name": "Process_one_layout_host_score",
+      "value": "3"
+    },
+    {
+      "name": "Paused_title",
+      "value": "第一节比赛 | 暂停中"
+    },
+    {
+      "name": "Process_two_layout_guest_score",
+      "value": "5"
+    },
+    {
+      "name": "Halftime_break_title",
+      "value": "中场休息中"
+    },
+    {
+      "name": "Halftime_break_capsule_title",
+      "value": "中场休息"
+    },
+    {
+      "name": "Section_two_title",
+      "value": "第二节比赛中"
+    },
+    {
+      "name": "Section_two_layout_competition_desc",
+      "value": "Q2"
+    },
+    {
+      "name": "Process_three_layout_host_score",
+      "value": "7"
+    },
+    {
+      "name": "Process_three_layout_guest_score",
+      "value": "8"
+    },
+    {
+      "name": "Score_end_title",
+      "value": "比赛结束"
+    },
+    {
+      "name": "Score_end_capsule_title",
+      "value": "比赛结束"
+    },
+    {
+      "name": "Navigation",
+      "value": "导航"
+    },
+    {
+      "name": "Navigation_start",
+      "value": "开始导航"
+    },
+    {
+      "name": "Navigation_update",
+      "value": "更新导航"
+    },
+    {
+      "name": "Navigation_end",
+      "value": "结束导航"
+    },
+    {
+      "name": "Navigation_start_title",
+      "value": "178米后左转"
+    },
+    {
+      "name": "Navigation_start_content_one",
+      "value": "去往 "
+    },
+    {
+      "name": "Navigation_start_content_two",
+      "value": "南京东路"
+    },
+    {
+      "name": "Navigation_start_capsule_title",
+      "value": "导航中"
+    },
+    {
+      "name": "Guide_one_title",
+      "value": "300米后直行"
+    },
+    {
+      "name": "Route_change_title",
+      "value": "500米后右转"
+    },
+    {
+      "name": "Route_change_content",
+      "value": "重新规划路线 | 去往南京南路"
+    },
+    {
+      "name": "Guide_two_content",
+      "value": "去往南京南路"
+    },
+    {
+      "name": "Guide_two_title",
+      "value": "直行100米后到达"
+    },
+    {
+      "name": "Navigation_end_title",
+      "value": "导航结束"
+    },
+    {
+      "name": "Navigation_end_content",
+      "value": "祝您一路顺风"
+    },
+    {
+      "name": "Flight_travel",
+      "value": "航旅出行"
+    },
+    {
+      "name": "Flight_commit",
+      "value": "提交订单"
+    },
+    {
+      "name": "Flight_update",
+      "value": "更新进展"
+    },
+    {
+      "name": "Flight_stop",
+      "value": "结束进展"
+    },
+    {
+      "name": "Flight_delayed",
+      "value": "航班晚点"
+    },
+    {
+      "name": "Flight_rescheduling",
+      "value": "改签"
+    },
+    {
+      "name": "Flight_refund_ticket",
+      "value": "退票"
+    },
+    {
+      "name": "Flight_cancellation",
+      "value": "航班取消"
+    },
+    {
+      "name": "Flight_number",
+      "value": " | 班次 GH123"
+    },
+    {
+      "name": "Flight_number_two",
+      "value": " | 班次 GH999"
+    },
+    {
+      "name": "Flight_depart_title",
+      "value": "计划出发"
+    },
+    {
+      "name": "Flight_depart_content1",
+      "value": "登机口"
+    },
+    {
+      "name": "Flight_depart_content2",
+      "value": " 32 "
+    },
+    {
+      "name": "Flight_depart_content3",
+      "value": "| 座位"
+    },
+    {
+      "name": "Flight_depart_content4",
+      "value": " 17H"
+    },
+    {
+      "name": "Flight_depart_layout_first_content",
+      "value": "上海"
+    },
+    {
+      "name": "Flight_depart_layout_last_content",
+      "value": "成都"
+    },
+    {
+      "name": "Flight_depart_layout_text",
+      "value": "飞机起飞前40分钟后禁止登机"
+    },
+    {
+      "name": "Flight_depart_capsule_title",
+      "value": "计划出发"
+    },
+    {
+      "name": "Flight_depart_layout_first_title",
+      "value": "16:00"
+    },
+    {
+      "name": "Flight_depart_layout_last_title",
+      "value": "19:00"
+    },
+    {
+      "name": "Flight_depart_layout_first_title_two",
+      "value": "20:00"
+    },
+    {
+      "name": "Flight_depart_layout_last_title_two",
+      "value": "23:00"
+    },
+    {
+      "name": "Waiting_for_check_in_title",
+      "value": "待值机"
+    },
+    {
+      "name": "Waiting_for_check_in_capsule_title",
+      "value": "待值机"
+    },
+    {
+      "name": "Waiting_for_check_in_capsule_content",
+      "value": "G,H值机柜台"
+    },
+    {
+      "name": "Checked_in_title",
+      "value": "已值机"
+    },
+    {
+      "name": "Checked_in_capsule_title",
+      "value": "已值机"
+    },
+    {
+      "name": "Checked_in_capsule_content",
+      "value": "32登机口"
+    },
+    {
+      "name": "Start_boarding_title",
+      "value": "开始登机"
+    },
+    {
+      "name": "Start_boarding_capsule_title",
+      "value": "开始登机"
+    },
+    {
+      "name": "Urge_boarding_title",
+      "value": "催促登机"
+    },
+    {
+      "name": "Urge_boarding_capsule_title",
+      "value": "催促登机"
+    },
+    {
+      "name": "Boarded_title",
+      "value": "已登机"
+    },
+    {
+      "name": "Boarded_capsule_title",
+      "value": "已登机"
+    },
+    {
+      "name": "Boarded_capsule_content",
+      "value": "17H座位"
+    },
+    {
+      "name": "End_boarding_title",
+      "value": "结束登机"
+    },
+    {
+      "name": "End_boarding_capsule_title",
+      "value": "结束登机"
+    },
+    {
+      "name": "About_to_take_off_title",
+      "value": "即将起飞"
+    },
+    {
+      "name": "About_to_take_off_capsule_title",
+      "value": "即将起飞"
+    },
+    {
+      "name": "About_to_take_off_capsule_content",
+      "value": "3小时"
+    },
+    {
+      "name": "Taken_off_title",
+      "value": "行程中"
+    },
+    {
+      "name": "Taken_off_content1",
+      "value": "预计"
+    },
+    {
+      "name": "Taken_off_content2",
+      "value": "3小时后"
+    },
+    {
+      "name": "Taken_off_content3",
+      "value": "到达成都机场"
+    },
+    {
+      "name": "Taken_off_capsule_title",
+      "value": "行程中"
+    },
+    {
+      "name": "Flight_arrived_title",
+      "value": "航班已到达"
+    },
+    {
+      "name": "Flight_arrived_content",
+      "value": "飞机正在滑行中"
+    },
+    {
+      "name": "Flight_arrived_capsule_title",
+      "value": "已到达"
+    },
+    {
+      "name": "Flight_arrived_capsule_content",
+      "value": "行李转盘10"
+    },
+    {
+      "name": "Luggage_prompt_title",
+      "value": "行李提取"
+    },
+    {
+      "name": "Luggage_prompt_content1",
+      "value": "转盘号"
+    },
+    {
+      "name": "Luggage_prompt_content2",
+      "value": " 15"
+    },
+    {
+      "name": "Luggage_prompt_capsule_title",
+      "value": "行李提取"
+    },
+    {
+      "name": "Flight_travel_end_title",
+      "value": "行程结束"
+    },
+    {
+      "name": "Flight_travel_end_content",
+      "value": "感谢您乘坐本次航空"
+    },
+    {
+      "name": "Flight_delay_title",
+      "value": "航班晚点"
+    },
+    {
+      "name": "Flight_delay_capsule_title",
+      "value": "航班晚点"
+    },
+    {
+      "name": "Flight_delay_capsule_content",
+      "value": "预计20:00起飞"
+    },
+    {
+      "name": "Flight_refund_ticket_title",
+      "value": "已退票"
+    },
+    {
+      "name": "Flight_cancel_title",
+      "value": "航班取消"
+    },
+    {
+      "name": "timer_title",
+      "value": "计时"
+    },
+    {
+      "name": "start_order_timer",
+      "value": "正计时"
+    },
+    {
+      "name": "start_reOrder_timer",
+      "value": "倒计时"
+    },
+    {
+      "name": "pause_timer",
+      "value": "暂停计时"
+    },
+    {
+      "name": "continue_timer",
+      "value": "继续计时"
+    },
+    {
+      "name": "end_timer",
+      "value": "结束计时"
+    },
+    {
+      "name": "Rent_share",
+      "value": "共享租赁"
+    },
+    {
+      "name": "Rent_submit",
+      "value": "提交订单"
+    },
+    {
+      "name": "Rent_update",
+      "value": "更新进展"
+    },
+    {
+      "name": "Rent_stop",
+      "value": "结束订单"
+    },
+    {
+      "name": "Rent_suspend",
+      "value": "暂停租赁"
+    },
+    {
+      "name": "Rent_start_title",
+      "value": "租赁中"
+    },
+    {
+      "name": "Rent_start_content",
+      "value": "感谢您使用本次租赁"
+    },
+    {
+      "name": "Rent_start_layout_title",
+      "value": "租赁计时"
+    },
+    {
+      "name": "Rent_end_title",
+      "value": "租赁结束"
+    },
+    {
+      "name": "Rent_end_capsule_title",
+      "value": "租赁结束"
+    },
+    {
+      "name": "Wait_payment_title",
+      "value": "待支付"
+    },
+    {
+      "name": "Wait_payment_content",
+      "value": "本次租赁时长 "
+    },
+    {
+      "name": "Wait_payment_layout_title",
+      "value": "待支付金额"
+    },
+    {
+      "name": "Wait_payment_layout_content",
+      "value": " 25.11元"
+    },
+    {
+      "name": "Wait_payment_capsule_title",
+      "value": "待支付"
+    },
+    {
+      "name": "Rent_complete_title",
+      "value": "订单完成"
+    },
+    {
+      "name": "Rent_complete_content",
+      "value": "感谢您使用本次租赁"
+    },
+    {
+      "name": "Rent_complete_layout_title",
+      "value": "租赁完成"
+    },
+    {
+      "name": "Rent_complete_layout_content",
+      "value": "租赁完成"
+    },
+    {
+      "name": "Rent_suspend_title",
+      "value": "暂停租赁"
+    },
+    {
+      "name": "Pick_up",
+      "value": "取餐"
+    },
+    {
+      "name": "Pick_submit",
+      "value": "提交订单"
+    },
+    {
+      "name": "Pick_update",
+      "value": "更新进展"
+    },
+    {
+      "name": "Pick_stop",
+      "value": "结束订单"
+    },
+    {
+      "name": "Pick_cancel",
+      "value": "取消订单"
+    },
+    {
+      "name": "Pick_finished_primary_title",
+      "value": "订单已完成"
+    },
+    {
+      "name": "Pick_finished_primary_content1",
+      "value": "感谢您的认可，"
+    },
+    {
+      "name": "Pick_finished_primary_content2",
+      "value": "欢迎下次光临！"
+    },
+    {
+      "name": "Pick_finished_primary_layout_title",
+      "value": "订单已完成"
+    },
+    {
+      "name": "Pick_finished_primary_layout_content",
+      "value": "订单已完成"
+    },
+    {
+      "name": "Pick_payment_primary_title",
+      "value": "现在支付，预计13:14送达"
+    },
+    {
+      "name": "Pick_payment_primary_content1",
+      "value": "咖啡"
+    },
+    {
+      "name": "Pick_payment_primary_content2",
+      "value": "等2件商品"
+    },
+    {
+      "name": "Pick_payment_layout_title",
+      "value": "待支付金额"
+    },
+    {
+      "name": "Pick_payment_layout_content",
+      "value": "25.5元"
+    },
+    {
+      "name": "Pick_payment_capsule_title",
+      "value": "待支付"
+    },
+    {
+      "name": "Pick_merchant_primary_title",
+      "value": "等待商家确认订单"
+    },
+    {
+      "name": "Pick_merchant_capsule_title",
+      "value": "待确认"
+    },
+    {
+      "name": "Pick_merchant_primary_content",
+      "value": "12:55 未接单自动取消"
+    },
+    {
+      "name": "Pick_merchant_primary_layout_title",
+      "value": "订单详情"
+    },
+    {
+      "name": "Pick_merchant_primary_layout_content",
+      "value": "等待商家确认订单"
+    },
+    {
+      "name": "Pick_prepare_primary_title",
+      "value": "正在备餐"
+    },
+    {
+      "name": "Pick_prepare_primary_content1",
+      "value": "商家已接单，"
+    },
+    {
+      "name": "Pick_prepare_primary_content2",
+      "value": "正在火速制作美味饮品"
+    },
+    {
+      "name": "Pick_prepare_layout_title",
+      "value": "预计完成时间"
+    },
+    {
+      "name": "Pick_prepare_capsule_title",
+      "value": "备餐中"
+    },
+    {
+      "name": "Pick_wait_primary_title",
+      "value": "待取餐"
+    },
+    {
+      "name": "Pick_wait_primary_content",
+      "value": "你的咖啡已制作完成"
+    },
+    {
+      "name": "Pick_wait_layout_title",
+      "value": "取餐码"
+    },
+    {
+      "name": "Pick_wait_capsule_title",
+      "value": "待取餐"
+    },
+    {
+      "name": "Pick_picked_primary_title",
+      "value": "已取餐"
+    },
+    {
+      "name": "Pick_picked_primary_content",
+      "value": "如餐品有问题，请及时反馈"
+    },
+    {
+      "name": "Pick_picked_primary_layout_title",
+      "value": "已取餐"
+    },
+    {
+      "name": "Pick_picked_primary_layout_content",
+      "value": "您已取餐"
+    },
+    {
+      "name": "Pick_picked_capsule_title",
+      "value": "已取餐"
+    },
+    {
+      "name": "Pick_prepare_layout_content",
+      "value": "13:00"
+    },
+    {
+      "name": "Pick_wait_layout_content",
+      "value": "0208"
+    },
+    {
+      "name": "Pick_cancel_primary_content",
+      "value": "您已取消订单，欢迎下次光临！"
+    },
+    {
+      "name": "Pick_cancel_primary_layout_title",
+      "value": "订单已取消"
+    },
+    {
+      "name": "Pick_cancel_primary_layout_content",
+      "value": "您已取消订单"
+    },
+    {
+      "name": "Pick_cancel_primary_title",
+      "value": "订单已取消"
+    },
+    {
+      "name": "Workout",
+      "value": "运动锻炼"
+    },
+    {
+      "name": "start_workout",
+      "value": "开始运动"
+    },
+    {
+      "name": "update_workout",
+      "value": "更新进展"
+    },
+    {
+      "name": "end_workout",
+      "value": "结束运动"
+    },
+    {
+      "name": "pause_workout",
+      "value": "暂停运动"
+    },
+    {
+      "name": "Workout_start_title",
+      "value": "运动中"
+    },
+    {
+      "name": "Workout_content",
+      "value": "运动目标"
+    },
+    {
+      "name": "Workout_content2",
+      "value": " 2km"
+    },
+    {
+      "name": "Workout_content3",
+      "value": "剩余距离"
+    },
+    {
+      "name": "Workout_start_content",
+      "value": " 2km"
+    },
+    {
+      "name": "Workout_start_layout_title",
+      "value": "运动时长"
+    },
+    {
+      "name": "Workout_process_one_content",
+      "value": " 1.5 KM"
+    },
+    {
+      "name": "Workout_process_two_content",
+      "value": " 1 KM"
+    },
+    {
+      "name": "Workout_process_three_content",
+      "value": " 0.5 KM"
+    },
+    {
+      "name": "Workout_end_title",
+      "value": "运动结束"
+    },
+    {
+      "name": "Workout_end_content",
+      "value": "已完成目标"
+    },
+    {
+      "name": "Workout_suspend_title",
+      "value": "运动暂停中"
+    },
+    {
+      "name": "Navigation_capsule_title1",
+      "value": "178 米"
+    },
+    {
+      "name": "Navigation_capsule_title2",
+      "value": "300 米"
+    },
+    {
+      "name": "Navigation_capsule_title3",
+      "value": "500 米"
+    },
+    {
+      "name": "Navigation_capsule_title4",
+      "value": "100 米"
+    },
+    {
+      "name": "Score_capsule_pause",
+      "value": "暂停"
+    },
+    {
+      "name": "Delivery_cabinet_primary_content4",
+      "value": "4839"
+    },
+    {
+      "name": "Delivery_cabinet_primary_content2",
+      "value": "21"
+    }
+  ]
+}

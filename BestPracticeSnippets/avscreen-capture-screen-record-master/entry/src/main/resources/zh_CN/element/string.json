@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVScreenCaptureScreenRecord"
+    },
+    {
+      "name": "MicroPhonePermissions_desc",
+      "value": "microphone permissions"
+    },
+    {
+      "name": "BackRunningPermissions_desc",
+      "value": "run in the background permissions"
+    },
+    {
+      "name": "Title_desc",
+      "value": "基于AVScreenCapture实现录屏功能"
+    },
+    {
+      "name": "Subtitle1_desc",
+      "value": "基于ArkTS方法录屏到文件"
+    },
+    {
+      "name": "Subtitle2_desc",
+      "value": "基于C/C++方法录屏到文件"
+    },
+    {
+      "name": "Subtitle3_desc",
+      "value": "基于C/C++方法录屏转码流"
+    },
+    {
+      "name": "Toast_message",
+      "value": "正在以其他方式进行屏幕录制，暂时无法进入"
+    },
+    {
+      "name": "Play_button",
+      "value": "播放"
+    },
+    {
+      "name": "Text_desc",
+      "value": "录屏文件"
+    },
+    {
+      "name": "Initial_text_desc",
+      "value": "请先录制视频"
+    }
+  ]
+}

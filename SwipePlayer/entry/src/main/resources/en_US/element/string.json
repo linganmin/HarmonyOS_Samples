@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SwipePlayer"
+    },
+    {
+      "name": "ADVERT_TITLE",
+      "value": "You have a limited-time benefit for the newbie"
+    },
+    {
+      "name": "ADVERT_TEXT_PUBLICIZE",
+      "value": "Huawei's official flagship store brings you great benefits"
+    },
+    {
+      "name": "ADVERT_PUBLICIZE_IMAGE_INTRO_TEXT",
+      "value": "HUAWEI Mate 60 12GB+1TB YaDan Black"
+    },
+    {
+      "name": "ADVERT_PUBLICIZE_IMAGE_INTRO_TEXT_OFFICIAL",
+      "value": "(Official Standard)"
+    },
+    {
+      "name": "ADVERT_BOTTOM_TEXT_STORE",
+      "value": "Huawei's official flagship store"
+    },
+    {
+      "name": "ADVERT_BOTTOM_TEXT_MORE",
+      "value": "More"
+    },
+    {
+      "name": "BUTTON_NO_INTEREST_TEXT",
+      "value": "Not interested"
+    },
+    {
+      "name": "BUTTON_LOOK_DETAIL_TEXT",
+      "value": "Find out more"
+    },
+    {
+      "name": "TOP_TAB_CONCERN",
+      "value": "Concern"
+    },
+    {
+      "name": "TOP_TAB_RECOMMEND",
+      "value": "Recommend"
+    },
+    {
+      "name": "TAB_HOME",
+      "value": "Home"
+    },
+    {
+      "name": "TAB_FRIENDS",
+      "value": "Friends"
+    },
+    {
+      "name": "TAB_PUBLISH",
+      "value": "Publish"
+    },
+    {
+      "name": "TAB_MESSAGE",
+      "value": "Message"
+    },
+    {
+      "name": "TAB_MINE",
+      "value": "Mine"
+    },
+    {
+      "name": "REQUEST_FULL_SCREEN",
+      "value": "Watch in full screen"
+    },
+    {
+      "name": "FULL_SCREEN_MESSAGE",
+      "value": "Short video full screen"
+    },
+    {
+      "name": "LIVE_COMMENTS_TEXT",
+      "value": "23 comments"
+    },
+    {
+      "name": "LIVE_COMMENTS_TEXT_INPUT_PLACEHOLDER",
+      "value": "Please enter..."
+    },
+    {
+      "name": "VIDEO_FAST_SPEED_TOAST_TURN",
+      "value": "Turned on"
+    },
+    {
+      "name": "VIDEO_FAST_SPEED_TOAST_XSpeed",
+      "value": "x speed"
+    },
+    {
+      "name": "FAST_SPEED_TOP_TEXT",
+      "value": "Video playback speed"
+    },
+    {
+      "name": "FOLD_FAST_SPEED_BOTTOM_BUTTON_TEXT",
+      "value": "Confirm your selection"
+    },
+    {
+      "name": "FAST_SPEED_TEXT",
+      "value": "Video speed"
+    },
+    {
+      "name": "REPORT_TEXT",
+      "value": "Report the user"
+    },
+    {
+      "name": "RELEASE_REFRESH",
+      "value": "Release refresh"
+    },
+    {
+      "name": "REFRESH",
+      "value": "Pull down refresh"
+    }
+  ]
+}

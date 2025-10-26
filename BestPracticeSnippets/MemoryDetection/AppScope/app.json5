@@ -1,0 +1,39 @@
+/**
+ * 最佳实践：使用Asan检测内存错误
+ * 场景一：在app.json5中配置环境变量
+ */
+
+// [Start app_json_environments]
+{
+  "app": {
+    "appEnvironments": [
+      {
+        "name": "ASAN_OPTIONS",
+        "value": "log_exe_name=true abort_on_error=0 print_cmdline=true" // The example is for reference only
+      },
+    ],
+    // [StartExclude app_json_environments]
+    "bundleName": "com.example.memorydetection",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    /**
+     * 最佳实践：使用Asan检测内存错误
+     * 场景四：DevEco Studio场景
+     */
+    // [Start asan_enabled]
+    "asanEnabled": false,
+    // [End asan_enabled]
+    /**
+     * 最佳实践：使用HWAsan检测内存错误
+     * 场景一：配置HWASan-流水线场景
+     */
+    // [Start hw_asan_enabled]
+    "hwasanEnabled": true,
+    // [End hw_asan_enabled]
+    "icon": "$media:layered_image",
+    "label": "$string:app_name",
+    // [EndExclude app_json_environments]
+  }
+}
+// [End app_json_environments]

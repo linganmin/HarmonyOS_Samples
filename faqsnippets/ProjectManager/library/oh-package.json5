@@ -1,0 +1,18 @@
+/*
+* FAQ:如何将HAR（静态共享包）转为HSP（动态共享包）
+*/
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "packageType": "InterfaceHar",
+
+  // [Start Dynamic_shared_package]
+  "dependencies": {
+    "myhar": "file:./lib/myHar.har" // MyHar.Har path: oh-package.json5 file in the same directory as the lib folder
+  },
+  // [End Dynamic_shared_package]
+}

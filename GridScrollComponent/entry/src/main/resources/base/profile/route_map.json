@@ -1,0 +1,29 @@
+{
+  "routerMap": [
+    {
+      "name": "CardGridPage",
+      "pageSourceFile": "src/main/ets/pages/CardGridPage.ets",
+      "buildFunction": "buildCardGridPage"
+    },
+    {
+      "name": "PhotoGridPage",
+      "pageSourceFile": "src/main/ets/pages/PhotoGridPage.ets",
+      "buildFunction": "buildPhotoGridPage"
+    },
+    {
+      "name": "WorkGridPage",
+      "pageSourceFile": "src/main/ets/pages/WorkGridPage.ets",
+      "buildFunction": "buildWorkGridPage"
+    },
+    {
+      "name": "NumberGridPage",
+      "pageSourceFile": "src/main/ets/pages/NumberGridPage.ets",
+      "buildFunction": "buildNumberGridPage"
+    },
+    {
+      "name": "WordGridPage",
+      "pageSourceFile": "src/main/ets/pages/WordGridPage.ets",
+      "buildFunction": "buildWordGridPage"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+
+  // FAQ：预览告警“There are properties not initialized”
+  // [Start add_hamock_dependecy]
+  "dependencies": {
+    // The version number needs to be modified according to the relationship between hvigor and the SDK
+    "@ohos/hamock": "1.0.0"
+  }
+  // [End add_hamock_dependecy]
+}
+

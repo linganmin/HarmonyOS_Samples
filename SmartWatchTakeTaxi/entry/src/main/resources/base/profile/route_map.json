@@ -1,0 +1,24 @@
+{
+  "routerMap": [
+    {
+      "name": "FindCar",
+      "pageSourceFile": "src/main/ets/view/FindCar.ets",
+      "buildFunction": "FindCarBuilder"
+    },
+    {
+      "name": "WaitingAndSuccess",
+      "pageSourceFile": "src/main/ets/view/WaitingAndSuccess.ets",
+      "buildFunction": "WaitingAndSuccessBuilder"
+    },
+    {
+      "name": "OnTheWay",
+      "pageSourceFile": "src/main/ets/view/OnTheWay.ets",
+      "buildFunction": "OnTheWayBuilder"
+    },
+    {
+      "name": "PayTheBill",
+      "pageSourceFile": "src/main/ets/view/PayTheBill.ets",
+      "buildFunction": "PayTheBillBuilder"
+    }
+  ]
+}

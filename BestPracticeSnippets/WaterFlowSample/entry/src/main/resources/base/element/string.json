@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WaterFlowSample"
+    },
+    {
+      "name": "recommend_goods",
+      "value": "Recommend Products"
+    },
+    {
+      "name": "zoom_change_column",
+      "value": "Zoom to changes columns"
+    },
+    {
+      "name": "synthesis",
+      "value": "Synthesis"
+    },
+    {
+      "name": "businesses",
+      "value": "Businesses"
+    },
+    {
+      "name": "note",
+      "value": "Note"
+    },
+    {
+      "name": "buy",
+      "value": "Buy"
+    },
+    {
+      "name": "user",
+      "value": "User"
+    },
+    {
+      "name": "other",
+      "value": "Other"
+    },
+    {
+      "name": "distance",
+      "value": "Distance"
+    },
+    {
+      "name": "category",
+      "value": "Category"
+    },
+    {
+      "name": "food",
+      "value": "Food"
+    },
+    {
+      "name": "leisure",
+      "value": "Leisure"
+    },
+    {
+      "name": "amusement",
+      "value": "Amusement"
+    },
+    {
+      "name": "sort",
+      "value": "Sort"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "pull_down_refresh",
+      "value": "Pull down refresh"
+    },
+    {
+      "name": "scroll_stop_auto_play",
+      "value": "Stop scroll auto play"
+    },
+    {
+      "name": "force_left_show",
+      "value": "Show on the left"
+    },
+    {
+      "name": "merge_double_waterflow",
+      "value": "Waterflow merge"
+    },
+    {
+      "name": "section_sort",
+      "value": "Section layout"
+    },
+    {
+      "name": "edge_fading",
+      "value": "Fading edge"
+    },
+    {
+      "name": "item_height",
+      "value": "Height"
+    }
+  ]
+}

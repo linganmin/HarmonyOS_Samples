@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "pageOne",
+      "pageSourceFile": "src/main/ets/view/DetailInfoView.ets",
+      "buildFunction": "DetailInfoBuilder",
+      "data": {
+        "description": "this is pageOne"
+      }
+    }
+  ]
+}

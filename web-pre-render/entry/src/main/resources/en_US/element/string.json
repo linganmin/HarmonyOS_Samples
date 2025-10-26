@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Practice of Web Page Instant Open Effect"
+    },
+    {
+      "name": "title",
+      "value": "Practice of Web Page Instant Open Effect"
+    },
+    {
+      "name": "text_name",
+      "value": "Click to open the web page."
+    },
+    {
+      "name": "full_height_width",
+      "value": "100%"
+    },
+    {
+      "name": "width_percentage_ninety",
+      "value": "91%"
+    },
+    {
+      "name": "height_large",
+      "value": "110%"
+    },
+    {
+      "name": "title_size",
+      "value": "30fp"
+    },
+    {
+      "name": "text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "title_padding_top_bot",
+      "value": "8vp"
+    },
+    {
+      "name": "title_padding_left_right",
+      "value": "12vp"
+    },
+    {
+      "name": "row_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "index_tab",
+      "value": "56vp"
+    },
+    {
+      "name": "row_top",
+      "value": "18vp"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used for instant page loading effects in web scenarios"
+    }
+  ]
+}

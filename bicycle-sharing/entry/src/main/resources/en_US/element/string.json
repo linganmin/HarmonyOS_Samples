@@ -1,0 +1,200 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "location_desc",
+      "value": "Allow applications to obtain device location information in map scenes."
+    },
+    {
+      "name": "approximately_location_desc",
+      "value": "Allow applications to obtain blurry location information of devices in map scenes."
+    },
+    {
+      "name": "location_in_background",
+      "value": "Allow applications to retrieve location information in the background of map scenes."
+    },
+    {
+      "name": "reason_internet",
+      "value": "Allow applications to use internet networks in map scenes."
+    },
+    {
+      "name": "reason_camera",
+      "value": "Allow applications to use cameras in scanning scenarios."
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "Allow applications to obtain network information in map scenes."
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "bike"
+    },
+    {
+      "name": "navigation_title",
+      "value": "Bike"
+    },
+    {
+      "name": "index_find_image_width",
+      "value": "92%"
+    },
+    {
+      "name": "index_find_image_height",
+      "value": "15%"
+    },
+    {
+      "name": "index_find_image_height_second",
+      "value": "23%"
+    },
+    {
+      "name": "index_button_height",
+      "value": "18%"
+    },
+    {
+      "name": "index_map_height",
+      "value": "25%"
+    },
+    {
+      "name": "find_image_row_width",
+      "value": "90%"
+    },
+    {
+      "name": "find_column_height",
+      "value": "25%"
+    },
+    {
+      "name": "pay_column_height",
+      "value": "35%"
+    },
+    {
+      "name": "pay_text_seventh",
+      "value": "1.5"
+    },
+    {
+      "name": "pay_text_time",
+      "value": "2024-05-10 08:01:47"
+    },
+    {
+      "name": "service_alerts",
+      "value": "service reminder"
+    },
+    {
+      "name": "terms",
+      "value": "The current price of urban bicycle service is: legal holidays: starting price: 1.8 yuan (including 15 minutes) duration fee: 1.0 yuan / 15 minutes other time: starting price: 1.5 yuan (including 15 minutes) duration fee: 1.0 yuan / 15 minutes"
+    },
+    {
+      "name": "rule",
+      "value": "charging rule"
+    },
+    {
+      "name": "unlock_button",
+      "value": "Confirm Unlock"
+    },
+    {
+      "name": "index_use_bike",
+      "value": "Scan the car"
+    },
+    {
+      "name": "index_find_bike",
+      "value": "Locate bikes"
+    },
+    {
+      "name": "index_park",
+      "value": "Search parking"
+    },
+    {
+      "name": "index_cheap",
+      "value": "Buy cards"
+    },
+    {
+      "name": "index_redbag",
+      "value": "Special price"
+    },
+    {
+      "name": "index_fix",
+      "value": "Report broken"
+    },
+    {
+      "name": "find_scan",
+      "value": "Scan and ride"
+    },
+    {
+      "name": "find_text",
+      "value": "Minimum at 1.5 yuan"
+    },
+    {
+      "name": "find_text_second",
+      "value": "1.5 yuan in 15 minutes"
+    },
+    {
+      "name": "pay_text",
+      "value": "Order to pay"
+    },
+    {
+      "name": "pay_text_third",
+      "value": "Riding fee"
+    },
+    {
+      "name": "pay_text_fourth",
+      "value": "Fee (duration: 10m)"
+    },
+    {
+      "name": "pay_text_fifth",
+      "value": "1.5 ￥"
+    },
+    {
+      "name": "pay_text_sixth",
+      "value": "Details"
+    },
+    {
+      "name": "pay_text_eighth",
+      "value": "￥"
+    },
+    {
+      "name": "riding_text_second",
+      "value": "Returning the car"
+    },
+    {
+      "name": "riding_text",
+      "value": "On the ride"
+    },
+    {
+      "name": "completed_text_second",
+      "value": "2024-05-10 08:01:47"
+    },
+    {
+      "name": "completed_text",
+      "value": "Paid ￥1.5"
+    },
+    {
+      "name": "completed_title",
+      "value": "Paid"
+    },
+    {
+      "name": "pay_title",
+      "value": "Trip details"
+    },
+    {
+      "name": "pay_text_ninth",
+      "value": "Pay now"
+    },
+    {
+      "name": "ridding_text_third",
+      "value": "Estimated cost"
+    },
+    {
+      "name": "ridding_text",
+      "value": "Duration"
+    },
+    {
+      "name": "default_view_riding_time",
+      "value": "Duration: 01:21"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "home_Title",
+      "value": "Expand/Collapse Rich Text"
+    },
+    {
+      "name": "home_Title_plain",
+      "value": "Expand/Collapse Plain Text"
+    },
+    {
+      "name": "topicName",
+      "value": "#topic# "
+    },
+    {
+      "name": "environmentName",
+      "value": "#environment# "
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "RichTextCollapseExpand"
+    },
+    {
+      "name": "text_expand_show_button",
+      "value": "Display  Button"
+    },
+    {
+      "name": "text_expand_search_placeholder",
+      "value": "search input"
+    },
+    {
+      "name": "text_expand_text_name",
+      "value": "Enchanting Scenery"
+    },
+    {
+      "name": "text_expand_text_date",
+      "value": "Technology Sector Author"
+    },
+    {
+      "name": "text_expand_layout_100",
+      "value": "100%"
+    },
+    {
+      "name": "text_expand_layout_95",
+      "value": "95%"
+    },
+    {
+      "name": "text_expand_expand_title",
+      "value": "expand"
+    },
+    {
+      "name": "text_expand_collapse_title",
+      "value": "collapse"
+    },
+    {
+      "name": "text_expand_long_title",
+      "value": "Get close to the sea, understand it, and you will feel it inner voice. The sea will naturally resonate with you without any forced effort or strenuous search. It will always be with you, whispering to you through the tides and comforting you with its colors. The winding and perilous wooden plank road that coils around the mountainside, like a ribbon of silk, wraps around the green mountains and clear waters, creating a unique and beautiful scene. "
+    },
+    {
+      "name": "text_expand_url1",
+      "value": "text_expand_img1"
+    },
+    {
+      "name": "text_expand_url2",
+      "value": "text_expand_img2"
+    },
+    {
+      "name": "text_expand_url3",
+      "value": "text_expand_img3"
+    },
+    {
+      "name": "text_expand_url4",
+      "value": "text_expand_img4"
+    },
+    {
+      "name": "text_expand_measure_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "text_expand_tab_name_main_page",
+      "value": "Home"
+    },
+    {
+      "name": "text_expand_tab_name_hot",
+      "value": "Hot"
+    },
+    {
+      "name": "text_expand_tab_name_same_city",
+      "value": "Video"
+    },
+    {
+      "name": "text_expand_tab_name_else",
+      "value": "Mine"
+    },
+    {
+      "name": "text_expand_item_main_body_title_width",
+      "value": "350vp"
+    },
+    {
+      "name": "tip",
+      "value": "For tabs only."
+    },
+    {
+      "name": "toast",
+      "value": "Currently, the jump function is not supported"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "player_button_color",
+      "value": "#0959f7"
+    },
+    {
+      "name": "record_button_background_inactive_color",
+      "value": "#0CFFFEFE"
+    },
+    {
+      "name": "select_color_buffer",
+      "value": "#80000000"
+    },
+    {
+      "name": "select_color_show",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "track_color_buffer",
+      "value": "#E8E8E8"
+    },
+    {
+      "name": "track_color_show",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "sub_nav_title_color",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "modal_back_color",
+      "value": "#80000000"
+    },
+    {
+      "name": "slider_selected",
+      "value": "#007DFF"
+    },
+    {
+      "name": "speed_dialog",
+      "value": "#33bab4b4"
+    },
+    {
+      "name": "video_play",
+      "value": "#333333"
+    },
+    {
+      "name": "video_play_selected",
+      "value": "#5c5c5c"
+    },
+    {
+      "name": "back_button",
+      "value": "#4D505050"
+    },
+    {
+      "name": "scale_font_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "dialog_title_color",
+      "value": "#e5ffffff"
+    },
+    {
+      "name": "dialog_text_color",
+      "value": "#99ffffff"
+    },
+    {
+      "name": "dialog_cancel_color",
+      "value": "#317af7"
+    },
+    {
+      "name": "dialog_background_color",
+      "value": "#ff202224"
+    }
+  ]
+}

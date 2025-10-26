@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "font_blue",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "grey_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "mask_color",
+      "value": "#99000000"
+    }
+  ]
+}

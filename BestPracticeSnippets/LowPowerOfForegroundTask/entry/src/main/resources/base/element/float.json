@@ -1,0 +1,24 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "default_icon_width",
+      "value": "16vp"
+    },
+    {
+      "name": "star_icon_width",
+      "value": "20vp"
+    },
+    {
+      "name": "view_count_icon_width",
+      "value": "36vp"
+    },
+    {
+      "name": "like_icon_width",
+      "value": "22vp"
+    }
+  ]
+}

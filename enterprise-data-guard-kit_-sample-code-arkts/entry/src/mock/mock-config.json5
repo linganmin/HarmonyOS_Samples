@@ -1,0 +1,5 @@
+{
+  "@ohos.file.fs": {
+    "source": 'src/mock/modules/ts/fs.mock.ts'
+  }
+}

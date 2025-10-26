@@ -1,0 +1,54 @@
+// [Start add_8]
+<script>
+    let par = document.getElementById("par");
+    let container = document.getElementById("container");
+    let itemWidth = document.getElementsByClassName("item")[0].offsetWidth;
+    let itemNum = document.getElementsByClassName("item").length;
+    let initialX = 0;
+    let distanceX = 0;
+    let imgFlag = 1; // Record the serial number of the currently displayed picture, starting from 1 because the fill map is not displayed
+    FillImg(); // Fill two pictures at the beginning and end, so that there is no blank space on both sides of the picture
+    container.style.transform =
+      "translateX(" + -(imgFlag * itemWidth) + "px)"; // Show from unfilled pictures
+    /*
+      * The following is an example of sliding switching pictures;
+      * Note that the first picture (No.0) and the last picture (No.itemNum-1) are copied filled pictures and are not displayed in the center of the picture
+      */
+    par.addEventListener("touchstart", function (event) {
+      initialX = event.touches[0].clientX;
+    });
+    par.addEventListener("touchmove", function (event) {
+      event.preventDefault();
+      distanceX = event.touches[0].clientX - initialX;
+      transform = -(imgFlag * itemWidth) + distanceX;
+      container.style.transform = "translateX(" + transform + "px)";
+    });
+    par.addEventListener("touchend", function (event) {
+      if (distanceX < -30) {
+        imgFlag = imgFlag < itemNum - 2 ? imgFlag + 1 : 1;
+      } else if (distanceX > 30) {
+        imgFlag = imgFlag > 1 ? imgFlag - 1 : itemNum - 2;
+      }
+      container.style.transform =
+        "translateX(" + -(imgFlag * itemWidth) + "px)";
+    });
+    function FillImg() {
+      let newImg = document
+        .getElementsByClassName("item")
+        [itemNum - 1].cloneNode();
+      container.insertBefore(
+        newImg,
+        document.getElementsByClassName("item")[0]
+      );
+      newImg = document.getElementsByClassName("item")[1].cloneNode();
+      container.appendChild(newImg);
+      itemNum += 2; // Total number of pictures +2;
+    }
+    // Maintain the display continuity of the folded and expanded content
+    window.addEventListener("resize", function () {
+      itemWidth = document.getElementsByClassName("item")[0].offsetWidth;
+      container.style.transform =
+        "translateX(" + -(imgFlag * itemWidth) + "px)";
+    });
+</script>
+// [End add_8]

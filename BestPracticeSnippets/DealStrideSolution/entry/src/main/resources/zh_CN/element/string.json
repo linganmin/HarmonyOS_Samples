@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DealStrideSolution"
+    },
+    {
+      "name": "camera_reason",
+      "value": "This permission is required for using the camera"
+    },
+    {
+      "name": "only_show_for_ux",
+      "value": "仅做ux展示"
+    },
+    {
+      "name": "title_one",
+      "value": "DealStrideOne"
+    },
+    {
+      "name": "title_two",
+      "value": "DealStrideTwo"
+    },
+    {
+      "name": "total_title",
+      "value": "相机预览花屏解决方案"
+    },
+    {
+      "name": "btn_one",
+      "value": "处理stride：方案一"
+    },
+    {
+      "name": "btn_two",
+      "value": "处理stride：方案二"
+    },
+    {
+      "name": "btn_three",
+      "value": "反例：未处理stride"
+    }
+  ]
+}

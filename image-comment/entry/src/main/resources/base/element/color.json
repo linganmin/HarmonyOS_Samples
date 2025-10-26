@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "color_divider",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "color_comment_text_border",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "color_comment_text_background",
+      "value": "#F6F7F9"
+    },
+    {
+      "name": "button_publish_background",
+      "value": "#be1d1d"
+    }
+  ]
+}

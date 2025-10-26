@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab/ic1</title>
+    <defs>
+        <path d="M16,0 C18.209139,-4.05812251e-16 20,1.790861 20,4 L20,16 C20,18.209139 18.209139,20 16,20 L4,20 C1.790861,20 2.705415e-16,18.209139 0,16 L0,4 C-2.705415e-16,1.790861 1.790861,4.05812251e-16 4,0 L16,0 Z M14.5,4 C14.0857864,4 13.75,4.33578644 13.75,4.75 C13.75,6.82106781 12.0710678,8.5 10,8.5 C7.92893219,8.5 6.25,6.82106781 6.25,4.75 C6.25,4.33578644 5.91421356,4 5.5,4 C5.08578644,4 4.75,4.33578644 4.75,4.75 C4.75,7.64949494 7.10050506,10 10,10 C12.8994949,10 15.25,7.64949494 15.25,4.75 C15.25,4.33578644 14.9142136,4 14.5,4 Z" id="path-1"></path>
+    </defs>
+    <g id="1、首页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页/折叠屏" transform="translate(-328.700000, -696.000000)">
+            <g id="BottomNavigationBar/Port/Item_5备份-2" transform="translate(0.000000, 687.000000)">
+                <g id="Bottom-tab/item/normal" transform="translate(277.154545, 7.000000)">
+                    <g id="tab/ic1" transform="translate(51.545455, 2.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="形状结合"></g>
+                        <g id="Symbol/color-light/colorPrimary" mask="url(#mask-2)" fill="#000000">
+                            <g transform="translate(-2.000000, -2.000000)" id="color/#000000">
+                                <rect x="0" y="0" width="24" height="24"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

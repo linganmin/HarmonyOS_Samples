@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "image_height",
+      "value": "300vp"
+    },
+    {
+      "name": "button_width",
+      "value": "200vp"
+    },
+    {
+      "name": "margin",
+      "value": "20vp"
+    }
+  ]
+}

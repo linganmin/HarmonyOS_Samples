@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "title_font_color",
+      "value": "#000000"
+    },
+    {
+      "name": "music_title_font_color",
+      "value": "#556B89"
+    },
+    {
+      "name": "slider_track_color",
+      "value": "#1A000000"
+    },
+    {
+      "name": "slider_selected_color",
+      "value": "#0A59F7"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "float": [
+    {
+      "name": "vp_8",
+      "value": "8vp"
+    },
+    {
+      "name": "vp_10",
+      "value": "10vp"
+    },
+    {
+      "name": "vp_12",
+      "value": "12vp"
+    },
+    {
+      "name": "vp_16",
+      "value": "16vp"
+    },
+    {
+      "name": "vp_24",
+      "value": "24vp"
+    },
+    {
+      "name": "todo_item_height",
+      "value": "64vp"
+    },
+    {
+      "name": "icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "font_lg",
+      "value": "18vp"
+    },
+    {
+      "name": "font_sm",
+      "value": "14vp"
+    },
+    {
+      "name": "font_page_title",
+      "value": "30vp"
+    }
+  ]
+}

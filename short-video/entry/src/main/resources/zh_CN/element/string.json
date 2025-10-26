@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "短视频切换"
+    },
+    {
+      "name": "focus",
+      "value": "关注"
+    },
+    {
+      "name": "featured",
+      "value": "精选"
+    },
+    {
+      "name": "recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "movie_room",
+      "value": "放映厅"
+    },
+    {
+      "name": "hotspot_one",
+      "value": "海"
+    },
+    {
+      "name": "hotspot_two",
+      "value": "雪的距离"
+    },
+    {
+      "name": "hotspot_three",
+      "value": "日出"
+    }
+  ]
+}

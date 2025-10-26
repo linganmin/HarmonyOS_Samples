@@ -1,0 +1,12 @@
+{
+  "module": {
+    "name": "healthylife",
+    "type": "har",
+    "description": "$string:module_desc",
+    "deviceTypes": [
+      "phone"
+    ],
+    "installationFree": false,
+    "routerMap": "$profile:router_map"
+  }
+}

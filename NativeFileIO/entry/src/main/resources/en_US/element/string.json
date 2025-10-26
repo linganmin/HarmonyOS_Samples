@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Native FileIO"
+    },
+    {
+      "name": "title",
+      "value": "Native FileIO"
+    },
+    {
+      "name": "write_data",
+      "value": "Write Data"
+    },
+    {
+      "name": "read_data",
+      "value": "Read Data"
+    },
+    {
+      "name": "placeholder",
+      "value": "Please enter the content"
+    },
+    {
+      "name": "placeholder_read",
+      "value": "Please write content first"
+    },
+    {
+      "name": "write",
+      "value": "Write"
+    },
+    {
+      "name": "read",
+      "value": "Read"
+    },
+    {
+      "name": "written_successfully",
+      "value": "File written successfully"
+    },
+    {
+      "name": "read_successfully",
+      "value": "File read successfully"
+    }
+  ]
+}

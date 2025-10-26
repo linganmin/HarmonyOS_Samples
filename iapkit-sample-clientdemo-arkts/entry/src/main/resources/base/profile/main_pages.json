@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/EntryPage",
+    "pages/ConsumablesPage",
+    "pages/NonConsumablesPage",
+    "pages/SubscriptionsPage",
+    "pages/NonRenewablesPage"
+  ]
+}

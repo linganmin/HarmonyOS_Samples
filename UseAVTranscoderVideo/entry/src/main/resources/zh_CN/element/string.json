@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "视频转码"
+    },
+    {
+      "name": "start_transfer",
+      "value": "开始转换"
+    },
+    {
+      "name": "button_pause",
+      "value": "暂停"
+    },
+    {
+      "name": "button_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "button_continue",
+      "value": "继续"
+    },
+    {
+      "name": "button_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "button_finish",
+      "value": "完成"
+    },
+    {
+      "name": "button_back",
+      "value": "首页"
+    },
+    {
+      "name": "param_config",
+      "value": "参数配置"
+    },
+    {
+      "name": "file_name",
+      "value": "文件名"
+    },
+    {
+      "name": "resolution",
+      "value": "分辨率"
+    },
+    {
+      "name": "standard_clearance",
+      "value": "720P"
+    },
+    {
+      "name": "high_definition",
+      "value": "1080P"
+    },
+    {
+      "name": "ultra_clear",
+      "value": "4K"
+    },
+    {
+      "name": "code_rate",
+      "value": "码率"
+    },
+    {
+      "name": "frame_rate",
+      "value": "帧率"
+    },
+    {
+      "name": "text_cancel",
+      "value": "确定取消转码吗？"
+    },
+    {
+      "name": "high_speed_processing",
+      "value": "极速处理中..."
+    },
+    {
+      "name": "original",
+      "value": "原始"
+    },
+    {
+      "name": "tip",
+      "value": "任务正在进行中，请勿熄屏或退出APP，否则可能会导致失效"
+    },
+    {
+      "name": "convert_success",
+      "value": "转换成功"
+    },
+    {
+      "name": "storage_path",
+      "value": "存储路径"
+    },
+    {
+      "name": "video_transcoder",
+      "value": "视频转码"
+    },
+    {
+      "name": "transcoder_progress",
+      "value": "转码进度"
+    },
+    {
+      "name": "transcoder_result",
+      "value": "转码结果"
+    },
+    {
+      "name": "current_process",
+      "value": "当前转换进度"
+    },
+    {
+      "name": "showToastWarn4k",
+      "value": "预置视频不支持转换为更高分辨率。请切换到4K以下的分辨率。"
+    },
+    {
+      "name": "showToastWarn1080",
+      "value": "预置视频不支持转换为更高分辨率。请切换到1080P以下的分辨率。"
+    },
+    {
+      "name": "showToastWarn720",
+      "value": "预置视频不支持转换为更高分辨率。请切换到720P以下的分辨率。"
+    },
+    {
+      "name": "showToastWarnPause",
+      "value": "转换已完成，请点击完成按钮。"
+    }
+  ]
+}

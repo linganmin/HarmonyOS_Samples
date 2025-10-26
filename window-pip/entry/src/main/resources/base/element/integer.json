@@ -1,0 +1,84 @@
+{
+  "integer": [
+    {
+      "name": "Navigation_padding",
+      "value": 5
+    },
+    {
+      "name": "x_component_marg_bottom",
+      "value": 30
+    },
+    {
+      "name": "other_padding",
+      "value": 14
+    },
+    {
+      "name": "auto_pip_height",
+      "value": 56
+    },
+    {
+      "name": "auto_text_width",
+      "value": 160
+    },
+    {
+      "name": "video1_button_height",
+      "value": 200
+    },
+    {
+      "name": "video1_text_padding",
+      "value": 310
+    },
+    {
+      "name": "video_text_padding",
+      "value": 120
+    },
+    {
+      "name": "control_height",
+      "value": 79
+    },
+    {
+      "name": "callback_text_padding",
+      "value": 273
+    },
+    {
+      "name": "text_height",
+      "value": 60
+    },
+    {
+      "name": "control_button_width",
+      "value": 149
+    },
+    {
+      "name": "auto_button_height",
+      "value": 27
+    },
+    {
+      "name": "auto_button_width",
+      "value": 60
+    },
+    {
+      "name": "video_button_height",
+      "value": 150
+    },
+    {
+      "name": "video_button_board_radius",
+      "value": 10
+    },
+    {
+      "name": "auto_button_board_radius",
+      "value": 15
+    },
+    {
+      "name": "x_component_marg_top",
+      "value": 15
+    },
+    {
+      "name": "text_size",
+      "value": 15
+    },
+    {
+      "name": "scroll_height",
+      "value": 30
+    }
+  ]
+}

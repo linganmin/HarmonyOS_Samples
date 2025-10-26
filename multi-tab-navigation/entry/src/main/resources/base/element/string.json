@@ -1,0 +1,284 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "常见Tab导航UI样式"
+    },
+    {
+      "name": "hei_ti_medium",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "hei_ti",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "people",
+      "value": "联系人"
+    },
+    {
+      "name": "activity",
+      "value": "动态"
+    },
+    {
+      "name": "list_name",
+      "value": "列表选项"
+    },
+    {
+      "name": "add_list",
+      "value": "添加列表"
+    },
+    {
+      "name": "content",
+      "value": "内容区域"
+    },
+    {
+      "name": "title",
+      "value": "常见Tab导航UI样式"
+    },
+    {
+      "name": "tab_homepage",
+      "value": "首页"
+    },
+    {
+      "name": "tab_video",
+      "value": "视频"
+    },
+    {
+      "name": "tab_mall",
+      "value": "商城"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "tab_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "tab_video_height",
+      "value": "calc(100% - 60vp)"
+    },
+    {
+      "name": "tab_upgrade_hot",
+      "value": "上升热点"
+    },
+    {
+      "name": "tab_online_people",
+      "value": "98万人在看"
+    },
+    {
+      "name": "tab_toast_message",
+      "value": "仅供UI展示，功能尚未开发"
+    },
+    {
+      "name": "tab_share",
+      "value": "分享"
+    },
+    {
+      "name": "tab_focus",
+      "value": "关注"
+    },
+    {
+      "name": "tab_selected",
+      "value": "精选"
+    },
+    {
+      "name": "tab_recommendation",
+      "value": "推荐"
+    },
+    {
+      "name": "tab_screening_hall",
+      "value": "放映厅"
+    },
+    {
+      "name": "tab_focus_width",
+      "value": "calc((100% - 120vp)/4)"
+    },
+    {
+      "name": "index_tab_scroll",
+      "value": "calc(100% - 112vp)"
+    },
+    {
+      "name": "bottom_nav",
+      "value": "底部导航"
+    },
+    {
+      "name": "common_bottom_nav",
+      "value": "常见底部导航"
+    },
+    {
+      "name": "rudder_bottom_nav",
+      "value": "舵式底部导航"
+    },
+    {
+      "name": "video_slide",
+      "value": "TabContent视频内容滑动并在Tabbar上显示"
+    },
+    {
+      "name": "top_nav",
+      "value": "顶部导航"
+    },
+    {
+      "name": "underline_tab",
+      "value": "下划线样式"
+    },
+    {
+      "name": "background_light_tab",
+      "value": "背景高亮样式"
+    },
+    {
+      "name": "word_tab",
+      "value": "文字样式"
+    },
+    {
+      "name": "double_nesting_tab_one",
+      "value": "双层嵌套样式实现1"
+    },
+    {
+      "name": "double_nesting_tab_two",
+      "value": "双层嵌套样式实现2"
+    },
+    {
+      "name": "slide_and_mor_tab",
+      "value": "可滑动+更多按钮"
+    },
+    {
+      "name": "side_tab",
+      "value": "侧边导航"
+    },
+    {
+      "name": "common_side_tab",
+      "value": "常见侧边导航"
+    },
+    {
+      "name": "drawer_tab",
+      "value": "抽屉式侧边导航"
+    },
+    {
+      "name": "literature",
+      "value": "文学"
+    },
+    {
+      "name": "making_friends",
+      "value": "交友"
+    },
+    {
+      "name": "live_broadcast",
+      "value": "直播"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    },
+    {
+      "name": "ceremony",
+      "value": "盛典"
+    },
+    {
+      "name": "play",
+      "value": "潮玩"
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "recommended",
+      "value": "推荐"
+    },
+    {
+      "name": "book",
+      "value": "图书"
+    },
+    {
+      "name": "novel",
+      "value": "小说"
+    },
+    {
+      "name": "caricature",
+      "value": "漫画"
+    },
+    {
+      "name": "listen_book",
+      "value": "听书"
+    },
+    {
+      "name": "popular_course",
+      "value": "热门课程"
+    },
+    {
+      "name": "latest_courses",
+      "value": "最新课程"
+    },
+    {
+      "name": "wonderful_activity",
+      "value": "精彩活动"
+    },
+    {
+      "name": "developer_said",
+      "value": "开发者说"
+    },
+    {
+      "name": "back_end_development",
+      "value": "后端开发"
+    },
+    {
+      "name": "front_end_development",
+      "value": "前端开发"
+    },
+    {
+      "name": "tip1",
+      "value": "首页界面，仅供Tabs展示。"
+    },
+    {
+      "name": "tip2",
+      "value": "商城界面，仅供Tabs展示。"
+    },
+    {
+      "name": "tip3",
+      "value": "我的界面，仅供Tabs展示。"
+    },
+    {
+      "name": "user",
+      "value": "@用户"
+    },
+    {
+      "name": "desc",
+      "value": "今天天气是阴天"
+    },
+    {
+      "name": "hot_dot",
+      "value": "热点"
+    },
+    {
+      "name": "left_tab",
+      "value": "居左对齐样式"
+    },
+    {
+      "name": "tab",
+      "value": "页签"
+    },
+    {
+      "name": "page",
+      "value": "这是页面"
+    },
+    {
+      "name": "page_content",
+      "value": "的内容"
+    }
+  ]
+}

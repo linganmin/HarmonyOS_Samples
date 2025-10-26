@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "健康生活"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "运动总有新玩法"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "健康生活"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "Used to access the network to obtain map data."
+    },
+    {
+      "name": "healthy_life",
+      "value": "健康生活"
+    },
+    {
+      "name": "target_progress",
+      "value": "目标进度"
+    },
+    {
+      "name": "task_list",
+      "value": "任务列表"
+    },
+    {
+      "name": "week_shorthand_mon",
+      "value": "一"
+    },
+    {
+      "name": "week_shorthand_tue",
+      "value": "二"
+    },
+    {
+      "name": "week_shorthand_wed",
+      "value": "三"
+    },
+    {
+      "name": "week_shorthand_thu",
+      "value": "四"
+    },
+    {
+      "name": "week_shorthand_fri",
+      "value": "五"
+    },
+    {
+      "name": "week_shorthand_sat",
+      "value": "六"
+    },
+    {
+      "name": "week_shorthand_sun",
+      "value": "日"
+    },
+    {
+      "name": "no_task",
+      "value": "暂无任务，请添加任务"
+    },
+    {
+      "name": "task_getup",
+      "value": "早起"
+    },
+    {
+      "name": "task_drink",
+      "value": "喝水"
+    },
+    {
+      "name": "task_apple",
+      "value": "吃苹果"
+    },
+    {
+      "name": "task_smile",
+      "value": "每日微笑"
+    },
+    {
+      "name": "task_brush",
+      "value": "每日刷牙"
+    },
+    {
+      "name": "task_sleep",
+      "value": "早睡"
+    },
+    {
+      "name": "clock_in",
+      "value": "打卡"
+    },
+    {
+      "name": "got_it",
+      "value": "知道了"
+    },
+    {
+      "name": "was_done",
+      "value": "已完成"
+    },
+    {
+      "name": "my_achievement",
+      "value": "我的成就"
+    },
+    {
+      "name": "achievement_level",
+      "value": "连续%s天达成"
+    },
+    {
+      "name": "mine_personal_data",
+      "value": "个人资料"
+    },
+    {
+      "name": "mine_check_updates",
+      "value": "检查更新"
+    },
+    {
+      "name": "mine_about",
+      "value": "关于"
+    },
+    {
+      "name": "add_task",
+      "value": "添加任务"
+    },
+    {
+      "name": "edit_task",
+      "value": "编辑任务"
+    },
+    {
+      "name": "task_opened",
+      "value": "已开启"
+    },
+    {
+      "name": "target_setting",
+      "value": "目标设置"
+    },
+    {
+      "name": "complete",
+      "value": "完成"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_achievement",
+      "value": "成就"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "skip_ads",
+      "value": "跳过广告 %d s"
+    },
+    {
+      "name": "privacy_title",
+      "value": "请在“健康生活”权限管理中开启“XX”权限"
+    },
+    {
+      "name": "privacy_desc",
+      "value": "该功能支持XX…（功能介绍）"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "exit",
+      "value": "退出"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "user_name",
+      "value": "Jolin"
+    },
+    {
+      "name": "user_level",
+      "value": "LV.7"
+    },
+    {
+      "name": "user_signature",
+      "value": "这是一条简短的个人签名"
+    },
+    {
+      "name": "unit_liter",
+      "value": "L"
+    },
+    {
+      "name": "unit_number",
+      "value": "个"
+    },
+    {
+      "name": "unit_times",
+      "value": "次"
+    },
+    {
+      "name": "unit_pre_day",
+      "value": "/ 天"
+    }
+  ]
+}

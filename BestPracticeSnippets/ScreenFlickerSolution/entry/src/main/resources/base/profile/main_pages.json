@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ClickError",
+    "pages/ClickRight",
+    "pages/TabsError",
+    "pages/TabsRight",
+    "pages/PullToRefreshError",
+    "pages/PullToRefreshRight"
+  ]
+}

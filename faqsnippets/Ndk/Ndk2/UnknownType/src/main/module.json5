@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "UnknownType",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "UnknownTypeAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "UnknownTypeAbility",
+        "srcEntry": "./ets/unknowntypeability/UnknownTypeAbility.ets",
+        "description": "$string:UnknownTypeAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:UnknownTypeAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "multiple_files_download_text_font_color",
+      "value": "#66182431"
+    },
+    {
+      "name": "multiple_files_download_column_border_color",
+      "value": "#6fafee"
+    },
+    {
+      "name": "multiple_files_download_selected_background_color",
+      "value": "#FF007DFF"
+    },
+    {
+      "name": "multiple_files_download_background_color",
+      "value": "#FFFEFEFE"
+    },
+    {
+      "name": "multiple_files_download_text_color",
+      "value": "#418AF3"
+    },
+    {
+      "name": "text_color",
+      "value": "#E6000000"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "init",
+      "value": "初始化场景感知"
+    },
+    {
+      "name": "subscribe",
+      "value": "订阅设备信息"
+    },
+    {
+      "name": "unSubscribe",
+      "value": "取消订阅设备信息"
+    },
+    {
+      "name": "update",
+      "value": "更新游戏场景信息"
+    },
+    {
+      "name": "query",
+      "value": "查询设备信息"
+    }
+  ]
+}

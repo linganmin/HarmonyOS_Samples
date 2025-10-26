@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "Preference"
+    },
+    {
+      "name": "dialer",
+      "value": "Dialer"
+    },
+    {
+      "name": "shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "notes",
+      "value": "Notes"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "camera",
+      "value": "Camera"
+    },
+    {
+      "name": "album",
+      "value": "Album"
+    },
+    {
+      "name": "music",
+      "value": "Music"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    }
+  ]
+}

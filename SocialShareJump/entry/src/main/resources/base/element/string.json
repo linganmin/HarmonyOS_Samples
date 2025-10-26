@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SocialShareJump"
+    },
+    {
+      "name": "title_recommend",
+      "value": "Recommend"
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    },
+    {
+      "name": "edit_comment",
+      "value": "Edit comment"
+    },
+    {
+      "name": "shared_from_friend",
+      "value": "shared from friend"
+    },
+    {
+      "name": "article_detail",
+      "value": "As terminal device forms become increasingly diversified, during the application design, you should ensure that a user interface (UI) can adapt to different screen sizes, screen orientations, and device types. In addition, the multi-device experience continuity needs to be maintained, the multi-device independent design needs to be improved, and the workload and maintenance costs of developers need to be reduced as much as possible. HarmonyOS provides a multi-device-oriented design guide, allowing designers to use a scientific method to minimize the design workload and ensure design consistency. In addition, HarmonyOS provides corresponding technical capabilities to help developers quickly design multi-device applications."
+    },
+    {
+      "name": "article_title1",
+      "value": "Festive travel"
+    },
+    {
+      "name": "article_title2",
+      "value": "Look at the scenery"
+    },
+    {
+      "name": "article_title3",
+      "value": "Life hacks"
+    },
+    {
+      "name": "article_title4",
+      "value": "Travel planning"
+    },
+    {
+      "name": "article_title5",
+      "value": "HarmonyOS learning"
+    },
+    {
+      "name": "article_title6",
+      "value": "From beginner to proficient"
+    }
+  ]
+}

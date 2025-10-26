@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "bottom_tab_title_index",
+      "value": "Home"
+    },
+    {
+      "name": "bottom_tab_title_friend",
+      "value": "Friend"
+    },
+    {
+      "name": "bottom_tab_title_message",
+      "value": "Message"
+    },
+    {
+      "name": "bottom_tab_title_mine",
+      "value": "Me"
+    },
+    {
+      "name": "top_tab_title_group",
+      "value": "GroupBuy"
+    },
+    {
+      "name": "top_tab_title_live",
+      "value": "Live"
+    },
+    {
+      "name": "top_tab_title_follow",
+      "value": "Follow"
+    },
+    {
+      "name": "top_tab_title_mall",
+      "value": "Mall"
+    },
+    {
+      "name": "top_tab_title_recommend",
+      "value": "Recommend"
+    },
+    {
+      "name": "btn_fullscreen",
+      "value": "Fullscreen playback"
+    },
+    {
+      "name": "title",
+      "value": "Title text content"
+    },
+    {
+      "name": "speed",
+      "value": "Speed"
+    },
+    {
+      "name": "speed_tips",
+      "value": "Play at 2x speed"
+    }
+  ]
+}

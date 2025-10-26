@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "LocalChatAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "LocalChatAbility_label",
+      "value": "LocalChat_QA"
+    }
+  ]
+}

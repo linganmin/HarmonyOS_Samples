@@ -1,0 +1,89 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ShortVideoChange"
+    },
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "upgrade_hot",
+      "value": "上升热点"
+    },
+    {
+      "name": "concern",
+      "value": "98万人在看"
+    },
+    {
+      "name": "online_people",
+      "value": "98万人在看"
+    },
+    {
+      "name": "focus",
+      "value": "关注"
+    },
+    {
+      "name": "featured",
+      "value": "精选"
+    },
+    {
+      "name": "recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "movie_room",
+      "value": "放映厅"
+    },
+    {
+      "name": "name_one",
+      "value": "@山猫"
+    },
+    {
+      "name": "description_one",
+      "value": "海的那边，是……"
+    },
+
+    {
+      "name": "name_two",
+      "value": "@登山爱好家"
+    },
+    {
+      "name": "description_two",
+      "value": "#雪山"
+    },
+    {
+      "name": "name_three",
+      "value": "@平平淡淡"
+    },
+    {
+      "name": "description_three",
+      "value": "生活不止眼前的苟且，还有诗和远方"
+    },
+    {
+      "name": "hotspot_one",
+      "value": "海"
+    },
+    {
+      "name": "hotspot_two",
+      "value": "雪的距离"
+    },
+    {
+      "name": "hotspot_three",
+      "value": "日出"
+    }
+  ]
+}

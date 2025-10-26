@@ -1,0 +1,1 @@
+export const testPromise: (callback: () => Promise<number>) => void;

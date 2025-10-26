@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "DetailPage",
+      "pageSourceFile": "src/main/ets/pages/DetailPage.ets",
+      "buildFunction": "detailPageBuilder"
+    }
+  ]
+}

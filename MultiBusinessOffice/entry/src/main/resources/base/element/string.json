@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiBusinessOffice"
+    },
+    {
+      "name": "SecondAbility_label",
+      "value": "MultiBusinessOffice-Notes"
+    },
+    {
+      "name": "ThirdAbility_label",
+      "value": "MultiBusinessOffice-Calendar"
+    },
+    {
+      "name": "eighty_percent",
+      "value": "80%"
+    },
+    {
+      "name": "trip_content",
+      "value": "Go to Beijing..."
+    },
+    {
+      "name": "trip_conflicting",
+      "value": "Conflict"
+    },
+    {
+      "name": "trip_schedule1",
+      "value": "【会议通知】采购、销售等团队会议例会串讲"
+    },
+    {
+      "name": "trip_schedule2",
+      "value": "周例会全员参加"
+    },
+    {
+      "name": "trip_schedule3",
+      "value": "年度销售额提升例会"
+    },
+    {
+      "name": "trip_schedule4",
+      "value": "月度工作总结与计划"
+    },
+    {
+      "name": "trip_schedule5",
+      "value": "团队协作提升"
+    },
+    {
+      "name": "notes_schedule1",
+      "value": "2023 UI设计趋势"
+    },
+    {
+      "name": "notes_schedule2",
+      "value": "一小时前"
+    },
+    {
+      "name": "notes_schedule3",
+      "value": "熟悉的图像会自动给人一..."
+    },
+    {
+      "name": "notes_schedule4",
+      "value": "UX会议纪要"
+    },
+    {
+      "name": "notes_schedule5",
+      "value": "已锁定"
+    },
+    {
+      "name": "notes_schedule6",
+      "value": "有些地方只有你去了才能真正..."
+    },
+    {
+      "name": "notes_schedule7",
+      "value": "购物清单"
+    },
+    {
+      "name": "notes_schedule8",
+      "value": "9月5日"
+    },
+    {
+      "name": "notes_schedule9",
+      "value": "扫地机器人"
+    },
+    {
+      "name": "notes_schedule10",
+      "value": "9月3日"
+    },
+    {
+      "name": "year",
+      "value": "Year"
+    },
+    {
+      "name": "month",
+      "value": "Month"
+    },
+    {
+      "name": "week",
+      "value": "Week"
+    },
+    {
+      "name": "day",
+      "value": "Day"
+    },
+    {
+      "name": "memo",
+      "value": "Memo"
+    },
+    {
+      "name": "need_to_do",
+      "value": "ToDo"
+    }
+  ]
+}

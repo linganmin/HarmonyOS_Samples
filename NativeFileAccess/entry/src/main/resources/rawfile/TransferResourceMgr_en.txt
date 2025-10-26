@@ -1,0 +1,1 @@
+The NATIVE side has accessed the file through the incoming resource manager.

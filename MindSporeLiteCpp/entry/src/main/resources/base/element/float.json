@@ -1,0 +1,84 @@
+{
+  "float": [
+    {
+      "name": "title_margin_top",
+      "value": "64vp"
+    },
+    {
+      "name": "title_margin_left",
+      "value": "16vp"
+    },
+    {
+      "name": "title_margin_right",
+      "value": "8vp"
+    },
+    {
+      "name": "All_title_font_size",
+      "value": "32fp"
+    },
+    {
+      "name": "last_button_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "button_width",
+      "value": "312vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "image_width",
+      "value": "340vp"
+    },
+    {
+      "name": "image_height",
+      "value": "378vp"
+    },
+    {
+      "name": "common_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "list_item_height",
+      "value": "42vp"
+    },
+    {
+      "name": "stroke_width",
+      "value": "0.5vp"
+    },
+    {
+      "name": "small_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "list_width",
+      "value": "328vp"
+    },
+    {
+      "name": "list_height",
+      "value": "170vp"
+    },
+    {
+      "name": "blank_width",
+      "value": "328vp"
+    },
+    {
+      "name": "blank_height",
+      "value": "170vp"
+    },
+    {
+      "name": "title_margin_bottom",
+      "value": "32vp"
+    },
+    {
+      "name": "button_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "image_margin_bottom",
+      "value": "16vp"
+    }
+  ]
+}

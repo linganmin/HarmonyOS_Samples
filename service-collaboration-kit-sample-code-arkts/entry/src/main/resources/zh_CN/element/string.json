@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "备忘录Mock"
+    },
+    {
+      "name": "servicecollabutton",
+      "value": "使用远端设备插入图片"
+    }
+  ]
+}

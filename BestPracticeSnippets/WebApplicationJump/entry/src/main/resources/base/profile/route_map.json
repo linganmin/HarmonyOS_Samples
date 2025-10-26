@@ -1,0 +1,29 @@
+{
+  "routerMap": [
+    {
+      "name": "Page01",
+      "pageSourceFile": "src/main/ets/pages/Navigation.ets",
+      "buildFunction": "Page01"
+    },
+    {
+      "name": "Page02",
+      "pageSourceFile": "src/main/ets/pages/Navigation1.ets",
+      "buildFunction": "Page02"
+    },
+    {
+      "name": "Page03",
+      "pageSourceFile": "src/main/ets/pages/Navigation2.ets",
+      "buildFunction": "Page03"
+    },
+    {
+      "name": "Page04",
+      "pageSourceFile": "src/main/ets/pages/Navigation3.ets",
+      "buildFunction": "Page04"
+    },
+    {
+      "name": "Page05",
+      "pageSourceFile": "src/main/ets/pages/Navigation4.ets",
+      "buildFunction": "Page05"
+    }
+  ]
+}

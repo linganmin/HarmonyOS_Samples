@@ -1,0 +1,380 @@
+{
+  "string": [
+    {
+      "name": "DialogHubDialogExamples",
+      "value": "DialogHub Dialog Examples"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DialogHubSample"
+    },
+    {
+      "name": "CommonDialogExamples",
+      "value": "Common Dialog Examples"
+    },
+    {
+      "name": "OperableDialogExamples",
+      "value": "Dialog-Page/User Interactive Examples"
+    },
+    {
+      "name": "ReusableDialogExamples",
+      "value": "Dialog Reuse Examples"
+    },
+    {
+      "name": "MultipleDialogExamples",
+      "value": "Multiple Dialog Examples"
+    },
+    {
+      "name": "ModelDialog",
+      "value": "Model Dialog"
+    },
+    {
+      "name": "ModelessDialog",
+      "value": "Modeless dialog"
+    },
+    {
+      "name": "Tooltip_with_duration",
+      "value": "Tooltip_with_duration Dialog"
+    },
+    {
+      "name": "Click_to_show",
+      "value": "Click to show"
+    },
+    {
+      "name": "Click_to_move",
+      "value": "Click to move"
+    },
+    {
+      "name": "Popup_specified_location",
+      "value": "Popup specified location"
+    },
+    {
+      "name": "Popup_disappears_intervals",
+      "value": "Popup disappears intervals"
+    },
+    {
+      "name": "Avoid_keyboard_dialog",
+      "value": "Avoid keyboard dialog"
+    },
+    {
+      "name": "Arrow_pointing_dialog",
+      "value": "Arrow pointing dialog"
+    },
+    {
+      "name": "Mask_automatically_close_dialog",
+      "value": "Mask automatically close dialog"
+    },
+    {
+      "name": "Actively_close_dialog",
+      "value": "Actively close dialog"
+    },
+    {
+      "name": "Adjust_height_dialog",
+      "value": "Adjust height dialog"
+    },
+    {
+      "name": "Perceive_status_dialog",
+      "value": "Perceive status dialog"
+    },
+    {
+      "name": "Snackbar_builder_title",
+      "value": "Single-line snackbar with action"
+    },
+    {
+      "name": "Login_my_account",
+      "value": "Login my account"
+    },
+    {
+      "name": "Login",
+      "value": "Login"
+    },
+    {
+      "name": "Sheet_builder_placeholder_phone",
+      "value": "PhoneNumber/EmailAddress/AccountName"
+    },
+    {
+      "name": "Sheet_builder_placeholder_password",
+      "value":  "password"
+    },
+    {
+      "name": "Input_builder_placeholder",
+      "value": "comment"
+    },
+    {
+      "name": "Image_popup_builder_title",
+      "value": "AAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "name": "Auto_dismiss_builder_title",
+      "value": "You have a Newcomer Benefits"
+    },
+    {
+      "name": "Auto_dismiss_builder_content",
+      "value": "Huawei Store"
+    },
+    {
+      "name": "Auto_dismiss_builder_desc",
+      "value": "HUAWEI Mate 60 12GB+1TB Blue"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_rmb",
+      "value": "￥"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_price",
+      "value": "XXXX"
+    },
+    {
+      "name": "Auto_dismiss_builder_content_more",
+      "value": "Huawei Store More "
+    },
+    {
+      "name": "Not_interested",
+      "value": "Ignore"
+    },
+    {
+      "name": "Find_out_more",
+      "value": "Detail"
+    },
+    {
+      "name": "DialogStateOpen",
+      "value": "DialogState: Open"
+    },
+    {
+      "name": "DialogStateClose",
+      "value": "DialogState: Close"
+    },
+    {
+      "name": "Dialog_A",
+      "value": "Dialog A"
+    },
+    {
+      "name": "Suppression_tips",
+      "value": "Dialog suppression"
+    },
+    {
+      "name": "Dialog_D",
+      "value": "Normal Dialog D"
+    },
+    {
+      "name": "Dialog_E",
+      "value": "Normal Dialog E"
+    },
+    {
+      "name": "Dialog_F",
+      "value": "Dialog F of level is 10"
+    },
+    {
+      "name": "Dialog_G",
+      "value": "Top level Dialog G(old)"
+    },
+    {
+      "name": "Dialog_H",
+      "value": "Top level Dialog H(new)"
+    },
+    {
+      "name": "Shut_down",
+      "value": "Shut down"
+    },
+    {
+      "name": "Click_to_shut_down",
+      "value": "Click to close"
+    },
+    {
+      "name": "currentlyAllocatedPage",
+      "value": "CurrentlyAllocated: BackPress on Page"
+    },
+    {
+      "name": "currentlyAllocatedDialog",
+      "value": "CurrentlyAllocated: BackPress on Dialog"
+    },
+    {
+      "name": "numbersOfDialogInCurrentPage",
+      "value": "numbersOfDialogInCurrentPage: "
+    },
+    {
+      "name": "break_on_page",
+      "value": "BackPress on Page"
+    },
+    {
+      "name": "break_on_dialog",
+      "value": "BackPress on Dialog"
+    },
+    {
+      "name": "tagName",
+      "value": "TagName:"
+    },
+    {
+      "name": "Click_to_update",
+      "value": "Click to update"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_1",
+      "value": "Show Dialog 1"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_2",
+      "value": "Show Dialog 2"
+    },
+    {
+      "name": "SHOW_SIMPLE_DIALOG_3",
+      "value": "Show BackPress useless Dialog 3"
+    },
+    {
+      "name": "UserPassThroughGestureDialog",
+      "value": "UserPassThroughGestureDialog"
+    },
+    {
+      "name": "passThroughGestureDialog",
+      "value": "passThroughGestureDialog"
+    },
+    {
+      "name": "dialog_interacts_with_page",
+      "value": "interact-with-page Dialog"
+    },
+    {
+      "name": "ReturnDataDialog",
+      "value": "return-data Dialog"
+    },
+    {
+      "name": "DialogWithPage",
+      "value": "DialogWithPage"
+    },
+    {
+      "name": "SkipRouter",
+      "value": "Dialog contains links(Router)"
+    },
+    {
+      "name": "SkipNavigation",
+      "value": "Dialog contains links(Navigation)"
+    },
+    {
+      "name": "DifferentPositionShow",
+      "value": "(wide screen)Dialog shows on split-screen"
+    },
+    {
+      "name": "LeftDialog",
+      "value": "(left screen)Dialog shows on split-screen"
+    },
+    {
+      "name": "RightDialog",
+      "value": "(right screen)Dialog shows on split-screen"
+    },
+    {
+      "name": "IconToastBuilderText",
+      "value": "success tips"
+    },
+    {
+      "name": "ReuseExample_ItemHead",
+      "value": "Dialog created by template"
+    },
+    {
+      "name": "Create_dialog_template",
+      "value": "Create dialog template"
+    },
+    {
+      "name": "Click_to_create",
+      "value": "Click to create"
+    },
+    {
+      "name": "Delete_template",
+      "value": "Delete template"
+    },
+    {
+      "name": "Click_to_delete",
+      "value": "Click to delete"
+    },
+    {
+      "name": "Randomize_template_background",
+      "value": "Change background color"
+    },
+    {
+      "name": "Click_to_modify",
+      "value": "Click to modify"
+    },
+    {
+      "name": "Directly_popup_dialog",
+      "value": "Show dialog template"
+    },
+    {
+      "name": "Click_to_demonstrate",
+      "value": "Click to demonstrate"
+    },
+    {
+      "name": "Click_to_demonstrate_button_id",
+      "value": "popupDirectlyButton"
+    },
+    {
+      "name": "Popup_with_animation",
+      "value": "Popup with animation"
+    },
+    {
+      "name": "Popup_with_animation_button_id",
+      "value": "popupWithAnimationButton"
+    },
+    {
+      "name": "Popup_after_defining_position",
+      "value": "Popup after defining position"
+    },
+    {
+      "name": "Create_dialog_from_same_instance",
+      "value": "Create dialog from same instance"
+    },
+    {
+      "name": "Dialog_text",
+      "value": "Dialog"
+    },
+    {
+      "name": "Singleton_dialog_id",
+      "value": "singletonPopup"
+    },
+    {
+      "name": "Reuse_example_title",
+      "value": "Dialog reuse"
+    },
+    {
+      "name": "FatherPageUpdateDialogContent",
+      "value": "Content refreshable Dialog"
+    },
+    {
+      "name": "createNewDialog",
+      "value": "Create Dialog"
+    },
+    {
+      "name": "inputNameForDialog",
+      "value": "Input name"
+    },
+    {
+      "name": "pleaseInput",
+      "value": "Typing..."
+    },
+    {
+      "name": "SkipBuilderText_1",
+      "value": "XX service"
+    },
+    {
+      "name": "SkipBuilderText_2",
+      "value": "\"XX\"is XXXXXXXXXXX."
+    },
+    {
+      "name": "SkipBuilderSpan_1",
+      "value": "some comment..."
+    },
+    {
+      "name": "SkipBuilderSpan_2",
+      "value": "Statement on Business and Privacy"
+    },
+    {
+      "name": "SkipBuilderSpan_3",
+      "value": "Please carefully read the above statement and click 'agree' which means you are aware of and agree to our provision of this application service to you"
+    }
+  ]
+}

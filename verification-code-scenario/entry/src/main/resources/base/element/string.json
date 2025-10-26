@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "验证码场景实例"
+    },
+    {
+      "name": "verification_code",
+      "value": "短信验证码"
+    },
+    {
+      "name": "select_verification_code",
+      "value": "选择验证码"
+    },
+    {
+      "name": "slider_verification_code",
+      "value": "滑块验证码"
+    },
+    {
+      "name": "enter_the_verification_code",
+      "value": "请输入验证码"
+    },
+    {
+      "name": "Verification_code_sent_to",
+      "value": "验证码已发送至"
+    },
+    {
+      "name": "phone_number",
+      "value": "+86 186****2770"
+    },
+    {
+      "name": "reacquire",
+      "value": "重新获取"
+    },
+    {
+      "name": "phone_number1",
+      "value": "+86 186******70"
+    },
+    {
+      "name": "login",
+      "value": "登录/注册"
+    },
+    {
+      "name": "complete",
+      "value": "请完成验证"
+    },
+    {
+      "name": "slide",
+      "value": "向右滑动滑块填充拼图"
+    },
+    {
+      "name": "verification_passed",
+      "value": "验证通过"
+    },
+    {
+      "name": "verification_fail",
+      "value": "验证失败"
+    },
+    {
+      "name": "change",
+      "value": "看不清？换一张"
+    },
+    {
+      "name": "sentence",
+      "value": "请依次点击“古  堰  画  乡”"
+    },
+    {
+      "name": "change_another",
+      "value": "换一张"
+    },
+    {
+      "name": "commit",
+      "value": "提交"
+    },
+    {
+      "name": "word",
+      "value": "文本框显示光标"
+    },
+    {
+      "name": "bottom",
+      "value": "底部加横条"
+    },
+    {
+      "name": "background",
+      "value": "背景颜色改变"
+    },
+    {
+      "name": "hua",
+      "value": "画"
+    },
+    {
+      "name": "cause",
+      "value": "故"
+    },
+    {
+      "name": "yan",
+      "value": "堰"
+    },
+    {
+      "name": "xiang",
+      "value": "乡"
+    },
+    {
+      "name": "china",
+      "value": "华"
+    },
+    {
+      "name": "gu",
+      "value": "古"
+    },
+    {
+      "name": "hunan",
+      "value": "湘"
+    }
+  ]
+}

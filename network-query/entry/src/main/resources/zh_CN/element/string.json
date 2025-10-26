@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetworkQuery"
+    },
+    {
+      "name": "reason_access_internet",
+      "value": "用于在线播放视频"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "用于获取网络信息"
+    },
+    {
+      "name": "reason_set_wifi_info",
+      "value": "用于用户在应用中连接wifi"
+    },
+    {
+      "name": "reason_get_wifi_info",
+      "value": "用于获取wifi信息"
+    },
+    {
+      "name": "location_permission",
+      "value": "用于获取wifi设备的mac地址"
+    },
+    {
+      "name": "approx_location_permission",
+      "value": "用于获取wifi设备的mac地址"
+    },
+    {
+      "name": "title_network_query",
+      "value": "常见网络信息查询"
+    },
+    {
+      "name": "title_connect_specified_network",
+      "value": "连接到指定网络场景"
+    },
+    {
+      "name": "title_network_aware",
+      "value": "网络感知场景"
+    },
+    {
+      "name": "title_wlan_positioning",
+      "value": "WLAN定位场景"
+    },
+    {
+      "name": "title_network_troubleshooting",
+      "value": "网络故障诊断场景"
+    },
+    {
+      "name": "current_cellular_tips",
+      "value": "当前为蜂窝网络"
+    },
+    {
+      "name": "no_network_tips",
+      "value": "网络异常，请检查设备网络"
+    },
+    {
+      "name": "go_on_play",
+      "value": "继续播放"
+    },
+    {
+      "name": "network_bad_tips",
+      "value": "当前网络不佳"
+    },
+    {
+      "name": "btn_get_mac",
+      "value": "获取设备的mac地址"
+    },
+    {
+      "name": "mac_address",
+      "value": "mac地址"
+    },
+    {
+      "name": "no_location_permission_tips",
+      "value": "该功能需要位置权限，请前往设置页面授权"
+    },
+    {
+      "name": "turn_on_wlan_tips",
+      "value": "请先打开WLAN开关"
+    },
+    {
+      "name": "wifi_not_connect_tips",
+      "value": "wifi未连接，请先连接wifi"
+    },
+    {
+      "name": "re_query_network_info",
+      "value": "重新查询网络信息"
+    },
+    {
+      "name": "result_network_not_connect",
+      "value": "网络未连接"
+    },
+    {
+      "name": "result_is_checking",
+      "value": "网络检测中..."
+    },
+    {
+      "name": "result_network_unavailable",
+      "value": "网络不可用"
+    },
+    {
+      "name": "result_network_available",
+      "value": "网络可用"
+    },
+    {
+      "name": "result_network_normal",
+      "value": "网络正常"
+    },
+    {
+      "name": "title_check_result",
+      "value": "检测结果"
+    },
+    {
+      "name": "title_network_type",
+      "value": "网络类型"
+    },
+    {
+      "name": "title_proxy_info",
+      "value": "网络代理信息"
+    },
+    {
+      "name": "title_router_info",
+      "value": "路由信息"
+    },
+    {
+      "name": "title_ip_address_info",
+      "value": "当前网络的IP地址"
+    },
+    {
+      "name": "title_dns_server",
+      "value": "当前网络的DNS服务器"
+    },
+    {
+      "name": "title_wifi_signal",
+      "value": "当前wifi信号强度"
+    },
+    {
+      "name": "title_wifi_mac_address",
+      "value": "当前wifi mac地址"
+    },
+    {
+      "name": "title_cellular_type",
+      "value": "蜂窝网络制式"
+    },
+    {
+      "name": "title_is_radio_on",
+      "value": "蜂窝主卡的Radio是否打开"
+    },
+    {
+      "name": "title_operator_name",
+      "value": "运营商名称"
+    },
+    {
+      "name": "title_is_roaming",
+      "value": "蜂窝网络是否处于漫游状态"
+    },
+    {
+      "name": "title_cellular_signal_rssi",
+      "value": "蜂窝网络信号强度"
+    },
+    {
+      "name": "wlan_is_connected",
+      "value": "wifi已连接"
+    },
+    {
+      "name": "wlan_is_disconnected",
+      "value": "wifi已断开"
+    },
+    {
+      "name": "network_is_not_wifi",
+      "value": "当前网络不为WIFI"
+    },
+    {
+      "name": "connected_to_spec_wifi",
+      "value": "已连接到指定WIFI"
+    },
+    {
+      "name": "network_need_auth",
+      "value": "当前网络需要登录验证"
+    },
+    {
+      "name": "not_connected_spec_wifi",
+      "value": "未连接到指定WIFI"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "btn_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "placeholder_input_password",
+      "value": "请输入wifi密码"
+    },
+    {
+      "name": "wifi_stated_connected",
+      "value": "已连接"
+    },
+    {
+      "name": "wifi_stated_encrypt",
+      "value": "加密"
+    },
+    {
+      "name": "btn_get_scan_wifi",
+      "value": "获取系统扫描wifi"
+    },
+    {
+      "name": "btn_is_connected_target",
+      "value": "是否连接到指定wifi-%1$s"
+    },
+    {
+      "name": "network_disconnect_tips",
+      "value": "网络已断开"
+    }
+  ]
+}

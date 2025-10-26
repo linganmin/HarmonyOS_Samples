@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_captures",
+      "value": "录制和播放"
+    },
+    {
+      "name": "low_latency_renderer",
+      "value": "低时延播放"
+    },
+    {
+      "name": "low_latency_captures",
+      "value": "低时延录制"
+    },
+    {
+      "name": "CONTINUE",
+      "value": "继续"
+    },
+    {
+      "name": "pause_audio",
+      "value": "暂停"
+    },
+    {
+      "name": "record_result",
+      "value": "录音结果"
+    },
+    {
+      "name": "Back",
+      "value": "返回"
+    },
+    {
+      "name": "play_now",
+      "value": "正在播放..."
+    },
+    {
+      "name": "permission_microphone",
+      "value": "允许应用在录制音频场景中使用麦克风。"
+    }
+  ]
+}

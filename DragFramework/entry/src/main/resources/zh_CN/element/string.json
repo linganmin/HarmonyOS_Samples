@@ -1,0 +1,185 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "拖拽框架开发实践"
+    },
+    {
+      "name": "singletonAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "singletonAbility_label",
+      "value": "DragFrameworkSingleton"
+    },
+    {
+      "name": "hyperlink_title",
+      "value": "HyperLink 拖拽"
+    },
+    {
+      "name": "hyperlink_none_text_column_name",
+      "value": "不允许超链接释放区"
+    },
+    {
+      "name": "hyperlink_text_column_name",
+      "value": "允许超链接释放区"
+    },
+    {
+      "name": "none_data",
+      "value": "无效数据"
+    },
+    {
+      "name": "data_detail",
+      "value": "HyperLink\nurl: %s\ndescription: %s"
+    },
+    {
+      "name": "image_text_title",
+      "value": "允许图片释放区"
+    },
+    {
+      "name": "image_none_text_title",
+      "value": "不允许图片释放区"
+    },
+    {
+      "name": "image_title",
+      "value": "Image 拖拽"
+    },
+    {
+      "name": "rich_editor_text_title",
+      "value": "文本接收拖拽区"
+    },
+    {
+      "name": "textarea_title",
+      "value": "TextArea 拖拽"
+    },
+    {
+      "name": "textarea_text_title",
+      "value": "允许文本释放区"
+    },
+    {
+      "name": "textarea_none_text_title",
+      "value": "不允许文本释放区"
+    },
+    {
+      "name": "text_input_title",
+      "value": "TextInput 拖拽"
+    },
+    {
+      "name": "index_title",
+      "value": "拖拽框架实践"
+    },
+    {
+      "name": "rich_editor_title",
+      "value": "RichEditor 拖拽"
+    },
+    {
+      "name": "rich_editor_text",
+      "value": "RichEditor drag, try it!"
+    },
+    {
+      "name": "list_title",
+      "value": "List 拖拽"
+    },
+    {
+      "name": "background_title",
+      "value": "自定义拖拽背板"
+    },
+    {
+      "name": "watermark_title",
+      "value": "拖拽图片增加水印"
+    },
+    {
+      "name": "ai_recognition_title",
+      "value": "AI识别拖拽内容"
+    },
+    {
+      "name": "background_content",
+      "value": "雪山风景图"
+    },
+    {
+      "name": "drag_successfully",
+      "value": "拖拽成功"
+    },
+    {
+      "name": "drag_failed",
+      "value": "拖拽失败"
+    },
+    {
+      "name": "area_can_drag",
+      "value": "允许释放区域"
+    },
+    {
+      "name": "drag_time",
+      "value": "拖拽时间："
+    },
+    {
+      "name": "splice_screen_drag",
+      "value": "SpliceScreenDrag"
+    },
+    {
+      "name": "area_none_drag",
+      "value": "禁止释放区域"
+    },
+    {
+      "name": "online_image_title",
+      "value": "在线 Image 拖拽"
+    },
+    {
+      "name": "localvideo_text_title",
+      "value": "允许视频释放区"
+
+    },
+    {
+      "name": "localvideo_title",
+      "value": "本地 Video 拖拽"
+    },
+    {
+      "name": "localvideo_none_text_title",
+      "value": "不允许视频释放区"
+    },
+    {
+      "name": "internet_reason",
+      "value": "访问网络"
+    },
+    {
+      "name": "Text_title",
+      "value": "Text组件图文混排拖拽"
+    },
+    {
+      "name": "image_and_text_text_title",
+      "value": "允许图文混合内容释放区"
+    },
+    {
+      "name": "pixelMap_text_title",
+      "value": "允许PixelMap形式图片图文混合内容落入区"
+    },
+    {
+      "name": "uri_text_title",
+      "value": "允许uri格式图片图文混合内容落入区"
+    },
+    {
+      "name": "text_and_image_text_description",
+      "value": "这是一张图片"
+    },
+    {
+      "name": "text_and_image_title",
+      "value": "图文混排拖拽"
+    },
+    {
+      "name": "RichEditor_title",
+      "value": "RichEditor 图文混排拖拽"
+    },
+    {
+      "name": "MultiEntry_title",
+      "value": "MultiEntry 图文混排拖拽"
+    }
+  ]
+}

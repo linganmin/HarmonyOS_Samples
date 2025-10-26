@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "AttributionAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AttributionAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "register_source",
+      "value": "Register Source"
+    },
+    {
+      "name": "register_trigger",
+      "value": "Register Trigger"
+    },
+    {
+      "name": "validate_source",
+      "value": "validateSource"
+    },
+    {
+      "name": "set_postback",
+      "value": "setPostback"
+    },
+    {
+      "name": "flush_postbacks",
+      "value": "flushPostbacks"
+    }
+  ]
+}

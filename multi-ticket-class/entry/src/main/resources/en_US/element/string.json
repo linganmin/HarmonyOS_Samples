@@ -1,0 +1,352 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiStockCategoryApp"
+    },
+    {
+      "name": "regular_way",
+      "value": "Regular Way"
+    },
+    {
+      "name": "self_selected_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "stock_pk",
+      "value": "StockPK"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "go_trade",
+      "value": "Go Trade"
+    },
+    {
+      "name": "transaction_details",
+      "value": "Transaction Details"
+    },
+    {
+      "name": "market_conditions",
+      "value": "Market Conditions"
+    },
+    {
+      "name": "information",
+      "value": "Information"
+    },
+    {
+      "name": "announcement",
+      "value": "XX Technology：Latest announcement."
+    },
+    {
+      "name": "closed_day",
+      "value": "Closed at 15:03:03 on October 19th"
+    },
+    {
+      "name": "some_company_technology",
+      "value": "Some Company Technology"
+    },
+    {
+      "name": "deep",
+      "value": "S"
+    },
+    {
+      "name": "confirm_purchase",
+      "value": "Confirm Purchase"
+    },
+    {
+      "name": "order_quantity",
+      "value": "Order quantity"
+    },
+    {
+      "name": "commissioned_price",
+      "value": "Commissioned Price"
+    },
+    {
+      "name": "shareholder_account",
+      "value": "Account: 500****5"
+    },
+    {
+      "name": "buy",
+      "value": "Buy"
+    },
+    {
+      "name": "Stock_name_code",
+      "value": "Company 3****3"
+    },
+    {
+      "name": "quantity",
+      "value": "Quantity"
+    },
+    {
+      "name": "price",
+      "value": "Price"
+    },
+    {
+      "name": "limit_down",
+      "value": "Limit Down  "
+    },
+    {
+      "name": "raising_limit",
+      "value": "  Raising Limit  "
+    },
+    {
+      "name": "already_held",
+      "value": "Already Held"
+    },
+    {
+      "name": "stock",
+      "value": "stock"
+    },
+    {
+      "name": "buy_able",
+      "value": "BuyAble"
+    },
+    {
+      "name": "stock_name",
+      "value": "Stock Name"
+    },
+    {
+      "name": "stock_number",
+      "value": "Stock Number"
+    },
+    {
+      "name": "latest_price",
+      "value": "Latest Price"
+    },
+    {
+      "name": "highs_and_lows",
+      "value": "High Low"
+    },
+    {
+      "name": "price_limit",
+      "value": "Price Limit"
+    },
+    {
+      "name": "gross",
+      "value": "Gross"
+    },
+    {
+      "name": "impressions",
+      "value": "Impressions"
+    },
+    {
+      "name": "volume_transaction",
+      "value": "Volume Business"
+    },
+    {
+      "name": "amplitude",
+      "value": "Amplitude"
+    },
+    {
+      "name": "change_hands",
+      "value": "Change Hands"
+    },
+    {
+      "name": "PEG",
+      "value": "PEG"
+    },
+    {
+      "name": "PB",
+      "value": "PB"
+    },
+    {
+      "name": "somebody_technology",
+      "value": "Technology"
+    },
+    {
+      "name": "certain_estate_company",
+      "value": "Real Estate"
+    },
+    {
+      "name": "certain_pharmaceutical_company",
+      "value": "Pharmacy"
+    },
+    {
+      "name": "billion",
+      "value": "B"
+    },
+    {
+      "name": "growth_enterprise_market",
+      "value": "G"
+    },
+    {
+      "name": "securities_margin_trading",
+      "value": "S"
+    },
+    {
+      "name": "certain_index",
+      "value": "Certain Index"
+    },
+    {
+      "name": "deep_number",
+      "value": "Deep Number"
+    },
+    {
+      "name": "science_technology",
+      "value": "Technology"
+    },
+    {
+      "name": "self_select_stock",
+      "value": "Self Select Stock"
+    },
+    {
+      "name": "all",
+      "value": "All"
+    },
+    {
+      "name": "add_custom_options",
+      "value": "Add custom options"
+    },
+    {
+      "name": "optional",
+      "value": "Optional"
+    },
+    {
+      "name": "market",
+      "value": "Market"
+    },
+    {
+      "name": "stock_company",
+      "value": "XX Stock"
+    },
+    {
+      "name": "stock_text_start",
+      "value": "xxxx xxxx"
+    },
+    {
+      "name": "stock_text_end",
+      "value": "xxxx xxxx"
+    },
+    {
+      "name": "stock_names",
+      "value": "Stock Name"
+    },
+    {
+      "name": "home_page",
+      "value": "Home Page"
+    },
+    {
+      "name": "time_share",
+      "value": "Time Share"
+    },
+    {
+      "name": "five_days",
+      "value": "Five Days"
+    },
+    {
+      "name": "daily_k",
+      "value": "Daily K"
+    },
+    {
+      "name": "week_k",
+      "value": "Week K"
+    },
+    {
+      "name": "month_k",
+      "value": "Month K"
+    },
+    {
+      "name": "season_k",
+      "value": "Season K"
+    },
+    {
+      "name": "half_year_k",
+      "value": "Half Year K"
+    },
+    {
+      "name": "year_k",
+      "value": "Year K"
+    },
+    {
+      "name": "discussion",
+      "value": "Discussion"
+    },
+    {
+      "name": "must_read",
+      "value": "Must Read"
+    },
+    {
+      "name": "capital",
+      "value": "Capital"
+    },
+    {
+      "name": "datum",
+      "value": "Datum"
+    },
+    {
+      "name": "announcements",
+      "value": "Announcement"
+    },
+    {
+      "name": "finance",
+      "value": "Finance"
+    },
+    {
+      "name": "research_report",
+      "value": "Research Report"
+    },
+    {
+      "name": "related_fund",
+      "value": "Related Fund"
+    },
+    {
+      "name": "now_begins",
+      "value": "Now Begins"
+    },
+    {
+      "name": "yesterday_close",
+      "value": "Yesterday Close"
+    },
+    {
+      "name": "turnover_rate",
+      "value": "Turnover Rate"
+    },
+    {
+      "name": "tallest",
+      "value": "tallest"
+    },
+    {
+      "name": "lowest",
+      "value": "lowest"
+    },
+    {
+      "name": "turnover",
+      "value": "turnover"
+    },
+    {
+      "name": "total_value",
+      "value": "Total Value"
+    },
+    {
+      "name": "text_hands",
+      "value": "4570H"
+    },
+    {
+      "name": "text_billion",
+      "value": "26.10Y"
+    },
+    {
+      "name": "turnover_value",
+      "value": "910.5W"
+    },
+    {
+      "name": "sell",
+      "value": "Sell"
+    },
+    {
+      "name": "text_buy",
+      "value": "Buy"
+    }
+  ]
+}

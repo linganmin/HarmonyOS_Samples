@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "result",
+      "value": "收到的消息为 : "
+    }
+  ]
+}

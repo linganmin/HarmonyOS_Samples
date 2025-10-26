@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "CallCustomMethodAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "CallCustomMethodAbility_label",
+      "value": "label"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "float": [
+    {
+      "name": "main_page_button_width",
+      "value": "288vp"
+    },
+    {
+      "name": "main_page_button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "distance_from_Navigation_bar",
+      "value": "16vp"
+    },
+    {
+      "name": "default_button_image_width",
+      "value": "28vp"
+    },
+    {
+      "name": "default_button_image_height",
+      "value": "28vp"
+    },
+    {
+      "name": "default_button_width",
+      "value": "56vp"
+    },
+    {
+      "name": "default_button_height",
+      "value": "56vp"
+    },
+    {
+      "name": "default_button_AVCastPicker_width",
+      "value": "50vp"
+    },
+    {
+      "name": "default_button_AVCastPicker_height",
+      "value": "50vp"
+    },
+    {
+      "name": "default_button_margin_bottom",
+      "value": "26vp"
+    },
+    {
+      "name": "default_button_margin_space",
+      "value": "45vp"
+    }
+  ]
+}

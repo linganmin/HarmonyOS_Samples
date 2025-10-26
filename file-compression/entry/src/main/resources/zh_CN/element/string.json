@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "文件压缩"
+    },
+    {
+      "name": "text_document",
+      "value": "文档"
+    },
+    {
+      "name": "text_preview",
+      "value": "预览"
+    },
+    {
+      "name": "compressed_file_type",
+      "value": "压缩文件类型"
+    },
+    {
+      "name": "text_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "import_resource_path",
+      "value": "从资源路径导入"
+    },
+    {
+      "name": "gzip_compress",
+      "value": "gzip压缩"
+    },
+    {
+      "name": "zip_compress",
+      "value": "zip压缩"
+    },
+    {
+      "name": "7z_compress",
+      "value": "7z"
+    },
+    {
+      "name": "tar_compress",
+      "value": "tar压缩"
+    },
+    {
+      "name": "compression_status_prompt1",
+      "value": "压缩文件已存在"
+    },
+    {
+      "name": "compression_status_prompt2",
+      "value": "压缩失败"
+    },
+    {
+      "name": "compression_status_prompt3",
+      "value": "同名文件已覆盖"
+    },
+    {
+      "name": "compression_status_prompt4",
+      "value": "正在解压，请稍后"
+    },
+    {
+      "name": "text_compress",
+      "value": "压缩"
+    },
+    {
+      "name": "text_uncompress",
+      "value": "解压"
+    }
+  ]
+}

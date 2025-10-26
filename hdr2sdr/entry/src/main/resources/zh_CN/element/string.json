@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "EntryAbility_label",
+      "value": "HDR转码SDR"
+    },
+    {
+      "name": "HDR_video_recording",
+      "value": "HDR视频录制"
+    },
+    {
+      "name": "HDR_video_transcode",
+      "value": "HDR视频转码"
+    },
+    {
+      "name": "original_video",
+      "value": "原视频"
+    },
+    {
+      "name": "video_select_file",
+      "value": "选择视频"
+    },
+    {
+      "name": "video_processing_before_are",
+      "value": "请先选择视频"
+    },
+    {
+      "name": "video_record_before_are",
+      "value": "请先录制视频"
+    },
+    {
+      "name": "video_playback",
+      "value": "视频播放"
+    },
+    {
+      "name": "save_video",
+      "value": "保存视频"
+    },
+    {
+      "name": "AVCodec_transcode",
+      "value": "AVCodec转码"
+    },
+    {
+      "name": "color_space_conversion",
+      "value": "Video_Processing色彩转换"
+    },
+    {
+      "name": "video_encapsulation_list",
+      "value": "选择视频封装方法"
+    },
+    {
+      "name": "recorder_video_encoding_encapsulation",
+      "value": "Recorder视频编码封装"
+    },
+    {
+      "name": "AVCodec_encoding_encapsulation",
+      "value": "AVCodec原生能力编码封装"
+    },
+    {
+      "name": "record_video",
+      "value": "录制视频"
+    },
+    {
+      "name": "alert_setting",
+      "value": "当前设备不支持该设置。"
+    },
+    {
+      "name": "save_button_note",
+      "value": "是否将拍摄的视频保存到图库？"
+    },
+    {
+      "name": "save_button_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "save_button_title",
+      "value": "视频保存位置确认"
+    },
+    {
+      "name": "alert",
+      "value": "未选择视频！"
+    },
+    {
+      "name": "color_space_list",
+      "value": "色彩空间转换"
+    },
+    {
+      "name": "video_is_processing_try_later",
+      "value": "视频正在处理中，稍后再试"
+    },
+    {
+      "name": "video_processing_not_support",
+      "value": "该视频不支持当前操作"
+    },
+    {
+      "name": "Optimize_video",
+      "value": "优化视频"
+    }
+  ]
+}

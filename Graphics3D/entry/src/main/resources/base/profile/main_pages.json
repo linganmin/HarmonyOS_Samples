@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "graphics3d/ContainerPage",
+    "graphics3d/NodeBase",
+    "graphics3d/NodeCamera",
+    "graphics3d/NodeLight",
+    "graphics3d/SceneAnimation",
+    "graphics3d/SceneEnvironment",
+    "graphics3d/SceneShader"
+  ]
+}

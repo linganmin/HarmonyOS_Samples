@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "ArkTSCallNativeNapiCreateBuffer",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "ArkTSCallNativeNapiCreateBufferAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "ArkTSCallNativeNapiCreateBufferAbility",
+        "srcEntry": "./ets/arktscallnativenapicreatebufferability/ArkTSCallNativeNapiCreateBufferAbility.ets",
+        "description": "$string:ArkTSCallNativeNapiCreateBufferAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:ArkTSCallNativeNapiCreateBufferAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BluetoothLowEnergy"
+    },
+    {
+      "name": "list_of_bluetooth_devices",
+      "value": "List of Bluetooth devices"
+    },
+    {
+      "name": "no_equipment",
+      "value": "No equipment"
+    },
+    {
+      "name": "search_device",
+      "value": "Search device"
+    },
+    {
+      "name": "connect",
+      "value": "Connect"
+    },
+    {
+      "name": "connecting",
+      "value": "Connecting"
+    },
+    {
+      "name": "disconnecting",
+      "value": "Disconnecting"
+    },
+    {
+      "name": "connected",
+      "value": "Connected"
+    },
+    {
+      "name": "bluetooth_off_Stop_heart_rate_broadcast",
+      "value": "Bluetooth off. Stop heart rate broadcast"
+    },
+    {
+      "name": "ble_heart_rate_broadcast_is_disabled",
+      "value": "BLE heart rate broadcast is disabled"
+    },
+    {
+      "name": "the_ble_heart_rate_broadcast_has_been_enabled",
+      "value": "The BLE heart rate broadcast has been enabled"
+    },
+    {
+      "name": "ble_server",
+      "value": "BLE server"
+    },
+    {
+      "name": "bluetooth_name",
+      "value": "Bluetooth name： %s"
+    },
+    {
+      "name": "current_heart_rate",
+      "value": "Current heart rate："
+    },
+    {
+      "name": "turn_off_ble_heart_rate_broadcast",
+      "value": "Turn off BLE Heart rate broadcast"
+    },
+    {
+      "name": "enable_ble_heart_rate_broadcast",
+      "value": "Enable BLE heart rate broadcast"
+    },
+    {
+      "name": "real_time_heart_rate_graph",
+      "value": "Real-time heart rate graph"
+    },
+    {
+      "name": "disconnected",
+      "value": "Disconnected"
+    },
+    {
+      "name": "times_per_minute",
+      "value": "Times/per minute"
+    },
+    {
+      "name": "maximum_heart_rate",
+      "value": "Maximum heart rate"
+    },
+    {
+      "name": "minimum_heart_rate",
+      "value": "Minimum heart rate"
+    },
+    {
+      "name": "mean_heart_rate",
+      "value": "Mean heart rate"
+    },
+    {
+      "name": "bluetooth_low_energy",
+      "value": "Bluetooth low energy"
+    },
+    {
+      "name": "ble_client",
+      "value": "BLE client"
+    },
+    {
+      "name": "bluetooth_enabled_please_wait",
+      "value": "Bluetooth enabled, please wait..."
+    },
+    {
+      "name": "bLE_scanning_has_been_stopped",
+      "value": "BLE scanning has been stopped"
+    },
+    {
+      "name": "change_bluetooth_name",
+      "value": "The Bluetooth name of the current device is too long, please go to the Settings to change the Bluetooth name"
+    },
+    {
+      "name": "connection_failed_please_rescan",
+      "value": "Connection failed, please rescan"
+    },
+    {
+      "name": "current_heart",
+      "value": "Current heart rate"
+    },
+    {
+      "name": "reason",
+      "value": "Allows applications to access Bluetooth and use Bluetooth capabilities"
+    }
+  ]
+}

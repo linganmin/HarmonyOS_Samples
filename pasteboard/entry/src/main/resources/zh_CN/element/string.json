@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "剪贴板"
+    },
+    {
+      "name": "title",
+      "value": "剪贴板"
+    },
+    {
+      "name": "input_tip",
+      "value": "请输入文字"
+    },
+    {
+      "name": "result_tip",
+      "value": "执行结果"
+    },
+    {
+      "name": "copy",
+      "value": "复制"
+    },
+    {
+      "name": "reason_paste",
+      "value": "允许应用获取系统剪贴板内链接，用于跳转页面"
+    },
+    {
+      "name": "reason_router",
+      "value": "即将读取剪贴板链接并跳转"
+    },
+    {
+      "name": "jumping",
+      "value": "跳转"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "button_jump",
+      "value": "粘贴分享直达"
+    },
+    {
+      "name": "button_mixed",
+      "value": "多数据混排粘贴"
+    },
+    {
+      "name": "button_progress",
+      "value": "进度条接入"
+    },
+    {
+      "name": "button_copy_uri",
+      "value": "一键复制分享链接"
+    },
+    {
+      "name": "paste_progress",
+      "value": "粘贴进度"
+    },
+    {
+      "name": "paste_image_text",
+      "value": "粘贴图文混排数据"
+    },
+    {
+      "name": "paste_text",
+      "value": "粘贴纯文本数据"
+    },
+    {
+      "name": "paste_image",
+      "value": "粘贴图片数据"
+    },
+    {
+      "name": "paste_complete",
+      "value": "粘贴成功"
+    },
+    {
+      "name": "copy_complete",
+      "value": "复制成功"
+    }
+  ]
+}

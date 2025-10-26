@@ -1,0 +1,27 @@
+[
+  {
+    "text": "360°立体天气动态展示",
+    "startTime": 1,
+    "endTime": 3
+  },
+  {
+    "text": "实时同步窗外真实气象",
+    "startTime": 3,
+    "endTime": 6
+  },
+  {
+    "text": "雷暴预警闪电特效提示",
+    "startTime": 7,
+    "endTime": 10
+  },
+  {
+    "text": "晨曦极光自动色调变换",
+    "startTime": 10,
+    "endTime": 12
+  },
+  {
+    "text": "指尖轻触触发季节音效",
+    "startTime": 12,
+    "endTime": 14
+  }
+]

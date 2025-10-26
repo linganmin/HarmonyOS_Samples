@@ -1,0 +1,18 @@
+[
+  {
+    "id": "12949689",
+    "displayName": "app.string.game_card_title_first",
+    "fileName": "game1.png",
+    "description": "app.string.game_card_desc_first",
+    "thumbnail": "app.media.game1",
+    "gamePoster": "app.media.game1_detail"
+  },
+  {
+    "id": "12949690",
+    "displayName": "app.string.game_card_title_second",
+    "fileName": "game2.png",
+    "description": "app.string.game_card_desc_second",
+    "thumbnail": "app.media.game2",
+    "gamePoster": "app.media.game2_detail"
+  }
+]

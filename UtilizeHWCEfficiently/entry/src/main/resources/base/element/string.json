@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UtilizeHWCEfficiently"
+    },
+    {
+      "name": "index_title",
+      "value": "Efficient utilization of HWC's low-power design"
+    },
+    {
+      "name": "video_with_blur",
+      "value": "Video component superimposed blur component"
+    },
+    {
+      "name": "normal_video",
+      "value": "Video component superimposed non-blur component"
+    },
+    {
+      "name": "web_with_blur",
+      "value": "Web component superimposed blur component"
+    },
+    {
+      "name": "normal_web",
+      "value": "Web component superimposed non-blur component"
+    },
+    {
+      "name": "transparent_video",
+      "value": "Video layer set transparency"
+    },
+    {
+      "name": "opaque_video",
+      "value": "Video layer is opaque"
+    },
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "user_name",
+      "value": "@Happy Cute Pets"
+    },
+    {
+      "name": "date",
+      "value": "· 08-13"
+    },
+    {
+      "name": "topic",
+      "value": "#pet #puppy #soadorable"
+    },
+    {
+      "name": "review",
+      "value": "Review"
+    }
+  ]
+}

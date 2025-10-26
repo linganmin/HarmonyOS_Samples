@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "备忘录Mock"
+    },
+    {
+      "name": "Take_photo",
+      "value": "拍照"
+    },
+    {
+      "name": "Scan",
+      "value": "扫描"
+    },
+    {
+      "name": "Picker_photo",
+      "value": "图库选择"
+    },
+    {
+      "name": "Photo_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "serviceCollaButton",
+      "value": "使用远端设备插入图片"
+    },
+    {
+      "name": "Other_device",
+      "value": "从其他设备导入"
+    },
+    {
+      "name": "using",
+      "value": "使用 %s "
+    },
+    {
+      "name": "use",
+      "value": "使用 %s "
+    }
+  ]
+}

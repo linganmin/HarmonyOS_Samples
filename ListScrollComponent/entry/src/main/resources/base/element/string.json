@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ListScrollComponent"
+    },
+    {
+      "name": "index_title",
+      "value": "List使用示例"
+    },
+    {
+      "name": "scenario1",
+      "value": "场景一"
+    },
+    {
+      "name": "scenario2",
+      "value": "场景二"
+    },
+    {
+      "name": "scenario3",
+      "value": "场景三"
+    },
+    {
+      "name": "scenario4",
+      "value": "场景四"
+    },
+    {
+      "name": "scenario5",
+      "value": "场景五"
+    },
+    {
+      "name": "page_same_item",
+      "value": "列表项结构类型相同"
+    },
+    {
+      "name": "page_different_item",
+      "value": "列表项结构类型不同"
+    },
+    {
+      "name": "page_combine_item",
+      "value": "列表项子组件拆分组合"
+    },
+    {
+      "name": "page_group_layout",
+      "value": "分组布局"
+    },
+    {
+      "name": "page_tabs_ceiling",
+      "value": "Tabs吸顶"
+    },
+    {
+      "name": "hot_video",
+      "value": "好看推荐"
+    },
+    {
+      "name": "collection",
+      "value": "收藏"
+    },
+    {
+      "name": "collection_success",
+      "value": "✅ 收藏成功"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "delete_success",
+      "value": "✅ 删除成功"
+    },
+    {
+      "name": "no_more_data",
+      "value": "已经到底啦"
+    },
+    {
+      "name": "loading_more",
+      "value": "正在加载更多..."
+    },
+    {
+      "name": "loading_data",
+      "value": "数据加载中..."
+    },
+    {
+      "name": "loading_done",
+      "value": "到底啦..."
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "hot_search",
+      "value": "热搜"
+    },
+    {
+      "name": "recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "optional",
+      "value": "自选"
+    },
+    {
+      "name": "found",
+      "value": "发现"
+    },
+    {
+      "name": "news",
+      "value": "要闻"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "futures_trading",
+      "value": "期货"
+    },
+    {
+      "name": "foundation",
+      "value": "基金"
+    },
+    {
+      "name": "insurance",
+      "value": "保险"
+    },
+    {
+      "name": "security",
+      "value": "证券"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "want_search",
+      "value": "猜你想搜..."
+    },
+    {
+      "name": "manager_content",
+      "value": "育人之本，在于培根铸魂。思想政治理论课正是落实立德树人根本任务......"
+    },
+    {
+      "name": "category_id",
+      "value": " 品类ID: "
+    },
+    {
+      "name": "i_am",
+      "value": "我是"
+    },
+    {
+      "name": "selected_clothing",
+      "value": "精选服饰"
+    },
+    {
+      "name": "selected_accessories",
+      "value": "精选饰品"
+    },
+    {
+      "name": "down_jackets",
+      "value": "羽绒服"
+    },
+    {
+      "name": "casual_shoes",
+      "value": "休闲鞋"
+    },
+    {
+      "name": "jacket",
+      "value": "上衣"
+    },
+    {
+      "name": "pants",
+      "value": "裤子"
+    },
+    {
+      "name": "sports_matching",
+      "value": "运动搭配"
+    },
+    {
+      "name": "same_style",
+      "value": "明星同款"
+    }
+  ]
+}

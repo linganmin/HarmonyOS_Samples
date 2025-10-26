@@ -1,0 +1,11 @@
+<!-- [Start style_2] -- >
+<!-- Set the child components within the div to be flexible layout and display them centered; -->
+<!-- ensure that the text component is displayed in the middle of the screen. -->
+<div style="width: 466px; height: 466px; display: flex; justify-content: center; align-items: center;">
+<!-- Set the text component to display the text centered; -->
+<!-- ensure that "Hello World" is displayed right in the middle of the screen. -->
+    <text style="width: 200px; height: 100px; font-size: 30px; text-align: center;">
+        Hello World
+    </text>
+</div>
+<!-- [End style_2] -- >

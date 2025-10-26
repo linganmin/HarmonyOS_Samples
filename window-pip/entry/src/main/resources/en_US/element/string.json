@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WindowPiP"
+    },
+    {
+      "name": "video1",
+      "value": "Video1"
+    },
+    {
+      "name": "video2",
+      "value": "Video2"
+    },
+    {
+      "name": "video3",
+      "value": "Video3"
+    },
+    {
+      "name": "video4",
+      "value": "Video4"
+    },
+    {
+      "name": "video5",
+      "value": "Video5"
+    },
+    {
+      "name":  "video6",
+      "value": "Video6"
+    },
+    {
+      "name": "video7",
+      "value": "Video7"
+    },
+    {
+      "name": "pip_demo",
+      "value": "WindowPiP"
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "auto",
+      "value": "Auto"
+    },
+    {
+      "name": "current_status",
+      "value": "Current Status"
+    },
+    {
+      "name": "current_error",
+      "value": "Current Error"
+    },
+    {
+      "name": "current_action",
+      "value": "Current Action"
+    },
+    {
+      "name": "callback_message",
+      "value": "Callback Message"
+    },
+    {
+      "name": "current_video_pip_play",
+      "value": "Current Video Pip Play"
+    },
+    {
+      "name": "current_error_hint",
+      "value": "Without"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+/*
+* 如何解决，webview每次调试都需要寻找进程号
+*/
+
+// [Start DebugProcessId]
+// xxx.bat
+@echo off
+setlocal
+
+:: Set devtools parameter
+hdc shell param set web.debug.devtools true
+if errorlevel 1 (
+    echo Error: Failed to set devtools parameter.
+    pause
+    exit /b
+)
+
+:: Get the domain socket name of devtools
+for /f "tokens=*" %%a in ('hdc shell "cat /proc/net/unix | grep devtools"') do set SOCKET_NAME=%%a
+if not defined SOCKET_NAME (
+    echo Error: Failed to get the domain socket name of devtools.
+    pause
+    exit /b
+)
+
+:: Extract process ID
+// tokens=4 indicates extracting the field separated by the fourth underscore as the PID
+for /f "delims=_ tokens=4" %%a in ("%SOCKET_NAME%") do set PID=%%a
+if not defined PID (
+    echo Error: Failed to extract process ID.
+    pause
+    exit /b
+)
+
+:: Add mapping
+hdc fport tcp:9222 localabstract:webview_devtools_remote_%PID%
+if errorlevel 1 (
+    echo Error: Failed to add mapping.
+    pause
+    exit /b
+)
+
+:: Check mapping
+hdc fport ls
+
+echo.
+echo Script executed successfully. Press any key to exit...
+pause >nul
+
+:: Try opening the page in Edge
+start msedge chrome://inspect/#devices.com
+
+:: If Edge is unavailable, open the page in Chrome
+if errorlevel 1 (
+    start chrome chrome://inspect/#devices.com
+)
+
+endlocal
+// [End DebugProcessId]

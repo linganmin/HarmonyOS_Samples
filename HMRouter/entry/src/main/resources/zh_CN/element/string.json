@@ -1,0 +1,592 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HMRouter"
+    },
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "comment_placeholder",
+      "value": "说点什么…"
+    },
+    {
+      "name": "official_review",
+      "value": "官方主播"
+    },
+    {
+      "name": "store_name",
+      "value": "官方直播间"
+    },
+    {
+      "name": "number_of_viewers",
+      "value": "73.86万人观看"
+    },
+    {
+      "name": "NAV_ROUTER_LIST1",
+      "value": "手机"
+    },
+    {
+      "name": "NAV_ROUTER_LIST2",
+      "value": "穿戴"
+    },
+    {
+      "name": "NAV_ROUTER_LIST3",
+      "value": "平板"
+    },
+    {
+      "name": "NAV_ROUTER_LIST4",
+      "value": "笔记本"
+    },
+    {
+      "name": "NAV_ROUTER_LIST5",
+      "value": "台显打印"
+    },
+    {
+      "name": "NAV_ROUTER_LIST6",
+      "value": "耳机音响"
+    },
+    {
+      "name": "NAV_ROUTER_LIST7",
+      "value": "智慧屏"
+    },
+    {
+      "name": "NAV_ROUTER_LIST8",
+      "value": "门锁路由"
+    },
+    {
+      "name": "NAV_ROUTER_LIST9",
+      "value": "出行车品"
+    },
+    {
+      "name": "NAV_ROUTER_LIST10",
+      "value": "数码配件"
+    },
+    {
+      "name": "NAV_ROUTER_LIST11",
+      "value": "华为服务"
+    },
+    {
+      "name": "NAV_ROUTER_LIST12",
+      "value": "数字内容"
+    },
+    {
+      "name": "NAV_ROUTER_LIST13",
+      "value": "商用终端"
+    },
+    {
+      "name": "NAV_ROUTER_LIST14",
+      "value": "华为智选"
+    },
+    {
+      "name": "NAV_ROUTER_LIST15",
+      "value": "家用电器"
+    },
+    {
+      "name": "SHOP_TITLE_LIST1",
+      "value": "新品上市"
+    },
+    {
+      "name": "SHOP_TITLE_LIST2",
+      "value": "HUAWEI Mate系列"
+    },
+    {
+      "name": "SHOP_TITLE_LIST3",
+      "value": "HUAWEI P系列"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST1",
+      "value": "首页"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST2",
+      "value": "分类"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST3",
+      "value": "发现"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST4",
+      "value": "购物袋"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST5",
+      "value": "我的"
+    },
+    {
+      "name": "TOP_BAR_TEXTS1",
+      "value": "华为"
+    },
+    {
+      "name": "TOP_BAR_TEXTS2",
+      "value": "AITO汽车"
+    },
+    {
+      "name": "TOP_BAR_TEXTS3",
+      "value": "华为智选"
+    },
+    {
+      "name": "TOP_BAR_TEXTS4",
+      "value": "生态周边"
+    },
+    {
+      "name": "searching",
+      "value": "搜索..."
+    },
+    {
+      "name": "GOOD_CATEGORIES1",
+      "value": "智慧办公"
+    },
+    {
+      "name": "GOOD_CATEGORIES3",
+      "value": "华为手机"
+    },
+    {
+      "name": "GOOD_CATEGORIES2",
+      "value": "智慧家居"
+    },
+    {
+      "name": "GOOD_CATEGORIES4",
+      "value": "影音娱乐"
+    },
+    {
+      "name": "GOOD_CATEGORIES5",
+      "value": "运动健康"
+    },
+    {
+      "name": "GOOD_CATEGORIES6",
+      "value": "AITO汽车"
+    },
+    {
+      "name": "GOOD_CATEGORIES7",
+      "value": "华为智选"
+    },
+    {
+      "name": "GOOD_CATEGORIES8",
+      "value": "鸿蒙智联"
+    },
+    {
+      "name": "GOOD_CATEGORIES9",
+      "value": "企业商用"
+    },
+    {
+      "name": "GOOD_CATEGORIES10",
+      "value": "全屋智能"
+    },
+    {
+      "name": "PRICE_UNIT",
+      "value": "起"
+    },
+    {
+      "name": "HOME_TITLES1",
+      "value": "福利专区"
+    },
+    {
+      "name": "HOME_TITLES2",
+      "value": "甄选推荐"
+    },
+    {
+      "name": "HOME_TITLES3",
+      "value": "限时秒杀"
+    },
+    {
+      "name": "BUTTON_TEXTS1",
+      "value": "立即领券"
+    },
+    {
+      "name": "BUTTON_TEXTS2",
+      "value": "立即购买"
+    },
+    {
+      "name": "TIP_TEXTS1",
+      "value": "用券价"
+    },
+    {
+      "name": "TIP_TEXTS2",
+      "value": "更多"
+    },
+    {
+      "name": "TIP_TEXTS3",
+      "value": "新品"
+    },
+    {
+      "name": "SECTION_PRODUCTS_TITLES1",
+      "value": "MateBook X Pro 12代"
+    },
+    {
+      "name": "SECTION_PRODUCTS_TITLES2",
+      "value": "新品"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO1",
+      "value": "北斗卫星消息 | 低电量应急模式"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO2",
+      "value": "144Hz高割全面屏"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO3",
+      "value": "32GB大内存 | 13代酷睿处理器 | 超级终端"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES1",
+      "value": "V1-V5优惠400元/12期免息"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES2",
+      "value": "新一代直屏旗舰机"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES3",
+      "value": "最高省100"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES4",
+      "value": "限时直降300"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES5",
+      "value": "最高省300"
+    },
+    {
+      "name": "SHOPPING_BAG_TITLES1",
+      "value": "购物袋"
+    },
+    {
+      "name": "SHOPPING_BAG_TITLES2",
+      "value": "管理"
+    },
+    {
+      "name": "SHOPPING_BAG_TITLES3",
+      "value": "华为官方旗舰店"
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES1",
+      "value": "全选"
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES2",
+      "value": "总计："
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES3",
+      "value": "已优惠 ￥1000"
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES4",
+      "value": "领券结算(1)"
+    },
+    {
+      "name": "LOGIN_TITLE",
+      "value": "登录我的账号"
+    },
+    {
+      "name": "LOGIN_PLACEHOLDER1",
+      "value": "手机号/邮件地址/账号名"
+    },
+    {
+      "name": "LOGIN_PLACEHOLDER2",
+      "value": "密码"
+    },
+    {
+      "name": "LOGIN_INPUT_TEXT",
+      "value": "小艺"
+    },
+    {
+      "name": "LOGIN_BUTTON",
+      "value": "登录"
+    },
+    {
+      "name": "LOGIN_TOAST",
+      "value": "请先登录"
+    },
+    {
+      "name": "PAY_CARD_TEXT1",
+      "value": "华为交通卡"
+    },
+    {
+      "name": "PAY_CARD_TEXT2",
+      "value": "华为钱包支付"
+    },
+    {
+      "name": "PAY_CARD_TEXT3",
+      "value": "暂无更多"
+    },
+    {
+      "name": "PAY_CARD_BUTTON",
+      "value": "确认支付"
+    },
+    {
+      "name": "PAY_CANCEL_TITLE",
+      "value": "取消订单"
+    },
+    {
+      "name": "PAY_CANCEL_CONTENT",
+      "value": "您确认要取消此订单吗?"
+    },
+    {
+      "name": "PAY_CANCEL_SEE",
+      "value": "再看看"
+    },
+    {
+      "name": "PAY_CANCEL_CONFIRM",
+      "value": "取消订单"
+    },
+    {
+      "name": "HOME_EXIT_TOAST",
+      "value": "再次返回退出应用"
+    },
+    {
+      "name": "MINE_TITLE",
+      "value": "我的账户"
+    },
+    {
+      "name": "MINE_TEXT1",
+      "value": "登录账户"
+    },
+    {
+      "name": "MINE_TEXT2",
+      "value": "转场动画设置"
+    },
+    {
+      "name": "MINE_ANIMATION_CONTENT",
+      "value": "转场动画个性化时，系统会使用用户选择的动画进行转场，用户可以自己上传动画使用。"
+    },
+    {
+      "name": "MINE_ANIMATION_TYPE1",
+      "value": "默认"
+    },
+    {
+      "name": "MINE_ANIMATION_TYPE2",
+      "value": "跟随系统"
+    },
+    {
+      "name": "MINE_ANIMATION_TYPE3",
+      "value": "个性化转场动画"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TITLE",
+      "value": "我的转场动画"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TYPE1",
+      "value": "左到右"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TYPE2",
+      "value": "右到左"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TYPE3",
+      "value": "缩放"
+    },
+    {
+      "name": "MINE_BUTTON_TEXT",
+      "value": "点击登录"
+    },
+    {
+      "name": "MINE_NAME",
+      "value": "小艺"
+    },
+    {
+      "name": "MINE_LOG_OUT_TITLE",
+      "value": "HMOS账号"
+    },
+    {
+      "name": "MINE_LOG_OUT_TEXT",
+      "value": "个人信息"
+    },
+    {
+      "name": "MINE_LOG_OUT_BUTTON",
+      "value": "退出登录"
+    },
+    {
+      "name": "SHOPPING_SETTLEMENT_BUTTON",
+      "value": "领券结算"
+    },
+    {
+      "name": "SHOPPING_UNPAID",
+      "value": "未支付"
+    },
+    {
+      "name": "SHOPPING_PAID",
+      "value": "已支付"
+    },
+    {
+      "name": "EXIT_LOGIN_TITLE",
+      "value": "退出登录"
+    },
+    {
+      "name": "EXIT_LOGIN_CONTENT",
+      "value": "是否要确定退出当前账号？"
+    },
+    {
+      "name": "EXIT_LOGIN_LEFT_BUTTON",
+      "value": "取消"
+    },
+    {
+      "name": "EXIT_LOGIN_RIGHT_BUTTON",
+      "value": "退出"
+    },
+    {
+      "name": "PAY_SUCCESS_TITLE",
+      "value": "支付成功"
+    },
+    {
+      "name": "PAY_SUCCESS_TEXT",
+      "value": "支付成功付款"
+    },
+    {
+      "name": "PAY_SUCCESS_BUTTON",
+      "value": "返回首页"
+    },
+    {
+      "name": "BUTTON_NAMES1",
+      "value": "加入购物袋"
+    },
+    {
+      "name": "BUTTON_NAMES2",
+      "value": "购买"
+    },
+    {
+      "name": "SELECT_NAME_LIST1",
+      "value": "机身颜色"
+    },
+    {
+      "name": "SELECT_NAME_LIST2",
+      "value": "储存容量"
+    },
+    {
+      "name": "SELECT_NAME_LIST3",
+      "value": "套餐类型"
+    },
+    {
+      "name": "PAY_INFO1",
+      "value": "联系人  +8610000000000"
+    },
+    {
+      "name": "PAY_INFO2",
+      "value": "华为钱包支付"
+    },
+    {
+      "name": "PAY_INFO3",
+      "value": "立即支付"
+    },
+    {
+      "name": "PAY_INFO4",
+      "value": "已支付"
+    },
+    {
+      "name": "LIVING",
+      "value": "直播中"
+    },
+    {
+      "name": "LIVING_LEFT_TEXT",
+      "value": "共"
+    },
+    {
+      "name": "LIVING_RIGHT_TEXT",
+      "value": "条评论"
+    },
+    {
+      "name": "LIVING_WRITE",
+      "value": "写评论"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TITLE",
+      "value": "XX服务"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT1",
+      "value": "“XX”是XXXXXXXXX（业务说明）。"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT2",
+      "value": "本应用需联网，调用XX，XX权限，使用蓝牙、NFC功能，开启XX，XX，读取XX，XX、读取和修改XX，XX，读取并传送XX，XX，以提供XX相关服务。我们仅在您使用具体业务功能时，才会触发上述行为收集使用相关的个人信息。详情请参阅"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT3",
+      "value": "关于XX业务与隐私声明"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT4",
+      "value": "请您仔细阅读上述声明，点击“同意”即表示您知悉并同意我们向您提供本应用服务。"
+    },
+    {
+      "name": "PRIVACY_DIALOG_LEFT_BUTTON",
+      "value": "取消"
+    },
+    {
+      "name": "PRIVACY_DIALOG_RIGHT_BUTTON",
+      "value": "同意"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TITLE",
+      "value": "隐私声明"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT1",
+      "value": "关于XX与隐私的声明"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT2",
+      "value": "更新日期：20XX年X月X日"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT3",
+      "value": "XX是（功能介绍）。华为非常重视您的个人信息和隐私保护，我们将会按照法律要求和业界成熟的安全标准，为您的个人信息提供相应的保护措施。"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT4",
+      "value": "其他补充"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT1",
+      "value": "我们如何收集和使用您的个人信息"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT2",
+      "value": "个性化推荐（可选）"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT3",
+      "value": "广告（可选）"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT4",
+      "value": "对儿童的保护"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT5",
+      "value": "与第三方共享"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT6",
+      "value": "第三方SDK"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT7",
+      "value": "管理您的数据"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT8",
+      "value": "数据存储地点及期限"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT9",
+      "value": "如何联系我们"
+    }
+  ]
+}

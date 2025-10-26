@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "KVStore"
+    },
+    {
+      "name": "table_header_key",
+      "value": "键"
+    },
+    {
+      "name": "table_header_value",
+      "value": "值"
+    },
+    {
+      "name": "table_header_type",
+      "value": "类型"
+    },
+    {
+      "name": "table_header_operate",
+      "value": "操作"
+    },
+    {
+      "name": "title",
+      "value": "创建键值型数据库"
+    },
+    {
+      "name": "select",
+      "value": "选择数据等级"
+    },
+    {
+      "name": "encrypt",
+      "value": "加密数据"
+    },
+    {
+      "name": "create",
+      "value": "创建"
+    },
+    {
+      "name": "destination_title",
+      "value": "数据库详情"
+    },
+    {
+      "name": "edit",
+      "value": "编辑"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "edit_title",
+      "value": "编辑项目"
+    },
+    {
+      "name": "new_title",
+      "value": "新增项目"
+    },
+    {
+      "name": "edit_type",
+      "value": "编辑类型"
+    },
+    {
+      "name": "new_type",
+      "value": "新增类型"
+    },
+    {
+      "name": "submit",
+      "value": "提交"
+    },
+    {
+      "name": "new",
+      "value": "新增"
+    }
+  ]
+}

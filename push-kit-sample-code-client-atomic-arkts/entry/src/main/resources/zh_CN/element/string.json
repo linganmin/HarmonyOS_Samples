@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PushAtomicDemo"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "推送功能主页"
+    },
+    {
+      "name": "subscribe_title",
+      "value": "订阅服务通知"
+    },
+    {
+      "name": "subscribe_btn",
+      "value": "发起订阅"
+    },
+    {
+      "name": "enable_device_switch",
+      "value": "请在智慧助手设置中打开“服务通知与服务动态”开关"
+    },
+    {
+      "name": "login_btn",
+      "value": "登录"
+    },
+    {
+      "name": "logined",
+      "value": "已登录"
+    },
+    {
+      "name": "login",
+      "value": "请先登录华为账号"
+    },
+    {
+      "name": "subscribe_succeeded",
+      "value": "订阅成功"
+    },
+    {
+      "name": "subscribe_partial_succeeded",
+      "value": "订阅部分成功"
+    },
+    {
+      "name": "subscribe_failed",
+      "value": "订阅失败"
+    },
+    {
+      "name": "sure",
+      "value": "知道了"
+    },
+    {
+      "name": "click_action_page",
+      "value": "点击通知落地页"
+    },
+    {
+      "name": "click_action_data",
+      "value": "消息中携带的数据"
+    },
+    {
+      "name": "network_error",
+      "value": "当前网络不可用，请检查网络"
+    }
+  ]
+}

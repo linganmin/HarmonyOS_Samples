@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "预览PDF文件"
+    },
+    {
+      "name": "tab_index_one_title",
+      "value": "预览本地PDF文件"
+    },
+    {
+      "name": "tab_index_two_title",
+      "value": "预览网络PDF文件"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used for previewing network PDF files."
+    }
+  ]
+}

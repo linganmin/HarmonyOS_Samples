@@ -1,0 +1,42 @@
+//FAQ:HarmonyOS API 9工程升级为4.0.0(10)工程
+//FAQ:工程检查报错，提示“Incorrect settings found in the build-profile.json5 file”
+// [Start products_config]
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "4.0.0(10)", //Specify the minimum version compatible with HarmonyOS applications/services. The version number needs to be changed to "4.0.0 (10)", please use English carefully And ()
+        "targetSdkVersion": "4.0.0(10)",     //Specify the target version for HarmonyOS applications/services. If not set, the default is compatibleSdkVersion
+        "runtimeOS": "HarmonyOS",            //Designated as HarmonyOS/OpenHarmony
+      }
+    ],
+    // [StartExclude products_config]
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ],
+  // [EndExclude products_config]
+}
+// [End products_config]

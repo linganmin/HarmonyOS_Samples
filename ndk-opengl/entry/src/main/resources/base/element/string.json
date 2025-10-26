@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "OpenGL Tetrahedron"
+    },
+    {
+      "name": "x_shaft_rotation",
+      "value": "Rotation angle around x axis:"
+    },
+    {
+      "name": "y_shaft_rotation",
+      "value": "Rotation angle around y axis:"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Tetrahedron"
+    },
+    {
+      "name": "btn_auto_rotation",
+      "value": "Auto"
+    },
+    {
+      "name": "btn_stop_rotation",
+      "value": "Stop"
+    },
+    {
+      "name": "btn_damping_rotation",
+      "value": "Damped"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/BackgroundLightTab",
+    "pages/BottomTab",
+    "pages/DoubleNestingTabOne",
+    "pages/RudderStyleTab",
+    "pages/SideTab",
+    "pages/SlideAndMoreTab",
+    "pages/UnderlineTab",
+    "pages/WordTab",
+    "pages/DrawerTab",
+    "pages/TabContentOverflow",
+    "pages/DoubleNestingTabTwo",
+    "pages/LeftTab"
+  ]
+}

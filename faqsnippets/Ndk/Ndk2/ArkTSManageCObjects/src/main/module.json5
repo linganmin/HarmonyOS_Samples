@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "ArkTSManageCObjects",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "ArkTSManageCObjectsAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "ArkTSManageCObjectsAbility",
+        "srcEntry": "./ets/arktsmanagecobjectsability/ArkTSManageCObjectsAbility.ets",
+        "description": "$string:ArkTSManageCObjectsAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:ArkTSManageCObjectsAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

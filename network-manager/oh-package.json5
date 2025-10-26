@@ -1,0 +1,11 @@
+{
+  "modelVersion": "6.0.0",
+  "name": "networkmanager",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+  }
+}

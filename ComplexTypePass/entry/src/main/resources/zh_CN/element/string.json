@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "数据传递"
+    },{
+      "name": "main_title",
+      "value": "跨语言复杂参数交互"
+    },{
+      "name": "button_text_execute",
+      "value": "执行"
+    },{
+      "name": "input_hint_nums_0_9",
+      "value": "请输入0-9的数字"
+    },{
+      "name": "input_hint_nums_0_255",
+      "value": "请输入0-255的数字"
+    }
+  ]
+}

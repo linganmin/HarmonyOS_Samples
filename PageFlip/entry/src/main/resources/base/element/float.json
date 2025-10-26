@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "bottom_width",
+      "value": "109vp"
+    },
+    {
+      "name": "bottom_height",
+      "value": "40vp"
+    },
+    {
+      "name": "bottom_selected_height",
+      "value": "36vp"
+    },
+    {
+      "name": "bottom_row_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "bottom_column_height",
+      "value": "84vp"
+    },
+    {
+      "name": "bottom_column_padding_left",
+      "value": "16vp"
+    },
+    {
+      "name": "bottom_font_size",
+      "value": "14fp"
+    }
+  ]
+}

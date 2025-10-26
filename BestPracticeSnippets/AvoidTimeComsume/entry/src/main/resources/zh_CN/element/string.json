@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "主线程耗时操作优化指导"
+    },
+    {
+      "name": "test",
+      "value": "test"
+    },
+    {
+      "name": "redundant_operation",
+      "value": "含有冗余操作"
+    },
+    {
+      "name": "no_redundant_operation",
+      "value": "不含有冗余操作"
+    },
+    {
+      "name": "negative_of_grid",
+      "value": "组件复用反例"
+    },
+    {
+      "name": "positive_of_grid",
+      "value": "组件复用正例"
+    },
+    {
+      "name": "negative_of_lazy_forEach",
+      "value": "循环渲染反例"
+    },
+    {
+      "name": "positive_of_lazy_forEach",
+      "value": "循环渲染正例"
+    },
+    {
+      "name": "negative_of_property",
+      "value": "组件属性反例"
+    },
+    {
+      "name": "positive_of_property",
+      "value": "组件属性正例"
+    },
+    {
+      "name": "get_str_of_resource",
+      "value": "通过资源对象"
+    },
+    {
+      "name": "get_str_of_id",
+      "value": "通过资源ID"
+    },
+    {
+      "name": "use_async",
+      "value": "使用异步"
+    },
+    {
+      "name": "use_task_pool",
+      "value": "使用多线程"
+    },
+    {
+      "name": "negative_of_onScroll",
+      "value": "高频事件回调执行耗时操作"
+    },
+    {
+      "name": "positive_of_onScroll",
+      "value": "高频事件回调不执行耗时操作"
+    },
+    {
+      "name": "conditional_rendering",
+      "value": "条件渲染"
+    }
+  ]
+}

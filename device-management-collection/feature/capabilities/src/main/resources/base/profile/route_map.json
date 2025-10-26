@@ -1,0 +1,52 @@
+{
+  "routerMap": [
+    {
+      "name": "BatteryInfo",
+      "pageSourceFile": "src/main/ets/capabilities/BatteryInfo.ets",
+      "buildFunction": "BatteryInfoBuilder",
+      "data": {
+        "description" : "this is BatteryInfo"
+      }
+    },
+    {
+      "name": "PowerManager",
+      "pageSourceFile": "src/main/ets/capabilities/PowerManager.ets",
+      "buildFunction": "PowerManagerBuilder",
+      "data": {
+        "description" : "this is PowerManager"
+      }
+    },
+    {
+      "name": "RunningLockManager",
+      "pageSourceFile": "src/main/ets/capabilities/RunningLockManager.ets",
+      "buildFunction": "RunningLockManagerBuilder",
+      "data": {
+        "description" : "this is RunningLockManager"
+      }
+    },
+    {
+      "name": "SettingsManager",
+      "pageSourceFile": "src/main/ets/capabilities/SettingsManager.ets",
+      "buildFunction": "SettingsManagerBuilder",
+      "data": {
+        "description" : "this is SettingsManager"
+      }
+    },
+    {
+      "name": "Thermal",
+      "pageSourceFile": "src/main/ets/capabilities/Thermal.ets",
+      "buildFunction": "ThermalBuilder",
+      "data": {
+        "description" : "this is Thermal"
+      }
+    },
+    {
+      "name": "UsbManager",
+      "pageSourceFile": "src/main/ets/capabilities/UsbManager.ets",
+      "buildFunction": "UsbManagerBuilder",
+      "data": {
+        "description" : "this is UsbManager"
+      }
+    }
+  ]
+}

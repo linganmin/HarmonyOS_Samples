@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "ok",
+      "value": "yes"
+    },
+    {
+      "name": "no",
+      "value": "no"
+    },
+    {
+      "name": "reason_get_bundle_info",
+      "value": "Used to demonstrate the relevant capabilities of Stage model Ability management."
+    }
+  ]
+}

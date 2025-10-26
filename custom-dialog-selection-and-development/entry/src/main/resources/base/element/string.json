@@ -1,0 +1,300 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DialogHubSample"
+    },
+    {
+      "name": "privacy_title",
+      "value": "Statement privacy"
+    },
+    {
+      "name": "update_date",
+      "value": "Updated date: 20XX XX"
+    },
+    {
+      "name": "introductory_1",
+      "value": "\"XX\" is owned by Huawei Software Technologies Co., LTD. (hereinafter referred to as \"We\" or \"Huawei\").\nProvide you with XXXX. Huawei attaches great importance to the protection of your personal information and privacy, and we will provide appropriate security protection measures for your personal information in accordance with legal requirements and industry mature security standards."
+    },
+    {
+      "name": "introductory_2",
+      "value": "1. How do we collect and use your Personal information"
+    },
+    {
+      "name": "introductory_3",
+      "value": "You can access the Personal information collection list to quickly understand the basic information about the collection and use of personal information by \"XX\" in the full functional service mode. Details of how each function collects and uses personal information can be found below."
+    },
+    {
+      "name": "introductory_4",
+      "value": "1.1 We will provide you with the following business capabilities through \"XX\". In the process of your use of the relevant business functions, we will process the information necessary for the following functions to perform our contractual obligations and ensure that you can normally use the relevant functions of the application."
+    },
+    {
+      "name": "introductory_5",
+      "value": "In order to achieve the basic functions of providing you with XX products and services, including positioning services, search services, map services, travel services (navigation services, route planning services, car appearance services)"
+    },
+    {
+      "name": "friend_nickname_1",
+      "value": "Friend1"
+    },
+    {
+      "name": "friend_nickname_2",
+      "value": "Friend2"
+    },
+    {
+      "name": "comment_button_text",
+      "value": "Write a Comment"
+    },
+    {
+      "name": "comment_list_title",
+      "value": "23 Comments"
+    },
+    {
+      "name": "after",
+      "value": "Click post-processing logic"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "not_interested",
+      "value": "Not interested"
+    },
+    {
+      "name": "reduce",
+      "value": "Reduce this kind of content"
+    },
+    {
+      "name": "shield",
+      "value": "Shield"
+    },
+    {
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "name": "more",
+      "value": "More functions"
+    },
+    {
+      "name": "cancel",
+      "value": "Unfollow"
+    },
+    {
+      "name": "cancel_user",
+      "value": "Are you sure you no longer follow this user"
+    },
+    {
+      "name": "tips",
+      "value": "Success prompt"
+    },
+    {
+      "name": "think_again",
+      "value": "Think again."
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "scan",
+      "value": "Scan"
+    },
+    {
+      "name": "collect",
+      "value": "Collect"
+    },
+    {
+      "name": "setting",
+      "value": "Setting"
+    },
+    {
+      "name": "text_tips",
+      "value": "Text tips"
+    },
+    {
+      "name": "message",
+      "value": "Ok, I'm DEFAULT toast"
+    },
+    {
+      "name": "img_tips",
+      "value": "Graphic and text tips"
+    },
+    {
+      "name": "operate_tips",
+      "value": "Operation prompt"
+    },
+    {
+      "name": "collection_successful",
+      "value": "Collection successful"
+    },
+    {
+      "name": "join_the_album",
+      "value": "Join the album"
+    },
+    {
+      "name": "turn_off_the_sound",
+      "value": "Turn off the sound"
+    },
+    {
+      "name": "dialog",
+      "value": "Dialog"
+    },
+    {
+      "name": "confirm_dialog",
+      "value": "Confirm dialog"
+    },
+    {
+      "name": "privacy_dialog",
+      "value": "Privacy dialog"
+    },
+    {
+      "name": "progress_dialog",
+      "value": "Progress dialog"
+    },
+    {
+      "name": "progress",
+      "value": "In progress"
+    },
+    {
+      "name": "menu",
+      "value": "Menu/Bubble"
+    },
+    {
+      "name": "menu_dialog",
+      "value": "Menu dialog"
+    },
+    {
+      "name": "bubble_dialog",
+      "value": "Bubble dialog"
+    },
+    {
+      "name": "operation",
+      "value": "Operation bar"
+    },
+    {
+      "name": "operation_list",
+      "value": "Operation list"
+    },
+    {
+      "name": "comment_reply_dialog",
+      "value": "Comment reply dialog"
+    },
+    {
+      "name": "agreement_tips",
+      "value": "Agreement tips"
+    },
+    {
+      "name": "sign_in_and_agree",
+      "value": "Sign in and agree"
+    },
+    {
+      "name": "user_authentication_protocol",
+      "value": "User authentication protocol"
+    },
+    {
+      "name": "rejected",
+      "value": "Rejected"
+    },
+    {
+      "name": "confirm_login",
+      "value": "Confirm login"
+    },
+    {
+      "name": "modal_dialog",
+      "value": "Modal dialog"
+    },
+    {
+      "name": "non_modal_dialog",
+      "value": "Non modal dialog"
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "list",
+      "value": "List of variable height operations"
+    },
+    {
+      "name": "nick_name_1",
+      "value": "Yellow River"
+    },
+    {
+      "name": "nick_name_2",
+      "value": "Forest"
+    },
+    {
+      "name": "nick_name_3",
+      "value": "Geographical scenery"
+    },
+    {
+      "name": "nick_name_4",
+      "value": "Mountain"
+    },
+    {
+      "name": "nick_name_5",
+      "value": "Stream"
+    },
+    {
+      "name": "comment_1",
+      "value": "Have you not seen the water of the Yellow River coming from the sky"
+    },
+    {
+      "name": "comment_2",
+      "value": "The geographical environment of this mountain is very important"
+    },
+    {
+      "name": "comment_3",
+      "value": "One will reach the summit"
+    },
+    {
+      "name": "comment_4",
+      "value": "Beautiful mountains"
+    },
+    {
+      "name": "comment_5",
+      "value": "The meandering river water"
+    },
+    {
+      "name": "place_1",
+      "value": "10-23·From Beijing"
+    },
+    {
+      "name": "place_2",
+      "value": "10-23·From Yunnan"
+    },
+    {
+      "name": "place_3",
+      "value": "10-23·From Wuhan"
+    },
+    {
+      "name": "place_4",
+      "value": "10-23·From Hunan"
+    },
+    {
+      "name": "place_5",
+      "value": "10-23·From Henan"
+    },
+    {
+      "name": "tips_title",
+      "value": "Tips"
+    },
+    {
+      "name": "reply",
+      "value": "Reply"
+    },
+    {
+      "name": "ui_display",
+      "value": "Only for UI display"
+    }
+  ]
+}

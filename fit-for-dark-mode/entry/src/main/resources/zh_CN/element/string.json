@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "深色模式适配"
+    },
+    {
+      "name": "today_plan",
+      "value": "【今日计划】雅思考试大冲刺复习课程第三章全部"
+    },
+    {
+      "name": "end",
+      "value": "结束"
+    },
+    {
+      "name": "already_reported",
+      "value": "已报时"
+    },
+    {
+      "name": "please_input_account",
+      "value": "请输入账号"
+    },
+    {
+      "name": "please_input_password",
+      "value": "请输入密码"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "follow_system_settings_switch_mode",
+      "value": "跟随系统设置开启后根据系统设置同步切换深/浅模式"
+    },
+    {
+      "name": "follow_system_settings",
+      "value": "跟随系统设置"
+    },
+    {
+      "name": "dark_mode",
+      "value": "深色模式"
+    },
+    {
+      "name": "solution",
+      "value": "解决方案"
+    },
+    {
+      "name": "2d_subscene_solution",
+      "value": "2D子场景解决方案"
+    },
+    {
+      "name": "latest_news",
+      "value": "最新资讯"
+    },
+    {
+      "name": "multiple_solutions",
+      "value": "解决方案解决方案解决方案解决方案解决方案"
+    },
+    {
+      "name": "today",
+      "value": "今天"
+    },
+    {
+      "name": "lunar_september_fourth",
+      "value": "农历九月初四"
+    },
+    {
+      "name": "all",
+      "value": "全部"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "discover",
+      "value": "发现"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "my_account",
+      "value": "我的账户"
+    },
+    {
+      "name": "xiaoyi",
+      "value": "小艺"
+    },
+    {
+      "name": "follow_system",
+      "value": "跟随系统"
+    },
+    {
+      "name": "todo_item_title",
+      "value": "起来跑步运动，强身健体"
+    }
+  ]
+}

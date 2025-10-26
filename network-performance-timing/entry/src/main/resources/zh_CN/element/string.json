@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetworkPerformanceTiming"
+    },
+    {
+      "name": "index_title",
+      "value": "网络性能分析"
+    },
+    {
+      "name": "test_url",
+      "value": "测试地址:"
+    },
+    {
+      "name": "request",
+      "value": "请求"
+    },
+    {
+      "name": "request_time_tip",
+      "value": "从request到对应阶段完成的耗时:"
+    },
+    {
+      "name": "stage_name",
+      "value": "阶段名称"
+    },
+    {
+      "name": "stage_time",
+      "value": "耗时(ms)"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于网络性能分析场景使用Internet网络"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "用于网络性能分析场景获取网络信息"
+    },
+    {
+      "name": "reason_set_network_info",
+      "value": "用于网络性能分析场景设置网络信息"
+    }
+  ]
+}

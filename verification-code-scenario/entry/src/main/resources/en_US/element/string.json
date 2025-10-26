@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Verification Code Scenario Example"
+    },
+    {
+      "name": "verification_code",
+      "value": "SMS verification code"
+    },
+    {
+      "name": "select_verification_code",
+      "value": "Select verification code"
+    },
+    {
+      "name": "slider_verification_code",
+      "value": "Slider verification code"
+    },
+    {
+      "name": "enter_the_verification_code",
+      "value": "Please enter the verification code"
+    },
+    {
+      "name": "Verification_code_sent_to",
+      "value": "Verification code has been sent to"
+    },
+    {
+      "name": "phone_number",
+      "value": "+86 186****2770"
+    },
+    {
+      "name": "reacquire",
+      "value": "Reacquire"
+    },
+    {
+      "name": "phone_number1",
+      "value": "+86 186******70"
+    },
+    {
+      "name": "login",
+      "value": "Log In / Register"
+    },
+    {
+      "name": "complete",
+      "value": "Please complete verification"
+    },
+    {
+      "name": "slide",
+      "value": "Slide the slider to the right to fill the puzzle"
+    },
+    {
+      "name": "verification_passed",
+      "value": "Verification Passed"
+    },
+    {
+      "name": "verification_fail",
+      "value": "Validation failed"
+    },
+    {
+      "name": "change",
+      "value": "Can't see? Change it."
+    },
+    {
+      "name": "sentence",
+      "value": "Click \"Gu Yan Hua Xiang\""
+    },
+    {
+      "name": "change_another",
+      "value": "change"
+    },
+    {
+      "name": "commit",
+      "value": "Commit"
+    },
+    {
+      "name": "word",
+      "value": "The text box displays the cursor"
+    },
+    {
+      "name": "bottom",
+      "value": "Add horizontal bars at the bottom"
+    },
+    {
+      "name": "background",
+      "value": "Background color change"
+    },
+    {
+      "name": "hua",
+      "value": "Hua"
+    },
+    {
+      "name": "cause",
+      "value": "cause"
+    },
+    {
+      "name": "yan",
+      "value": "Yan"
+    },
+    {
+      "name": "xiang",
+      "value": "Xiang"
+    },
+    {
+      "name": "china",
+      "value": "china"
+    },
+    {
+      "name": "gu",
+      "value": "Gu"
+    },
+    {
+      "name": "hunan",
+      "value": "hunan"
+    }
+  ]
+}

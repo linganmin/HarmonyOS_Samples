@@ -1,0 +1,40 @@
+{
+  "float": [
+    {
+      "name": "menu_item_height",
+      "value": "48vp"
+    },
+    {
+      "name": "menu_item_margin_left",
+      "value": "10vp"
+    },
+    {
+      "name": "menu_item_margin_right",
+      "value": "10vp"
+    },
+    {
+      "name": "menu_item_margin_top",
+      "value": "14vp"
+    },
+    {
+      "name": "zoom_margin_bottom",
+      "value": "40vp"
+    },
+    {
+      "name": "mode_margin_bottom",
+      "value": "20vp"
+    },
+    {
+      "name": "control_margin_bottom",
+      "value": "80vp"
+    },
+    {
+      "name": "burst_control_width",
+      "value": "240vp"
+    },
+    {
+      "name": "count_down_font_size",
+      "value": "100vp"
+    }
+  ]
+}

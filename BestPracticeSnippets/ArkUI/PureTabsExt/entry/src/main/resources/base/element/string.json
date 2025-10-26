@@ -1,0 +1,53 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PureTabsExt"
+    },
+    {
+      "name": "content_item_username",
+      "value": "皮特"
+    },
+    {
+      "name": "content_item_publishTime",
+      "value": "6-18 18:20"
+    },
+    {
+      "name": "content_item_title",
+      "value": "春天啦~周末两天天气都不错\n 大家有没有出门去看花？!"
+    }
+  ,
+    {
+      "name": "search_placeholder",
+      "value": "请输入搜索内容"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name":"out_bar_text_home",
+      "value": "首页"
+    },
+    {
+      "name":"out_bar_text_discover",
+      "value": "发现"
+    },
+    {
+      "name":"out_bar_text_messages",
+      "value": "消息"
+    },
+    {
+      "name":"out_bar_text_profile",
+      "value": "我的"
+    }
+  ]
+}

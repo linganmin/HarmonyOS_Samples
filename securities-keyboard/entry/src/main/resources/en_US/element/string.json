@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Securities Keyboard"
+    },
+    {
+      "name": "search_content",
+      "value": "Please enter security code."
+    },
+    {
+      "name": "search_box_prompt",
+      "value": "You can enter a maximum of 14 characters."
+    },
+    {
+      "name": "text_search",
+      "value": "Search"
+    },
+    {
+      "name": "text_space",
+      "value": "Space"
+    },
+    {
+      "name": "text_clear",
+      "value": "Clear"
+    }
+  ]
+}

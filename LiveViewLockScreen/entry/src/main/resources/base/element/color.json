@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "Index_background_first",
+      "value": "#000000"
+    },
+    {
+      "name": "Index_background_second",
+      "value": "#303030"
+    },
+    {
+      "name": "component_background_color",
+      "value": "#0C000000"
+    },
+    {
+      "name": "traffic_info_line",
+      "value": "#33000000"
+    },
+    {
+      "name": "traffic_info_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "traffic_info_button",
+      "value": "#08000000"
+    },
+    {
+      "name": "tip",
+      "value": "#000000"
+    },
+    {
+      "name": "tip_background",
+      "value": "#ffffff"
+    },
+    {
+      "name": "tip_text",
+      "value": "#0A57F7"
+    }
+  ]
+}

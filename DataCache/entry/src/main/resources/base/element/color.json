@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "app_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "listColor",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "fontColor_text3",
+      "value": "#182431"
+    },
+    {
+      "name": "fontColor_text",
+      "value": "#000000"
+    },
+    {
+      "name": "fontColor_text2",
+      "value": "#FF989898"
+    },
+    {
+      "name": "clear_fontcolor",
+      "value": "#0A58F6"
+    },
+    {
+      "name": "transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "tab_fontColor",
+      "value": "#182431"
+    }
+  ]
+}

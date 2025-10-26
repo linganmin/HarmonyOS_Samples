@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NFC-Tag"
+    },
+    {
+      "name": "nfc_tag",
+      "value": "NFC-Tag"
+    },
+    {
+      "name": "near_identify_NFC_Tag",
+      "value": "请将卡片靠近NFC可识别区域"
+    },
+    {
+      "name": "card_Technology_types",
+      "value": "该卡片支持的技术类型"
+    },
+    {
+      "name": "no_card_message",
+      "value": "未识别到卡片信息"
+    },
+    {
+      "name": "tagInfo_information",
+      "value": "TagInfo对象信息"
+    },
+    {
+      "name": "nfc_tag_information",
+      "value": "NFC-Tag信息"
+    },
+    {
+      "name": "requestPermissions_reason",
+      "value": "允许应用读取Tag卡片"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "embedAbility"
+    },
+    {
+      "name": "PhoneRechageChild_label",
+      "value": "手机充值"
+    },
+    {
+      "name": "UtilityPaymentChild_label",
+      "value": "生活缴费"
+    },
+    {
+      "name": "ParkingChild_label",
+      "value": "停车缴费"
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/CertManagerDialogGuidelines",
+    "pages/CertManagerGuidelines",
+    "pages/CertManagerCACertsGuidelines"
+  ]
+}

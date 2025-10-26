@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "favor",
+      "value": "favor"
+    },
+    {
+      "name": "share",
+      "value": "share"
+    },
+    {
+      "name": "start_navigate",
+      "value": "Start navigation"
+    },
+    {
+      "name": "navigate",
+      "value": "navigate"
+    },
+    {
+      "name": "route",
+      "value": "route"
+    },
+    {
+      "name": "my_location",
+      "value": "My location"
+    },
+    {
+      "name": "input_terminal_point",
+      "value": "Enter endpoint"
+    },
+    {
+      "name": "choose",
+      "value": "Route"
+    },
+    {
+      "name": "minutes",
+      "value": "min"
+    },
+    {
+      "name": "kilometers",
+      "value": "kilo"
+    },
+    {
+      "name": "drive",
+      "value": "drive"
+    },
+    {
+      "name": "taxi",
+      "value": "taxi"
+    },
+    {
+      "name": "public_transportation",
+      "value": "Public"
+    },
+    {
+      "name": "cycling",
+      "value": "Cycling"
+    },
+    {
+      "name": "walk",
+      "value": "Walk"
+    },
+    {
+      "name": "proxy_driving",
+      "value": "Proxy driving"
+    },
+    {
+      "name": "train",
+      "value": "Train"
+    },
+    {
+      "name": "passenger_car",
+      "value": "Passenger car"
+    }
+  ]
+}

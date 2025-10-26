@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "super_fast_file_trans"
+    },
+    {
+      "name": "sampleTitle",
+      "value": "Concurrent file downloads with high speed support for interrupted and continuous downloads"
+    },
+    {
+      "name": "regularDownload",
+      "value": "Regular download"
+    },
+    {
+      "name": "multiDownload",
+      "value": "Multi-threaded download"
+    },
+    {
+      "name": "regularUpload",
+      "value": "Regular upload"
+    },
+    {
+      "name": "chunkUpload",
+      "value": "Chunk upload"
+    },
+    {
+      "name": "uploadTitle",
+      "value": "Concurrent file downloads with high speed support for interrupted and continuous uploads"
+    }
+  ]
+}

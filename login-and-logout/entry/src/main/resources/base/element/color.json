@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "login_page_background",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "tabContent_row_background",
+      "value": "#E6E6E6"
+    },
+    {
+      "name": "tabs_background",
+      "value": "#F5F5F5"
+    },
+    {
+      "name": "text_font_color",
+      "value": "#E84026"
+    },
+    {
+      "name": "text_selected_color",
+      "value": "#1698CE"
+    },
+    {
+      "name": "text_normal_color",
+      "value": "#6B6B6B"
+    },
+    {
+      "name": "button_color",
+      "value": "#0A59F7"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "12949589",
+    "displayName": "app.string.List_card_first_title",
+    "fileName": "video1.mp4",
+    "description": "app.string.List_card_first_desc",
+    "thumbnail": "app.media.video1"
+  },
+  {
+    "id": "12949590",
+    "displayName": "app.string.List_card_second_title",
+    "fileName": "video2.mp4",
+    "description": "app.string.List_card_second_desc",
+    "thumbnail": "app.media.video2"
+  }
+]

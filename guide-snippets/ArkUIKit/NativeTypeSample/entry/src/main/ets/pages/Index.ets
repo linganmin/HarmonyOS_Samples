@@ -1,0 +1,95 @@
+/*
+ * Copyright (c) 2025 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License")
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+import { router } from '@kit.ArkUI';
+
+interface ListCategories {
+  title: string,
+  url: string
+}
+
+@Entry
+@Component
+struct MenuIndex {
+  private items: ListCategories[] =
+    [
+      { title: 'Swiper', url: 'pages/page_swiper' },
+      { title: 'text', url: 'pages/page_text' },
+      { title: 'Animation', url: 'pages/page_animation' },
+      { title: 'Visual Effects', url: 'pages/page_visual_effects' },
+      { title: 'accessibility', url: 'pages/page_accessibility' },
+      { title: 'embedded component', url: 'pages/page_embedded_component' },
+      { title: 'WaterFlow', url: 'pages/page_waterflow' },
+      { title: 'Grid', url: 'pages/page_grid' },
+      { title: 'Scroll', url: 'pages/page_scroll' },
+      { title: 'Refresh', url: 'pages/page_refresh' },
+      { title: 'List', url: 'pages/page_list' },
+      { title: 'Button', url: 'pages/page_button' },
+      { title: 'Slider', url: 'pages/page_slider' },
+      { title: 'CheckboxShape', url: 'pages/page_checkbox_shape' },
+      { title: 'HoverModeAreaType', url: 'pages/page_hovermode_areatype' },
+      { title: 'Public', url: 'pages/page_public_event' },
+      { title: 'XComponent', url: 'pages/page_xcomponent' },
+      { title: 'Progress', url: 'pages/page_progress' },
+      { title: 'DatePicker', url: 'pages/page_date_picker' },
+      { title: 'Image', url: 'pages/page_image' },
+      { title: 'TextPicker', url: 'pages/page_text_picker' },
+      { title: 'CalendarPicker', url: 'pages/page_calendar_picker' },
+      { title: 'ImageAnimator', url: 'pages/page_image_animator' },
+    ];
+
+  build() {
+    Scroll(new Scroller()) {
+      Column() {
+        Text('native_type_sample')
+          .fontWeight(FontWeight.Bold)
+          .fontSize('20vp')
+          .textAlign(TextAlign.Center)
+          .height('5%')
+          .margin($r('sys.float.titlebar_title_margin_right'))
+        List() {
+          ForEach(this.items, (item: ListCategories) => {
+            ListItem() {
+              Row() {
+                Text(item.title)
+                  .fontSize($r('sys.float.text_button_font_size'))
+                  .fontColor(Color.Black)
+                  .textAlign(TextAlign.Start)
+                  .height('100%')
+                  .width('50%')
+                  .padding($r('sys.float.padding_level10'))
+                Text('>')
+                  .fontSize('25vp')
+                  .fontColor(Color.Black)
+                  .textAlign(TextAlign.End)
+                  .fontColor(Color.Gray)
+                  .height('100%')
+                  .width('50%')
+                  .padding($r('sys.float.padding_level10'))
+              }
+              .width('100%')
+              .height('10%')
+              .borderRadius($r('sys.float.select_border_radius_default'))
+              .backgroundColor(Color.White)
+              .onClick(() => {
+                router.pushUrl({ url: item.url })
+              })
+            }.margin($r('sys.float.menu_item_content_align'))
+          })
+        }.width('95%').height('90%').alignListItem(ListItemAlign.Center)
+      }.width('100%')
+    }.height('100%').backgroundColor($r('app.color.background_color'))
+  }
+}

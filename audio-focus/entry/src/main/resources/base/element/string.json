@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "audio_demo_title",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "video_scene_button",
+      "value": "video scene"
+    },
+    {
+      "name": "audio_scene_button",
+      "value": "audio scene"
+    },
+    {
+      "name": "voip_chart_button",
+      "value": "voip chart"
+    }
+  ]
+}

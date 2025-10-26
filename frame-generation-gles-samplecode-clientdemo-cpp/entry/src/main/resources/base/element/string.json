@@ -1,0 +1,28 @@
+{
+    "string": [
+        {
+            "name": "module_desc",
+            "value": "FrameGeneration Samples"
+        },
+        {
+            "name": "EntryAbility_desc",
+            "value": "FrameGeneration Samples"
+        },
+        {
+            "name": "EntryAbility_label",
+            "value": "FG Demo"
+        },
+        {
+            "name": "title",
+            "value": "FrameGeneration Samples"
+        },
+        {
+            "name": "FrameGeneration_enabled",
+            "value": "Frame generation enabled"
+        },
+        {
+            "name": "FrameGeneration_disabled",
+            "value": "Frame generation disabled"
+        }
+    ]
+}

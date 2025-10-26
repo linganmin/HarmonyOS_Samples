@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Special text recognition"
+    },
+    {
+      "name": "word_recognition_title_content",
+      "value": "New Information"
+    },
+    {
+      "name": "recognition_input_background",
+      "value": "rgba(0,0,0,0.05)"
+    },
+    {
+      "name": "recognition_layout_100",
+      "value": "100%"
+    },
+    {
+      "name": "recognition_input_button",
+      "value": "Send"
+    },
+    {
+      "name": "recognition_text_content_one",
+      "value": "[Traffic Notification] Dear customer, your traffic bill for February 2024 has been sent. Click to view the bill details: https://developer.harmonyos.com/. Reply R to reject the bill."
+    },
+    {
+      "name": "recognition_text_content_two",
+      "value": "[Email] You have a new email. Please log in to your mailbox alltoplayerstart@qq.com to check it. Reply R to reject it."
+    }
+  ]
+}

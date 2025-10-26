@@ -1,0 +1,27 @@
+{
+  "module": {
+    "name": "negative",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "NegativeAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "routerMap": "$profile:route_map",
+    "abilities": [
+      {
+        "name": "NegativeAbility",
+        "srcEntry": "./ets/negativeability/NegativeAbility.ets",
+        "description": "$string:NegativeAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:NegativeAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

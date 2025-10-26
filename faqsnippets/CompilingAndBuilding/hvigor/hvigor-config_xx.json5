@@ -1,0 +1,9 @@
+// FAQ:构建报错"Cannot read properties of undefined(reading 'XXX')"
+// [Start stacktrace]
+{
+  "debugging": {
+    "stacktrace": true
+    /* Disable stacktrace compilation. Value: [ true | false ]. Default: false */
+  },
+}
+// [End stacktrace]

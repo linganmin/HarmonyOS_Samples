@@ -1,0 +1,44 @@
+{
+  "float": [
+    {
+      "name": "title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "title_margin_bottom",
+      "value": "18vp"
+    },
+    {
+      "name": "content_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "text_refection_height",
+      "value": "74vp"
+    },
+    {
+      "name": "row_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "row_padding",
+      "value": "14vp"
+    },
+    {
+      "name": "title_line_height",
+      "value": "22fp"
+    },
+    {
+      "name": "title_row_height",
+      "value": "50vp"
+    },
+    {
+      "name": "title_row_margin_bottom",
+      "value": "6vp"
+    },
+    {
+      "name": "area_padding_left",
+      "value": "16vp"
+    }
+  ]
+}

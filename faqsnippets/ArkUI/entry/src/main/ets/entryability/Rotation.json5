@@ -1,0 +1,17 @@
+/*
+* FAQ:如何实现折叠屏折叠态不适配旋转，展示态适配旋转
+*/
+
+// [Start entry_ability_display_adaptation_rotation2]
+// module.json5
+{
+  "module": {
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "orientation":"unspecified"  // Unspecified orientation mode, determined by the system
+      }
+    ]
+  }
+}
+// [End entry_ability_display_adaptation_rotation2]

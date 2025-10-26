@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVCastPickerForCall"
+    },
+    {
+      "name": "default_AVCastPicker",
+      "value": "Default style component"
+    },
+    {
+      "name": "custom_AVCastPicker",
+      "value": "Custom style component"
+    },
+    {
+      "name": "full_width",
+      "value": "100%"
+    },
+    {
+      "name": "full_height",
+      "value": "100%"
+    }
+  ]
+}

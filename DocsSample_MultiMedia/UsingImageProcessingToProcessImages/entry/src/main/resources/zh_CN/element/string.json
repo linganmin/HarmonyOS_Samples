@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UsingImageProcessingToProcessImages"
+    },
+    {
+      "name": "image_scaling",
+      "value": "图片缩放"
+    },
+    {
+      "name": "image_space_conversion",
+      "value": "图片色彩空间转换"
+    },
+    {
+      "name": "metadata_generation",
+      "value": "元数据生成"
+    },
+    {
+      "name": "image_layer_conversion",
+      "value": "HDR图片单双层转换"
+    },
+    {
+      "name": "ImageProcessing_Processes_Images",
+      "value": "ImageProcessing处理图片"
+    },
+    {
+      "name": "sdr_image",
+      "value": "sdr图片"
+    },
+    {
+      "name": "scaling",
+      "value": "缩放"
+    },
+    {
+      "name": "can_not_converting",
+      "value": " 该图片暂时不支持转其他格式图片"
+    },
+    {
+      "name": "color_space_conversion",
+      "value": "色彩空间转换"
+    },
+    {
+      "name": "select_image",
+      "value": "选择图片"
+    },
+    {
+      "name": "hdr_image",
+      "value": "HDR图片"
+    },
+    {
+      "name": "generate_hdr_images",
+      "value": "通过元数据生成HDR图片"
+    },
+    {
+      "name": "single_to_dual",
+      "value": "单层转双层"
+    },
+    {
+      "name": "dual_to_single",
+      "value": "双层转单层"
+    },
+    {
+      "name": "sdr_not_hdr",
+      "value": "色彩空间转换算法认为该图片不适合转为HDR图片，请更换其他图片!"
+    }
+  ]
+}

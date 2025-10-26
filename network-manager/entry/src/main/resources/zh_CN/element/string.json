@@ -1,0 +1,184 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "网络管理"
+    },
+    {
+      "name": "clear",
+      "value": "清空"
+    },
+    {
+      "name": "check",
+      "value": "检查"
+    },
+    {
+      "name": "check_network",
+      "value": "检查网络"
+    },
+    {
+      "name": "network_title",
+      "value": "网络管理"
+    },
+    {
+      "name": "network_detail",
+      "value": "网络详情"
+    },
+    {
+      "name": "detail",
+      "value": "查看"
+    },
+    {
+      "name": "network_connection_detail",
+      "value": "网络连接信息"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "请输入网址"
+    },
+    {
+      "name": "search_button",
+      "value": "解析"
+    },
+    {
+      "name": "first_tabs_bar",
+      "value": "网络详情"
+    },
+    {
+      "name": "second_tabs_bar",
+      "value": "域名解析"
+    },
+    {
+      "name": "third_tabs_bar_three",
+      "value": "网络监听"
+    },
+    {
+      "name": "monitor_title",
+      "value": "网络监听开启/关闭"
+    },
+    {
+      "name": "init_net_message",
+      "value": "网络类型:\n networkCap:"
+    },
+    {
+      "name": "init_connection_message",
+      "value": "网卡名称:\n所属域:\n链路信息:\n路由信息:\n网络地址:\n最大传输单元\n"
+    },
+    {
+      "name": "network_error",
+      "value": "网络错误！"
+    },
+    {
+      "name": "network_id",
+      "value": "网络ID： "
+    },
+    {
+      "name": "network_type_error",
+      "value": "获取网络类型错误！"
+    },
+    {
+      "name": "cellular_network",
+      "value": "网络类型:蜂窝网络\n"
+    },
+    {
+      "name": "wifi_network",
+      "value": "网络类型:Wi-Fi网络\n"
+    },
+    {
+      "name": "other_network",
+      "value": "网络类型:以太网网络\n"
+    },
+    {
+      "name": "connection_properties_error",
+      "value": "获取连接配置错误！"
+    },
+    {
+      "name": "connection_properties_interface_name",
+      "value": "网卡名称:"
+    },
+    {
+      "name": "connection_properties_domains",
+      "value": "\n所属域:"
+    },
+    {
+      "name": "connection_properties_link_addresses",
+      "value": "\n链路信息:"
+    },
+    {
+      "name": "connection_properties_routes",
+      "value": "\n路由信息:"
+    },
+    {
+      "name": "connection_properties_dns",
+      "value": "\n网络地址:"
+    },
+    {
+      "name": "connection_properties_mtu",
+      "value": "\n最大传输单元:"
+    },
+    {
+      "name": "get_addresses_error",
+      "value": "域名解析错误！"
+    },
+    {
+      "name": "register_network_listener",
+      "value": "开启网络监听！\n"
+    },
+    {
+      "name": "register_network_listener_message",
+      "value": "网络监听已开启"
+    },
+    {
+      "name": "unregister_network_listener",
+      "value": "关闭网络监听！\n"
+    },
+    {
+      "name": "unregister_network_listener_fail",
+      "value": "关闭网络监听失败！\n"
+    },
+    {
+      "name": "unregister_network_listener_message",
+      "value": "网络监听已关闭"
+    },
+    {
+      "name": "net_available",
+      "value": "有网络可用，ID为： "
+    },
+    {
+      "name": "net_block_status_change",
+      "value": "网络堵塞，ID为： "
+    },
+    {
+      "name": "net_capabilities_change_id",
+      "value": "网络能力变化：ID为"
+    },
+    {
+      "name": "net_capabilities_change_cap",
+      "value": "。网络能力信息为： "
+    },
+    {
+      "name": "net_connection_properties_change_id",
+      "value": "网络连接信息变化：ID为"
+    },
+    {
+      "name": "net_connection_change_connection_properties",
+      "value": "。网络连接信息为： "
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "用于查询网络详情场景获取网络信息"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于查询网络详情场景使用Internet网络"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "CPixelMapToMat",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "CPixelMapToMatAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "CPixelMapToMatAbility",
+        "srcEntry": "./ets/cpixelmaptomatability/CPixelMapToMatAbility.ets",
+        "description": "$string:CPixelMapToMatAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:CPixelMapToMatAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

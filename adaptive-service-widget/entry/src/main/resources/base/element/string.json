@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AdaptiveServiceWidget"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "title",
+      "value": "Instructions"
+    },
+    {
+      "name": "content1",
+      "value": "Long press the example application, wait for the \"Service Widget\" text to appear, then tap and select the required widget size to add to the home page."
+    },
+    {
+      "name": "content2",
+      "value": "You can install this application on different types of devices to view adaptive effects."
+    },
+    {
+      "name": "index_title",
+      "value": "Service Widget"
+    }
+  ]
+}

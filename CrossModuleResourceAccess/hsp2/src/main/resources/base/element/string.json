@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "string_in_hsp2",
+      "value": "String in hsp2"
+    }
+  ]
+}

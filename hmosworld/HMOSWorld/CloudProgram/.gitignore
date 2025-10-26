@@ -1,0 +1,17 @@
+build/
+*.iml
+out/
+.idea/
+node_modules/
+/node_modules
+/oh_modules
+/.preview
+/build
+/.cxx
+/.test
+/.hvigor
+/.idea
+
+local.properties
+package-lock.json
+/.clang-format

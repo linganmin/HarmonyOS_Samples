@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ObtainingDeviceID"
+    },
+    {
+      "name": "Title",
+      "value": "Obtaining DeviceID"
+    },
+    {
+      "name": "ODID",
+      "value": "ODID"
+    },
+    {
+      "name": "AAID",
+      "value": "AAID"
+    },
+    {
+      "name": "OAID",
+      "value": "OAID"
+    },
+    {
+      "name": "create",
+      "value": "Create %s"
+    },
+    {
+      "name": "toBeCreate",
+      "value": "To be create"
+    },
+    {
+      "name": "saveToKeyAssets",
+      "value": "Save to key assets"
+    },
+    {
+      "name": "savedToKeyAssets",
+      "value": "Saved to key assets"
+    },
+    {
+      "name": "queryKeyAssets",
+      "value": "Query key assets"
+    },
+    {
+      "name": "pleaseCreateAndSaveFirst",
+      "value": "Please create and save first %s"
+    },
+    {
+      "name": "query",
+      "value": "Query"
+    },
+    {
+      "name": "tracking_reason",
+      "value": "Get Open Anonymous Device Identifier"
+    }
+  ]
+}

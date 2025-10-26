@@ -1,0 +1,105 @@
+// FAQ:如何定制构建多目标产物
+// [Start multi_objective_product]
+{
+  "app": {
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compileSdkVersion": "4.1.0(11)",
+        "compatibleSdkVersion": "4.1.0(11)",
+        "runtimeOS": "HarmonyOS",
+      },
+      {
+        "name": "release",
+        "signingConfig": "release",
+        "compileSdkVersion": "4.1.0(11)",
+        "compatibleSdkVersion": "4.1.0(11)",
+        "runtimeOS": "HarmonyOS",
+      },
+      {
+        "name": "beta1",
+        "compileSdkVersion": "4.1.0(11)",
+        "compatibleSdkVersion": "4.1.0(11)",
+        "runtimeOS": "HarmonyOS",
+      },
+      {
+        "name": "zhaohangzhuanyong",
+        "compileSdkVersion": "4.1.0(11)",
+        "compatibleSdkVersion": "4.1.0(11)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "beta1"
+      }
+    ],
+    "signingConfigs": [
+      {
+        "name": "release",
+        "material": {
+          "storePassword": "",
+          "certpath": "",
+          "keyAlias": "",
+          "keyPassword": "",
+          "profile": "",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": ""
+        },
+        "type": "HarmonyOS"
+      },
+      {
+        "name": "default",
+        "material": {
+          "storePassword": "",
+          "certpath": "",
+          "keyAlias": "",
+          "keyPassword": "",
+          "profile": "",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": ""
+        },
+        "type": "HarmonyOS"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "release"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "library1",
+      "srcPath": "./library1"
+    },
+    {
+      "name": "library2",
+      "srcPath": "./library2"
+    },
+    {
+      "name": "library",
+      "srcPath": "./library",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "release"
+          ]
+        }
+      ]
+    },
+  ]
+}
+// [End multi_objective_product]

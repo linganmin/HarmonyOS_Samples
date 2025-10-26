@@ -1,0 +1,140 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TextDisplayFont"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "text_input",
+      "value": "搜索或输入"
+    },
+    {
+      "name": "content1",
+      "value": "万兆融智新砌航，上海移动携华为打造5G A²示范之城。万兆融智新砌航，上海移动携华为打造5G A²示范之城。万兆融智新砌航，上海移动携华为打造5G A²示范之城。"
+    },
+    {
+      "name": "content2",
+      "value": "华为发布HUAWEI Pura 80系列，让影像远超想象。"
+    },
+    {
+      "name": "content3",
+      "value": "华为高端全闪存荣获DCIG年度存储数据安全首位推荐，位列推荐排名榜首。"
+    },
+    {
+      "name": "content4",
+      "value": "数据觉醒时代，华为重新定义数据存储。"
+    },
+    {
+      "name": "content5",
+      "value": "第九届全球ICT能效峰会上，华为展示了新一代数字化、智能化站点能源解决方案Single SitePower，助力ICT能源基础设施智能化转型。"
+    },
+    {
+      "name": "type1",
+      "value": "锐评"
+    },
+    {
+      "name": "type2",
+      "value": "新闻"
+    },
+    {
+      "name": "time",
+      "value": "15分钟前"
+    },
+    {
+      "name": "HarmonyOS_Italic",
+      "value": "HarmonyOS Italic"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "HarmonyOS Condensed"
+    },
+    {
+      "name": "system_default",
+      "value": "系统默认"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "preview_text",
+      "value": "Hello World，预览字体效果。"
+    },
+    {
+      "name": "font_style",
+      "value": "字体样式"
+    },
+    {
+      "name": "follow_system",
+      "value": "跟随系统"
+    },
+    {
+      "name": "font_size",
+      "value": "字体大小"
+    },
+    {
+      "name": "small",
+      "value": "小"
+    },
+    {
+      "name": "normal",
+      "value": "标准"
+    },
+    {
+      "name": "large",
+      "value": "大"
+    },
+    {
+      "name": "huge",
+      "value": "最大"
+    },
+    {
+      "name": "light",
+      "value": "细"
+    },
+    {
+      "name": "bold",
+      "value": "粗"
+    },
+    {
+      "name": "boldest",
+      "value": "最粗"
+    },
+    {
+      "name": "adjusting_fontSize",
+      "value": "调整字体大小"
+    },
+    {
+      "name": "text_a",
+      "value": "A"
+    },
+    {
+      "name": "font_weight",
+      "value": "字体粗细"
+    },
+    {
+      "name": "Font_settings",
+      "value": "字体设置"
+    },
+    {
+      "name": "font",
+      "value": "字体"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Background Task"
+    },
+    {
+      "name": "permission_location_desc",
+      "value": "Used for long task pages to allow applications to obtain device location information"
+    },
+    {
+      "name": "permission_location_background_desc",
+      "value": "Used for long task pages to allow applications to obtain device location information while running in the background"
+    },
+    {
+      "name": "permission_approximately_location_desc",
+      "value": "Used for long task pages to allow applications to get fuzzy device location information"
+    },
+    {
+      "name": "permission_keep_background_running_desc",
+      "value": "It is used to backtrack long/short tasks, allowing Service Ability to run continuously in the background"
+    },
+    {
+      "name": "short_time_task",
+      "value": "Request transient tasks in the background"
+    },
+    {
+      "name": "long_time_task",
+      "value": "Request continuous tasks in the background"
+    },
+    {
+      "name": "get_remaining_time",
+      "value": "Get Remaining Time"
+    },
+    {
+      "name": "cancel_short_task",
+      "value": "Cancel the Transient Task"
+    },
+    {
+      "name": "enabling_location_services",
+      "value": "Enable Location Services"
+    },
+    {
+      "name": "turn_off_location_services",
+      "value": "Disable Location Services"
+    },
+    {
+      "name": "remaining_time",
+      "value": "Time remaining before the application enters the suspended state:%d"
+    },
+    {
+      "name": "cancel_short_success",
+      "value": "Cancel the Transient Task: successful"
+    },
+    {
+      "name": "cancel_short_failed",
+      "value": "Cancelling a short task: failed"
+    },
+    {
+      "name": "remain_time_fail",
+      "value": "Failed to get the remaining time, please put the app in the background, then return to this page again, and click the button again"
+    }
+  ]
+}

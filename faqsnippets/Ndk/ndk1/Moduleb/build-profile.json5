@@ -1,0 +1,43 @@
+// FAQ:如何跨Hap模块调用C++ API
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "externalNativeOptions": {
+      "path": "./src/main/cpp/CMakeLists.txt",
+      "arguments": "",
+      "cppFlags": ""
+    }
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      },
+      // [Start native_lib]
+      "nativeLib": {
+        "debugSymbol": {
+          "strip": true,
+          "exclude": []
+        },
+        "headerPath": "src/main/cpp/include"
+      },
+      // [End native_lib]
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest"
+    }
+  ]
+}

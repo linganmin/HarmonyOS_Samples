@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "资源预下载"
+    },
+    {
+      "name": "Checking_for_updates",
+      "value": "正在检测更新内容"
+    },
+    {
+      "name": "Not_Interrupted",
+      "value": "更新过程中最小化不会中断, (应用退出后，资源更新会在手机闲时自动触发)"
+    },
+    {
+      "name": "Estimated_Time_Remaining",
+      "value": "预计剩余时间: "
+    },
+    {
+      "name": "Downloading_resources",
+      "value": "已下载资源:"
+    },
+    {
+      "name": "Speeding",
+      "value": "速度:"
+    },
+    {
+      "name": "Version_No",
+      "value": "版本号: "
+    },
+    {
+      "name": "Touch_Enter",
+      "value": "点击屏幕进入"
+    },
+    {
+      "name": "Dialog_Text",
+      "value": "当前demo未集成前台下载器"
+    }
+  ]
+}

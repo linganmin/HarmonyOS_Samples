@@ -1,0 +1,164 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Universal Keystore Collection"
+    },
+    {
+      "name": "encrypt_and_decrypt",
+      "value": "encrypt and decrypt"
+    },
+    {
+      "name": "encrypt_and_decrypt_set",
+      "value": "Encryption and decryption Set "
+    },
+    {
+      "name": "SignatureVerification",
+      "value": "Signature and Verification"
+    },
+    {
+      "name": "SignatureVerificationSet",
+      "value": "Signature and Verification Set"
+    },
+    {
+      "name": "Signature",
+      "value": "Signature"
+    },
+    {
+      "name": "Verification",
+      "value": "Verification"
+    },
+    {
+      "name": "KeyNegotiation",
+      "value": "Key Negotiation"
+    },
+    {
+      "name": "KeyNegotiationSet",
+      "value": "Key Negotiation Set"
+    },
+    {
+      "name": "Details",
+      "value": "Details"
+    },
+    {
+      "name": "Text_To_Be_encrypted",
+      "value": "Text to be encrypted"
+    },
+    {
+      "name": "encrypt_text_null_toast",
+      "value": "The input message is null,can not encrypt!"
+    },
+    {
+      "name": "After_encryption",
+      "value": "After encryption"
+    },
+    {
+      "name": "Encrypted_Text",
+      "value": "Encrypted Text"
+    },
+    {
+      "name": "Decrypted_Text",
+      "value": "Decrypted Text"
+    },
+    {
+      "name": "Generate_key_A",
+      "value": "Generate key A"
+    },
+    {
+      "name": "Generate_key_A_Success",
+      "value": "Generate key A success!"
+    },
+    {
+      "name": "Generate_key_B",
+      "value": "Generate key B"
+    },
+    {
+      "name": "Generate_key_B_Success",
+      "value": "Generate key B success!"
+    },
+    {
+      "name": "key_missing",
+      "value": "Keys are missing,can not key negotiation!"
+    },
+    {
+      "name": "signature_message_is_null",
+      "value": "Signature message is null,verification is failed!"
+    },
+    {
+      "name": "encrypt_success",
+      "value": "Encryption success!"
+    },
+    {
+      "name": "decrypt_success",
+      "value": "Decryption success!"
+    },
+    {
+      "name": "KeyNegotiationSuccess",
+      "value": "Key Negotiation success!"
+    },
+    {
+      "name": "Verification_success",
+      "value": "Verification success!"
+    },
+    {
+      "name": "AES_CBC_PKCS7_mode_encrypt_and_decrypt",
+      "value": "AES_CBC_PKCS7 mode encrypt and decrypt"
+    },
+    {
+      "name": "RSA_ECB_PKCS1_V1_5_mode_encrypt_and_decrypt",
+      "value": "RSA_ECB_PKCS1_V1_5 mode encrypt and decrypt"
+    },
+    {
+      "name": "SM4_CBC_PKCS7_mode_encrypt_and_decrypt",
+      "value": "SM4_CBC_PKCS7 mode encrypt and decrypt"
+    },
+    {
+      "name": "AES_CBC_PKCS7_mode_encrypt",
+      "value": "AES_CBC_PKCS7 mode encrypt"
+    },
+    {
+      "name": "RSA_ECB_PKCS1_V1_5_mode_encrypt",
+      "value": "RSA_ECB_PKCS1_V1_5 mode encrypt"
+    },
+    {
+      "name": "SM4_CBC_PKCS7_mode_encrypt",
+      "value": "SM4_CBC_PKCS7 mode encrypt"
+    },
+    {
+      "name": "AES_CBC_PKCS7_mode_decrypt",
+      "value": "AES_CBC_PKCS7 mode decrypt"
+    },
+    {
+      "name": "RSA_ECB_PKCS1_V1_5_mode_decrypt",
+      "value": "RSA_ECB_PKCS1_V1_5 mode decrypt"
+    },
+    {
+      "name": "SM4_CBC_PKCS7_mode_decrypt",
+      "value": "SM4_CBC_PKCS7 mode decrypt"
+    },
+    {
+      "name": "X25519_algorithm_key_negotiation",
+      "value": "X25519 algorithm key negotiation"
+    },
+    {
+      "name": "DH_algorithm_key_negotiation",
+      "value": "DH algorithm key negotiation"
+    },
+    {
+      "name": "ECC_KEY_SHA_Signature_Verification",
+      "value": "ECC Key SHA Digest Signature Verification"
+    },
+    {
+      "name": "SM2_KEY_Signature_Verification",
+      "value": "SM2 key signature verification"
+    }
+  ]
+}

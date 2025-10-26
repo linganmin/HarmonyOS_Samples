@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "多图片合集"
+    },
+    {
+      "name": "cute_pet",
+      "value": "@欢乐萌宠"
+    },
+    {
+      "name": "dots",
+      "value": "·"
+    },
+    {
+      "name": "date",
+      "value": "08-14"
+    },
+    {
+      "name": "pets",
+      "value": "#宠物"
+    },
+    {
+      "name": "dog",
+      "value": "#小狗"
+    },
+    {
+      "name": "spoiled",
+      "value": "#萌坏了"
+    },
+    {
+      "name": "placeholder",
+      "value": "评论"
+    },
+    {
+      "name": "collection",
+      "value": "12"
+    },
+    {
+      "name": "Comments",
+      "value": "评论"
+    },
+    {
+      "name": "share",
+      "value": "5"
+    }
+  ]
+}

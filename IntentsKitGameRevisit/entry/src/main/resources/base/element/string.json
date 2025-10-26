@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Intent game revisit"
+    },
+    {
+      "name": "Navbar_title",
+      "value": "Intent Recommendation - Game Review"
+    },
+    {
+      "name": "List_title",
+      "value": "Casual games"
+    },
+    {
+      "name": "game_card_title_first",
+      "value": "Mini-game 1"
+    },
+    {
+      "name": "game_card_desc_first",
+      "value": "This is the description of Game 1"
+    },
+    {
+      "name": "game_card_title_second",
+      "value": "Mini-game 2"
+    },
+    {
+      "name": "game_card_desc_second",
+      "value": "This is the description of Game 2"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "module": {
+    "name": "PrivacyError",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "PrivacyErrorAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        /**
+         * 最佳实践：应用安全编码实践
+         * 场景一：通用组件安全错误示例
+         */
+        // [Start module_json_abilities_error]
+        "name": "PrivacyErrorAbility",
+        "srcEntry": "./ets/privacyerrorability/PrivacyErrorAbility.ets",
+        "description": "$string:PrivacyErrorAbility_desc",
+        "exported": true,
+        // [End module_json_abilities_error]
+        "icon": "$media:layered_image",
+        "label": "$string:PrivacyErrorAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+      }
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "title_font_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "gradient_start_color",
+      "value": "#F97794"
+    },
+    {
+      "name": "gradient_end_color",
+      "value": "#623AA2"
+    },
+    {
+      "name": "text_reflection_color",
+      "value": "#00F3C8C8"
+    },
+
+    {
+      "name": "page_background_color",
+      "value": "#F1F3F5"
+    }
+  ]
+}

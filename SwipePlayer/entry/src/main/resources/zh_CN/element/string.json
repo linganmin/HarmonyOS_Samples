@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SwipePlayer"
+    },
+    {
+      "name": "ADVERT_TITLE",
+      "value": "你有新人限时福利"
+    },
+    {
+      "name": "ADVERT_TEXT_PUBLICIZE",
+      "value": "华为官方旗舰店为您送来超值福利"
+    },
+    {
+      "name": "ADVERT_PUBLICIZE_IMAGE_INTRO_TEXT",
+      "value": "HUAWEI Mate 60 12GB+1TB 雅丹黑"
+    },
+    {
+      "name": "ADVERT_PUBLICIZE_IMAGE_INTRO_TEXT_OFFICIAL",
+      "value": "(官方标配)"
+    },
+    {
+      "name": "ADVERT_BOTTOM_TEXT_STORE",
+      "value": "华为官方旗舰店"
+    },
+    {
+      "name": "ADVERT_BOTTOM_TEXT_MORE",
+      "value": "更多"
+    },
+    {
+      "name": "BUTTON_NO_INTEREST_TEXT",
+      "value": "不感兴趣"
+    },
+    {
+      "name": "BUTTON_LOOK_DETAIL_TEXT",
+      "value": "查看详情"
+    },
+    {
+      "name": "TOP_TAB_CONCERN",
+      "value": "关注"
+    },
+    {
+      "name": "TOP_TAB_RECOMMEND",
+      "value": "推荐"
+    },
+    {
+      "name": "TAB_HOME",
+      "value": "首页"
+    },
+    {
+      "name": "TAB_FRIENDS",
+      "value": "朋友"
+    },
+    {
+      "name": "TAB_PUBLISH",
+      "value": "发布"
+    },
+    {
+      "name": "TAB_MESSAGE",
+      "value": "消息"
+    },
+    {
+      "name": "TAB_MINE",
+      "value": "我"
+    },
+    {
+      "name": "REQUEST_FULL_SCREEN",
+      "value": "全屏观看"
+    },
+    {
+      "name": "FULL_SCREEN_MESSAGE",
+      "value": "短视频全屏"
+    },
+    {
+      "name": "LIVE_COMMENTS_TEXT",
+      "value": "23条评论"
+    },
+    {
+      "name": "LIVE_COMMENTS_TEXT_INPUT_PLACEHOLDER",
+      "value": "请输入..."
+    },
+    {
+      "name": "VIDEO_FAST_SPEED_TOAST_TURN",
+      "value": "已开启"
+    },
+    {
+      "name": "VIDEO_FAST_SPEED_TOAST_XSpeed",
+      "value": "x倍速"
+    },
+    {
+      "name": "FAST_SPEED_TOP_TEXT",
+      "value": "视频播放速度"
+    },
+    {
+      "name": "FOLD_FAST_SPEED_BOTTOM_BUTTON_TEXT",
+      "value": "确认选择"
+    },
+    {
+      "name": "FAST_SPEED_TEXT",
+      "value": "视频倍速"
+    },
+    {
+      "name": "REPORT_TEXT",
+      "value": "举报该用户"
+    },
+    {
+      "name": "RELEASE_REFRESH",
+      "value": "释放刷新"
+    },
+    {
+      "name": "REFRESH",
+      "value": "下拉刷新"
+    }
+  ]
+}

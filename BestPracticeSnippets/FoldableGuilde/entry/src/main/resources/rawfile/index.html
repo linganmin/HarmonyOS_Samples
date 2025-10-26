@@ -1,0 +1,66 @@
+// [Start dialog_index]
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      /* show Dialog */
+      function showDialog() {
+        document.getElementById("container").style.display = "block";
+      }
+      /* hide Dialog */
+      function hideDialog() {
+        document.getElementById("container").style.display = "none";
+      }
+      window.onload = showDialog;
+    </script>
+    <style>
+      #container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgba(0, 0, 0, 0.2);
+        z-index: 9999;
+      }
+      #content {
+        position: absolute;
+        width: 70vw;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        background-color: #fff;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+        font-size: 0;
+      }
+      /* Use the @media property to achieve adaptation */
+      @media only screen and (min-width: 500px) {
+        #content {
+          width: 35vw;
+        }
+      }
+      img {
+        width: 100%;
+      }
+      button {
+        display: block;
+        margin: 0 auto;
+        height: 20px;
+        background-color: #007bff;
+        color: #fff;
+        border: none;
+        font-size: 12px;
+      }
+    </style>
+    </head>
+    <body>
+        <div id="container" style="display: none">
+            <div id="content">
+                <img src="./image/image1.png" />
+                <button onclick="hideDialog()">close</button>
+            </div>
+        </div>
+    </body>
+</html>
+// [End dialog_index]

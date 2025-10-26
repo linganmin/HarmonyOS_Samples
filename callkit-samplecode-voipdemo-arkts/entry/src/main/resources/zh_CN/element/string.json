@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "VoIP通话样例"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "label"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    }
+  ]
+}

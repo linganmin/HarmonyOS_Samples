@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "demoso",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "DemosoAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "DemosoAbility",
+        "srcEntry": "./ets/demosoability/DemosoAbility.ets",
+        "description": "$string:DemosoAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:DemosoAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

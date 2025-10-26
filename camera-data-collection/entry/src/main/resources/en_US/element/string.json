@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CameraDataCollection"
+    },
+    {
+      "name": "photo",
+      "value": "Photo"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "reason_camera",
+      "value": "Used for taking photos and recording videos"
+    },
+    {
+      "name": "reason_microphone",
+      "value": "Used for recording audio during video recording"
+    },
+    {
+      "name": "reason_write_imagevideo",
+      "value": "Used for saving photos and videos"
+    }
+  ]
+}

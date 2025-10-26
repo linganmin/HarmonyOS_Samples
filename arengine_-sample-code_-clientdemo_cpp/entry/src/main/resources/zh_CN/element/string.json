@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "ARSample"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ARSample"
+    },
+    {
+      "name": "tips",
+      "value": "提示"
+    },
+    {
+      "name": "warning",
+      "value": "警告"
+    },
+    {
+      "name": "permission_desc",
+      "value": "需要相机权限，请前往 “设置->应用和元服务” 开启权限。"
+    },
+    {
+      "name": "back",
+      "value": "退出"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "alert_desc",
+      "value": "当前特征点较少，无法识别平面，请移动相机。"
+    },
+    {
+      "name": "open_depth_render",
+      "value": "开启深度图渲染模式"
+    },
+    {
+      "name": "close_depth_render",
+      "value": "关闭深度图渲染模式"
+    },
+    {
+      "name": "open_image_track",
+      "value": "打开2D图像追踪"
+    },
+    {
+      "name": "choose_local_image",
+      "value": "选择本地图片"
+    },
+    {
+      "name": "load_local_database",
+      "value": "加载本地数据库"
+    },
+    {
+      "name": "add_image_msg_count",
+      "value": "添加图片进度："
+    },
+    {
+      "name": "add_image_msg_success",
+      "value": "添加成功数量："
+    },
+    {
+      "name": "add_image_msg_fail",
+      "value": "添加失败数量："
+    },
+    {
+      "name": "invalid_image_added",
+      "value": "请添加有效图片。"
+    },
+    {
+      "name": "image_name_by_add",
+      "value": "失败图片名："
+    },
+    {
+      "name": "image_add_reason_by_add",
+      "value": "失败原因："
+    },
+    {
+      "name": "semantic_dense_normal",
+      "value": "开启稠密点云"
+    },
+    {
+      "name": "semantic_dense_cube_volume",
+      "value": "打开体积测量"
+    },
+    {
+      "name": "semantic_dense_cube_space",
+      "value": "打开空间测量"
+    }
+  ]
+}

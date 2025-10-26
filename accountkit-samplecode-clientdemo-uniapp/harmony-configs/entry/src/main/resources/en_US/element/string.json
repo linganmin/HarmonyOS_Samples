@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HuaweiIDSample"
+    },
+    {
+      "name": "login",
+      "value": "Sign in/Sign up"
+    },
+    {
+      "name": "personalInfo",
+      "value": "Personal info"
+    },
+    {
+      "name": "phone",
+      "value": "Mobile number"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "No Internet connection. Check your network settings. "
+    },
+    {
+      "name":"hwid_text_button_known",
+      "value":"OK"
+    },
+    {
+      "name": "other_login_models",
+      "value": "Other ways to sign in"
+    },
+    {
+      "name": "login_for_enjoy_service",
+      "value": "Enjoy more services after signing in"
+    },
+    {
+      "name": "bind_huaweiId_number",
+      "value": "Mobile number associated with HUAWEI ID"
+    },
+    {
+      "name": "service_error",
+      "value": "Service or network exception. Try again later."
+    },
+    {
+      "name": "logout",
+      "value": "Sign out"
+    }
+  ]
+}

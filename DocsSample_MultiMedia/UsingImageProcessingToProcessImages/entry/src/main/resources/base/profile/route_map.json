@@ -1,0 +1,36 @@
+{
+  "routerMap": [
+    {
+      "name": "ImageScaling",
+      "pageSourceFile": "src/main/ets/view/ImageScalingComponent.ets",
+      "buildFunction": "ImageScalingComponentBuilder",
+      "data": {
+        "description": "this is ImageScalingComponent"
+      }
+    },
+    {
+      "name": "ImageColorSpaceConversion",
+      "pageSourceFile": "src/main/ets/view/ImageColorSpaceConversionComponent.ets",
+      "buildFunction": "ImageColorSpaceConversionComponentBuilder",
+      "data": {
+        "description": "this is ImageColorSpaceConversionComponent"
+      }
+    },
+    {
+      "name": "MetadataGeneration",
+      "pageSourceFile": "src/main/ets/view/MetadataGenerationComponent.ets",
+      "buildFunction": "MetadataGenerationComponentBuilder",
+      "data": {
+        "description": "this is MetadataGenerationComponent"
+      }
+    },
+    {
+      "name": "HDRImageConversion",
+      "pageSourceFile": "src/main/ets/view/HDRImageConversionComponent.ets",
+      "buildFunction": "HDRImageConversionComponentBuilder",
+      "data": {
+        "description": "this is HDRImageConversionComponent"
+      }
+    }
+  ]
+}

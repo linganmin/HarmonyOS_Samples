@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "WearableAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "WearableAbility_label",
+      "value": "SmartWatchMapNavigation"
+    },
+    {
+      "name": "request_permission_reason",
+      "value": "Using location permissions in location scenarios."
+    },
+    {
+      "name": "location_permission",
+      "value": "Using location permissions in location scenarios."
+    },
+    {
+      "name": "Right_front",
+      "value": "向右前方"
+    },
+    {
+      "name": "Left_front",
+      "value": "向左前方"
+    },
+    {
+      "name": "Right",
+      "value": "右转"
+    },
+    {
+      "name": "Left",
+      "value": "左转"
+    },
+    {
+      "name": "End",
+      "value": "到达目的地"
+    },
+    {
+      "name": "meter",
+      "value": "m后,"
+    },
+    {
+      "name": "Estimated_Time",
+      "value": "预计通行时间"
+    },
+    {
+      "name": "Second",
+      "value": "s"
+    }
+  ]
+}

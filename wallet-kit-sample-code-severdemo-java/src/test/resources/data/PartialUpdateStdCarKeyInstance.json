@@ -1,0 +1,10 @@
+{
+  "linkDevicePass": {
+    "webServiceURL": "https://xxx",
+    "nfcType": "1",
+    "serialNumber": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "passVersion": "10.0",
+    "spPublickey": "xxxx",
+    "token": "12345679"
+  }
+}

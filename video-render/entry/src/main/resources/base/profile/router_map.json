@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "OpenGLPlayer",
+      "pageSourceFile": "src/main/ets/pages/OpenGLPlayer.ets",
+      "buildFunction": "OpenGLBuilder",
+      "data": {
+        "description": "Playing video based on OpenGL."
+      }
+    },
+    {
+      "name": "VulkanPlayer",
+      "pageSourceFile": "src/main/ets/pages/VulkanPlayer.ets",
+      "buildFunction": "VulkanBuilder",
+      "data": {
+        "description": "Playing video based on Vulkan."
+      }
+    },
+    {
+      "name": "XComponentPlayer",
+      "pageSourceFile": "src/main/ets/pages/XComponentPlayer.ets",
+      "buildFunction": "XComponentBuilder",
+      "data": {
+        "description": "Playing video based on XComponent."
+      }
+    }
+  ]
+}

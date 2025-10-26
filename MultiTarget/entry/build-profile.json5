@@ -1,0 +1,56 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "official",
+      "source": {
+        "pages": [
+          "pages/Index"
+        ],
+        "sourceRoots": [
+          "./src/official_pages"
+        ]
+      },
+      "resource": {
+        "directories": [
+          "./src/main/official/resources",
+          "./src/main/resources"
+        ]
+      }
+    },
+    {
+      "name": "test",
+      "source": {
+        "pages": [
+          "pages/Index"
+        ],
+        "sourceRoots": [
+          "./src/test_pages"
+        ]
+      },
+      "resource": {
+        "directories": [
+          "./src/main/test/resources",
+          "./src/main/resources"
+        ]
+      }
+    },
+  ]
+}

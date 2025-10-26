@@ -1,0 +1,14 @@
+// NDK开发ArkTS侧编码规范
+//[Start, NDKDevelopArkTSohPackage]
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "libentry.so": "file:./src/main/cpp/types/libentry"
+  }
+}
+//[Start, NDKDevelopArkTSohPackage2]

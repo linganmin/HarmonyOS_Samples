@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "audio_demo_title",
+      "value": "AudioFocusDemo"
+    },
+    {
+      "name": "video_scene_button",
+      "value": "基于AVPlayer开发视频"
+    },
+    {
+      "name": "audio_scene_button",
+      "value": "基于AudioRender开发音频"
+    },
+    {
+      "name": "voip_chart_button",
+      "value": "基于AudioCapturer开发VoIP通话"
+    }
+  ]
+}

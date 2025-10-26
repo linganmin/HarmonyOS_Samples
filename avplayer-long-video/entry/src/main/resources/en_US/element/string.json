@@ -1,0 +1,220 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVPlayerLongVideo"
+    },
+    {
+      "name": "reason_background",
+      "value": "AvSessionController and BackgroundTaskManager need to set background permission"
+    },
+    {
+      "name": "share",
+      "value": "share"
+    },
+    {
+      "name": "comment",
+      "value": "comment"
+    },
+    {
+      "name": "videoList",
+      "value": "videoList"
+    },
+    {
+      "name": "user_followers",
+      "value": "13k followers, 5 videos"
+    },
+    {
+      "name": "user_follow",
+      "value": "follow"
+    },
+    {
+      "name": "play_count",
+      "value": "120k"
+    },
+    {
+      "name": "favor_count",
+      "value": "70k"
+    },
+    {
+      "name": "last_history",
+      "value": "last viewed %s"
+    },
+    {
+      "name": "send_barrage",
+      "value": "barrage"
+    },
+    {
+      "name": "video_name0",
+      "value": "@Cat"
+    },
+    {
+      "name": "video_name1",
+      "value": "@Mountaineer"
+    },
+    {
+      "name": "video_name2",
+      "value": "@Nice To Meet You"
+    },
+    {
+      "name": "video_name3",
+      "value": "@Tick"
+    },
+    {
+      "name": "video_name4",
+      "value": "@Faery"
+    },
+    {
+      "name": "video_description0",
+      "value": "#Mountains and sunrise"
+    },
+    {
+      "name": "video_description1",
+      "value": "#The Climber"
+    },
+    {
+      "name": "video_description2",
+      "value": "#Endless sea"
+    },
+    {
+      "name": "video_description3",
+      "value": "#Down came the rain"
+    },
+    {
+      "name": "video_description4",
+      "value": "#Mobile phone promotional video"
+    },
+    {
+      "name": "placeholder",
+      "value": "click to send comment"
+    },
+    {
+      "name": "comment1",
+      "value": "very good"
+    },
+    {
+      "name": "comment2",
+      "value": "excellent"
+    },
+    {
+      "name": "comment3",
+      "value": "one more time"
+    },
+    {
+      "name": "send",
+      "value": "send"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "Condensed"
+    },
+    {
+      "name": "caption_title",
+      "value": "subtitle settings"
+    },
+    {
+      "name": "caption_family",
+      "value": "font family"
+    },
+    {
+      "name": "caption_size",
+      "value": "font size"
+    },
+    {
+      "name": "caption_color",
+      "value": "font color"
+    },
+    {
+      "name": "previousFrame",
+      "value": "previous frame"
+    },
+    {
+      "name": "nextFrame",
+      "value": "next frame"
+    },
+    {
+      "name": "pip_start",
+      "value": "whether to start picture in picture"
+    },
+    {
+      "name": "speed_play",
+      "value": "set the play speed"
+    },
+    {
+      "name": "sound_off",
+      "value": "whether to turn off the sound"
+    },
+    {
+      "name": "windowScale_set",
+      "value": "set the window scale"
+    },
+    {
+      "name": "more",
+      "value": "more"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "Playback speed"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "FIT"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "FIT_CROP"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "window scale mode"
+    },
+    {
+      "name": "Chinese",
+      "value": "Chinese"
+    },
+    {
+      "name": "English",
+      "value": "English"
+    },
+    {
+      "name": "language_switch",
+      "value": "Language switch"
+    },
+    {
+      "name": "local_video",
+      "value": "local video: "
+    },
+    {
+      "name": "online_video",
+      "value": "online video: "
+    }
+  ]
+}

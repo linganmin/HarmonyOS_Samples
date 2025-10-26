@@ -1,0 +1,11 @@
+{
+  "modelVersion": "5.0.0",
+  "license": "",
+  "devDependencies": {},
+  "author": "Huawei RRI",
+  "name": "frame_generation",
+  "description": "GameSDK integration samples.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {}
+}

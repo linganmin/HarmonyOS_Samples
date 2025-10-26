@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "自定义Canvas画布"
+    },
+    {
+      "name": "paint",
+      "value": "画笔"
+    },
+    {
+      "name": "brash",
+      "value": "笔刷"
+    },
+    {
+      "name": "ballpoint",
+      "value": "圆珠笔"
+    },
+    {
+      "name": "marker",
+      "value": "马克笔"
+    },
+    {
+      "name": "pencil",
+      "value": "铅笔"
+    },
+    {
+      "name": "fountain_pen",
+      "value": "钢笔"
+    },
+    {
+      "name": "laser_pointer",
+      "value": "激光笔"
+    },
+    {
+      "name": "color",
+      "value": "颜色"
+    },
+    {
+      "name": "opacity",
+      "value": "不透明度"
+    },
+    {
+      "name": "thicknesses",
+      "value": "粗细"
+    },
+    {
+      "name": "rubber",
+      "value": "橡皮擦"
+    },
+    {
+      "name": "redo",
+      "value": "撤回"
+    },
+    {
+      "name": "undo",
+      "value": "重做"
+    },
+    {
+      "name": "clear",
+      "value": "清空"
+    }
+  ]
+}

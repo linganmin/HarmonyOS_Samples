@@ -1,0 +1,680 @@
+{
+  "integer": [
+    {
+      "name": "friends_page_padding_left",
+      "value": 24
+    },
+    {
+      "name": "friends_page_title_font_size",
+      "value": 24
+    },
+    {
+      "name": "friends_page_title_height",
+      "value": 33
+    },
+    {
+      "name": "friends_page_title_bar_height",
+      "value": 56
+    },
+    {
+      "name": "friends_page_search_divider_start_margin",
+      "value": 56
+    },
+    {
+      "name": "friends_page_divider_width",
+      "value": 1
+    },
+    {
+      "name": "friends_page_contact_image_width",
+      "value": 40
+    },
+    {
+      "name": "friends_page_contact_image_height",
+      "value": 40
+    },
+    {
+      "name": "friends_page_contact_image_border_radius",
+      "value": 20
+    },
+    {
+      "name": "friends_page_contact_text_width",
+      "value": 248
+    },
+    {
+      "name": "friends_page_contact_text_height",
+      "value": 22
+    },
+    {
+      "name": "friends_page_contact_text_font_size",
+      "value": 16
+    },
+    {
+      "name": "friends_page_contact_text_margin_left",
+      "value": 16
+    },
+    {
+      "name": "friends_page_contact_row_height",
+      "value": 64
+    },
+    {
+      "name": "list_history_title_icon_width",
+      "value": 24
+    },
+    {
+      "name": "list_history_title_icon_height",
+      "value": 24
+    },
+    {
+      "name": "list_history_title_fontSize",
+      "value": 20
+    },
+    {
+      "name": "list_history_title_height",
+      "value": 50
+    },
+    {
+      "name": "list_history_title_margin_left",
+      "value": 16
+    },
+    {
+      "name": "list_history_title_line_height",
+      "value": 24
+    },
+    {
+      "name": "list_history_title_padding_left",
+      "value": 24
+    },
+    {
+      "name": "list_history_title_padding_right",
+      "value": 24
+    },
+    {
+      "name": "list_history_title_padding_top",
+      "value": 13
+    },
+    {
+      "name": "list_history_title_padding_bottom",
+      "value": 9
+    },
+    {
+      "name": "list_history_name_fontSize",
+      "value": 20
+    },
+    {
+      "name": "list_history_list_divider_margin",
+      "value": 12
+    },
+    {
+      "name": "list_history_name_margin_left",
+      "value": -15
+    },
+    {
+      "name": "list_history_name_margin_right",
+      "value": 15
+    },
+    {
+      "name": "list_history_image_group_padding_left",
+      "value": 60
+    },
+    {
+      "name": "list_history_image_group_padding_right",
+      "value": 60
+    },
+    {
+      "name": "list_history_thumb_margin_left",
+      "value": 111
+    },
+    {
+      "name": "list_history_message_margin_left",
+      "value": 24
+    },
+    {
+      "name": "list_history_single_image_width",
+      "value": 184
+    },
+    {
+      "name": "list_history_single_image_height",
+      "value": 112
+    },
+    {
+      "name": "list_history_single_image_radius",
+      "value": 16
+    },
+    {
+      "name": "list_history_icon_play_width",
+      "value": 40
+    },
+    {
+      "name": "list_history_icon_play_height",
+      "value": 40
+    },
+    {
+      "name": "list_history_image_borderRadius",
+      "value": 5
+    },
+    {
+      "name": "list_history_image_margin_right",
+      "value": 15
+    },
+    {
+      "name": "list_history_image_margin_top",
+      "value": -55
+    },
+    {
+      "name": "list_history_owner_margin_bottom",
+      "value": 20
+    },
+    {
+      "name": "list_history_owner_margin_height",
+      "value": 20
+    },
+    {
+      "name": "list_history_layout_padding_bottom",
+      "value": 50
+    },
+    {
+      "name": "list_history_oneMoment_width",
+      "value": 50
+    },
+    {
+      "name": "list_history_oneMoment_height",
+      "value": 38
+    },
+    {
+      "name": "list_history_useImage_radius",
+      "value": 50
+    },
+    {
+      "name": "list_history_useName_fontSize",
+      "value": 16
+    },
+    {
+      "name": "list_history_useName_line_height",
+      "value": 22
+    },
+    {
+      "name": "list_history_user_image_width",
+      "value": 40
+    },
+    {
+      "name": "list_history_user_image_height",
+      "value": 40
+    },
+    {
+      "name": "list_history_user_image_border_radius",
+      "value": 20
+    },
+    {
+      "name": "list_history_userText_fontSize",
+      "value": 14
+    },
+    {
+      "name": "list_history_userText_line_height",
+      "value": 19
+    },
+    {
+      "name": "list_history_userText_margin_top",
+      "value": 1
+    },
+    {
+      "name": "list_history_user_col_margin_left",
+      "value": 8
+    },
+    {
+      "name": "list_history_row_padding_left",
+      "value": 12
+    },
+    {
+      "name": "list_history_row_padding_right",
+      "value": 16
+    },
+    {
+      "name": "list_history_row_padding_top",
+      "value": 10
+    },
+    {
+      "name": "list_history_row_padding_bottom",
+      "value": 11
+    },
+    {
+      "name": "list_history_grid_gap",
+      "value": 4
+    },
+    {
+      "name": "list_history_grid_width",
+      "value": 248
+    },
+    {
+      "name": "list_history_grid_height",
+      "value": 248
+    },
+    {
+      "name": "list_history_time_fontSize",
+      "value": 12
+    },
+    {
+      "name": "list_history_time_height",
+      "value": 15
+    },
+    {
+      "name": "list_history_time_width",
+      "value": 20
+    },
+    {
+      "name": "list_history_handler_icon_width",
+      "value": 20
+    },
+    {
+      "name": "list_history_handler_icon_height",
+      "value": 20
+    },
+    {
+      "name": "list_history_handler_text_font_size",
+      "value": 12
+    },
+    {
+      "name": "list_history_handler_padding_left",
+      "value": 60
+    },
+    {
+      "name": "list_history_handler_padding_right",
+      "value": 16
+    },
+    {
+      "name": "list_history_handler_margin_top",
+      "value": 14
+    },
+    {
+      "name": "list_history_handler_margin_bottom",
+      "value": 13
+    },
+    {
+      "name": "layout_5",
+      "value": 5
+    },
+    {
+      "name": "jump_button_radius",
+      "value": 20
+    },
+    {
+      "name": "jump_button_height",
+      "value": 40
+    },
+    {
+      "name": "jump_button_width",
+      "value": 200
+    },
+    {
+      "name": "icon_default_height",
+      "value": 32
+    },
+    {
+      "name": "margin_between_icon_and_description",
+      "value": 5
+    },
+    {
+      "name": "margin_small",
+      "value": 10
+    },
+    {
+      "name": "margin_default",
+      "value": 12
+    },
+    {
+      "name": "margin_mid",
+      "value": 20
+    },
+    {
+      "name": "margin_large",
+      "value": 30
+    },
+    {
+      "name": "padding_small",
+      "value": 10
+    },
+    {
+      "name": "border_radius",
+      "value": 8
+    },
+    {
+      "name": "button_height",
+      "value": 20
+    },
+    {
+      "name": "button_width",
+      "value": 80
+    },
+    {
+      "name": "icon_height_small",
+      "value": 24
+    },
+    {
+      "name": "grid_height",
+      "value": 460
+    },
+    {
+      "name": "height_one_hundred",
+      "value": 100
+    },
+    {
+      "name": "font_size_mid",
+      "value": 20
+    },
+    {
+      "name": "height_eighty",
+      "value": 80
+    },
+    {
+      "name": "trip_message_height",
+      "value": 160
+    },
+    {
+      "name": "jump_font_size",
+      "value": 12
+    },
+    {
+      "name": "jump_margin",
+      "value": 24
+    },
+    {
+      "name": "back_top_img_size",
+      "value": 24
+    },
+    {
+      "name": "back_top_img_background_size",
+      "value": 48
+    },
+    {
+      "name": "back_top_bag_radius",
+      "value": 36
+    },
+    {
+      "name": "back_top_margin",
+      "value": 16
+    },
+    {
+      "name": "height_1",
+      "value": 100
+    },
+    {
+      "name": "default_padding",
+      "value": 12
+    },
+    {
+      "name": "swiper_border_radius",
+      "value": 12
+    },
+    {
+      "name": "item_width",
+      "value": 35
+    },
+    {
+      "name": "item_height",
+      "value": 18
+    },
+    {
+      "name": "margin_top",
+      "value": -20
+    },
+    {
+      "name": "margin_left",
+      "value": 30
+    },
+    {
+      "name": "swiper_margin_small",
+      "value": 5
+    },
+    {
+      "name": "vibrate_time",
+      "value": 600
+    },
+    {
+      "name": "elements_height",
+      "value": 100
+    },
+    {
+      "name": "text_width",
+      "value": 100
+    },
+    {
+      "name": "image_size",
+      "value": 80
+    },
+    {
+      "name": "image_size2",
+      "value": 10
+    },
+    {
+      "name": "circle_icon_size",
+      "value": 15
+    },
+    {
+      "name": "circle_elements_width",
+      "value": 20
+    },
+    {
+      "name": "circle_elements_height",
+      "value": 15
+    },
+    {
+      "name": "mark_height",
+      "value": 20
+    },
+    {
+      "name": "total_mark_height",
+      "value": 30
+    },
+    {
+      "name": "flex_shrink",
+      "value": 1
+    },
+    {
+      "name": "read_check_font_size",
+      "value": 10
+    },
+    {
+      "name": "read_check_border_radius_size",
+      "value": 4
+    },
+    {
+      "name": "comm_border_radius",
+      "value": 24
+    },
+    {
+      "name": "login_button_font_size",
+      "value": 16
+    },
+    {
+      "name": "other_login_font_size",
+      "value": 14
+    },
+    {
+      "name": "comm_font_size",
+      "value": 12
+    },
+    {
+      "name": "phone_number_font_size",
+      "value": 20
+    },
+    {
+      "name": "title_margin_top",
+      "value": 28
+    },
+    {
+      "name": "outer_circle_stroke_width",
+      "value": 5
+    },
+    {
+      "name": "path_stroke_width",
+      "value": 1
+    },
+    {
+      "name": "stack_margin_bottom",
+      "value": 120
+    },
+    {
+      "name": "decrease_button_margin_right",
+      "value": 50
+    },
+    {
+      "name": "progress_percentage_image_size_width",
+      "value": 24
+    },
+    {
+      "name": "progress_percentage_image_size_height",
+      "value": 24
+    },
+    {
+      "name": "ohos_id_text_size_headline3",
+      "value": 60
+    },
+    {
+      "name": "ohos_id_text_size_headline7",
+      "value": 24
+    },
+    {
+      "name": "add_less_img_background_size",
+      "value": 48
+    },
+    {
+      "name": "ohos_id_text_size_sub_title2",
+      "value": 16
+    },
+    {
+      "name": "ohos_id_corner_radius_default_xxl",
+      "value": 32
+    },
+    {
+      "name": "ohos_id_max_padding",
+      "value": 24
+    },
+    {
+      "name": "ohos_id_default_padding",
+      "value": 12
+    },
+    {
+      "name": "home_image_size",
+      "value": 100
+    },
+    {
+      "name": "voting_component_voting_theme_image_width",
+      "value": 20
+    },
+    {
+      "name": "voting_component_voting_theme_image_height",
+      "value": 20
+    },
+    {
+      "name": "voting_component_voting_theme_image_margin_left",
+      "value": 10
+    },
+    {
+      "name": "voting_component_voting_theme_image_margin_right",
+      "value": 3
+    },
+    {
+      "name": "voting_component_voting_theme_image_text_font_size",
+      "value": 17
+    },
+    {
+      "name": "voting_component_left_rect_height",
+      "value": 50
+    },
+    {
+      "name": "voting_component_fillet_radius",
+      "value": 40
+    },
+    {
+      "name": "voting_component_right_angle_radius",
+      "value": 0
+    },
+    {
+      "name": "voting_component_option_background_height",
+      "value": 40
+    },
+    {
+      "name": "voting_component_text_center_margin",
+      "value": 25
+    },
+    {
+      "name": "voting_component_upper_text_font_size",
+      "value": 11
+    },
+    {
+      "name": "voting_component_under_text_font_size",
+      "value": 9
+    },
+    {
+      "name": "voting_component_polygon_width",
+      "value": 100
+    },
+    {
+      "name": "voting_component_polygon_height",
+      "value": 80
+    },
+    {
+      "name": "voting_component_mid_text_font_size",
+      "value": 35
+    },
+    {
+      "name": "voting_component_bottom_text_font_size",
+      "value": 10
+    },
+    {
+      "name": "voting_component_bottom_text_margin",
+      "value": 16
+    },
+    {
+      "name": "voting_component_padding_top",
+      "value": 16
+    },
+    {
+      "name": "voice_record_dynamic_effect_font_size_text",
+      "value": 18
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_text",
+      "value": 50
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_image",
+      "value": 24
+    },
+    {
+      "name": "voice_record_dynamic_effect_width_image",
+      "value": 24
+    },
+    {
+      "name": "voice_record_dynamic_effect_radius_row",
+      "value": 24
+    },
+    {
+      "name": "voice_record_dynamic_effect_margin_top",
+      "value": 12
+    },
+    {
+      "name": "voice_record_dynamic_effect_radius_column",
+      "value": 8
+    },
+    {
+      "name": "voice_record_dynamic_effect_margin_left",
+      "value": 10
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_row",
+      "value": 40
+    },
+    {
+      "name": "voice_record_dynamic_effect_padding_row",
+      "value": 20
+    },
+    {
+      "name": "voice_record_dynamic_effect_height_button",
+      "value": 30
+    },
+    {
+      "name": "voice_record_dynamic_effect_width_button",
+      "value": 250
+    }
+  ]
+}

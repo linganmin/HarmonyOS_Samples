@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MusicCard"
+    },
+    {
+      "name": "reason_background",
+      "value": "允许应用在播放音乐场景使用保持在后台运行的能力。"
+    },
+    {
+      "name": "collect",
+      "value": "收藏"
+    },
+    {
+      "name": "PhoneFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "PhoneFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "widget_display_name_lyrics",
+      "value": "心动歌词"
+    },
+    {
+      "name": "widget_dynamic_lyrics",
+      "value": "动态歌词"
+    },
+    {
+      "name": "widget_desc_lyrics",
+      "value": "让您心动的歌词"
+    },
+    {
+      "name": "widget_desc_dynamic_lyrics",
+      "value": "动态变换的歌词"
+    },
+    {
+      "name": "recommended_playlists",
+      "value": "歌单推荐"
+    },
+    {
+      "name": "widget_desc_recommended",
+      "value": "推荐您喜爱的音乐"
+    },
+    {
+      "name": "widget_display_name_control",
+      "value": "音乐播控"
+    },
+    {
+      "name": "widget_desc_control",
+      "value": "音乐播控卡片"
+    },
+    {
+      "name": "hot_playlists",
+      "value": "热门歌单"
+    },
+    {
+      "name": "my_collect",
+      "value": "我的收藏"
+    },
+    {
+      "name": "recommended",
+      "value": "推荐"
+    },
+    {
+      "name": "hot_music",
+      "value": "热门歌曲"
+    },
+    {
+      "name": "play_all",
+      "value": "播放全部 (%1$d)"
+    },
+    {
+      "name": "collected_label_synthesis",
+      "value": "综合"
+    },
+    {
+      "name": "collected_label_single",
+      "value": "单曲"
+    },
+    {
+      "name": "collected_label_video",
+      "value": "视频"
+    },
+    {
+      "name": "collected_label_playlists",
+      "value": "歌单"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "your_liked_music",
+      "value": "您喜爱的音乐"
+    },
+    {
+      "name": "pure_music_no_lyric",
+      "value": "此歌曲为纯音乐，请您欣赏"
+    },
+    {
+      "name": "current_play_list",
+      "value": "当前播放列表(%1$d)"
+    },
+    {
+      "name": "card_playlists_desc",
+      "value": "这个歌单都很好听"
+    },
+    {
+      "name": "hot_playlist1",
+      "value": "热门歌单1"
+    },
+    {
+      "name": "hot_playlist2",
+      "value": "热门歌单2"
+    },
+    {
+      "name": "hot_playlist3",
+      "value": "热门歌单3"
+    },
+    {
+      "name": "hot_playlist4",
+      "value": "H热门歌单4"
+    },
+    {
+      "name": "successfully_added_to_desktop",
+      "value": "添加至桌面成功"
+    },
+    {
+      "name": "error_added_to_desktop",
+      "value": "添加至桌面失败，请尝试其它添加方式"
+    },
+    {
+      "name": "long_pressc_btn",
+      "value": "长按添加至桌面"
+    },
+    {
+      "name": "add_desktop_widget",
+      "value": "添加桌面小组件"
+    },
+    {
+      "name": "pure_music",
+      "value": "此歌曲为纯音乐，请您欣赏"
+    },
+    {
+      "name": "dream_it_possible",
+      "value": "Dream It Possible"
+    },
+    {
+      "name": "china_is_promising",
+      "value": "中华有为"
+    },
+    {
+      "name": "remain_true_to_our_original_aspiration",
+      "value": "不忘初心"
+    },
+    {
+      "name": "i_got_it",
+      "value": "我知道了"
+    },
+    {
+      "name": "ha_ha_ha",
+      "value": "哈哈哈"
+    },
+    {
+      "name": "study_hard",
+      "value": "好好学习"
+    },
+    {
+      "name": "when_will_the_moon_be_clear_and_bright",
+      "value": "明月几时有"
+    },
+    {
+      "name": "serious",
+      "value": "正儿八经"
+    },
+    {
+      "name": "Delacey",
+      "value": "Delacey"
+    },
+    {
+      "name": "guitar",
+      "value": "吉他"
+    },
+    {
+      "name": "zhang_san",
+      "value": "张三"
+    },
+    {
+      "name": "li_si",
+      "value": "李四"
+    },
+    {
+      "name": "wang_wu",
+      "value": "王五"
+    },
+    {
+      "name": "zhao_liu",
+      "value": "赵六"
+    },
+    {
+      "name": "ming_yi",
+      "value": "名佚"
+    },
+    {
+      "name": "ming_yi_s",
+      "value": "名佚"
+    },
+    {
+      "name": "music_image",
+      "value": "词"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "modelVersion": "5.0.0",
+  "name": "streamcompression",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "pako": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/pako": "^2.0.3"
+  },
+  "dynamicDependencies": {}
+}

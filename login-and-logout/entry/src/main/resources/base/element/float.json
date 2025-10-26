@@ -1,0 +1,376 @@
+{
+  "float": [
+    {
+      "name": "normal_text_size",
+      "value": "16fp"
+    },
+    {
+      "name": "portrait_height",
+      "value": "56vp"
+    },
+    {
+      "name": "portrait_width",
+      "value": "56vp"
+    },
+    {
+      "name": "portrait_margin_top",
+      "value": "76vp"
+    },
+    {
+      "name": "account_text_size",
+      "value": "20fp"
+    },
+    {
+      "name": "md_padding_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "account_height",
+      "value": "28vp"
+    },
+    {
+      "name": "login_text_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "button_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "button_margin_top",
+      "value": "56vp"
+    },
+    {
+      "name": "button_row_margin_bottom",
+      "value": "26vp"
+    },
+    {
+      "name": "customDialog_text_font_size",
+      "value": "24vp"
+    },
+    {
+      "name": "bindSheet_height",
+      "value": "800vp"
+    },
+    {
+      "name": "bindSheet_height_widescreen",
+      "value": "540vp"
+    },
+    {
+      "name": "customDialog_row_margin_top",
+      "value": "16vp"
+    },
+    {
+      "name": "customDialog_row_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "padding",
+      "value": "16vp"
+    },
+    {
+      "name": "customDialog_bottom_row_width",
+      "value": "140vp"
+    },
+    {
+      "name": "customDialog_bottom_row_height",
+      "value": "40vp"
+    },
+    {
+      "name": "line_height",
+      "value": "24vp"
+    },
+    {
+      "name": "customDialog_column_height",
+      "value": "157vp"
+    },
+    {
+      "name": "mySheet_title_text_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "mySheet_text_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "mySheet_row_height",
+      "value": "57vp"
+    },
+    {
+      "name": "mySheet_image_width",
+      "value": "30vp"
+    },
+    {
+      "name": "mySheet_image_height",
+      "value": "30vp"
+    },
+    {
+      "name": "mySheet_column_text_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "mySheet_text_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "mySheet_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "mySheet_row_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "mySheet_column_height",
+      "value": "120vp"
+    },
+    {
+      "name": "mySheet_column_wrap_height",
+      "value": "420vp"
+    },
+    {
+      "name": "mySheet_column_borderRadius",
+      "value": "20vp"
+    },
+    {
+      "name": "mySheet_row_margin_bottom",
+      "value": "26vp"
+    },
+    {
+      "name": "promptAction_width",
+      "value": "328vp"
+    },
+    {
+      "name": "promptAction_height",
+      "value": "157vp"
+    },
+    {
+      "name": "update_text_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "update_text_margin_top",
+      "value": "2vp"
+    },
+    {
+      "name": "tabBuilder_image_width",
+      "value": "25vp"
+    },
+    {
+      "name": "tabBuilder_image_height",
+      "value": "25vp"
+    },
+    {
+      "name": "tabBuilder_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "tabBuilder_column_height",
+      "value": "50vp"
+    },
+    {
+      "name": "tabContent_text_font_size",
+      "value": "24vp"
+    },
+    {
+      "name": "tabContent_image_width",
+      "value": "24vp"
+    },
+    {
+      "name": "tabContent_image_height",
+      "value": "24vp"
+    },
+    {
+      "name": "tabContent_row_height",
+      "value": "40vp"
+    },
+    {
+      "name": "tabContent_row_width",
+      "value": "40vp"
+    },
+    {
+      "name": "tabContent_row_borderRadius",
+      "value": "40vp"
+    },
+    {
+      "name": "tabContent_row_wrap_height",
+      "value": "56vp"
+    },
+    {
+      "name": "grid_image_width",
+      "value": "48vp"
+    },
+    {
+      "name": "grid_image_height",
+      "value": "48vp"
+    },
+    {
+      "name": "grid_row_font_size",
+      "value": "20vp"
+    },
+    {
+      "name": "grid_row_borderRadius",
+      "value": "12vp"
+    },
+    {
+      "name": "grid_row_sm_height",
+      "value": "72vp"
+    },
+    {
+      "name": "grid_row_md_height",
+      "value": "128vp"
+    },
+    {
+      "name": "grid_row_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "grid_row_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "grid_tow_image_width",
+      "value": "24vp"
+    },
+    {
+      "name": "grid_tow_image_height",
+      "value": "24vp"
+    },
+    {
+      "name": "collection_image_width",
+      "value": "36vp"
+    },
+    {
+      "name": "collection_image_height",
+      "value": "36vp"
+    },
+    {
+      "name": "grid_tow_row_font_size_12",
+      "value": "12vp"
+    },
+    {
+      "name": "grid_tow_row_font_size_8",
+      "value": "8vp"
+    },
+    {
+      "name": "grid_tow_column_height",
+      "value": "80vp"
+    },
+    {
+      "name": "grid_tow_row_sm_height",
+      "value": "104vp"
+    },
+    {
+      "name": "grid_tow_row_md_height",
+      "value": "128vp"
+    },
+    {
+      "name": "grid_margin_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "grid_there_row_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "grid_there_row_height",
+      "value": "56vp"
+    },
+    {
+      "name": "grid_there_row_sm_height",
+      "value": "176vp"
+    },
+    {
+      "name": "grid_there_row_md_height",
+      "value": "120vp"
+    },
+    {
+      "name": "grid_four_row_sm_height",
+      "value": "120vp"
+    },
+    {
+      "name": "grid_four_row_md_height",
+      "value": "64vp"
+    },
+    {
+      "name": "index_bar_width",
+      "value": "60vp"
+    },
+    {
+      "name": "index_bar_height",
+      "value": "60vp"
+    },
+    {
+      "name": "index_padding_left",
+      "value": "16vp"
+    },
+    {
+      "name": "index_padding_right",
+      "value": "16vp"
+    },
+    {
+      "name": "index_padding_top",
+      "value": "32vp"
+    },
+    {
+      "name": "index_padding_bottom",
+      "value": "32vp"
+    },
+    {
+      "name": "textInput_constraintSize",
+      "value": "56vp"
+    },
+    {
+      "name": "textInput_padding_left",
+      "value": "20vp"
+    },
+    {
+      "name": "textInput_borderRadius",
+      "value": "36vp"
+    },
+    {
+      "name": "textInput_margin_top",
+      "value": "56vp"
+    },
+    {
+      "name": "textInput_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "password_constraintSize",
+      "value": "56vp"
+    },
+    {
+      "name": "password_padding_left",
+      "value": "20vp"
+    },
+    {
+      "name": "symbol_width",
+      "value": "24vp"
+    },
+    {
+      "name": "symbol_height",
+      "value": "18vp"
+    },
+    {
+      "name": "password_borderRadius",
+      "value": "36vp"
+    },
+    {
+      "name": "password_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "agreements_font_size",
+      "value": "13vp"
+    },
+    {
+      "name": "agreements_margin_right",
+      "value": "6vp"
+    }
+  ]
+}

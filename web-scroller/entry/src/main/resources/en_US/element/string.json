@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web Scroller"
+    },
+    {
+      "name": "text1",
+      "value": "Scroll the Web component after scrolling the parent component."
+    },
+    {
+      "name": "text2",
+      "value": "Full expansion and scrolling of the Web component."
+    },
+    {
+      "name": "text3",
+      "value": "Nested scrolling of multiple containers."
+    },
+    {
+      "name": "text4",
+      "value": "Nested scrolling of Web components."
+    },
+    {
+      "name": "announcement1",
+      "value": "announcement 1"
+    },
+    {
+      "name": "announcement2",
+      "value": "announcement 2"
+    },
+    {
+      "name": "native_component_area",
+      "value": "Native Component Area"
+    },
+    {
+      "name": "network_permissions",
+      "value": "Get network permissions to access web pages"
+    }
+  ]
+}

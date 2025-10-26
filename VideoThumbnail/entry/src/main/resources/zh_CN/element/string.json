@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "视频缩略图"
+    },
+    {
+      "name": "show_thumbnail",
+      "value": "选择图库视频展示缩略图"
+    },
+    {
+      "name": "specify_thumbnail",
+      "value": "选择图库视频指定缩略图"
+    }
+  ]
+}

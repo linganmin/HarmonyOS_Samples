@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "description"
+    },
+    {
+      "name": "entryability_label",
+      "value": "IntentsKitNewsUpdate"
+    },
+    {
+      "name": "home_title",
+      "value": "Home"
+    },
+    {
+      "name": "home_no_content",
+      "value": "No Content"
+    },
+    {
+      "name": "home_tabs_one",
+      "value": "Recd"
+    },
+    {
+      "name": "home_tabs_two",
+      "value": "Sports"
+    },
+    {
+      "name": "home_tabs_three",
+      "value": "Fin"
+    },
+    {
+      "name": "home_tabs_four",
+      "value": "Tech"
+    },
+    {
+      "name": "home_tabs_five",
+      "value": "Fiction"
+    },
+    {
+      "name": "news_detail_title",
+      "value": "News detail"
+    },
+    {
+      "name": "news_detail_concern_btn",
+      "value": "Follow"
+    }
+  ]
+}

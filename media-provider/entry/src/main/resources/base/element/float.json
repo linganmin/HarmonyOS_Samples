@@ -1,0 +1,96 @@
+{
+  "float": [
+    {
+      "name": "float_1",
+      "value": "30.6"
+    },
+    {
+      "name": "title_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "title_margin_top",
+      "value": "55vp"
+    },
+    {
+      "name": "title_height",
+      "value": "26vp"
+    },
+    {
+      "name": "image_margin_top",
+      "value": "32vp"
+    },
+    {
+      "name": "music_title_font_size",
+      "value": "22fp"
+    },
+    {
+      "name": "artist_height",
+      "value": "19vp"
+    },
+    {
+      "name": "artist_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "artist_margin_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "slider_track_thickness_normal",
+      "value": "4vp"
+    },
+    {
+      "name": "slider_track_thickness_selected",
+      "value": "8vp"
+    },
+    {
+      "name": "normal_button_width",
+      "value": "30vp"
+    },
+    {
+      "name": "play_button_height",
+      "value": "56vp"
+    },
+    {
+      "name": "button_row_margin_left",
+      "value": "36vp"
+    },
+    {
+      "name": "button_row_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "button_row_margin_bottom",
+      "value": "64vp"
+    },
+    {
+      "name": "page_margin_left",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_width",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_height",
+      "value": "12vp"
+    },
+    {
+      "name": "icon_area_height",
+      "value": "24vp"
+    },
+    {
+      "name": "icon_area_marin_top",
+      "value": "44vp"
+    },
+    {
+      "name": "title_area_height",
+      "value": "24vp"
+    },
+    {
+      "name": "slider_area_height",
+      "value": "40vp"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "流畅页面"
+    },
+    {
+      "name": "full_screen",
+      "value": "100%"
+    },
+    {
+      "name": "full_screen_20",
+      "value": "20%"
+    },
+    {
+      "name": "internet_reason",
+      "value": "用于获取网络列表数据场景使用Internet网络"
+    },
+    {
+      "name": "network_info_reason",
+      "value": "用于获取网络列表数据场景获取网络信息"
+    },
+    {
+      "name": "zero_screen",
+      "value": "0%"
+    },
+    {
+      "name": "net_connection_description",
+      "value": "无法连接网络，请检查网络设置"
+    },
+    {
+      "name": "footer_text_max_count",
+      "value": "—已到达底部—"
+    },
+    {
+      "name": "footer_text_loading",
+      "value": "—加载中，请稍后—"
+    },
+    {
+      "name": "search",
+      "value": "搜索..."
+    },
+    {
+      "name": "url",
+      "value": "https://devecostudio-drcn.op.hicloud.com/solution/v1/getSceneMockData?scene={scene}&fileName={fileName}&pageNum={pageNum}&pageSize={pageSize}"
+    }
+  ]
+}

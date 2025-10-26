@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Generating User Directory Environment File"
+    },
+    {
+      "name": "insert_file",
+      "value": "insert file"
+    },
+    {
+      "name": "file_name",
+      "value": "*File Name"
+    },
+    {
+      "name": "file_context",
+      "value": "*File Context"
+    },
+    {
+      "name": "insert_document",
+      "value": "insert files into Document"
+    },
+    {
+      "name": "insert_desktop",
+      "value": "insert files into Desktop"
+    },
+    {
+      "name": "insert_download",
+      "value": "insert files into Download"
+    },
+    {
+      "name": "message",
+      "value": "The generation is successful, the file directory is"
+    }
+  ]
+}

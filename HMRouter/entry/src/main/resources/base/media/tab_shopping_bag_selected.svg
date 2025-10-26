@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>tab/ic_备份 68</title>
+    <defs>
+        <path d="M18,2 C20.209139,2 22,3.790861 22,6 L22,18 C22,20.209139 20.209139,22 18,22 L6,22 C3.790861,22 2,20.209139 2,18 L2,6 C2,3.790861 3.790861,2 6,2 L18,2 Z M16.5,6 C16.0857864,6 15.75,6.33578644 15.75,6.75 C15.75,8.82106781 14.0710678,10.5 12,10.5 C9.92893219,10.5 8.25,8.82106781 8.25,6.75 C8.25,6.33578644 7.91421356,6 7.5,6 C7.08578644,6 6.75,6.33578644 6.75,6.75 C6.75,9.64949494 9.10050506,12 12,12 C14.8994949,12 17.25,9.64949494 17.25,6.75 C17.25,6.33578644 16.9142136,6 16.5,6 Z" id="path-1"></path>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="典型页面-7：购物袋（折叠屏）" transform="translate(-461.000000, -682.000000)">
+            <g id="编组-7" transform="translate(0.000000, 619.000000)">
+                <g id="BottomNavigationBar/Port/Item_5备份-3" transform="translate(0.000000, 56.000000)">
+                    <g id="Bottom-tab/item/normal" transform="translate(412.354545, 7.000000)">
+                        <g id="tab/ic_备份-68" transform="translate(49.545455, 0.000000)">
+                            <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="形状结合" fill="#D20A2C" xlink:href="#path-1"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

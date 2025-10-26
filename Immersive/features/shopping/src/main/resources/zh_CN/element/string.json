@@ -1,0 +1,348 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "welfare_title",
+      "value": "福利专区"
+    },
+    {
+      "name": "recommend_title",
+      "value": "甄选推荐"
+    },
+    {
+      "name": "button_text_add_to_cart",
+      "value": "加入购物车"
+    },
+    {
+      "name": "button_text_buying",
+      "value": "购买"
+    },
+    {
+      "name": "product_info_title",
+      "value": "【现货速发】HUAWEI Mate X5 12GB+512GB 幻影紫"
+    },
+    {
+      "name": "product_info_content",
+      "value": "【华为超级新品季】1.限量买赠价值299元智能视窗保护套 2.学生认证优惠100元（下拉了了解详情）3.以旧换新至高补贴500元｜更多甄选手机点击了解>>超清临镜双屏｜超轻薄四曲折叠"
+    },
+    {
+      "name": "product_info_type",
+      "value": "Mate X5:"
+    },
+    {
+      "name": "product_info_des",
+      "value": "限量赠无限耳机活力版"
+    },
+    {
+      "name": "faq_title",
+      "value": "常见问题(12)"
+    },
+    {
+      "name": "faq_more",
+      "value": "查看所有问题"
+    },
+    {
+      "name": "faq_label",
+      "value": "问"
+    },
+    {
+      "name": "button_more_text",
+      "value": "更多"
+    },
+    {
+      "name": "button_vouchers",
+      "value": "立即领券"
+    },
+    {
+      "name": "discount_info",
+      "value": "最高可享12期0分期利息"
+    },
+    {
+      "name": "discount_time",
+      "value": "距离结束还剩07:14:50"
+    },
+    {
+      "name": "discount_button_text",
+      "value": "优惠"
+    },
+    {
+      "name": "faq_list_all",
+      "value": "已加载全部"
+    },
+    {
+      "name": "faq_list_statistic",
+      "value": "共12个问题"
+    },
+    {
+      "name": "product_labels_1",
+      "value": "精品"
+    },
+    {
+      "name": "product_labels_2",
+      "value": "限时直降800元"
+    },
+    {
+      "name": "product_labels_3",
+      "value": "以旧换新补贴"
+    },
+    {
+      "name": "faq_list_title",
+      "value": "常见问题"
+    },
+    {
+      "name": "faq_data_question_1",
+      "value": "支持卫星通信吗"
+    },
+    {
+      "name": "faq_data_question_2",
+      "value": "充电功率多少"
+    },
+    {
+      "name": "faq_data_question_3",
+      "value": "支持隔空操控吗？"
+    },
+    {
+      "name": "faq_data_question_4",
+      "value": "支持相机百宝箱吗？"
+    },
+    {
+      "name": "faq_data_question_5",
+      "value": "支持自适应UI引擎吗？"
+    },
+    {
+      "name": "faq_data_question_6",
+      "value": "支持3D动态天气熄屏显示吗？"
+    },
+    {
+      "name": "faq_data_question_7",
+      "value": "支持华为分享吗？"
+    },
+    {
+      "name": "faq_data_question_8",
+      "value": "摄像头参数"
+    },
+    {
+      "name": "faq_data_question_9",
+      "value": "支持无线反向充电吗？"
+    },
+    {
+      "name": "faq_data_question_10",
+      "value": "支持人脸支付吗？"
+    },
+    {
+      "name": "faq_data_question_11",
+      "value": "电池容量"
+    },
+    {
+      "name": "faq_data_question_12",
+      "value": "是什么屏幕类型呢？"
+    },
+    {
+      "name": "faq_data_answer_1",
+      "value": "HUAWEI Mate X5搭载双向北斗卫星消息功能，在无地面网络信号的情况下依然可向外界发送信息，实现发送方与接受方的双向安心的联络体验。"
+    },
+    {
+      "name": "faq_data_answer_2",
+      "value": "HUAWEI Mate X5最大支持66W（11V/6A）超级快充，兼容10V/4A或10V/2.25A或4.5V/5A或5V/4.5A超级快充，兼容9V/2A快充；同时支持50W华为无线超级快充。"
+    },
+    {
+      "name": "faq_data_answer_3",
+      "value": "HUAWEI Mate X5内外双屏均支持隔空手势操作，通过手势可实现截图、上下滑动等操作。"
+    },
+    {
+      "name": "faq_data_answer_4",
+      "value": "HUAWEI Mate X5支持相机百宝箱，通过呼出百宝箱，即可快速选择打开或者关闭相机中的功能，"
+    },
+    {
+      "name": "faq_data_answer_5",
+      "value": "HUAWEI Mate X5支持自适应UI引擎，自适应UI引擎是华为原创的大屏页面布局优化方案，有效提升整体视觉体验。"
+    },
+    {
+      "name": "faq_data_answer_6",
+      "value": "HUAWEI Mate X5支持3D动态天气熄屏显示，可将天气设置为熄屏显示，查看天气更方便。"
+    },
+    {
+      "name": "faq_data_answer_7",
+      "value": "HUAWEI Mate X5支持华为分享，可在支持此功能设备间无线快速共享图片、视频、文档等文件。"
+    },
+    {
+      "name": "faq_data_answer_8",
+      "value": "HUAWEI Mate X5内外屏前置单摄800万像素摄像头（F2.4光圈），后置5000万像素超感知摄像头+1300万像素超广角摄像头+1200万像素潜望式长焦摄像头。不同拍照模式的照片像素可能有差异，请以实际为准。"
+    },
+    {
+      "name": "faq_data_answer_9",
+      "value": "HUAWEI Mate X5支持7.5W无线反向充电，可为支持无线充电的设备（如手机、平板、手表、手环等）充电。"
+    },
+    {
+      "name": "faq_data_answer_10",
+      "value": "HUAWEI Mate X5支持人脸支付。录入人脸信息后，通过人脸便可进行安全支付。"
+    },
+    {
+      "name": "faq_data_answer_11",
+      "value": "HUAWEI Mate X5搭载业界超大5060mAh（典型值）高硅负极大电池，带来更大的能量密度，让续航时长更加出色"
+    },
+    {
+      "name": "faq_data_answer_12",
+      "value": "HUAWEI Mate X5的外屏为OLED屏，内屏为可折叠柔性OLED屏。搭载华为临境™显示技术，外屏出色，内屏出彩，色彩准确，明暗真实，共同塑造折叠机绝佳的显示屏幕。"
+    },
+    {
+      "name": "price_start",
+      "value": "起"
+    },
+    {
+      "name": "home_tip_text_1",
+      "value": "用券价"
+    },
+    {
+      "name": "home_tip_text_2",
+      "value": "更多"
+    },
+    {
+      "name": "home_tip_text_3",
+      "value": "新品"
+    },
+    {
+      "name": "home_nav_bar_text_1",
+      "value": "华为"
+    },
+    {
+      "name": "home_nav_bar_text_2",
+      "value": "AITO汽车"
+    },
+    {
+      "name": "home_nav_bar_text_3",
+      "value": "华为智选"
+    },
+    {
+      "name": "home_nav_bar_text_4",
+      "value": "生态周边"
+    },
+    {
+      "name": "home_category_title_1",
+      "value": "智慧办公"
+    },
+    {
+      "name": "home_category_title_2",
+      "value": "智慧家居"
+    },
+    {
+      "name": "home_category_title_3",
+      "value": "华为手机"
+    },
+    {
+      "name": "home_category_title_4",
+      "value": "影音娱乐"
+    },
+    {
+      "name": "home_category_title_5",
+      "value": "运动健康"
+    },
+    {
+      "name": "home_category_title_6",
+      "value": "AITO汽车"
+    },
+    {
+      "name": "home_category_title_7",
+      "value": "华为智选"
+    },
+    {
+      "name": "home_category_title_8",
+      "value": "鸿蒙智联"
+    },
+    {
+      "name": "home_category_title_9",
+      "value": "企业商用"
+    },
+    {
+      "name": "home_category_title_10",
+      "value": "全屋智能"
+    },
+    {
+      "name": "home_recommend_title_1",
+      "value": "MateBook X Pro 12代"
+    },
+    {
+      "name": "home_recommend_title_2",
+      "value": "HUAWEI Mate 50"
+    },
+    {
+      "name": "home_recommend_title_3",
+      "value": "Sound X NEW"
+    },
+    {
+      "name": "home_recommend_title_4",
+      "value": "HUAWEI MatePad Air"
+    },
+    {
+      "name": "home_recommend_title_5",
+      "value": "HUAWEI MateBook 14s"
+    },
+    {
+      "name": "home_recommend_info_1",
+      "value": ""
+    },
+    {
+      "name": "home_recommend_info_2",
+      "value": "北斗卫星消息 | 低电量应急模式"
+    },
+    {
+      "name": "home_recommend_info_3",
+      "value": ""
+    },
+    {
+      "name": "home_recommend_info_4",
+      "value": "144Hz高割全面屏"
+    },
+    {
+      "name": "home_recommend_info_5",
+      "value": "32GB大内存 | 13代酷睿处理器 | 超级终端"
+    },
+    {
+      "name": "home_recommend_feature_1",
+      "value": "V1-V5优惠400元/12期免息"
+    },
+    {
+      "name": "home_recommend_feature_2",
+      "value": "新一代直屏旗舰机"
+    },
+    {
+      "name": "home_recommend_feature_3",
+      "value": "最高省100"
+    },
+    {
+      "name": "home_recommend_feature_4",
+      "value": "限时直降300"
+    },
+    {
+      "name": "home_recommend_feature_5",
+      "value": "最高省300"
+    },
+    {
+      "name": "home_recommend_comment",
+      "value": "2571人评论 95%好评"
+    },
+    {
+      "name": "tab_bar_title_1",
+      "value": "首页"
+    },
+    {
+      "name": "tab_bar_title_2",
+      "value": "分类"
+    },
+    {
+      "name": "tab_bar_title_3",
+      "value": "发现"
+    },
+    {
+      "name": "tab_bar_title_4",
+      "value": "购物袋"
+    },
+    {
+      "name": "tab_bar_title_5",
+      "value": "我的"
+    }
+  ]
+}

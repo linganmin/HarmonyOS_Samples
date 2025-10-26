@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "dependencies": {
+    "libtest1": "file:../libtest1"
+  },
+  "devDependencies": {
+    "libtest2": "file:../libtest2"
+  },
+  "dynamicDependencies": {
+    "libtest3": "file:../libtest3"
+  }
+}

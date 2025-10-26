@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ResDownload"
+    },
+    {
+      "name": "Checking_for_updates",
+      "value": "Checking for updates"
+    },
+    {
+      "name": "Not_Interrupted",
+      "value": "Minimizing the app won't interrupt the update. (After you exit the app, update is auto triggered when the phone is idle.)"
+    },
+    {
+      "name": "Estimated_Time_Remaining",
+      "value": "Estimated remaining time: "
+    },
+    {
+      "name": "Downloading_resources",
+      "value": "Downloading:"
+    },
+    {
+      "name": "Speeding",
+      "value": "Speed:"
+    },
+    {
+      "name": "Version_No",
+      "value": "Version number: "
+    },
+    {
+      "name": "Touch_Enter",
+      "value": "Touch the screen to enter"
+    },
+    {
+      "name": "Dialog_Text",
+      "value": "Demo does not integrate the foreground downloader"
+    }
+  ]
+}

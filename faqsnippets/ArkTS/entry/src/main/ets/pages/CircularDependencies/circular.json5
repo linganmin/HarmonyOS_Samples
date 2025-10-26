@@ -1,0 +1,16 @@
+/*
+* FAQ:模块间循环依赖导致运行时未初始化异常问题定位
+*/
+
+// [Start CircularDependencies3]
+{
+  "files": [ // A glob pattern array used to represent the file range applicable to the configuration.
+    "**/*.js",
+    "**/*.ts",
+    "**/*.ets"
+  ],
+  "rules": {
+    "@security/no-cycle": "error" // Configure circular dependency check rules.
+  }
+}
+// [End CircularDependencies3]

@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "button_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "process_width",
+      "value": "30vp"
+    },
+    {
+      "name": "process_value_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "process_percent_font_size",
+      "value": "15fp"
+    },
+    {
+      "name": "picture_margin_top",
+      "value": "92vp"
+    },
+    {
+      "name": "picture_margin_bottom",
+      "value": "16vp"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GridHybrid"
+    },
+    {
+      "name": "title",
+      "value": "Implementation of Key Scenarios of Grid Nesting and Hybrid Layout"
+    },
+    {
+      "name": "grid_nest_list",
+      "value": "Grid Nest List"
+    },
+    {
+      "name": "grid_nest_swiper",
+      "value": "Grid Nest Swiper"
+    },
+    {
+      "name": "page_title",
+      "value": "My Services"
+    },
+    {
+      "name": "default_search_content",
+      "value": "Smart Choice"
+    },
+    {
+      "name": "sub_title1",
+      "value": "Common Services"
+    },
+    {
+      "name": "sub_title2",
+      "value": "Book Travel"
+    },
+    {
+      "name": "sub_title3",
+      "value": "Travel Services"
+    },
+    {
+      "name": "sub_title4",
+      "value": "Entertainment"
+    },
+    {
+      "name": "sub_title5",
+      "value": "Travel Assistant"
+    },
+    {
+      "name": "sub_title6",
+      "value": "Business Expansion"
+    },
+    {
+      "name": "sub_title1_value1",
+      "value": "Check-in & Seat Selection"
+    },
+    {
+      "name": "sub_title1_value2",
+      "value": "Food Reservation"
+    },
+    {
+      "name": "sub_title1_value3",
+      "value": "Travel Mall"
+    },
+    {
+      "name": "sub_title1_value4",
+      "value": "My Orders"
+    },
+    {
+      "name": "sub_title1_value5",
+      "value": "Self Refund"
+    },
+    {
+      "name": "sub_title1_value6",
+      "value": "Ticket Redemption"
+    },
+    {
+      "name": "sub_title1_value7",
+      "value": "My Itinerary"
+    },
+    {
+      "name": "sub_title2_value1",
+      "value": "Flight Booking"
+    },
+    {
+      "name": "sub_title2_value2",
+      "value": "My Itinerary"
+    },
+    {
+      "name": "sub_title2_value3",
+      "value": "My Orders"
+    },
+    {
+      "name": "sub_title2_value4",
+      "value": "Refund Change"
+    },
+    {
+      "name": "sub_title2_value5",
+      "value": "Baggage Purchase"
+    },
+    {
+      "name": "sub_title2_value6",
+      "value": "Travel Light"
+    },
+    {
+      "name": "sub_title2_value7",
+      "value": "VIP Lounge"
+    },
+    {
+      "name": "sub_title2_value8",
+      "value": "Ground Access"
+    },
+    {
+      "name": "sub_title2_value9",
+      "value": "Gifts"
+    },
+    {
+      "name": "sub_title2_value10",
+      "value": "Ticket Return"
+    },
+    {
+      "name": "sub_title2_value11",
+      "value": "E-Invoice"
+    },
+    {
+      "name": "sub_title2_value12",
+      "value": "Boarding Pass"
+    },
+    {
+      "name": "sub_title2_value13",
+      "value": "Baggage Track"
+    },
+    {
+      "name": "sub_title2_value14",
+      "value": "Food Reservation"
+    },
+    {
+      "name": "sub_title3_value1",
+      "value": "Subway Travel"
+    },
+    {
+      "name": "sub_title3_value2",
+      "value": "Airport Transfer"
+    },
+    {
+      "name": "sub_title3_value3",
+      "value": "Transit Tour"
+    },
+    {
+      "name": "sub_title4_value1",
+      "value": "My Family"
+    },
+    {
+      "name": "sub_title4_value2",
+      "value": "Ticket Redemption"
+    },
+    {
+      "name": "sub_title4_value3",
+      "value": "Points Retroclaim"
+    },
+    {
+      "name": "sub_title4_value4",
+      "value": "Points Fun Zone"
+    },
+    {
+      "name": "sub_title4_value5",
+      "value": "Points Mall"
+    },
+    {
+      "name": "sub_title4_value6",
+      "value": "Points Calculator"
+    },
+    {
+      "name": "sub_title5_value1",
+      "value": "Service Outlets"
+    },
+    {
+      "name": "sub_title5_value2",
+      "value": "Corporate Travel"
+    },
+    {
+      "name": "sub_title5_value3",
+      "value": "Travel Guide"
+    },
+    {
+      "name": "sub_title5_value4",
+      "value": "First-time Rider Guide"
+    },
+    {
+      "name": "sub_title5_value5",
+      "value": "More Discoveries"
+    },
+    {
+      "name": "sub_title5_value6",
+      "value": "Green Account"
+    },
+    {
+      "name": "sub_title6_value1",
+      "value": "Takeout"
+    },
+    {
+      "name": "sub_title6_value2",
+      "value": "Hotel Booking"
+    },
+    {
+      "name": "sub_title6_value3",
+      "value": "Travel Guide"
+    },
+    {
+      "name": "sub_title6_value4",
+      "value": "Invoice"
+    },
+    {
+      "name": "sub_title6_value5",
+      "value": "Mobile Recharge"
+    },
+    {
+      "name": "sub_title6_value6",
+      "value": "Charity"
+    },
+    {
+      "name": "sub_title6_value7",
+      "value": "Flowers"
+    },
+    {
+      "name": "sub_title6_value8",
+      "value": "KTV"
+    },
+    {
+      "name": "sub_title7_value1",
+      "value": "Takeout"
+    },
+    {
+      "name": "sub_title7_value2",
+      "value": "Hotel Booking"
+    },
+    {
+      "name": "sub_title7_value3",
+      "value": "Travel Guide"
+    },
+    {
+      "name": "sub_title7_value4",
+      "value": "Invoice"
+    },
+    {
+      "name": "sub_title7_value5",
+      "value": "Mobile"
+    },
+    {
+      "name": "sub_title7_value6",
+      "value": "Charity Event"
+    },
+    {
+      "name": "sub_title7_value7",
+      "value": "Flowers"
+    },
+    {
+      "name": "sub_title7_value8",
+      "value": "KTV"
+    },
+    {
+      "name": "sub_title8_value1",
+      "value": "Takeout"
+    },
+    {
+      "name": "sub_title8_value2",
+      "value": "Hotel Booking"
+    },
+    {
+      "name": "sub_title8_value3",
+      "value": "Travel Guide"
+    },
+    {
+      "name": "sub_title8_value4",
+      "value": "Invoice"
+
+    }
+  ]
+}

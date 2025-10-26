@@ -1,0 +1,5 @@
+{
+  "libfuncencapsulation.so": {
+    "source": "src/mock/Libfuncencapsulation.mock.ets"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "bar_track_border_radius",
+      "value": "2"
+    },
+    {
+      "name": "bar_selected_border_radius",
+      "value": "2"
+    },
+    {
+      "name": "top_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "time_left_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "time_right_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "time_left_margin_large",
+      "value": "24vp"
+    },
+    {
+      "name": "time_right_margin_large",
+      "value": "24vp"
+    },
+    {
+      "name": "bar_height",
+      "value": "24vp"
+    },
+    {
+      "name": "play_switch_width",
+      "value": "18.5vp"
+    },
+    {
+      "name": "play_switch_height",
+      "value": "21.25vp"
+    },
+    {
+      "name": "control_left_margin",
+      "value": "29.5vp"
+    },
+    {
+      "name": "switch_right_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "switch_bottom_margin",
+      "value": "32vp"
+    },
+    {
+      "name": "switch_top_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "resolution_item_width",
+      "value": "224vp"
+    },
+    {
+      "name": "resolution_selector_size",
+      "value": "16vp"
+    },
+    {
+      "name": "information_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "time_font_size",
+      "value": "12vp"
+    },
+    {
+      "name": "control_bottom_margin",
+      "value": "29.25vp"
+    },
+    {
+      "name": "info_icon_width",
+      "value": "40vp"
+    },
+    {
+      "name": "info_icon_height",
+      "value": "40vp"
+    },
+    {
+      "name": "info_right_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "info_left_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "arrow_icon_width",
+      "value": "32vp"
+    },
+    {
+      "name": "arrow_icon_height",
+      "value": "32vp"
+    },
+    {
+      "name": "arrow_icon_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "full_screen_playback_font_size",
+      "value": "20vp"
+    },
+    {
+      "name": "full_screen_font_margin_left",
+      "value": "8vp"
+    },
+    {
+      "name": "resolution_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "resolution_item_height",
+      "value": "48vp"
+    },
+    {
+      "name": "info_height",
+      "value": "184vp"
+    },
+    {
+      "name": "info_width",
+      "value": "276vp"
+    },
+    {
+      "name": "info_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "info_single_height",
+      "value": "22vp"
+    }
+  ]
+}

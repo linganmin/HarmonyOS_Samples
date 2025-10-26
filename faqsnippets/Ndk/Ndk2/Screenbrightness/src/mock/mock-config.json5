@@ -1,0 +1,5 @@
+{
+  "libscreenbrightness.so": {
+    "source": "src/mock/Libscreenbrightness.mock.ets"
+  }
+}

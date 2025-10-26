@@ -1,0 +1,180 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "登录和退出"
+    },
+    {
+      "name": "reason",
+      "value": "允许应用在登录场景中使用Internet网络"
+    },
+    {
+      "name": "getNetworkInfo",
+      "value": "允许应用在登录场景中获取网络信息"
+    },
+    {
+      "name": "tab",
+      "value": "Tab"
+    },
+    {
+      "name": "agreement_tips",
+      "value": "用户协议提示"
+    },
+    {
+      "name": "sign_in_and_agree",
+      "value": "登录即同意"
+    },
+    {
+      "name": "user_authentication_protocol",
+      "value": "《华为账号用户认证协议》"
+    },
+    {
+      "name": "rejected",
+      "value": "拒绝"
+    },
+    {
+      "name": "confirm_login",
+      "value": "确认登录"
+    },
+    {
+      "name": "privacy_title",
+      "value": "关于XX与隐私的声明"
+    },
+    {
+      "name": "update_date",
+      "value": "更新日期：20XX年X月X日"
+    },
+    {
+      "name": "introductory_1",
+      "value": "\"XX\"是由华为软件技术有限公司（以下简称“我们”或“华为”）\n为您提供XXXX。华为非常重视您的个人信息和隐私保护，我们将会按照法律要求和业界成熟的安全标准，为您的个人信息提供相应的安全保护措施。"
+    },
+    {
+      "name": "introductory_2",
+      "value": "1.我们如何收集和使用您的个人信息"
+    },
+    {
+      "name": "introductory_3",
+      "value": "您可以通过访问个人信息收集清单快速了解完整功能服务模式下“XX”收集、使用个人信息的基本情况。各功能收集、使用个人信息的详细情况可查看下方说明"
+    },
+    {
+      "name": "introductory_4",
+      "value": "1.1 我们将通过“XX”为您提供下述业务能力，在您使用相关业务功能的过程中，我们会处理下列提供功能所必需的信息，以便展行我们的合同义务，确保您能正常使用本应用的相关功能。"
+    },
+    {
+      "name": "introductory_5",
+      "value": "为实现向您提供XX产品和服务的基本功能，包括定位服务、搜索服务、地图服务、出行服务（导航服务、路线规划服务、用车出现服务）"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "input_phone_number_or_password",
+      "value": "请输入手机号或密码"
+    },
+    {
+      "name": "incorrect_mobile_number_format",
+      "value": "手机号格式不正确"
+    },
+    {
+      "name": "network_error",
+      "value": "网络错误！请检查网络连接设置"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "apply_network_settings",
+      "value": "应用网络设置"
+    },
+    {
+      "name": "message_notification",
+      "value": "消息通知"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "username",
+      "value": "韩梅梅"
+    },
+    {
+      "name": "login_account",
+      "value": "登录华为账号"
+    },
+    {
+      "name": "my_assets",
+      "value": "我的资产"
+    },
+    {
+      "name": "equity_redemption",
+      "value": "权益兑换"
+    },
+    {
+      "name": "consumption_record",
+      "value": "消费记录"
+    },
+    {
+      "name": "sheet_settings",
+      "value": "设置"
+    },
+    {
+      "name": "confirmed_logout",
+      "value": "确定要退出登录吗？"
+    },
+    {
+      "name": "help_and_customer_service",
+      "value": "帮助与客服"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "logout",
+      "value": "退出登录"
+    },
+    {
+      "name": "confirmed",
+      "value": "确定"
+    },
+    {
+      "name": "mobile_number",
+      "value": "手机号"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "register_account",
+      "value": "注册账号"
+    },
+    {
+      "name": "read_and_agreed",
+      "value": "我已阅读并同意"
+    },
+    {
+      "name": "forgot_password",
+      "value": "忘记密码"
+    },
+    {
+      "name": "collection_text_top",
+      "value": "XXXX"
+    },
+    {
+      "name": "collection_text_bottom",
+      "value": "XXX"
+    }
+  ]
+}

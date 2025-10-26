@@ -1,0 +1,260 @@
+{
+  "float": [
+    {
+      "name": "select_font_size",
+      "value": "15fp"
+    },
+    {
+      "name": "goodname_width",
+      "value": "131fp"
+    },
+    {
+      "name": "goodname_height",
+      "value": "21fp"
+    },
+    {
+      "name": "goodname_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "label1_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "label2_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "label3_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "form_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "price_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "border_radius",
+      "value": "24fp"
+    },
+    {
+      "name": "form_font_weight",
+      "value": "500fp"
+    },
+    {
+      "name": "option1_width",
+      "value": "115fp"
+    },
+    {
+      "name": "option2_width",
+      "value": "95fp"
+    },
+    {
+      "name": "label_font_weight",
+      "value": "700fp"
+    },
+    {
+      "name": "label_lineheight",
+      "value": "40fp"
+    },
+    {
+      "name": "text_lineheight",
+      "value": "21fp"
+    },
+    {
+      "name": "image_width",
+      "value": "24fp"
+    },
+    {
+      "name": "select_width1",
+      "value": "140fp"
+    },
+    {
+      "name": "select_width2",
+      "value": "89fp"
+    },
+    {
+      "name": "button_width1",
+      "value": "40fp"
+    },
+    {
+      "name": "fullwidth",
+      "value": "360fp"
+    },
+    {
+      "name": "frame_width",
+      "value": "328fp"
+    },
+    {
+      "name": "text_width1",
+      "value": "116fp"
+    },
+    {
+      "name": "text_width2",
+      "value": "92fp"
+    },
+    {
+      "name": "text_width3",
+      "value": "60fp"
+    },
+    {
+      "name": "textinput_width",
+      "value": "168fp"
+    },
+    {
+      "name": "button_width2",
+      "value": "312fp"
+    },
+    {
+      "name": "textitem_height2",
+      "value": "44fp"
+    },
+    {
+      "name": "select_height1",
+      "value": "24fp"
+    },
+    {
+      "name": "select_height2",
+      "value": "40fp"
+    },
+    {
+      "name": "row_height1",
+      "value": "40fp"
+    },
+    {
+      "name": "row_height3",
+      "value": "76fp"
+    },
+    {
+      "name": "text_height1",
+      "value": "21fp"
+    },
+    {
+      "name": "text_height2",
+      "value": "56fp"
+    },
+    {
+      "name": "row_height4",
+      "value": "68fp"
+    },
+    {
+      "name": "list_height4",
+      "value": "408fp"
+    },
+    {
+      "name": "text_height3",
+      "value": "50fp"
+    },
+    {
+      "name": "column_height",
+      "value": "564fp"
+    },
+    {
+      "name": "text_height",
+      "value": "564fp"
+    },
+    {
+      "name": "textinput_height1",
+      "value": "20fp"
+    },
+    {
+      "name": "textinput_height2",
+      "value": "37fp"
+    },
+    {
+      "name": "row_height2",
+      "value": "53fp"
+    },
+    {
+      "name": "button_height",
+      "value": "40fp"
+    },
+    {
+      "name": "bindsheet_height",
+      "value": "260fp"
+    },
+    {
+      "name": "padding_16",
+      "value": "16fp"
+    },
+    {
+      "name": "padding_9",
+      "value": "9fp"
+    },
+    {
+      "name": "padding_12",
+      "value": "12fp"
+    },
+    {
+      "name": "padding_8",
+      "value": "8fp"
+    },
+    {
+      "name": "padding_18",
+      "value": "18fp"
+    },
+    {
+      "name": "padding_9_half",
+      "value": "9.5fp"
+    },
+    {
+      "name": "padding_20",
+      "value": "20fp"
+    },
+    {
+      "name": "margin_62",
+      "value": "62fp"
+    },
+    {
+      "name": "margin_2",
+      "value": "2fp"
+    },
+    {
+      "name": "margin_16",
+      "value": "16fp"
+    },
+    {
+      "name": "margin_35",
+      "value": "35fp"
+    },
+    {
+      "name": "margin_9",
+      "value": "9fp"
+    },
+    {
+      "name": "margin_9_half",
+      "value": "9.5fp"
+    },
+    {
+      "name": "margin_8",
+      "value": "8fp"
+    },
+    {
+      "name": "margin_12",
+      "value": "12fp"
+    },
+    {
+      "name": "margin_64",
+      "value": "64fp"
+    },
+    {
+      "name": "margin_20",
+      "value": "20fp"
+    },
+    {
+      "name": "margin_30",
+      "value": "30fp"
+    },
+    {
+      "name": "margin_99",
+      "value": "99fp"
+    },
+    {
+      "name": "margin_24",
+      "value": "24fp"
+    }
+  ]
+}

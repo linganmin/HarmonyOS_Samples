@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "map",
+    "type": "har",
+    "deviceTypes": [
+      "phone",
+      "wearable"
+    ]
+  }
+}

@@ -1,0 +1,259 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TestDigitalShield"
+    },
+    {
+      "name": "reason",
+      "value": "申请必要权限"
+    },
+    {
+      "name": "IDSetting",
+      "value": "身份认证设置"
+    },
+    {
+      "name": "DigitalShield",
+      "value": "数字盾"
+    },
+    {
+      "name": "ModifyPassword",
+      "value": "修改密码"
+    },
+    {
+      "name": "OpenWord",
+      "value": "立即开通"
+    },
+    {
+      "name": "CloseShield",
+      "value": "关闭数字盾"
+    },
+    {
+      "name": "CloseShieldWithVerification",
+      "value": "需认证关闭数字盾"
+    },
+    {
+      "name": "CloseWord",
+      "value": "关闭"
+    },
+    {
+      "name": "FinishSignatureInitialization",
+      "value": "签名初始化完成"
+    },
+    {
+      "name": "CloseShieldSuccess",
+      "value": "关闭数字盾成功"
+    },
+    {
+      "name": "CloseShieldFail",
+      "value": "关闭数字盾失败"
+    },
+    {
+      "name": "CloseShieldWithoutVerification",
+      "value": "无需认证关闭数字盾"
+    },
+    {
+      "name": "BioFeatureVerification",
+      "value": "生物特征认证方式"
+    },
+    {
+      "name": "Fingerprint",
+      "value": "指纹识别"
+    },
+    {
+      "name": "Bind",
+      "value": "绑定"
+    },
+    {
+      "name": "BindFingerprintSuccess",
+      "value": "指纹绑定成功"
+    },
+    {
+      "name": "BindFingerprintFail",
+      "value": "指纹绑定失败"
+    },
+    {
+      "name": "BindFingerprintFailWithNotification",
+      "value": "指纹绑定失败：请前往系统界面绑定生物信息"
+    },
+    {
+      "name": "FingerprintBound",
+      "value": "指纹识别--已绑定"
+    },
+    {
+      "name": "UnBound",
+      "value": "解绑"
+    },
+    {
+      "name": "UnBoundFingerprintSuccess",
+      "value": "解绑指纹成功"
+    },
+    {
+      "name": "UnBoundFingerprintFail",
+      "value": "解绑指纹失败"
+    },
+    {
+      "name": "Face",
+      "value": "人脸识别"
+    },
+    {
+      "name": "BindFaceSuccess",
+      "value": "人脸绑定成功"
+    },
+    {
+      "name": "BindFaceFail",
+      "value": "人脸绑定失败"
+    },
+    {
+      "name": "BindFaceFailWithNotification",
+      "value": "人脸绑定失败：请前往系统界面绑定生物信息"
+    },
+    {
+      "name": "FaceBound",
+      "value": "人脸识别--已绑定"
+    },
+    {
+      "name": "UnBoundFaceSuccess",
+      "value": "解绑人脸成功"
+    },
+    {
+      "name": "UnBoundFaceFail",
+      "value": "解绑人脸失败"
+    },
+    {
+      "name": "Trade",
+      "value": "去转账"
+    },
+    {
+      "name": "FinDigitalShield",
+      "value": "金融数字盾"
+    },
+    {
+      "name": "PlzSetVerificationWay",
+      "value": "请设定数字盾的验证方式"
+    },
+    {
+      "name": "PureNumber",
+      "value": "数字密码"
+    },
+    {
+      "name": "NumberPlusAlphabet",
+      "value": "数字+英文组合密码"
+    },
+    {
+      "name": "ModifyWord",
+      "value": "立即修改"
+    },
+    {
+      "name": "GenerateKeySuccess",
+      "value": "生成密钥成功"
+    },
+    {
+      "name": "ModifyPwSuccess",
+      "value": "修改数字盾密码成功"
+    },
+    {
+      "name": "ModifyPwFail",
+      "value": "修改数字盾密码失败"
+    },
+    {
+      "name": "OpenShieldSuccess",
+      "value": "开通数字盾成功"
+    },
+    {
+      "name": "OpenShieldFail",
+      "value": "开通数字盾失败"
+    },
+    {
+      "name": "ChooseVerificationMethod",
+      "value": "选择认证方式"
+    },
+    {
+      "name": "Recipient",
+      "value": "收款人"
+    },
+    {
+      "name": "MRZhang",
+      "value": "张某某"
+    },
+    {
+      "name": "AccountNumber",
+      "value": "收款账号"
+    },
+    {
+      "name": "TradingAmount",
+      "value": "交易金额"
+    },
+    {
+      "name": "NextWord",
+      "value": "下一步"
+    },
+    {
+      "name": "TransactionWord",
+      "value": "银行卡转账"
+    },
+    {
+      "name": "ShieldPwVerification",
+      "value": "数字盾密码验证"
+    },
+    {
+      "name": "OpenShield",
+      "value": "开通数字盾"
+    },
+    {
+      "name": "ModifyShield",
+      "value": "修改金融盾"
+    },
+    {
+      "name": "FaceVerification",
+      "value": "人脸交易认证"
+    },
+    {
+      "name": "FingerprintVerification",
+      "value": "指纹交易认证"
+    },
+    {
+      "name": "PINVerification",
+      "value": "密码交易认证"
+    },
+    {
+      "name": "PINVerificationSuccess",
+      "value": "密码交易认证成功"
+    },
+    {
+      "name": "PINVerificationFail",
+      "value": "密码交易认证失败"
+    },
+    {
+      "name": "FingerprintVerificationSuccess",
+      "value": "指纹交易认证成功"
+    },
+    {
+      "name": "FingerprintVerificationFail",
+      "value": "指纹交易认证失败"
+    },{
+      "name": "FingerprintVerificationFailWithNotification",
+      "value": "指纹交易认证失败：请用数字盾的指纹进行认证，多次失败请返回上一页解绑后重新绑定,"
+    },
+    {
+      "name": "FaceVerificationSuccess",
+      "value": "人脸交易认证成功"
+    },
+    {
+      "name": "FaceVerificationFail",
+      "value": "人脸交易认证失败"
+    },
+    {
+      "name": "FaceVerificationFailWithNotification",
+      "value": "人脸交易认证失败：请确认认证信息是否正确，多次失败请返回上一页解绑后重新绑定"
+    }
+  ]
+}

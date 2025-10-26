@@ -1,0 +1,56 @@
+15:50:18:789 log enqueue task
+15:50:18:952 log enqueue task
+15:50:18:952 log task queue not empty
+15:50:18:952 log task size: 1
+15:50:18:952 log before pop task size: 1
+15:50:18:953 log after task size: 0
+15:50:19:303 log timer task size: 1
+15:50:19:303 log reparse source files: file:///D:/WeLink_data_files/c30030422/ReceiveFiles/GamePerformanceDemoForC/GamePerformanceDemoForC/entry/src/main/cpp/include/game_performance_sample.h
+15:50:19:305 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\napi_init.cpp
+15:50:19:305 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\init.cpp
+15:50:19:305 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\update_gameinfo.cpp
+15:50:19:305 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_thermalinfo.cpp
+15:50:19:305 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\thermallevel_callback.cpp
+15:50:19:306 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_gpuinfo.cpp
+15:50:19:306 log active files: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h
+15:50:19:306 log reparse file: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h
+15:50:19:467 log timer task size: 1
+15:50:19:468 log reparse source files: file:///D:/WeLink_data_files/c30030422/ReceiveFiles/GamePerformanceDemoForC/GamePerformanceDemoForC/entry/src/main/cpp/include/game_performance_sample.h
+15:50:19:469 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\napi_init.cpp
+15:50:19:469 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\init.cpp
+15:50:19:469 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\update_gameinfo.cpp
+15:50:19:470 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_thermalinfo.cpp
+15:50:19:470 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\thermallevel_callback.cpp
+15:50:19:470 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_gpuinfo.cpp
+15:50:19:470 log active files: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h
+15:50:19:470 log reparse file: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h
+15:50:21:043 log enqueue task
+15:50:21:044 log task queue not empty
+15:50:21:044 log task size: 1
+15:50:21:044 log before pop task size: 1
+15:50:21:044 log after task size: 0
+15:50:21:456 log enqueue task
+15:50:21:457 log task queue not empty
+15:50:21:457 log task size: 1
+15:50:21:457 log before pop task size: 1
+15:50:21:457 log after task size: 0
+15:50:21:547 log timer task size: 1
+15:50:21:547 log reparse source files: file:///D:/WeLink_data_files/c30030422/ReceiveFiles/GamePerformanceDemoForC/GamePerformanceDemoForC/entry/src/main/cpp/include/game_performance_sample.h
+15:50:21:549 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\napi_init.cpp
+15:50:21:549 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\init.cpp
+15:50:21:549 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\update_gameinfo.cpp
+15:50:21:549 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_thermalinfo.cpp
+15:50:21:550 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\thermallevel_callback.cpp
+15:50:21:550 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_gpuinfo.cpp
+15:50:21:550 log active files: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h
+15:50:21:550 log reparse file: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h
+15:50:21:966 log timer task size: 1
+15:50:21:966 log reparse source files: file:///D:/WeLink_data_files/c30030422/ReceiveFiles/GamePerformanceDemoForC/GamePerformanceDemoForC/entry/src/main/cpp/include/game_performance_sample.h
+15:50:21:967 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\napi_init.cpp
+15:50:21:968 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\init.cpp
+15:50:21:968 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\update_gameinfo.cpp
+15:50:21:968 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_thermalinfo.cpp
+15:50:21:968 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\thermallevel_callback.cpp
+15:50:21:968 log header include: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\src\query_gpuinfo.cpp
+15:50:21:969 log active files: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h
+15:50:21:969 log reparse file: D:\WeLink_data_files\c30030422\ReceiveFiles\GamePerformanceDemoForC\GamePerformanceDemoForC\entry\src\main\cpp\include\game_performance_sample.h

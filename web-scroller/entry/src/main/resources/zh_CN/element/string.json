@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web嵌套滚动"
+    },
+    {
+      "name": "text1",
+      "value": "父组件滚动后Web组件再进行滚动"
+    },
+    {
+      "name": "text2",
+      "value": "Web组件全量展开滑动"
+    },
+    {
+      "name": "text3",
+      "value": "多容器嵌套滚动"
+    },
+    {
+      "name": "text4",
+      "value": "Web组件嵌套滚动"
+    },
+    {
+      "name": "announcement1",
+      "value": "公告1"
+    },
+    {
+      "name": "announcement2",
+      "value": "公告2"
+    },
+    {
+      "name": "native_component_area",
+      "value": "原生组件区域"
+    },
+    {
+      "name": "network_permissions",
+      "value": "获取网络权限以访问网页"
+    }
+  ]
+}

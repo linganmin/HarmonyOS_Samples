@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Demo_title_fileTransfer",
+      "value": "Inter-space Data Transfer Sample"
+    },
+    {
+      "name": "getAuditInfo",
+      "value": "1.Get Audit Info"
+    },
+    {
+      "name": "setAuditInfo",
+      "value": "2.Set Audit Info"
+    }
+  ]
+}

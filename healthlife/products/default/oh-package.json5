@@ -1,0 +1,12 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "common": "file:../../commons/common",
+    "healthylife":"file:../../features/healthylife"
+  }
+}

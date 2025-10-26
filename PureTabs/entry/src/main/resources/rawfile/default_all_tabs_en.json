@@ -1,0 +1,52 @@
+[
+  {
+    "id": 0,
+    "name": "Follows",
+    "isChecked": true
+  },
+  {
+    "id": 1,
+    "name": "For You",
+    "isChecked": true
+  },
+  {
+    "id": 2,
+    "name": "Popular",
+    "isChecked": true
+  },
+  {
+    "id": 3,
+    "name": "Video",
+    "isChecked": true
+  },
+  {
+    "id": 4,
+    "name": "Sports",
+    "isChecked": true
+  },
+  {
+    "id": 5,
+    "name": "Finance",
+    "isChecked": true
+  },
+  {
+    "id": 6,
+    "name": "Investing",
+    "isChecked": true
+  },
+  {
+    "id": 7,
+    "name": "Movies",
+    "isChecked": true
+  },
+  {
+    "id": 8,
+    "name": "Music",
+    "isChecked": true
+  },
+  {
+    "id": 9,
+    "name": "Stars",
+    "isChecked": false
+  }
+]

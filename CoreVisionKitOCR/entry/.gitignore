@@ -1,0 +1,13 @@
+/node_modules
+/oh_modules
+/.preview
+/.idea
+/local.properties
+**/build
+**/.test
+/.hvigor
+.cxx
+/.clangd
+/.clang-format
+/.clang-tidy
+/.appanalyzer

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "LogRedirectAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "LogRedirectAbility_label",
+      "value": "label"
+    }
+  ]
+}

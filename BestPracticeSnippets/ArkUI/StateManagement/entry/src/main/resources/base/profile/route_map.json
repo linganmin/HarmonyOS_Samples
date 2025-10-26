@@ -1,0 +1,64 @@
+{
+  "routerMap": [
+    {
+      "name": "Segment1",
+      "pageSourceFile": "src/main/ets/segment/segment.ets",
+      "buildFunction": "Segment01Builder"
+    },
+    {
+      "name": "Segment2",
+      "pageSourceFile": "src/main/ets/segment/segment2.ets",
+      "buildFunction": "Segment02Builder"
+    },
+    {
+      "name": "Segment3",
+      "pageSourceFile": "src/main/ets/segment/segment3.ets",
+      "buildFunction": "Segment03Builder"
+    },
+    {
+      "name": "Segment4",
+      "pageSourceFile": "src/main/ets/segment/segment4.ets",
+      "buildFunction": "Segment04Builder"
+    },
+    {
+      "name": "Segment5",
+      "pageSourceFile": "src/main/ets/segment/segment5.ets",
+      "buildFunction": "Segment05Builder"
+    },
+    {
+      "name": "Segment6",
+      "pageSourceFile": "src/main/ets/segment/segment6.ets",
+      "buildFunction": "Segment06Builder"
+    },
+    {
+      "name": "Segment7",
+      "pageSourceFile": "src/main/ets/segment/segment7.ets",
+      "buildFunction": "Segment07Builder"
+    },
+    {
+      "name": "Segment8",
+      "pageSourceFile": "src/main/ets/segment/segment8.ets",
+      "buildFunction": "Segment08Builder"
+    },
+    {
+      "name": "Segment9",
+      "pageSourceFile": "src/main/ets/segment/segment9.ets",
+      "buildFunction": "Segment09Builder"
+    },
+    {
+      "name": "Segment10",
+      "pageSourceFile": "src/main/ets/segment/segment10.ets",
+      "buildFunction": "Segment10Builder"
+    },
+    {
+      "name": "Segment11",
+      "pageSourceFile": "src/main/ets/segment/segment11.ets",
+      "buildFunction": "Segment11Builder"
+    },
+    {
+      "name": "Segment12",
+      "pageSourceFile": "src/main/ets/segment/segment12.ets",
+      "buildFunction": "Segment12Builder"
+    }
+  ]
+}

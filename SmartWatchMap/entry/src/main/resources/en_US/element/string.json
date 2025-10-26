@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SmartWatchMap"
+    },
+    {
+      "name": "request_permission_reason",
+      "value": "Using location permissions in location scenarios."
+    },
+    {
+      "name": "location_permission",
+      "value": "Using location permissions in location scenarios."
+    }
+  ]
+}

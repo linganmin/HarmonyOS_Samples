@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "color_white_forty_percent",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "color_white_ninety_percent",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "color_white_seventy_percent",
+      "value": "#4DFFFFFF"
+    },
+    {
+      "name": "color_black_ninety_five_percent",
+      "value": "#0D000000"
+    },
+    {
+      "name": "color_black_seventy_percent",
+      "value": "#B3000000"
+    }
+  ]
+}

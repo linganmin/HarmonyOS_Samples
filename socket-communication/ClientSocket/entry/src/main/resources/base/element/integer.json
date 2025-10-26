@@ -1,0 +1,68 @@
+{
+  "integer": [
+    {
+      "name": "comm_font_size1",
+      "value": 14
+    },
+    {
+      "name": "comm_font_size2",
+      "value": 30
+    },
+    {
+      "name": "comm_font_size3",
+      "value": 16
+    },
+    {
+      "name": "comm_margin_padding1",
+      "value": 8
+    },
+    {
+      "name": "comm_margin_padding2",
+      "value": 12
+    },
+    {
+      "name": "comm_margin_padding3",
+      "value": 16
+    },
+    {
+      "name": "comm_margin_padding4",
+      "value": 24
+    },
+    {
+      "name": "comm_margin_padding5",
+      "value": 70
+    },
+    {
+      "name": "comm_border_radius1",
+      "value": 16
+    },
+    {
+      "name": "comm_border_radius2",
+      "value": 38
+    },
+    {
+      "name": "comm_border_radius3",
+      "value": 8
+    },
+    {
+      "name": "text_input_height",
+      "value": 40
+    },
+    {
+      "name": "comm_image_size1",
+      "value": 20
+    },
+    {
+      "name": "comm_image_size2",
+      "value": 38
+    },
+    {
+      "name": "comm_image_size3",
+      "value": 24
+    },
+    {
+      "name": "transmit_messages_height",
+      "value": 48
+    }
+  ]
+}

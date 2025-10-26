@@ -1,0 +1,39 @@
+:root {
+	--background_primary: #ffffffff;
+	--background-secondary: #f1f3f5ff;
+	--background_tertiary: #e5e5eaff;
+	--background_fourth: #d1d1d6ff;
+	--comp_background_primary: #ffffffff;
+	--comp_background_secondary: #00000019;
+	--comp_background_tertiary: #0000000c;
+	--font_primary: #000000e5;
+	--font_secondary: #00000099;
+	--font_tertiary: #00000066;
+	--font_color_red: #CF0A2C;
+	--btn_backgournd_red: #CF0A2C;
+	--font_on_primary: #ffffff;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background_primary: #000000ff;
+		--background-secondary: #000000ff;
+		--background_tertiary: #202224ff;
+		--background_fourth: #2e3033ff;
+		--comp_background_primary: #202224ff;
+		--comp_background_secondary: #ffffff19;
+		--comp_background_tertiary: #ffffff0c;
+		--font_primary: #ffffffe5;
+		--font_secondary: #ffffff66;
+		--font_color_red: #8B001C;
+		--btn_backgournd_red: #8B001C;
+		--font_on_primary: #E0E0E0;
+	}
+}
+
+@media (prefers-color-scheme: dark) {
+	img {
+		filter: brightness(0.8) contrast(1.2) invert(0.1);
+
+	}
+}

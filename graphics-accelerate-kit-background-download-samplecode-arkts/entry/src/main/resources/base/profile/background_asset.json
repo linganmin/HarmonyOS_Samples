@@ -1,0 +1,8 @@
+{
+  "BackgroundAssetConfig": {
+    "BADownloadDomainAllowList": [],
+    "BAManifestURL": "",
+    "BAMaxInstallSize": 1073741824,
+    "ExtraData": ""
+  }
+}

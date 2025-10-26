@@ -1,0 +1,72 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "app_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "sub_title_color",
+      "value": "#E6000000"
+    },
+    {
+      "name": "sub_title_date",
+      "value": "#66000000"
+    },
+    {
+      "name": "font_color",
+      "value": "#E6000000"
+    },
+    {
+      "name": "item_box",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "todo_date",
+      "value": "#66000000"
+    },
+    {
+      "name": "todo_time",
+      "value": "#66000000"
+    },
+    {
+      "name": "sub_text_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "bell_color",
+      "value": "#E6FFFFFF"
+    },
+    {
+      "name": "horizon_box",
+      "value": "#33000000"
+    },
+    {
+      "name": "arrow_color",
+      "value": "#767676"
+    },
+    {
+      "name": "icon_bg_color",
+      "value": "#E6E8E9"
+    },
+    {
+      "name": "left_icon_color",
+      "value": "#A1A2A3"
+    },
+    {
+      "name": "right_icon_color",
+      "value": "#171717"
+    },
+    {
+      "name": "tab_bar_background_color",
+      "value": "#40F1F3F5"
+    },
+    {
+      "name": "text_color",
+      "value": "#000000"
+    }
+  ]
+}

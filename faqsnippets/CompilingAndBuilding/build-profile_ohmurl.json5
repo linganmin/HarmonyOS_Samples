@@ -1,0 +1,43 @@
+//FAQ:编译报错“The useNormalizedOHMUrl settings of packages xxx and the project useNormalizedOHMUrl: xxx do not match”
+// [Start build_profile_ohmurl]
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        // [StartExclude build_profile_ohmurl]
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.4(16)",
+        "compileSdkVersion": "5.0.4(16)",
+        "runtimeOS": "HarmonyOS",
+        // [EndExclude build_profile_ohmurl]
+        "buildOption": {
+          "strictMode": {
+            "useNormalizedOHMUrl": true
+          }
+        }
+      }
+    ],
+    // [StartExclude build_profile_ohmurl]
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  //FAQ:编译报错“The useNormalizedOHMUrl settings of packages xxx and the project useNormalizedOHMUrl: xxx do not match”
+  // [Start build_profile_ohmurl_hsp]
+  "modules": [
+    {
+      name: "hsp",   // The referenced hsp package dependency
+      srcPath: "../MyApplication_stageB/hsp",   // The path to the hsp package being referenced (both absolute and relative paths are okay)
+    }
+  ],
+  // [End build_profile_ohmurl_hsp]
+  // [EndExclude build_profile_ohmurl]
+}
+// [End build_profile_ohmurl]

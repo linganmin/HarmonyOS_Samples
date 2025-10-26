@@ -1,0 +1,111 @@
+// [Start json5_start]
+{
+  "module": {
+    // [StartExclude json5_start]
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    // [EndExclude json5_start]
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        // [StartExclude json5_start]
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        // [EndExclude json5_start]
+        "backgroundModes": [
+          'location'
+        ]
+      }
+    ],
+    // [StartExclude json5_start]
+    "extensionAbilities": [
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ]
+      }
+    ],
+    // [EndExclude json5_start]
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.LOCATION",
+        // [StartExclude json5_start]
+        "reason": "$string:permission_location_desc",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        },
+        // [EndExclude json5_start]
+      },
+      {
+        "name": "ohos.permission.LOCATION_IN_BACKGROUND",
+        // [StartExclude json5_start]
+        "reason": "$string:permission_location_background_desc",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        },
+        // [EndExclude json5_start]
+      },
+      {
+        "name": "ohos.permission.APPROXIMATELY_LOCATION",
+        // [StartExclude json5_start]
+        "reason": "$string:permission_approximately_location_desc",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        },
+        // [EndExclude json5_start]
+      },
+      {
+        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING",
+        // [StartExclude json5_start]
+        "reason": "$string:permission_keep_background_running_desc",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        },
+        // [EndExclude json5_start]
+      }
+    ]
+  }
+}
+// [End json5_start]

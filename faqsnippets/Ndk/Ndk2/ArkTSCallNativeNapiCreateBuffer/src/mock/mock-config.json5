@@ -1,0 +1,5 @@
+{
+  "libarktscallnativenapicreatebuffer.so": {
+    "source": "src/mock/Libarktscallnativenapicreatebuffer.mock.ets"
+  }
+}

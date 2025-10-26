@@ -1,0 +1,69 @@
+{
+  "objectTypeName": "user_learning",
+  "fields": [
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "id",
+      "notNull": true,
+      "isSensitive": false,
+      "belongPrimaryKey": true,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "user_id",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "path_id",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "learned_time",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "Date"
+    }
+  ],
+  "indexes": [],
+  "permissions": [
+    {
+      "role": "World",
+      "rights": [
+        "Read"
+      ]
+    },
+    {
+      "role": "Authenticated",
+      "rights": [
+        "Read",
+        "Upsert"
+      ]
+    },
+    {
+      "role": "Creator",
+      "rights": [
+        "Read",
+        "Upsert",
+        "Delete"
+      ]
+    },
+    {
+      "role": "Administrator",
+      "rights": [
+        "Read",
+        "Upsert",
+        "Delete"
+      ]
+    }
+  ]
+}

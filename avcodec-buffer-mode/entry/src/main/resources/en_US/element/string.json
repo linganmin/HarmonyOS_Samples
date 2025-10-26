@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVCodecBufferMode"
+    },
+    {
+      "name": "alert",
+      "value": "None video selected"
+    },
+    {
+      "name": "reason",
+      "value": "allows an app to use the microphone"
+    },
+    {
+      "name": "video_transcoding",
+      "value": "Video Transcoding"
+    },
+    {
+      "name": "transcoding",
+      "value": "Transcoding..."
+    },
+    {
+      "name": "before_transcoding",
+      "value": "Before"
+    },
+    {
+      "name": "after_transcoding",
+      "value": "After"
+    },
+    {
+      "name": "video_player",
+      "value": "Video Player"
+    },
+    {
+      "name": "buffer_mode",
+      "value": "Video Transcoding Based On Buffer Mode"
+    },
+    {
+      "name": "select_video",
+      "value": "Select Video"
+    },
+    {
+      "name": "config_video",
+      "value": "Configuration"
+    },
+    {
+      "name": "start_transcoding",
+      "value": "Start Transcoding"
+    },
+    {
+      "name": "alert_setting",
+      "value": "The setting is not supported by the current device."
+    },
+    {
+      "name": "saveButtonNote",
+      "value": "Allow AVCodecVideo to save captured video to gallery?"
+    },
+    {
+      "name": "saveButtonCancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "return",
+      "value": "Return"
+    },
+    {
+      "name": "saveButtonTitle",
+      "value": "Confirm the video storage location"
+    }
+  ]
+}

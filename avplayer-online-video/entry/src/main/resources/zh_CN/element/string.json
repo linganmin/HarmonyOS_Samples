@@ -1,0 +1,136 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVPlayer Online Video"
+    },
+    {
+      "name": "url_warn",
+      "value": "请检查URL是否合法"
+    },
+    {
+      "name": "custom_url_placeholder",
+      "value": "输入视频URL"
+    },
+    {
+      "name": "custom_url_dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "custom_url_dialog_submit",
+      "value": "确认"
+    },
+    {
+      "name": "video_name_custom_url",
+      "value": "自定义URL播放在线视频"
+    },
+    {
+      "name": "video_name_1",
+      "value": "设置URL播放在线MP4视频"
+    },
+    {
+      "name": "video_name_2",
+      "value": "设置URL播放在线M3U8视频"
+    },
+    {
+      "name": "video_name_3",
+      "value": "设置URL播放本地MP4视频"
+    },
+    {
+      "name": "video_name_4",
+      "value": "设置URL播放本地M3U8视频"
+    },
+    {
+      "name": "video_name_5",
+      "value": "带缓存条播放在线视频"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_res_1",
+      "value": "test1.mp4"
+    },
+    {
+      "name": "video_res_2",
+      "value": "test2.mp4"
+    },
+    {
+      "name": "video_res_3",
+      "value": "network.mp4"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "播放倍速"
+    },
+    {
+      "name": "playing",
+      "value": "当前播放"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于视频播放场景使用Internet网络"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "用于视频播放场景获取网络信息"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "拉伸至与窗口等大"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "缩放至最短边填满窗口"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "窗口缩放模式"
+    },
+    {
+      "name": "local_video",
+      "value": "本地视频"
+    },
+    {
+      "name": "caption_placeholder",
+      "value": "点我发弹幕吧"
+    },
+    {
+      "name": "Chinese",
+      "value": "中文"
+    },
+    {
+      "name": "English",
+      "value": "英文"
+    },
+    {
+      "name": "language_switch",
+      "value": "语言切换"
+    }
+  ]
+}

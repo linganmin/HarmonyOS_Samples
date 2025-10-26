@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "write_media_module_desc",
+      "value": "Media file needs to be written"
+    },
+    {
+      "name": "camera_module_desc",
+      "value": "Camera required for video recording"
+    },
+    {
+      "name": "microphone_media_module_desc",
+      "value": "Video recording needs to be connected to microphone"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HDRToSDR"
+    },
+    {
+      "name": "HDR_video_recording",
+      "value": "HDR video recording"
+    },
+    {
+      "name": "video_record_before_are",
+      "value": "Please record the video first"
+    },
+    {
+      "name": "HDR_video_transcode",
+      "value": "HDR video transcode"
+    },
+    {
+      "name": "original_video",
+      "value": "Original Video"
+    },
+    {
+      "name": "Optimize_video",
+      "value": "Optimized video"
+    },
+    {
+      "name": "video_select_file",
+      "value": "Select Video"
+    },
+    {
+      "name": "video_processing_before_are",
+      "value": "Please select the video first"
+    },
+    {
+      "name": "video_playback",
+      "value": "Video Playback"
+    },
+    {
+      "name": "save_video",
+      "value": "Save Video"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "AVCodec_transcode",
+      "value": "AVCodec Transcode"
+    },
+    {
+      "name": "color_space_conversion",
+      "value": "Video_Processing Color Conversion"
+    },
+    {
+      "name": "video_encapsulation_list",
+      "value": "Select Video Packaging Method"
+    },
+    {
+      "name": "recorder_video_encoding_encapsulation",
+      "value": "Recorder Video Encoding Encapsulation"
+    },
+    {
+      "name": "AVCodec_encoding_encapsulation",
+      "value": "AVCodec native capability encoding encapsulation"
+    },
+    {
+      "name": "record_video",
+      "value": "Record Video"
+    },
+    {
+      "name": "alert_setting",
+      "value": "The setting is not supported by the current device."
+    },
+    {
+      "name": "save_button_note",
+      "value": "Do you want to save the captured video to the gallery?"
+    },
+    {
+      "name": "save_button_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "save_button_title",
+      "value": "Confirm the video storage location"
+    },
+    {
+      "name": "alert",
+      "value": "None video selected"
+    },
+    {
+      "name": "color_space_list",
+      "value": "Color space conversion"
+    },
+    {
+      "name": "video_is_processing_try_later",
+      "value": "Video is processing, try later"
+    },
+    {
+      "name": "video_processing_not_support",
+      "value": "The video does not support the current operation"
+    }
+  ]
+}

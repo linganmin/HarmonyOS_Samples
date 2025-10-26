@@ -1,0 +1,70 @@
+// [Start run_js_html]
+<!DOCTYPE html>
+<html lang="en-gb">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>run javascript demo</title>
+</head>
+<body>
+<h1>run JavaScript Ext demo</h1>
+<p id="webDemo"></p>
+<br>
+<button type="button" style="height:30px;width:200px" onclick="testNdkProxyObjMethod1()">test ndk method1 ! </button>
+<br>
+<br>
+<button type="button" style="height:30px;width:200px" onclick="testNdkProxyObjMethod2()">test ndk method2 ! </button>
+<br>
+</body>
+<script type="text/javascript">
+    function testNdkProxyObjMethod1() {
+      // Verify whether the ndk method has been registered in window
+      if (window.ndkProxy == undefined) {
+        document.getElementById("webDemo").innerHTML = "ndkProxy undefined";
+        return "objName undefined";
+      }
+      if (window.ndkProxy.method1 == undefined) {
+        document.getElementById("webDemo").innerHTML = "ndkProxy method1 undefined";
+        return "objName  test undefined";
+      }
+      if (window.ndkProxy.method2 == undefined) {
+        document.getElementById("webDemo").innerHTML = "ndkProxy method2 undefined";
+        return "objName  test undefined";
+      }
+      // Call the method1 method of ndk registered to window and display the results back to the p tag.
+      var retStr = window.ndkProxy.method1("hello", "world", [1.2, -3.4, 123.456], ["Saab", "Volvo", "BMW", undefined], 1.23456, 123789, true, false, 0,  undefined);
+      document.getElementById("webDemo").innerHTML  = "ndkProxy and method1 is ok, " + retStr;
+    }
+    function testNdkProxyObjMethod2() {
+      // Verify whether the ndk method has been registered in window
+      if (window.ndkProxy == undefined) {
+        document.getElementById("webDemo").innerHTML = "ndkProxy undefined";
+        return "objName undefined";
+      }
+      if (window.ndkProxy.method1 == undefined) {
+        document.getElementById("webDemo").innerHTML = "ndkProxy method1 undefined";
+        return "objName  test undefined";
+      }
+      if (window.ndkProxy.method2 == undefined) {
+        document.getElementById("webDemo").innerHTML = "ndkProxy method2 undefined";
+        return "objName  test undefined";
+      }
+      var student = {
+        name:"zhang",
+        sex:"man",
+        age:25
+      };
+      var cars = [student, 456, false, 4.567];
+      let params = "[\"{\\\"scope\\\"]";
+      // Call the method2 method of ndk registration to the windows and display the results back to the p tag
+      var retStr = window.ndkProxy.method2("hello", "world", false, cars, params);
+      document.getElementById("webDemo").innerHTML  = "ndkProxy and method2 is ok, " + retStr;
+    }
+    function runJSRetStr(data) {
+      const d = new Date();
+      let time = d.getTime();
+      document.getElementById("webDemo").innerHTML = new Date().getTime();
+      return JSON.stringify(time);
+    }
+</script>
+</html>
+// [End run_js_html]

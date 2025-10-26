@@ -1,0 +1,1 @@
+export const runDemo: (a: number[], b: object) => Array<number>;

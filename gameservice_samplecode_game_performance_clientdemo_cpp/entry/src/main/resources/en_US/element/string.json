@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GamePerformanceDemoForC"
+    },
+    {
+      "name": "title",
+      "value": "Game scene perception C++"
+    },
+    {
+      "name": "init",
+      "value": "Initialize game scene perception"
+    },
+    {
+      "name": "registerThermalLevelChangedCallback",
+      "value": "Register thermal change callback"
+    },
+    {
+      "name": "unregisterThermalLevelChangedCallback",
+      "value": "Unregister thermal change callback"
+    },
+    {
+      "name": "unregisterAllThermalLevelChangedCallbacks",
+      "value": "Unregister all thermal change callbacks"
+    },
+    {
+      "name": "updateSceneInfo",
+      "value": "Update game scene information"
+    },
+    {
+      "name": "queryGpuInfo",
+      "value": "Query GPU information"
+    },
+    {
+      "name": "queryThermalInfo",
+      "value": "Query temperature information"
+    }
+  ]
+}

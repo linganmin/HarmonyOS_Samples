@@ -1,0 +1,27 @@
+{
+  "strarray": [
+    {
+      "name": "tab_titles",
+      "value": [
+        {
+          "value": "All"
+        },
+        {
+          "value": "Health"
+        },
+        {
+          "value": "Town"
+        },
+        {
+          "value": "Food"
+        },
+        {
+          "value": "Double"
+        },
+        {
+          "value": "Firework"
+        }
+      ]
+    }
+  ]
+}

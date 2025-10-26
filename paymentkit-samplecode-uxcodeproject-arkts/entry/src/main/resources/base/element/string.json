@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "uxcode"
+    },
+    {
+      "name":"kit_hwpay_desc",
+      "value":"Huawei Pay"
+    },
+    {
+      "name":"kit_hwpay_checkout_confirm_pay",
+      "value":"Pay"
+    },
+    {
+      "name":"kit_hwpay_change_other_pay_type",
+      "value":"Other bank cards"
+    }
+  ]
+}

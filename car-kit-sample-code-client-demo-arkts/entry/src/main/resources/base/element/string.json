@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "carKit_api_label",
+      "value": "Usage Examples of Car Kit APIs"
+    },
+    {
+      "name": "navigation_information",
+      "value": "Navigation information interaction APIs"
+    },
+    {
+      "name": "mobility_service",
+      "value": "Mobility service interaction APIs"
+    },
+    {
+      "name": "navigation_information_interaction_examples",
+      "value": "Navigation information interaction examples"
+    },
+    {
+      "name": "update_navigation_status_1",
+      "value": "Update navigation status 1"
+    },
+    {
+      "name": "update_navigation_status_2",
+      "value": "Update navigation status 2"
+    },
+    {
+      "name": "register_system_signal_listener",
+      "value": "Register a system signal listener"
+    },
+    {
+      "name": "unregister_system_signal_listener",
+      "value": "Unregister a system signal listener"
+    },
+    {
+      "name": "update_navigation_metadata",
+      "value": "Update navigation metadata"
+    },
+    {
+      "name": "mobility_service_interaction_examples",
+      "value": "Mobility service interaction examples"
+    },
+    {
+      "name": "event_listening",
+      "value": "Event listening"
+    },
+    {
+      "name": "register_mobility_service_event_listener",
+      "value": "Register a mobility service event listener"
+    },
+    {
+      "name": "unregister_mobility_service_event_listener",
+      "value": "Unregister a mobility service event listener"
+    },
+    {
+      "name": "obtain_mobility_service_event_information",
+      "value": "Obtain mobility service event information"
+    },
+    {
+      "name": "status_listening",
+      "value": "Status listening"
+    },
+    {
+      "name": "register_smart_mobility_connection_status_listener",
+      "value": "Register a smart mobility connection status listener"
+    },
+    {
+      "name": "unregister_smart_mobility_connection_status_listener",
+      "value": "Unregister a smart mobility connection status listener"
+    },
+    {
+      "name": "obtain_smart_mobility_connection_status",
+      "value": "Obtain the smart mobility connection status"
+    }
+  ]
+}

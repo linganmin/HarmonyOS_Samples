@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from npm package"
+    },
+    {
+      "name": "configuration",
+      "value": "Server Configuration"
+    },
+    {
+      "name": "web",
+      "value": "Enter the URL"
+    },
+    {
+      "name": "key",
+      "value": "Enter the key"
+    },
+    {
+      "name": "enter_value",
+      "value": "Enter the value"
+    },
+    {
+      "name": "add",
+      "value": "Add"
+    },
+    {
+      "name": "reduce",
+      "value": "Delete"
+    },
+    {
+      "name": "reset",
+      "value": "Reset"
+    },
+    {
+      "name": "confirm",
+      "value": "OK"
+    },
+    {
+      "name": "result",
+      "value": "Result returned by server:"
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Allow the app to use the Internet network in HTTP request scenarios"
+    }
+  ]
+}

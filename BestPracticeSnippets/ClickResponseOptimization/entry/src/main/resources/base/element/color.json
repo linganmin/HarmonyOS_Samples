@@ -1,0 +1,116 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "gray_shadow",
+      "value": "#55000000"
+    },
+    {
+      "name": "trans_parent",
+      "value": "#00000000"
+    },
+    {
+      "name": "light_blue",
+      "value": "#007DFF"
+    },
+    {
+      "name": "grey_light",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "share_item_content_font",
+      "value": "#182431"
+    },
+    {
+      "name": "theme_blue_color",
+      "value": "#0A59F0"
+    },
+    {
+      "name": "theme_blue_background_color",
+      "value": "#1A0A59F7"
+    },
+    {
+      "name": "hmos_black",
+      "value": "#FF000000"
+    },
+    {
+      "name": "hmos_medium_black",
+      "value": "#99000000"
+    },
+    {
+      "name": "hmos_regular_gray",
+      "value": "#66000000"
+    },
+    {
+      "name": "hmos_light_white",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "hmos_background_color_white",
+      "value": "#FAFAFA"
+    },
+    {
+      "name": "hmos_color_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "skeleton_color_medium",
+      "value": "#FFF2F3F4"
+    },
+    {
+      "name": "reload_title_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "no_more_divider_color",
+      "value": "#0D000000"
+    },
+    {
+      "name": "no_more_title_color",
+      "value": "#66000000"
+    },
+    {
+      "name": "main_red_color",
+      "value": "#FF3E50"
+    },
+    {
+      "name": "skeleton_color_deep",
+      "value": "#1A000000"
+    },
+    {
+      "name": "skeleton_color_light",
+      "value": "#FFECECEC"
+    },
+    {
+      "name": "theme_black_color",
+      "value": "#000000"
+    },
+    {
+      "name": "theme_yellow_color",
+      "value": "#EB9500"
+    },
+    {
+      "name": "collected_bg_color",
+      "value": "#1AFFA200"
+    },
+    {
+      "name": "action_button_bg_color",
+      "value": "#1A000000"
+    },
+    {
+      "name": "liked_bg_color",
+      "value": "#1AFF3E50"
+    },
+    {
+      "name": "skeleton_color",
+      "value": "#ECECEC"
+    }
+  ]
+}

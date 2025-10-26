@@ -1,0 +1,27 @@
+{
+  "module": {
+    "name": "positive",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "PositiveAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "routerMap": "$profile:route_map",
+    "abilities": [
+      {
+        "name": "PositiveAbility",
+        "srcEntry": "./ets/positiveability/PositiveAbility.ets",
+        "description": "$string:PositiveAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:PositiveAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

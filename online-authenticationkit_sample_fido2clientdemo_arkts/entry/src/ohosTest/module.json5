@@ -1,0 +1,51 @@
+{
+  "module": {
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET",
+      },
+      {
+        "name": "ohos.permission.ACCESS_BIOMETRIC",
+      },
+      {
+        "name": "ohos. permission. APPROXIMATELY_LOCATION",
+      }
+    ],
+    "definePermissions": [
+      {
+        "name": "ohos.permission.ACCESS_FIDO2_ONLINEAUTH"
+      }
+    ],
+    "name": "entry_test",
+    "type": "feature",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "abilities": [
+      {
+        "name": "TestAbility",
+        "srcEntry": "./ets/testability/TestAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:EntryAbility_label",
+        "visible": true,
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:start_window_background",
+        "skills": [
+          {
+            "actions": [
+              "action.system.home"
+            ],
+            "entities": [
+              "entity.system.home"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

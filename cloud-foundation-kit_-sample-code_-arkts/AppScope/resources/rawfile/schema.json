@@ -1,0 +1,364 @@
+{
+  "schemaVersion": 11,
+  "permissions": [
+    {
+      "permissions": [
+        {
+          "role": "World",
+          "rights": [
+            "Read"
+          ]
+        },
+        {
+          "role": "Authenticated",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Creator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Administrator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        }
+      ],
+      "objectTypeName": "Apple"
+    },
+    {
+      "permissions": [
+        {
+          "role": "World",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Authenticated",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Creator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Administrator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        }
+      ],
+      "objectTypeName": "Fruit"
+    },
+    {
+      "permissions": [
+        {
+          "role": "World",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Authenticated",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Creator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Administrator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        }
+      ],
+      "objectTypeName": "BookInfo"
+    },
+    {
+      "permissions": [
+        {
+          "role": "World",
+          "rights": [
+            "Read"
+          ]
+        },
+        {
+          "role": "Authenticated",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Creator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        },
+        {
+          "role": "Administrator",
+          "rights": [
+            "Read",
+            "Upsert",
+            "Delete"
+          ]
+        }
+      ],
+      "objectTypeName": "PicInfo"
+    }
+  ],
+  "objectTypes": [
+    {
+      "indexes": [],
+      "objectTypeName": "Apple",
+      "fields": [
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "id",
+          "notNull": true,
+          "isSensitive": false,
+          "belongPrimaryKey": true,
+          "fieldType": "Integer"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "name",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "String"
+        }
+      ]
+    },
+    {
+      "indexes": [
+        {
+          "indexName": "name",
+          "indexList": [
+            {
+              "fieldName": "name",
+              "sortType": "ASC"
+            }
+          ]
+        }
+      ],
+      "objectTypeName": "Fruit",
+      "fields": [
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "id",
+          "notNull": true,
+          "isSensitive": false,
+          "belongPrimaryKey": true,
+          "fieldType": "Integer"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "name",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "String"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "price",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Float"
+        }
+      ]
+    },
+    {
+      "indexes": [],
+      "objectTypeName": "BookInfo",
+      "fields": [
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_string",
+          "notNull": true,
+          "isSensitive": false,
+          "belongPrimaryKey": true,
+          "fieldType": "String"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_boolean",
+          "notNull": false,
+          "isSensitive": false,
+          "defaultValue": "true",
+          "belongPrimaryKey": false,
+          "fieldType": "Boolean"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_byte",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Byte"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_short",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Short"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_integer",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Integer"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_long",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Long"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_float",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Float"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_double",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Double"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_byte_array",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "ByteArray"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_text",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Text"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_date",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Date"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_string_max",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "String"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "key_byte_array_max",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "ByteArray"
+        }
+      ]
+    },
+    {
+      "indexes": [
+        {
+          "indexName": "picName",
+          "indexList": [
+            {
+              "fieldName": "picName",
+              "sortType": "ASC"
+            }
+          ]
+        }
+      ],
+      "objectTypeName": "PicInfo",
+      "fields": [
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "id",
+          "notNull": true,
+          "isSensitive": false,
+          "belongPrimaryKey": true,
+          "fieldType": "Integer"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "picName",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "String"
+        },
+        {
+          "isNeedEncrypt": false,
+          "fieldName": "price",
+          "notNull": false,
+          "isSensitive": false,
+          "belongPrimaryKey": false,
+          "fieldType": "Double"
+        }
+      ]
+    }
+  ]
+}

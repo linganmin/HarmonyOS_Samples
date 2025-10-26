@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "text_color",
+      "value": "#0D9FFB"
+    },
+    {
+      "name": "button_bg",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "bg_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "textarea_color",
+      "value": "#182431"
+    },
+    {
+      "name": "page_bg",
+      "value": "#F1F3F5"
+    }
+  ]
+}

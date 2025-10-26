@@ -1,0 +1,29 @@
+
+/*
+* FAQ:Web组件使用rawFile加载离线html时,如何在url后拼接参数
+*/
+
+// [Start UrlAdd2]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Parameter-based HTML</title>
+</head>
+<body>
+<h1>Welcome!</h1>
+<h1 id="params"></h1>
+
+<script>
+    function getParams() {
+        var params = {};
+        window.location.search.substring(1).split('&').forEach(function(param) {
+            var pair = param.split('=');
+            params[pair[0]] = decodeURIComponent(pair[1]);
+        });
+        return params;
+    }
+    document.getElementById('params').innerHTML = JSON.stringify(getParams());
+</script>
+</body>
+</html>
+// [End UrlAdd2]

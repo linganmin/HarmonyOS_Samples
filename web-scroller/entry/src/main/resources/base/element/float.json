@@ -1,0 +1,36 @@
+{
+  "float": [
+    {
+      "name": "title_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "title_line_height",
+      "value": "28vp"
+    },
+    {
+      "name": "review_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "reviewList_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "review_line_height",
+      "value": "24vp"
+    },
+    {
+      "name": "reviewList_line_height",
+      "value": "19vp"
+    },
+    {
+      "name": "image_width",
+      "value": "20vp"
+    },
+    {
+      "name": "image_height",
+      "value": "18vp"
+    }
+  ]
+}

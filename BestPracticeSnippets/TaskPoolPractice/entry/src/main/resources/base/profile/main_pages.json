@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/sample1/Sample1",
+    "pages/sample2/Sample2",
+    "pages/sample3/Sample3",
+    "pages/sample4/Sample4",
+    "pages/sample5/Sample5",
+    "pages/sample6/Sample6"
+  ]
+}

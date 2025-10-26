@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "GridAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "GridAbility_label",
+      "value": "scrollComponentSample"
+    },
+    {
+      "name": "scenario_grid",
+      "value": "网格示例"
+    },
+    {
+      "name": "photoGrid",
+      "value": "图片网格"
+    },
+    {
+      "name": "photoGrid_scenario",
+      "value": "单元格结构类型相同"
+    },
+    {
+      "name": "workGrid",
+      "value": "作品网格"
+    },
+    {
+      "name": "workGrid_scenario",
+      "value": "单元格结构类型不同"
+    },
+    {
+      "name": "cardGrid",
+      "value": "卡片网格"
+    },
+    {
+      "name": "cardGrid_scenario",
+      "value": "单元格子结构可拆分组合"
+    },
+    {
+      "name": "numberGrid",
+      "value": "数字网格"
+    },
+    {
+      "name": "numberGrid_scenario",
+      "value": "自适应"
+    },
+    {
+      "name": "wordGrid",
+      "value": "文本网格"
+    },
+    {
+      "name": "wordGrid_scenario",
+      "value": "自适应列数"
+    },
+    {
+      "name": "me",
+      "value": "我"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "friend",
+      "value": "朋友"
+    },
+    {
+      "name": "homePage",
+      "value": "首页"
+    },
+    {
+      "name": "works",
+      "value": "作品"
+    },
+    {
+      "name": "likes",
+      "value": "点赞"
+    },
+    {
+      "name": "watcher",
+      "value": "关注"
+    },
+    {
+      "name": "fans",
+      "value": "粉丝"
+    },
+    {
+      "name": "manager_tag",
+      "value": "管"
+    },
+    {
+      "name": "loading",
+      "value": "正在加载更多"
+    }
+  ]
+}

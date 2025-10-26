@@ -1,0 +1,259 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TestDigitalShield"
+    },
+    {
+      "name": "reason",
+      "value": "Apply Necessary Rights"
+    },
+    {
+      "name": "IDSetting",
+      "value": "Setting"
+    },
+    {
+      "name": "DigitalShield",
+      "value": "Digital Shield"
+    },
+    {
+      "name": "ModifyPassword",
+      "value": "Modify Password"
+    },
+    {
+      "name": "OpenWord",
+      "value": "Enable"
+    },
+    {
+      "name": "CloseShield",
+      "value": "Unable shield"
+    },
+    {
+      "name": "CloseShieldWithVerification",
+      "value": "Unable shield with check"
+    },
+    {
+      "name": "CloseWord",
+      "value": "Unable"
+    },
+    {
+      "name": "FinishSignatureInitialization",
+      "value": "Signature initialization finish"
+    },
+    {
+      "name": "CloseShieldSuccess",
+      "value": "Unable shield success"
+    },
+    {
+      "name": "CloseShieldFail",
+      "value": "Unable shield fail"
+    },
+    {
+      "name": "CloseShieldWithoutVerification",
+      "value": "Unable shield without check"
+    },
+    {
+      "name": "BioFeatureVerification",
+      "value": "Bio verification method"
+    },
+    {
+      "name": "Fingerprint",
+      "value": "Fingerprint"
+    },
+    {
+      "name": "Bind",
+      "value": "Bind"
+    },
+    {
+      "name": "BindFingerprintSuccess",
+      "value": "Bind fingerprint success"
+    },
+    {
+      "name": "BindFingerprintFail",
+      "value": "Bind fingerprint fail"
+    },
+    {
+      "name": "BindFingerprintFailWithNotification",
+      "value": "Bind fingerprint fail：please bind bio feature in system setting"
+    },
+    {
+      "name": "FingerprintBound",
+      "value": "Fingerprint--Bound"
+    },
+    {
+      "name": "UnBound",
+      "value": "Unbound"
+    },
+    {
+      "name": "UnBoundFingerprintSuccess",
+      "value": "Unbound fingerprint success"
+    },
+    {
+      "name": "UnBoundFingerprintFail",
+      "value": "Unbound fingerprint fail"
+    },
+    {
+      "name": "Face",
+      "value": "Face"
+    },
+    {
+      "name": "BindFaceSuccess",
+      "value": "Bind face success"
+    },
+    {
+      "name": "BindFaceFail",
+      "value": "Bind face fail"
+    },
+    {
+      "name": "BindFaceFailWithNotification",
+      "value": "Bind face fail：please bind bio feature in system setting"
+    },
+    {
+      "name": "FaceBound",
+      "value": "Face--Bound"
+    },
+    {
+      "name": "UnBoundFaceSuccess",
+      "value": "Unbound face success"
+    },
+    {
+      "name": "UnBoundFaceFail",
+      "value": "Unbound face fail"
+    },
+    {
+      "name": "Trade",
+      "value": "Transfer"
+    },
+    {
+      "name": "FinDigitalShield",
+      "value": "Financial Digital Shield"
+    },
+    {
+      "name": "PlzSetVerificationWay",
+      "value": "Verification method setting"
+    },
+    {
+      "name": "PureNumber",
+      "value": "Pure Number"
+    },
+    {
+      "name": "NumberPlusAlphabet",
+      "value": "Number + Alphabet"
+    },
+    {
+      "name": "ModifyWord",
+      "value": "Modify"
+    },
+    {
+      "name": "GenerateKeySuccess",
+      "value": "Generate key success"
+    },
+    {
+      "name": "ModifyPwSuccess",
+      "value": "Modify password success"
+    },
+    {
+      "name": "ModifyPwFail",
+      "value": "Modify password fail"
+    },
+    {
+      "name": "OpenShieldSuccess",
+      "value": "Enable Shield Success"
+    },
+    {
+      "name": "OpenShieldFail",
+      "value": "Enable Shield Fail"
+    },
+    {
+      "name": "ChooseVerificationMethod",
+      "value": "Choose verification method"
+    },
+    {
+      "name": "Recipient",
+      "value": "Recipient"
+    },
+    {
+      "name": "MRZhang",
+      "value": "Mr.Zhang"
+    },
+    {
+      "name": "AccountNumber",
+      "value": "Target account number"
+    },
+    {
+      "name": "TradingAmount",
+      "value": "Transaction amount"
+    },
+    {
+      "name": "NextWord",
+      "value": "Next"
+    },
+    {
+      "name": "TransactionWord",
+      "value": "Transaction"
+    },
+    {
+      "name": "ShieldPwVerification",
+      "value": "Shield PIN verification"
+    },
+    {
+      "name": "OpenShield",
+      "value": "Enable Shield"
+    },
+    {
+      "name": "ModifyShield",
+      "value": "Modify Shield"
+    },
+    {
+      "name": "FaceVerification",
+      "value": "Face Verification"
+    },
+    {
+      "name": "FingerprintVerification",
+      "value": "Fingerprint Verification"
+    },
+    {
+      "name": "PINVerification",
+      "value": "Pin Verification"
+    },
+    {
+      "name": "PINVerificationSuccess",
+      "value": "PIN verification success"
+    },
+    {
+      "name": "PINVerificationFail",
+      "value": "PIN verification fail"
+    },
+    {
+      "name": "FingerprintVerificationSuccess",
+      "value": "Fingerprint verification success"
+    },
+    {
+      "name": "FingerprintVerificationFail",
+      "value": "Fingerprint verification fail"
+    },{
+      "name": "FingerprintVerificationFailWithNotification",
+      "value": "Fingerprint verification fail：please use the bound fingerprint，unbound after mutiple trys"
+    },
+    {
+      "name": "FaceVerificationSuccess",
+      "value": "Face verification success"
+    },
+    {
+      "name": "FaceVerificationFail",
+      "value": "Face verification fail"
+    },
+    {
+      "name": "FaceVerificationFailWithNotification",
+      "value": "Face verification fail：please check the bound info，unbound after mutiple trys"
+    }
+  ]
+}

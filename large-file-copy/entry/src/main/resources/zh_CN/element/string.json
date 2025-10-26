@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "大文件拷贝"
+    },
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "largeFileCopy_copy_button_msg",
+      "value": "拷贝"
+    },
+    {
+      "name": "largeFileCopy_preview_button_msg",
+      "value": "预览"
+    },
+    {
+      "name": "largeFileCopy_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "largeFileCopy_reset_button_msg",
+      "value": "重置"
+    },
+    {
+      "name": "current_copy_process",
+      "value": "当前复制进度"
+    },
+    {
+      "name": "largeFileCopy_prompt_msg",
+      "value": "请先拷贝文件"
+    }
+  ]
+}

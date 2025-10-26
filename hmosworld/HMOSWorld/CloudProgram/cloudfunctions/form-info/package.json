@@ -1,0 +1,14 @@
+{
+  "name": "form-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "forminfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hw-agconnect/cloud-server": "^1.0.1"
+  }
+}

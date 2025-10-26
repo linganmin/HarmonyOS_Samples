@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UseSendable"
+    },
+    {
+      "name": "home_title",
+      "value": "应用并发设计同源代码工程"
+    },
+    {
+      "name": "time_consuming_task_title",
+      "value": "耗时任务并发执行场景"
+    },
+    {
+      "name": "long_term_task_title",
+      "value": "长时任务并发执行场景"
+    },
+    {
+      "name": "multitasking_title",
+      "value": "多任务关联执行（串行顺序依赖）"
+    },
+    {
+      "name": "tree_like_dependency_title",
+      "value": "多任务关联执行（树状依赖）"
+    },
+    {
+      "name": "task_set_title",
+      "value": "多任务同步等待结果（任务组）"
+    },
+    {
+      "name": "priority_scheduling_title",
+      "value": "多任务优先级调度"
+    },
+    {
+      "name": "task_delay_scheduling_title",
+      "value": "任务延时调度"
+    },
+    {
+      "name": "multithreaded_communication_title",
+      "value": "跨语言多线程通信（C++与ArkTS）"
+    },
+    {
+      "name": "singleton_pattern_title",
+      "value": "线程间模块共享（单例模式） （方案一）"
+    },
+    {
+      "name": "singleton_solution_two_title",
+      "value": "线程间模块共享（单例模式）"
+    },
+    {
+      "name": "immutable_data_sharing_title",
+      "value": "线程间不可变数据共享"
+    }
+  ]
+}

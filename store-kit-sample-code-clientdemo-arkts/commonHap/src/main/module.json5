@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "commonHap",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "CommonHapAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": false,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "CommonHapAbility",
+        "srcEntry": "./ets/commonhapability/CommonHapAbility.ets",
+        "description": "$string:CommonHapAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:CommonHapAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

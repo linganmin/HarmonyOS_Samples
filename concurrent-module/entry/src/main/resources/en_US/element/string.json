@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ConcurrentModule"
+    },
+    {
+      "name": "Text_desc",
+      "value": "Input the strings to be sorted. Separate them by commas."
+    },
+    {
+      "name": "Result_desc",
+      "value": "Execution Result"
+    },
+    {
+      "name": "SortString_desc",
+      "value": "Sort String"
+    },
+    {
+      "name": "Clear_desc",
+      "value": "Clear"
+    },
+    {
+      "name": "Execute_After_3s_desc",
+      "value": "3s Timeout"
+    },
+    {
+      "name": "Execute_Immediately_desc",
+      "value": "Execute Now"
+    },
+    {
+      "name": "Function_Task_desc",
+      "value": "Function Task"
+    },
+    {
+      "name": "Cancel_Task_desc",
+      "value": "Cancel Task"
+    },
+    {
+      "name": "strSortText",
+      "value": "Sort String"
+    },
+    {
+      "name": "copyFileText",
+      "value": "Copy File"
+    },
+    {
+      "name": "clearAndCopyFileText",
+      "value": "Clear the sandbox and copy file"
+    },
+    {
+      "name": "workerTitleText",
+      "value": "Files in common directory"
+    },
+    {
+      "name": "logTitle",
+      "value": "Log"
+    },
+    {
+      "name": "workerLog1",
+      "value": "1、Files in sandbox directory: "
+    },
+    {
+      "name": "workerLog2",
+      "value": ""
+    },
+    {
+      "name": "workerLog3",
+      "value": " file "
+    },
+    {
+      "name": "workerLog4",
+      "value": " is completed"
+    },
+    {
+      "name": "workerLog5",
+      "value": " and so on"
+    },
+    {
+      "name": "workerLogChooseFile",
+      "value": "Please select a file"
+    }
+  ]
+}

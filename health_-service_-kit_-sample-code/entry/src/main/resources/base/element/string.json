@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SampleCode"
+    },
+    {
+      "name": "Kit",
+      "value": "Health Service Kit"
+    },
+    {
+      "name": "DataSource",
+      "value": "DataSource"
+    },
+    {
+      "name": "SamplePoint",
+      "value": "SamplePoint"
+    },
+    {
+      "name": "ExerciseSequence",
+      "value": "ExerciseSequence"
+    },
+    {
+      "name": "HealthSequence",
+      "value": "HealthSequence"
+    },
+    {
+      "name": "Auth",
+      "value": "Auth"
+    },
+    {
+      "name": "Workout",
+      "value": "Workout"
+    },
+    {
+      "name": "Print_log",
+      "value": "print log :"
+    },
+    {
+      "name": "SaveData",
+      "value": "SaveData"
+    },
+    {
+      "name": "ReadData",
+      "value": "ReadData"
+    },
+    {
+      "name": "DeleteByRequest",
+      "value": "DeleteByRequest"
+    },
+    {
+      "name": "DeleteBySamplePoint",
+      "value": "DeleteBySamplePoint"
+    },
+    {
+      "name": "DeleteByExerciseSequence",
+      "value": "DeleteByExerciseSequence"
+    },
+    {
+      "name": "DeleteByHealthSequence",
+      "value": "DeleteByHealthSequence"
+    },
+    {
+      "name": "AggregateData",
+      "value": "AggregateData"
+    },
+    {
+      "name": "InsertDataSource",
+      "value": "InsertDataSource"
+    },
+    {
+      "name": "UpdateDataSource",
+      "value": "UpdateDataSource"
+    },
+    {
+      "name": "ReadDataSource",
+      "value": "ReadDataSource"
+    },
+    {
+      "name": "RequestAuthorizations",
+      "value": "RequestAuthorizations"
+    },
+    {
+      "name": "CancelAuthorizations",
+      "value": "CancelAuthorizations"
+    },
+    {
+      "name": "GetAuthorizations",
+      "value": "GetAuthorizations"
+    },
+    {
+      "name": "ReadActivityReport",
+      "value": "ReadActivityReport"
+    }
+  ]
+}

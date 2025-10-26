@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "divider_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "top_background",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "service_color",
+      "value": "#182431"
+    },
+    {
+      "name": "select_title_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "title_color",
+      "value": "#182431"
+    },
+    {
+      "name": "background_color",
+      "value": "#F1F3F5"
+    }
+  ]
+}

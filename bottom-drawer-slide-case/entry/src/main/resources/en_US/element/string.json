@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BottomDrawerSlideCase"
+    },
+    {
+      "name": "home_top_title",
+      "value": "Taxi Hailing"
+    },
+    {
+      "name": "function_promotion",
+      "value": "This function is not developed currently."
+    },
+    {
+      "name": "list_item_title",
+      "value": "Safe Travel Season"
+    },
+    {
+      "name": "pick_up_location",
+      "value": "JiangHan Road Subway Station (Port C)"
+    },
+    {
+      "name": "get_on",
+      "value": "Get On"
+    },
+    {
+      "name": "drop_off_location",
+      "value": "Where Are You Going"
+    }
+  ]
+}

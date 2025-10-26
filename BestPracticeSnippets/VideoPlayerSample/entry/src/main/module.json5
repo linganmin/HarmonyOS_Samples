@@ -1,0 +1,77 @@
+/**
+* 最佳实践: 视频播放开发实践
+*/
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone",
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    // [Start module_requestPermissions]
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING",
+        "reason": "$string:reason_background",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      },
+      // [StartExclude module_requestPermissions]
+      {
+        "name": "ohos.permission.INTERNET",
+        "reason": "$string:internet_reason",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      }
+      // [EndExclude module_requestPermissions]
+    ],
+    // [Start module_abilities]
+    "abilities": [
+      {
+        // [StartExclude module_requestPermissions]
+        // [StartExclude module_abilities]
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        // [EndExclude module_requestPermissions]
+        "backgroundModes": [
+          "audioPlayback"
+        ],
+        // [StartExclude module_requestPermissions]
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        // [EndExclude module_abilities]
+        "preferMultiWindowOrientation": "landscape_auto",
+        // [EndExclude module_requestPermissions]
+      }
+    ],
+    // [End module_requestPermissions]
+    // [End module_abilities]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "to_harb_pageB1",
+      "value": "跳转到HarB的B1页面"
+    },
+    {
+      "name": "to_harb_pageB2",
+      "value": "跳转到HarB的B2页面"
+    },
+    {
+      "name": "to_hara_pageA1",
+      "value": "跳转到HarA的A1页面"
+    },
+    {
+      "name": "to_hara_pageA2",
+      "value": "跳转到HarA的A2页面"
+    },
+    {
+      "name": "param",
+      "value": "传入的参数："
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "databaseReadWrite"
+    },
+    {
+      "name": "tabSql",
+      "value": "SQLite"
+    },
+    {
+      "name": "tabC",
+      "value": "C-API"
+    },
+    {
+      "name": "goodname",
+      "value": "goodname"
+    },
+    {
+      "name": "mate60",
+      "value": "Mate60"
+    },
+    {
+      "name": "mate60pro",
+      "value": "Mate60pro"
+    },
+    {
+      "name": "mate40",
+      "value": "Mate40"
+    },
+    {
+      "name": "mate40pro",
+      "value": "Mate40pro"
+    },
+    {
+      "name": "goodprice",
+      "value": "goodprice"
+    },
+    {
+      "name": "submit",
+      "value": "submit"
+    },
+    {
+      "name": "rdb",
+      "value": "rdb"
+    },
+    {
+      "name": "list_mate60",
+      "value": "Mate60"
+    },
+    {
+      "name": "list_mate40",
+      "value": "Mate40"
+    },
+    {
+      "name": "capi",
+      "value": "C-API"
+    },
+    {
+      "name": "list_goodname",
+      "value": "goodname"
+    },
+    {
+      "name": "list_greater",
+      "value": "greater 5000"
+    },
+    {
+      "name": "list_lesser",
+      "value": "lesser 5000"
+    },
+    {
+      "name": "sellprice",
+      "value": "sellprice"
+    },
+    {
+      "name": "add",
+      "value": "add"
+    },
+    {
+      "name": "addgoodinfo",
+      "value": "addgoodinfo"
+    },
+    {
+      "name": "changeinfo",
+      "value": "changeinfo"
+    }
+  ]
+}

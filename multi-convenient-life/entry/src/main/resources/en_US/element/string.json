@@ -1,0 +1,356 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一多(便捷生活)"
+    },
+    {
+      "name": "food_list",
+      "value": "FoodList"
+    },
+    {
+      "name": "graphic_text",
+      "value": "GraphicText"
+    },
+    {
+      "name": "living_page",
+      "value": "Living"
+    },
+    {
+      "name": "shop_amounts",
+      "value": "¥0"
+    },
+    {
+      "name": "estimated_delivery",
+      "value": "Estimated Delivery Fee ¥0"
+    },
+    {
+      "name": "send_from",
+      "value": "From ¥30"
+    },
+    {
+      "name": "product_evaluation",
+      "value": "Product evaluation"
+    },
+    {
+      "name": "reviews_string",
+      "value": "81 reviews"
+    },
+    {
+      "name": "view_all_reviews",
+      "value": "View All Reviews"
+    },
+    {
+      "name": "detailing",
+      "value": "Detailing"
+    },
+    {
+      "name": "delicious_fried",
+      "value": "Delicious Fried Chicken Whole Course (for 1 person)"
+    },
+    {
+      "name": "collections_text",
+      "value": "Collections"
+    },
+    {
+      "name": "monthly_sales",
+      "value": "Monthly sales 100+"
+    },
+    {
+      "name": "currency_symbol",
+      "value": "￥"
+    },
+    {
+      "name": "pay_price",
+      "value": "45.89"
+    },
+    {
+      "name": "original_price",
+      "value": "￥60"
+    },
+    {
+      "name": "add_cart",
+      "value": "+ Add to Cart"
+    },
+    {
+      "name": "booked_text",
+      "value": "Booked"
+    },
+    {
+      "name": "takeaway_text",
+      "value": "Takeaway"
+    },
+    {
+      "name": "preference_flag",
+      "value": "Preference"
+    },
+    {
+      "name": "food_name",
+      "value": "Fried pork with chili"
+    },
+    {
+      "name": "free_parking",
+      "value": "Free Parking"
+    },
+    {
+      "name": "recent_orders",
+      "value": "Recent 500+ Orders"
+    },
+    {
+      "name": "positive_feedback",
+      "value": "Positive feedback rate: 98%"
+    },
+    {
+      "name": "seabird_park",
+      "value": "Shenzhen Seabird Park"
+    },
+    {
+      "name": "address_text",
+      "value": "No.118, Changhai Road, Dongshan District, Shenzhen, Guangdong"
+    },
+    {
+      "name": "price_text",
+      "value": "45.89"
+    },
+    {
+      "name": "tickets_are",
+      "value": "Tickets are $60."
+    },
+    {
+      "name": "attraction_details",
+      "value": "Attraction Details"
+    },
+    {
+      "name": "introduction_pictures",
+      "value": "Introduction of Pictures and Texts"
+    },
+    {
+      "name": "opening_hours",
+      "value": "Opening Hours"
+    },
+    {
+      "name": "last_admission",
+      "value": "Monday to Sunday 08.30 - 16.00, last admission at 18.00"
+    },
+    {
+      "name": "sanger",
+      "value": "Sanger"
+    },
+    {
+      "name": "nice_comment",
+      "value": "Very nice park, took the family to see the sea birds on the weekend, great for photos"
+    },
+    {
+      "name": "two_number",
+      "value": "2"
+    },
+    {
+      "name": "seagulls",
+      "value": "Seagulls"
+    },
+    {
+      "name": "bay_seagull",
+      "value": "#Shenzhen Bay Seagull"
+    },
+    {
+      "name": "seabird_park_symbol",
+      "value": "#Shenzhen Seabird Park"
+    },
+    {
+      "name": "plants_language",
+      "value": "The language of plants | One minute to teach you to play with photography  "
+    },
+    {
+      "name": "metro_station",
+      "value": "Shenzhen Bay Metro Station 2 km"
+    },
+    {
+      "name": "city_park",
+      "value": "City Park · TOP1"
+    },
+    {
+      "name": "people_number",
+      "value": "18,000"
+    },
+    {
+      "name": "data_text",
+      "value": "December 6 Shenzhen"
+    },
+    {
+      "name": "total_reviews",
+      "value": "Total 1593 reviews"
+    },
+    {
+      "name": "candy_pocket",
+      "value": "There's candy in the pocket."
+    },
+    {
+      "name": "seagull_much",
+      "value": "Hello, excuse me now seagull is much, want to go over from Guangzhou, be afraid of go all the way in vain"
+    },
+    {
+      "name": "lee_look",
+      "value": "Leelook"
+    },
+    {
+      "name": "follows",
+      "value": "Follows"
+    },
+    {
+      "name": "viewers_online",
+      "value": "1208 viewers online"
+    },
+    {
+      "name": "fallout",
+      "value": "fallout"
+    },
+    {
+      "name": "quiet_years",
+      "value": "Quiet years"
+    },
+    {
+      "name": "write_review",
+      "value": "Write a review"
+    },
+    {
+      "name": "hardcore_powder",
+      "value": "Hardcore powder"
+    },
+    {
+      "name": "following_people",
+      "value": "86 following"
+    },
+    {
+      "name": "select_specification",
+      "value": "Select specification"
+    },
+    {
+      "name": "add_symbol",
+      "value": "+"
+    },
+    {
+      "name": "count",
+      "value": "count"
+    },
+    {
+      "name": "minuses",
+      "value": "-"
+    },
+    {
+      "name": "tastes",
+      "value": "Tastes"
+    },
+    {
+      "name": "not_spicy",
+      "value": "Not spicy"
+    },
+    {
+      "name": "chosen",
+      "value": "chosen"
+    },
+    {
+      "name": "detail_text",
+      "value": "￥0"
+    },
+    {
+      "name": "delivery_fee",
+      "value": "Estimated Delivery Fee ￥0"
+    },
+    {
+      "name": "tickets_key",
+      "value": "Ticket Info"
+    },
+    {
+      "name": "tickets_value",
+      "value": "Valid on the current day"
+    },
+    {
+      "name": "policy_key",
+      "value": "Preferential Policy"
+    },
+    {
+      "name": "policy_value",
+      "value": "Free Parking"
+    },
+    {
+      "name": "tel_key",
+      "value": "Scenic Spot Hotline"
+    },
+    {
+      "name": "tel_value",
+      "value": "0755-87399999"
+    },
+    {
+      "name": "tab_one",
+      "value": "1km nearby"
+    },
+    {
+      "name": "tab_two",
+      "value": "Quality Restaurant"
+    },
+    {
+      "name": "tab_three",
+      "value": "Coffee"
+    },
+    {
+      "name": "tab_four",
+      "value": "Dinner"
+    },
+    {
+      "name": "tab_five",
+      "value": "Recommend"
+    },
+    {
+      "name": "tab_six",
+      "value": "Operating"
+    },
+    {
+      "name": "tab_seven",
+      "value": "Preferential packages"
+    },
+    {
+      "name": "tab_eight",
+      "value": "Group purchase offers"
+    },
+    {
+      "name": "shop_profile",
+      "value": "The delivery takes about 40 minutes and sells 1000+ per month"
+    },
+    {
+      "name": "shop_tag_one",
+      "value": "Shipping is free of charge"
+    },
+    {
+      "name": "shop_tag_two",
+      "value": "Specials"
+    },
+    {
+      "name": "shop_tag_three",
+      "value": "Discounted"
+    },
+    {
+      "name": "order",
+      "value": "Order"
+    },
+    {
+      "name": "appraise",
+      "value": "Appraise"
+    },
+    {
+      "name": "preferential",
+      "value": "Preferential"
+    },
+    {
+      "name": "business",
+      "value": "Business"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "apply_for_network",
+      "value": "apply_for_network"
+    },
+    {
+      "name": "setting_ringtone",
+      "value": "settingRingtone"
+    },
+    {
+      "name": "please_enter_the_file_name",
+      "value": "Please enter the file name."
+    },
+    {
+      "name": "file_exist",
+      "value": "The file does not exist."
+    }
+  ]
+}

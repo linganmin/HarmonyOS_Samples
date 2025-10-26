@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SubWindow"
+    },
+    {
+      "name": "floating_window",
+      "value": "子窗口-悬浮窗"
+    },
+    {
+      "name": "small_video_window",
+      "value": "画中画-视频小窗"
+    },
+    {
+      "name": "router_back",
+      "value": "点击子窗口通过Router返回上一页"
+    },
+    {
+      "name": "hide_window",
+      "value": "点击子窗口隐藏子窗口"
+    },
+    {
+      "name": "show_window",
+      "value": "显示子窗口"
+    },
+    {
+      "name": "navigation_jump",
+      "value": "点击子窗口通过Navigation跳转到画中画"
+    },
+    {
+      "name": "enable_picture",
+      "value": "启动画中画功能"
+    },
+    {
+      "name": "resize_window",
+      "value": "点击子窗口可以调整子窗口大小"
+    },
+    {
+      "name": "create_window_resize",
+      "value": "点击子窗口调整子窗口大小"
+    },
+    {
+      "name": "show_sub_window",
+      "value": "控制子窗口显示隐藏"
+    },
+    {
+      "name": "sub_jump_pip",
+      "value": "点击子窗口通过Navigation跳转到画中画"
+    },
+    {
+      "name": "router_jump_index",
+      "value": "点击子窗口通过Router返回首页"
+    }
+  ]
+}

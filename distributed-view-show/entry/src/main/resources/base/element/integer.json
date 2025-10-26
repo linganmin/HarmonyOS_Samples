@@ -1,0 +1,148 @@
+{
+  "integer": [
+    {
+      "name": "normal_component_list_margin",
+      "value": 5
+    },
+    {
+      "name": "normal_component_list_margin_2",
+      "value": 6
+    },
+    {
+      "name": "normal_component_list_margin_1",
+      "value": 10
+    },
+    {
+      "name": "normal_component_list_margin_3",
+      "value": 16
+    },
+    {
+      "name": "normal_component_list_margin_4",
+      "value": 8
+    },
+    {
+      "name": "normal_component_border_radius",
+      "value": 6
+    },
+    {
+      "name": "normal_component_border_radius1",
+      "value": 18
+    },
+    {
+      "name": "normal_component_border_radius2",
+      "value": 8
+    },
+    {
+      "name": "normal_component_border_radius3",
+      "value": 26
+    },
+    {
+      "name": "normal_component_border_radius4",
+      "value": 20
+    },
+    {
+      "name": "normal_component_border_radius5",
+      "value": 36
+    },
+    {
+      "name": "comm_font_size30",
+      "value": 30
+    },
+    {
+      "name": "comm_font_size10",
+      "value": 10
+    },
+    {
+      "name": "comm_font_size12",
+      "value": 12
+    },
+    {
+      "name": "comm_font_size20",
+      "value": 20
+    },
+    {
+      "name": "comm_btn_width",
+      "value": 60
+    },
+    {
+      "name": "comm_btn_width1",
+      "value": 90
+    },
+    {
+      "name": "comm_btn_width2",
+      "value": 40
+    },
+    {
+      "name": "comm_btn_width3",
+      "value": 32
+    },
+    {
+      "name": "comm_btn_width4",
+      "value": 50
+    },
+    {
+      "name": "comm_btn_width5",
+      "value": 48
+    },
+    {
+      "name": "comm_btn_height",
+      "value": 30
+    },
+    {
+      "name": "comm_btn_height3",
+      "value": 52
+    },
+    {
+      "name": "comm_btn_height4",
+      "value": 40
+    },
+    {
+      "name": "comm_btn_height5",
+      "value": 32
+    },
+    {
+      "name": "comm_height2",
+      "value": 252
+    },
+    {
+      "name": "comm_height1",
+      "value": 182
+    },
+    {
+      "name": "comm_width",
+      "value": 152
+    },
+    {
+      "name": "normal_component_list_padding",
+      "value": 5
+    },
+    {
+      "name": "normal_component_list_padding1",
+      "value": 10
+    },
+    {
+      "name": "normal_component_list_padding2",
+      "value": 8
+    },
+    {
+      "name": "normal_component_list_padding3",
+      "value": 20
+    },
+    {
+      "name": "normal_component_list_padding4",
+      "value": 16
+    },
+    {
+      "name": "normal_component_list_padding5",
+      "value": 4
+    },
+    {
+      "name": "normal_text_line_height",
+      "value": 16
+    },
+    {
+      "name": "normal_text_line_height_1",
+      "value": 13
+    }
+  ]
+}

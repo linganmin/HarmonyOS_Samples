@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "bottom_tab_title_index",
+      "value": "首页"
+    },
+    {
+      "name": "bottom_tab_title_friend",
+      "value": "朋友"
+    },
+    {
+      "name": "bottom_tab_title_message",
+      "value": "消息"
+    },
+    {
+      "name": "bottom_tab_title_mine",
+      "value": "我"
+    },
+    {
+      "name": "top_tab_title_group",
+      "value": "团购"
+    },
+    {
+      "name": "top_tab_title_live",
+      "value": "直播"
+    },
+    {
+      "name": "top_tab_title_follow",
+      "value": "关注"
+    },
+    {
+      "name": "top_tab_title_mall",
+      "value": "商城"
+    },
+    {
+      "name": "top_tab_title_recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "btn_fullscreen",
+      "value": "全屏播放"
+    },
+    {
+      "name": "title",
+      "value": "标题文字内容"
+    },
+    {
+      "name": "speed",
+      "value": "倍速"
+    },
+    {
+      "name": "speed_tips",
+      "value": "2倍速播放"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Network Manager"
+    },
+    {
+      "name": "clear",
+      "value": "clear"
+    },
+    {
+      "name": "check",
+      "value": "Check"
+    },
+    {
+      "name": "check_network",
+      "value": "Check Network"
+    },
+    {
+      "name": "network_title",
+      "value": "Network Management"
+    },
+    {
+      "name": "network_detail",
+      "value": "Network Detail"
+    },
+    {
+      "name": "detail",
+      "value": "detail"
+    },
+    {
+      "name": "network_connection_detail",
+      "value": "Network Connection Detail"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "Please enter a URL"
+    },
+    {
+      "name": "search_button",
+      "value": "Resolve"
+    },
+    {
+      "name": "first_tabs_bar",
+      "value": "Network Details"
+    },
+    {
+      "name": "second_tabs_bar",
+      "value": "DNS Lookup"
+    },
+    {
+      "name": "third_tabs_bar_three",
+      "value": "Network Monitoring"
+    },
+    {
+      "name": "monitor_title",
+      "value": "Network Monitoring On/Off"
+    },
+    {
+      "name": "init_net_message",
+      "value": "Network Type:\n networkCap:"
+    },
+    {
+      "name": "init_connection_message",
+      "value": "Interface Name:\nDomain:\nLink Information:\nRouting Information:\nNetwork Address:\nMTU\n"
+    },
+    {
+      "name": "network_error",
+      "value": "Network Error!"
+    },
+    {
+      "name": "network_id",
+      "value": "Network ID: "
+    },
+    {
+      "name": "network_type_error",
+      "value": "Error fetching network type!"
+    },
+    {
+      "name": "cellular_network",
+      "value": "Network Type: Cellular Network\n"
+    },
+    {
+      "name": "wifi_network",
+      "value": "Network Type: Wi-Fi Network\n"
+    },
+    {
+      "name": "other_network",
+      "value": "Network Type: Ethernet Network\n"
+    },
+    {
+      "name": "connection_properties_error",
+      "value": "Error fetching connection properties!"
+    },
+    {
+      "name": "connection_properties_interface_name",
+      "value": "Interface Name:"
+    },
+    {
+      "name": "connection_properties_domains",
+      "value": "\nDomain:"
+    },
+    {
+      "name": "connection_properties_link_addresses",
+      "value": "\nLink Information:"
+    },
+    {
+      "name": "connection_properties_routes",
+      "value": "\nRouting Information:"
+    },
+    {
+      "name": "connection_properties_dns",
+      "value": "\nNetwork Address:"
+    },
+    {
+      "name": "connection_properties_mtu",
+      "value": "\nMTU:"
+    },
+    {
+      "name": "get_addresses_error",
+      "value": "DNS Lookup Error!"
+    },
+    {
+      "name": "register_network_listener",
+      "value": "Starting network monitoring!\n"
+    },
+    {
+      "name": "register_network_listener_message",
+      "value": "Network monitoring started"
+    },
+    {
+      "name": "unregister_network_listener",
+      "value": "Stopping network monitoring!\n"
+    },
+    {
+      "name": "unregister_network_listener_fail",
+      "value": "Failed to stop network monitoring!\n"
+    },
+    {
+      "name": "unregister_network_listener_message",
+      "value": "Network monitoring stopped"
+    },
+    {
+      "name": "net_available",
+      "value": "Network available, ID: "
+    },
+    {
+      "name": "net_block_status_change",
+      "value": "Network congestion, ID: "
+    },
+    {
+      "name": "net_capabilities_change_id",
+      "value": "Network capabilities changed: ID "
+    },
+    {
+      "name": "net_capabilities_change_cap",
+      "value": ". Network capabilities information: "
+    },
+    {
+      "name": "net_connection_properties_change_id",
+      "value": "Network connection properties changed: ID "
+    },
+    {
+      "name": "net_connection_change_connection_properties",
+      "value": ". Network connection properties: "
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "Used to retrieve network information in the network details scenario"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used to access the Internet in the network details scenario"
+    }
+  ]
+}

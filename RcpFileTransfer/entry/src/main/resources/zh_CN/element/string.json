@@ -1,0 +1,67 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "基于RCP文件上传与下载"
+    },
+    {
+      "name": "title",
+      "value": "基于RCP文件上传与下载"
+    },
+    {
+      "name": "album_image_transfer",
+      "value": "相册图片上传与下载"
+    },
+    {
+      "name": "chunked_file_transfer",
+      "value": "文件分片下载"
+    },
+    {
+      "name": "resumable_file_transfer",
+      "value": "断点续传"
+    },
+    {
+      "name": "background_file_transfer",
+      "value": "后台文件上传下载"
+    },
+    {
+      "name": "button_text_download_album",
+      "value": "下载到相册"
+    },
+    {
+      "name": "button_text_upload_album",
+      "value": "从相册上传"
+    },
+    {
+      "name": "button_text_download",
+      "value": "下载"
+    },
+    {
+      "name": "button_text_download_chunked",
+      "value": "分片下载"
+    },
+    {
+      "name": "button_text_pause",
+      "value": "暂停"
+    },{
+      "name": "reason_background",
+      "value": "允许Service Ability在后台持续运行"
+    },
+    {
+      "name": "reason_internet",
+      "value": "允许应用在上传下载场景中访问网络"
+    },
+    {
+      "name": "reason_network",
+      "value": "允许应用获取数据网络信息"
+    }
+  ]
+}

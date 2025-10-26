@@ -1,0 +1,59 @@
+{
+  "routerMap": [
+    {
+      "name": "InstantDelivery",
+      "pageSourceFile": "src/main/ets/pages/InstantDelivery.ets",
+      "buildFunction": "InstantDeliveryBuilder"
+    },
+    {
+      "name": "TaxiHailing",
+      "pageSourceFile": "src/main/ets/pages/TaxiHailing.ets",
+      "buildFunction": "TaxiHailingBuilder"
+    },
+    {
+      "name": "TrainDeparture",
+      "pageSourceFile": "src/main/ets/pages/TrainDeparture.ets",
+      "buildFunction": "TrainDepartureBuilder"
+    },
+    {
+      "name": "QueueingUp",
+      "pageSourceFile": "src/main/ets/pages/QueueingUp.ets",
+      "buildFunction": "QueueingUpBuilder"
+    },
+    {
+      "name": "MatchScore",
+      "pageSourceFile": "src/main/ets/pages/MatchScore.ets",
+      "buildFunction": "MatchScoreBuilder"
+    },
+    {
+      "name": "Navigation",
+      "pageSourceFile": "src/main/ets/pages/Navigation.ets",
+      "buildFunction": "NavigationBuilder"
+    },
+    {
+      "name": "FlightTravel",
+      "pageSourceFile": "src/main/ets/pages/FlightTravel.ets",
+      "buildFunction": "FlightTravelBuilder"
+    },
+    {
+      "name": "Timer",
+      "pageSourceFile": "src/main/ets/pages/Timer.ets",
+      "buildFunction": "TimerBuilder"
+    },
+    {
+      "name": "RentShare",
+      "pageSourceFile": "src/main/ets/pages/RentShare.ets",
+      "buildFunction": "RentShareBuilder"
+    },
+    {
+      "name": "PickUp",
+      "pageSourceFile": "src/main/ets/pages/PickUp.ets",
+      "buildFunction": "PickUpBuilder"
+    },
+    {
+      "name": "Workout",
+      "pageSourceFile": "src/main/ets/pages/Workout.ets",
+      "buildFunction": "WorkoutBuilder"
+    }
+  ]
+}

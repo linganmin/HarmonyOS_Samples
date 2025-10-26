@@ -1,0 +1,160 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CarHailing"
+    },
+    {
+      "name": "cancel_hailing",
+      "value": "Cancel"
+    },
+    {
+      "name": "cancel_trip",
+      "value": "Cancel"
+    },
+    {
+      "name": "terminate_trip",
+      "value": "Terminate"
+    },
+    {
+      "name": "driver_coming",
+      "value": "Driver is coming"
+    },
+    {
+      "name": "driver_arrived",
+      "value": "Driver has arrived"
+    },
+    {
+      "name": "distance_desc1",
+      "value": "10.1"
+    },
+    {
+      "name": "distance_desc2",
+      "value": " km"
+    },
+    {
+      "name": "distance_desc3",
+      "value": ", about "
+    },
+    {
+      "name": "distance_desc4",
+      "value": "15"
+    },
+    {
+      "name": "distance_desc5",
+      "value": " min"
+    },
+    {
+      "name": "alert_desc1",
+      "value": "Board in "
+    },
+    {
+      "name": "alert_desc2",
+      "value": "4"
+    },
+    {
+      "name": "alert_desc3",
+      "value": ": "
+    },
+    {
+      "name": "alert_desc4",
+      "value": "15"
+    },
+    {
+      "name": "alert_desc5",
+      "value": " please"
+    },
+    {
+      "name": "alert_desc6",
+      "value": "Get in the car"
+    },
+    {
+      "name": "license_plate",
+      "value": "  京A00000  "
+    },
+    {
+      "name": "car_information",
+      "value": "car xxx  white"
+    },
+    {
+      "name": "on_the_way",
+      "value": "On the way"
+    },
+    {
+      "name": "on_the_way_distance1",
+      "value": "Distance "
+    },
+    {
+      "name": "on_the_way_distance2",
+      "value": "11"
+    },
+    {
+      "name": "on_the_way_distance3",
+      "value": " km"
+    },
+    {
+      "name": "on_the_way_time1",
+      "value": "Time "
+    },
+    {
+      "name": "on_the_way_time2",
+      "value": "12"
+    },
+    {
+      "name": "on_the_way_time3",
+      "value": " min"
+    },
+    {
+      "name": "pay_success",
+      "value": "End of tour"
+    },
+    {
+      "name": "pay_the_bill1",
+      "value": "¥"
+    },
+    {
+      "name": "pay_the_bill2",
+      "value": "16.8"
+    },
+    {
+      "name": "pay_the_bill3",
+      "value": " paid"
+    },
+    {
+      "name": "thanks_for_use",
+      "value": "Thank you for using"
+    },
+    {
+      "name": "i_know",
+      "value": "OK"
+    },
+    {
+      "name": "pick_up",
+      "value": "4 min pick-up"
+    },
+    {
+      "name": "location",
+      "value": "Z-Park"
+    },
+    {
+      "name": "go_home",
+      "value": "Home"
+    },
+    {
+      "name": "go_to_company",
+      "value": "Firm"
+    },
+    {
+      "name": "find_car",
+      "value": "Calling you a taxi"
+    }
+  ]
+}

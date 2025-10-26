@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "StageModelContext"
+    },
+    {
+      "name": "get_ui_ability_context",
+      "value": "获取UIAbilityContext"
+    },
+    {
+      "name": "get_application_context",
+      "value": "获取ApplicationContext"
+    },
+    {
+      "name": "get_window_stage",
+      "value": "获取WindowStage"
+    },
+    {
+      "name": "get_UIAbilityContext_in_UIAbility",
+      "value": "在HAP的UIAbility中获取UIAbilityContext"
+    },
+    {
+      "name": "get_UIAbilityContext_in_UI",
+      "value": "在HAP的UI中获取UIAbilityContext"
+    },
+    {
+      "name": "get_UIAbilityContext_in_HAR",
+      "value": "在HAR包中获取UIAbilityContext"
+    },
+    {
+      "name": "get_UIAbilityContext_in_HSP",
+      "value": "在HSP包中获取UIAbilityContext"
+    },
+    {
+      "name": "get_UIAbilityContext_in_Worker",
+      "value": "在Worker子线程中获取UIAbilityContext"
+    },
+    {
+      "name": "get_ApplicationContext_in_UIAbility",
+      "value": "在HAP的UIAbility中获取ApplicationContext"
+    },
+    {
+      "name": "get_ApplicationContext_in_UI",
+      "value": "在HAP的UI中获取ApplicationContext"
+    },
+    {
+      "name": "get_ApplicationContext_in_HAR",
+      "value": "在HAR包中获取ApplicationContext"
+    },
+    {
+      "name": "get_ApplicationContext_in_HSP",
+      "value": "在HSP包中获取ApplicationContext"
+    },
+    {
+      "name": "get_WindowStage_in_UIAbility",
+      "value": "在UIAbility中获取WindowStage"
+    },
+    {
+      "name": "get_WindowStage_by_UIAbilityContext",
+      "value": "通过UIAbilityContext获取WindowStage"
+    },
+    {
+      "name": "get_AbilityName",
+      "value": "在%1$s中使用UIAbilityContext实例获取到的AbilityName: %2$s"
+    },
+    {
+      "name": "get_application_filesDir",
+      "value": "在%1$s中使用Application实例获取到的filesDir: %2$s"
+    },
+    {
+      "name": "get_window_height_width_1",
+      "value": "通过UIAbility中获取到的WindowStage实例，得到窗口的宽：%1$d，高：%2$d"
+    },
+    {
+      "name": "get_window_height_width_2",
+      "value": "通过UIAbilityContext获取到WindowStage实例，得到窗口的宽：%1$d，高：%2$d"
+    }
+  ]
+}

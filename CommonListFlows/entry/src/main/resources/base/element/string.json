@@ -1,0 +1,280 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CommonListFlows"
+    },
+    {
+      "name": "common_list",
+      "value": "common list flow"
+    },
+    {
+      "name": "multiple_types_list",
+      "value": "multi type list item scenario"
+    },
+    {
+      "name": "top_tab_list",
+      "value": "multi type list item scenario"
+    },
+    {
+      "name": "group_ceiling",
+      "value": "group ceiling scenario"
+    },
+    {
+      "name": "secondary_linkage",
+      "value": "secondary linkage scenario"
+    },
+    {
+      "name": "beijing",
+      "value": "beijing"
+    },
+    {
+      "name": "more",
+      "value": "more"
+    },
+    {
+      "name": "scenic_area",
+      "value": "scenic area%d"
+    },
+    {
+      "name": "scenic_area_1",
+      "value": "scenic area 1"
+    },
+    {
+      "name": "scenic_area_2",
+      "value": "scenic area 2"
+    },
+    {
+      "name": "scenic_area_3",
+      "value": "scenic area 3"
+    },
+    {
+      "name": "scenic_area_4",
+      "value": "scenic area 4"
+    },
+    {
+      "name": "scenic_area_5",
+      "value": "scenic area 5"
+    },
+    {
+      "name": "popular_scenic_spots",
+      "value": "popular scenic spots"
+    },
+    {
+      "name": "recommended_scenic_spots",
+      "value": "Recommended scenic spots"
+    },
+    {
+      "name": "small_scale_scenic_spots",
+      "value": "small scale scenic spots"
+    },
+    {
+      "name": "icon_one",
+      "value": "icon1"
+    },
+    {
+      "name": "icon_two",
+      "value": "icon2"
+    },
+    {
+      "name": "icon_three",
+      "value": "icon3"
+    },
+    {
+      "name": "icon_four",
+      "value": "icon4"
+    },
+    {
+      "name": "icon_five",
+      "value": "icon5"
+    },
+    {
+      "name": "icon_six",
+      "value": "icon6"
+    },
+    {
+      "name": "icon_seven",
+      "value": "icon7"
+    },
+    {
+      "name": "icon_eight",
+      "value": "icon8"
+    },
+    {
+      "name": "icon_nine",
+      "value": "icon9"
+    },
+    {
+      "name": "icon_ten",
+      "value": "icon10"
+    },
+    {
+      "name": "group_discount",
+      "value": "Multi person group discount:"
+    },
+    {
+      "name": "single_ticket_price",
+      "value": "single ticket price:"
+    },
+    {
+      "name": "fee1",
+      "value": "999￥"
+    },
+    {
+      "name": "fee2",
+      "value": "1999￥"
+    },
+    {
+      "name": "no_more_data",
+      "value": "it's already over"
+    },
+    {
+      "name": "loading_more",
+      "value": "loading more..."
+    },
+    {
+      "name": "loading_data",
+      "value": "loading data"
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    },
+    {
+      "name": "hot_search",
+      "value": "hot search"
+    },
+    {
+      "name": "recommend",
+      "value": "recommend"
+    },
+    {
+      "name": "more_investment",
+      "value": "more investment"
+    },
+    {
+      "name": "futures_trading",
+      "value": "futures trading"
+    },
+    {
+      "name": "foundation",
+      "value": "foundation"
+    },
+    {
+      "name": "insurance",
+      "value": "insurance"
+    },
+    {
+      "name": "hot_search_content",
+      "value": "hot search content"
+    },
+    {
+      "name": "recommend_content",
+      "value": "recommend content"
+    },
+    {
+      "name": "more_content",
+      "value": "more content"
+    },
+    {
+      "name": "search",
+      "value": "search"
+    },
+    {
+      "name": "want_search",
+      "value": "guess you want to search..."
+    },
+    {
+      "name": "tabBar1",
+      "value": "tabBar1"
+    },
+    {
+      "name": "tabBar2",
+      "value": "tabBar2"
+    },
+    {
+      "name": "tabBar2_content",
+      "value": "tabBar2 content"
+    },
+    {
+      "name": "tabBar3",
+      "value": "tabBar3"
+    },
+    {
+      "name": "tabBar3_content",
+      "value": "tabBar3 content"
+    },
+    {
+      "name": "tabBar4",
+      "value": "tabBar4"
+    },
+    {
+      "name": "tabBar4_content",
+      "value": "tabBar4 content"
+    },
+    {
+      "name": "tabBar5",
+      "value": "tabBar5"
+    },
+    {
+      "name": "tabBar5_content",
+      "value": "tabBar5 content"
+    },
+    {
+      "name": "manager_content",
+      "value": "The foundation of education lies in bacon forging the soul. The ideological and political theory course is precisely the fundamental task of implementing moral education and talent cultivation......"
+    },
+    {
+      "name": "current_city",
+      "value": "current city"
+    },
+    {
+      "name": "popular_cities",
+      "value": "popular cities"
+    },
+    {
+      "name": "security",
+      "value": "security"
+    },
+    {
+      "name": "selected_clothing",
+      "value": "selected clothing"
+    },
+    {
+      "name": "selected_accessories",
+      "value": "selected accessories"
+    },
+    {
+      "name": "down_jackets",
+      "value": "down jackets"
+    },
+    {
+      "name": "casual_shoes",
+      "value": "casual shoes"
+    },
+    {
+      "name": "jacket",
+      "value": "jacket"
+    },
+    {
+      "name": "pants",
+      "value": "pants"
+    },
+    {
+      "name": "sports_matching",
+      "value": "sports matching"
+    },
+    {
+      "name": "same_style",
+      "value": "same style"
+    }
+  ]
+}

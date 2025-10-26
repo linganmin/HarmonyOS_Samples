@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "wearable bus"
+    },
+    {
+      "name": "home_page_title",
+      "value": "bus travel"
+    },
+    {
+      "name": "home_page_get_location",
+      "value": "Unable to obtain location, click on me to retry"
+    },
+    {
+      "name": "btn_nearby_bus",
+      "value": "nearby bus"
+    },
+    {
+      "name": "btn_go_where",
+      "value": "go where"
+    },
+    {
+      "name": "btn_go_home",
+      "value": "Home"
+    },
+    {
+      "name": "btn_go_work",
+      "value": "Company"
+    },
+    {
+      "name": "station",
+      "value": "XXXXStation"
+    },
+    {
+      "name": "nearby_bus_station",
+      "value": "nearby bus station"
+    },
+    {
+      "name": "three_bus_station",
+      "value": "three bus station"
+    },
+    {
+      "name": "now_bus_station",
+      "value": "now bus station"
+    },
+    {
+      "name": "bus_station_name",
+      "value": "bus station name"
+    },
+    {
+      "name": "bus_station_name_1",
+      "value": "bus station name 1"
+    },
+    {
+      "name": "bus_station_name_2",
+      "value": "bus station name 2"
+    },
+    {
+      "name": "station_1",
+      "value": "373"
+    },
+    {
+      "name": "station_2",
+      "value": "536"
+    },
+    {
+      "name": "station_time",
+      "value": "4Station | 8M"
+    },
+    {
+      "name": "direction",
+      "value": "direction"
+    },
+    {
+      "name": "Road",
+      "value": "XXRoad"
+    },
+    {
+      "name": "distance",
+      "value": "1.6Kilometer"
+    },
+    {
+      "name": "road_plan",
+      "value": "road plan"
+    },
+    {
+      "name": "time",
+      "value": "27minutes"
+    },
+    {
+      "name": "road_distance",
+      "value": "925m"
+    },
+    {
+      "name": "plan",
+      "value": "6 ·Gaoxin Avenue Guanggu Eighth Road"
+    },
+    {
+      "name": "car",
+      "value": "take car"
+    },
+    {
+      "name": "open_permission",
+      "value": "open permission"
+    },
+    {
+      "name": "latitude",
+      "value": "latitude：%d"
+    },
+    {
+      "name": "longitude",
+      "value": "  longitude：%d"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+/*
+ * Copyright (c) Huawei Technologies Co., Ltd. 2024-2025. All rights reserved.
+ */
+export interface Uni {
+	/**
+		* getQuickLoginAnonymousPhone()
+		* @description
+		* Obtain the anonymous mobile number of a HUAWEI ID.
+		* @return {Promise<string>}
+		* @example
+		 ```typescript
+			uni.getQuickLoginAnonymousPhone();
+		 ```
+		*/
+	getQuickLoginAnonymousPhone() : Promise<string>;
+
+	/**
+		* hasNetWork()
+		* @description
+		* Check whether a network connection is available.
+		* @return {boolean}
+		* @example
+		 ```typescript
+			uni.hasNetWork();
+		 ```
+		*/
+	hasNetWork() : boolean;
+}

@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "white_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "send_background",
+      "value": "#1F69FF"
+    },
+    {
+      "name": "comm_background1",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "comm_font_color1",
+      "value": "#191919"
+    },
+    {
+      "name": "comm_font_color2",
+      "value": "#666666"
+    },
+    {
+      "name": "comm_placeholder_color1",
+      "value": "#666666"
+    }
+  ]
+}

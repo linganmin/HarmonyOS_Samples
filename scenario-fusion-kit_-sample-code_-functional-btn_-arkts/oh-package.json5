@@ -1,0 +1,14 @@
+{
+  "modelVersion": "6.0.0",
+  "license": "",
+  "devDependencies": {
+    "@ohos/hypium": "1.0.21"
+  },
+  "author": "",
+  "name": "atomicserviceuisample",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dynamicDependencies": {},
+  "dependencies": {}
+}

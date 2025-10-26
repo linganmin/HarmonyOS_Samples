@@ -1,0 +1,64 @@
+{
+  "organizationName": "xxx车钥匙",
+  "passTypeIdentifier": "hwpass.stdcarkey.bluecarkey.xxx",
+  "passStyleIdentifier": "xxxxxxx",
+  "organizationPassId": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "serialNumber": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "fields": {
+    "timeList": [
+      {
+        "value": "timeListValue",
+        "key": "linkDevicePassExpireTime"
+      }
+    ],
+    "status": {
+      "state": "active",
+      "effectTime": "2020-04-06T00:00:00Z",
+      "expireTime": "2040-04-06T00:00:00Z"
+    },
+    "commonFields": [
+      {
+        "value": "xxx.CarActivity",
+        "key": "bleTargetActivity"
+      },
+      {
+        "value": "hwpass.carkey.ble",
+        "key": "bleFeature"
+      },
+      {
+        "value": "01:23:45:67:89:AB",
+        "key": "bleMacAddress"
+      },
+      {
+        "label": "readerId",
+        "value": "xxxxxxxxxxxxxxxxxxxxx",
+        "key": "readerMatchValue"
+      },
+      {
+        "label": "主卡服务号",
+        "value": "hwpass.stdcarkey.std",
+        "key": "ownerPassTypeIdentifier"
+      },
+      {
+        "value": "0000xxxx-0000-1000-8000-00805f9b34fb",
+        "key": "bleServiceUuid"
+      },
+      {
+        "value": "xxx",
+        "key": "bleTargetPackage"
+      },
+      {
+        "value": "xxx",
+        "key": "bleTargetService"
+      }
+    ]
+  },
+  "linkDevicePass": {
+    "webServiceURL": "https://xxxxx",
+    "nfcType": "1",
+    "serialNumber": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "passVersion": "10.0",
+    "spPublickey": "xxxxxxx",
+    "token": "xxxxxx"
+  }
+}

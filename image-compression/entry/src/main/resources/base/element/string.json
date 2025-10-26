@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "text_input_width",
+      "value": "20%"
+    },
+    {
+      "name": "button_width",
+      "value": "50%"
+    },
+    {
+      "name": "image_width",
+      "value": "100%"
+    },
+    {
+      "name": "image_height",
+      "value": "30%"
+    },
+    {
+      "name": "image_compression",
+      "value": "Compression"
+    },
+    {
+      "name": "max_compression_image_size",
+      "value": "Target size (KB):"
+    },
+    {
+      "name": "image_size_before_compression",
+      "value": "Image size before compression(kb): "
+    },
+    {
+      "name": "image_size_after_compression",
+      "value": "Compressed image size(kb): "
+    },
+    {
+      "name": "prompt_enter_value_greater_than_0",
+      "value": "Enter a value greater than 0."
+    },
+    {
+      "name": "prompt_not_require_compression",
+      "value": "Compiles with compression requirement and doesn't require compression."
+    },
+    {
+      "name": "image_get_failed",
+      "value": "Failed to obtain the image."
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ImageCompression"
+    }
+  ]
+}

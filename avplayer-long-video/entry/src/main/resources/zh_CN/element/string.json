@@ -1,0 +1,220 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVPlayer长视频"
+    },
+    {
+      "name": "reason_background",
+      "value": "session公共控制类和后台任务相关工具类需要设置后台权限"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "comment",
+      "value": "评论"
+    },
+    {
+      "name": "videoList",
+      "value": "视频列表"
+    },
+    {
+      "name": "user_followers",
+      "value": "1.3万粉丝  5视频"
+    },
+    {
+      "name": "user_follow",
+      "value": "关注"
+    },
+    {
+      "name": "play_count",
+      "value": "12万"
+    },
+    {
+      "name": "favor_count",
+      "value": "7万"
+    },
+    {
+      "name": "last_history",
+      "value": "上次看到%s"
+    },
+    {
+      "name": "send_barrage",
+      "value": "发弹幕"
+    },
+    {
+      "name": "video_name0",
+      "value": "@山猫"
+    },
+    {
+      "name": "video_name1",
+      "value": "@登山爱好家"
+    },
+    {
+      "name": "video_name2",
+      "value": "@萍水相逢"
+    },
+    {
+      "name": "video_name3",
+      "value": "@滴答"
+    },
+    {
+      "name": "video_name4",
+      "value": "@仙子"
+    },
+    {
+      "name": "video_description0",
+      "value": "#高山和日出"
+    },
+    {
+      "name": "video_description1",
+      "value": "#登山者"
+    },
+    {
+      "name": "video_description2",
+      "value": "#无边海"
+    },
+    {
+      "name": "video_description3",
+      "value": "#雨滴落下"
+    },
+    {
+      "name": "video_description4",
+      "value": "#手机宣传片"
+    },
+    {
+      "name": "placeholder",
+      "value": "点我发弹幕吧"
+    },
+    {
+      "name": "comment1",
+      "value": "很好"
+    },
+    {
+      "name": "comment2",
+      "value": "精彩"
+    },
+    {
+      "name": "comment3",
+      "value": "再来一个"
+    },
+    {
+      "name": "send",
+      "value": "发送"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "缩写"
+    },
+    {
+      "name": "caption_title",
+      "value": "字幕设置"
+    },
+    {
+      "name": "caption_family",
+      "value": "字体"
+    },
+    {
+      "name": "caption_size",
+      "value": "字号"
+    },
+    {
+      "name": "caption_color",
+      "value": "颜色"
+    },
+    {
+      "name": "previousFrame",
+      "value": "上一帧"
+    },
+    {
+      "name": "nextFrame",
+      "value": "下一帧"
+    },
+    {
+      "name": "pip_start",
+      "value": "是否开启画中画"
+    },
+    {
+      "name": "speed_play",
+      "value": "倍速设置"
+    },
+    {
+      "name": "sound_off",
+      "value": "是否静音"
+    },
+    {
+      "name": "windowScale_set",
+      "value": "窗口缩放模式设置"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "倍速播放"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "拉伸至与窗口等大"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "缩放至最短边填满窗口"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "窗口缩放模式"
+    },
+    {
+      "name": "Chinese",
+      "value": "中文"
+    },
+    {
+      "name": "English",
+      "value": "英文"
+    },
+    {
+      "name": "language_switch",
+      "value": "语言切换"
+    },
+    {
+      "name": "local_video",
+      "value": "本地视频："
+    },
+    {
+      "name": "online_video",
+      "value": "网络视频："
+    }
+  ]
+}

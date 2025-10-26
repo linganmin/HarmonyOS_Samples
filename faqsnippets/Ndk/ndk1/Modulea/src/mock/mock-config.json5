@@ -1,0 +1,5 @@
+{
+  "libmodulea.so": {
+    "source": "src/mock/Libmodulea.mock.ets"
+  }
+}

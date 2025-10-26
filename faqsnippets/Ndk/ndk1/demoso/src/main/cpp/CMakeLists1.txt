@@ -1,0 +1,13 @@
+# FAQ:多so相互依赖场景下如何解耦
+# [Start demo_so]
+# CMakeLists.txt
+cmake_minimum_required(VERSION 3.4.1)
+project(liba)
+# Compile library liba.so
+add_library(a SHARED a.cpp)
+target_link_libraries(a PUBLIC libace_napi.z.so libhilog_ndk.z.so)
+project(libb)
+# Compile library libb.so
+add_library(b SHARED b.cpp)
+target_link_libraries(b PUBLIC libace_napi.z.so libhilog_ndk.z.so)
+# [End demo_so]

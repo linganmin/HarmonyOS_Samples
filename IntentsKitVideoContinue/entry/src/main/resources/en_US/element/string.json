@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Intent video continues"
+    },
+    {
+      "name": "Navbar_title",
+      "value": "Intent Suggestion - Continue Video"
+    },
+    {
+      "name": "List_title",
+      "value": "Demo video"
+    },
+    {
+      "name": "List_card_first_title",
+      "value": "Demo video 1"
+    },
+    {
+      "name": "List_card_first_desc",
+      "value": "This is the description information for video 1. "
+    },
+    {
+      "name": "List_card_second_title",
+      "value": "Demo video 2"
+    },
+    {
+      "name": "List_card_second_desc",
+      "value": "This is the description information for video 2. "
+    }
+  ]
+}

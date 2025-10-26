@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Frame-based rendering in heavy-load scenarios"
+    },
+    {
+      "name": "car",
+      "value": "car"
+    },
+    {
+      "name": "wallet",
+      "value": "wallet"
+    },
+    {
+      "name": "jigsaw",
+      "value": "jigsaw"
+    },
+    {
+      "name": "favorite",
+      "value": "favorite"
+    },
+    {
+      "name": "product_title01",
+      "value": "Laptops"
+    },
+    {
+      "name": "product_title02",
+      "value": "Mobile phone"
+    },
+    {
+      "name": "product_title03",
+      "value": "Minimal trend backpack"
+    },
+    {
+      "name": "product_title04",
+      "value": "Folding screen"
+    },
+    {
+      "name": "product_price01",
+      "value": "￥6975.8"
+    },
+    {
+      "name": "product_price02",
+      "value": "￥4279.6"
+    },
+    {
+      "name": "product_price03",
+      "value": "105.3"
+    },
+    {
+      "name": "product_price04",
+      "value": "1252.9"
+    },
+    {
+      "name": "product_des01",
+      "value": "Satellite call | Full focus ultra clear image"
+    },
+    {
+      "name": "product_des02",
+      "value": "Ultra lightweight and versatile folding | Ultra clear mirror"
+    },
+    {
+      "name": "product_des03",
+      "value": "Dual satellite communication | Xuanwu tempered Kunlun"
+    },
+    {
+      "name": "product_des04",
+      "value": "Ultra reliable Kunlun Glass | Beidou Satellite"
+    },
+    {
+      "name": "new_product",
+      "value": "New product"
+    },
+    {
+      "name": "computer",
+      "value": "computer"
+    },
+    {
+      "name": "vision",
+      "value": "vision"
+    },
+    {
+      "name": "sound_box",
+      "value": "soundBox"
+    },
+    {
+      "name": "mobile_phone",
+      "value": "mobilePhone"
+    },
+    {
+      "name": "watches",
+      "value": "watch"
+    },
+    {
+      "name": "transition",
+      "value": "transition scene"
+    },
+    {
+      "name": "sliding",
+      "value": "sliding scene"
+    },
+    {
+      "name": "search_title",
+      "value": "Good things selection"
+    },
+    {
+      "name": "year",
+      "value": "year"
+    },
+    {
+      "name": "month",
+      "value": "month"
+    },
+    {
+      "name": "week",
+      "value": "week"
+    },
+    {
+      "name": "sunday",
+      "value": "sunday"
+    },
+    {
+      "name": "monday",
+      "value": "monday"
+    },
+    {
+      "name": "tuesday",
+      "value": "tuesday"
+    },
+    {
+      "name": "wednesday",
+      "value": "wednesday"
+    },
+    {
+      "name": "thursday",
+      "value": "thursday"
+    },
+    {
+      "name": "Friday",
+      "value": "Friday"
+    },
+    {
+      "name": "saturday",
+      "value": "saturday"
+    },
+    {
+      "name": "seven",
+      "value": "seven"
+    },
+    {
+      "name": "eight",
+      "value": "eight"
+    },
+    {
+      "name": "nine",
+      "value": "nine"
+    },
+    {
+      "name": "ten",
+      "value": "ten"
+    },
+    {
+      "name": "january",
+      "value": "january"
+    },
+    {
+      "name": "february",
+      "value": "february"
+    },
+    {
+      "name": "march",
+      "value": "march"
+    },
+    {
+      "name": "april",
+      "value": "april"
+    },
+    {
+      "name": "may",
+      "value": "may"
+    },
+    {
+      "name": "june",
+      "value": "june"
+    },
+    {
+      "name": "july",
+      "value": "july"
+    },
+    {
+      "name": "august",
+      "value": "august"
+    },
+    {
+      "name": "september",
+      "value": "september"
+    },
+    {
+      "name": "october",
+      "value": "october"
+    },
+    {
+      "name": "november",
+      "value": "november"
+    },
+    {
+      "name": "december",
+      "value": "december"
+    },
+    {
+      "name": "grade",
+      "value": "grade"
+    },
+    {
+      "name": "chinese_twenty",
+      "value": "twenty"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "har1",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "har2": "file:../har2",
+    "hsp2": "file:../hsp2"
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "自定义弹窗集合"
+    },
+    {
+      "name": "departure",
+      "value": "北京"
+    },
+    {
+      "name": "destination",
+      "value": "上海"
+    },
+    {
+      "name": "check_ticket",
+      "value": "检查车票"
+    },
+    {
+      "name": "departure_date",
+      "value": "出发日期"
+    },
+    {
+      "name": "button_text",
+      "value": "仅演示，可自行实现业务功能"
+    },
+    {
+      "name": "week_width",
+      "value": "14.3%"
+    },
+    {
+      "name": "calendar_height",
+      "value": "90%"
+    },
+    {
+      "name": "button_scroll_option1",
+      "value": "TimePickerDialog 12小时制"
+    },
+    {
+      "name": "button_scroll_option2",
+      "value": "TextPickerDialog"
+    },
+    {
+      "name": "index_name",
+      "value": "自定义弹窗合集"
+    },
+    {
+      "name": "scroll_option",
+      "value": "滑动选择弹窗"
+    },
+    {
+      "name": "select_person",
+      "value": "选择乘车人"
+    },
+    {
+      "name": "add_person",
+      "value": "+ 添加乘车人"
+    },
+    {
+      "name": "edit",
+      "value": "编辑"
+    },
+    {
+      "name": "confirmed",
+      "value": "确认"
+    },
+    {
+      "name": "confirm_order",
+      "value": "确认订单"
+    },
+    {
+      "name": "start_time",
+      "value": "00:25"
+    },
+    {
+      "name": "start_string",
+      "value": "始发站"
+    },
+    {
+      "name": "car_name",
+      "value": "G1234"
+    },
+    {
+      "name": "car_time",
+      "value": "8时1分"
+    },
+    {
+      "name": "end_time",
+      "value": "08:26"
+    },
+    {
+      "name": "end_name",
+      "value": "终点站"
+    },
+    {
+      "name": "button_select",
+      "value": "选择乘车人"
+    },
+    {
+      "name": "dialog_name",
+      "value": "模态弹窗"
+    },
+    {
+      "name": "tastes",
+      "value": "口味与餐具"
+    },
+    {
+      "name": "choose_flavors",
+      "value": "选择点餐口味和餐具"
+    },
+    {
+      "name": "bind_sheet_dialog",
+      "value": "半模态弹窗"
+    },
+    {
+      "name": "login",
+      "value": "登陆成功 !"
+    },
+    {
+      "name": "toast_dialog",
+      "value": "toast弹窗"
+    },
+    {
+      "name": "button_name1",
+      "value": "隐私弹窗"
+    },
+    {
+      "name": "button_name2",
+      "value": "温馨提示"
+    },
+    {
+      "name": "two_level_dialog",
+      "value": "两级半模态+全屏弹窗"
+    },
+    {
+      "name": "toast_text",
+      "value": "《隐私政策》"
+    },
+    {
+      "name": "disagree",
+      "value": "不同意"
+    },
+    {
+      "name": "agreed",
+      "value": "同意"
+    },
+    {
+      "name": "toast_private_dialog",
+      "value": "隐私协议弹窗"
+    },
+    {
+      "name": "full_screen",
+      "value": "全屏弹窗"
+    },
+    {
+      "name": "calendar_dialog",
+      "value": "自定义日历选择器弹窗"
+    },
+    {
+      "name": "button_one",
+      "value": "open sheet1"
+    },
+    {
+      "name": "button_two",
+      "value": "close sheet1"
+    },
+    {
+      "name": "button_three",
+      "value": "open sheet2"
+    },
+    {
+      "name": "button_four",
+      "value": "close sheet2"
+    },
+    {
+      "name": "button_five",
+      "value": "close sheet1 sheet2"
+    },
+    {
+      "name": "wang",
+      "value": "王**"
+    },
+    {
+      "name": "song",
+      "value": "宋*"
+    },
+    {
+      "name": "xu",
+      "value": "许**"
+    },
+    {
+      "name": "tang",
+      "value": "唐*"
+    },
+    {
+      "name": "spicy",
+      "value": "少放辣"
+    },
+    {
+      "name": "spicy1",
+      "value": "不需要辣"
+    },
+    {
+      "name": "spicy2",
+      "value": "需要一次性餐具"
+    },
+    {
+      "name": "spicy3",
+      "value": "多放辣"
+    },
+    {
+      "name": "spicy4",
+      "value": "不要香菜"
+    },
+    {
+      "name": "spicy5",
+      "value": "不要一次性餐具"
+    },
+    {
+      "name": "click",
+      "value": "点击Toast"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "word1",
+      "value": "根据《常见类型移动互联网应用程序必要个人信息范围规定》,主要功能为购买商品，必要个人信息为：注册用户电话号码；收货人姓名、地址、联系电话;支付时间、支付金额、支付渠道等。请您在使用我们的服务前仔细阅读"
+    },
+    {
+      "name": "word2",
+      "value": "。请您知悉，同意隐私政策仅代表您已了解应用提供功能，以及功能运行所需的必要个人信息。基于您的授权我们可能会获取您的位置等信息，您有权拒绝或取消授权；我们会采取业界先进的安全措施保护您的信息安全；未经您同意，我们不会从第三方处获取、共享或向其提供您的信息；您可以查询、更正、删除您的个人信息"
+    },
+    {
+      "name": "ri",
+      "value": "日"
+    },
+    {
+      "name": "yi",
+      "value": "一"
+    },
+    {
+      "name": "er",
+      "value": "二"
+    },
+    {
+      "name": "san",
+      "value": "三"
+    },
+    {
+      "name": "si",
+      "value": "四"
+    },
+    {
+      "name": "wu",
+      "value": "五"
+    },
+    {
+      "name": "liu",
+      "value": "六"
+    },
+    {
+      "name": "year",
+      "value": "年"
+    },
+    {
+      "name": "month",
+      "value": "月"
+    },
+    {
+      "name": "day",
+      "value": "日"
+    },
+    {
+      "name": "sunday",
+      "value": "星期日"
+    },
+    {
+      "name": "monday",
+      "value": "星期一"
+    },
+    {
+      "name": "tuesday",
+      "value": "星期二"
+    },
+    {
+      "name": "wednesday",
+      "value": "星期三"
+    },
+    {
+      "name": "thursday",
+      "value": "星期四"
+    },
+    {
+      "name": "friday",
+      "value": "星期五"
+    },
+    {
+      "name": "saturday",
+      "value": "星期六"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "FitForDarkMode"
+    },
+    {
+      "name": "today_plan",
+      "value": "Sprint review for IELTS exam, Chapter 3, comprehensive review"
+    },
+    {
+      "name": "end",
+      "value": "End"
+    },
+    {
+      "name": "already_reported",
+      "value": "Time already reported"
+    },
+    {
+      "name": "please_input_account",
+      "value": "Please enter your account"
+    },
+    {
+      "name": "please_input_password",
+      "value": "Please enter your password"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "follow_system_settings_switch_mode",
+      "value": "Follow system settings to switch between dark and light modes synchronously"
+    },
+    {
+      "name": "follow_system_settings",
+      "value": "Follow system settings"
+    },
+    {
+      "name": "dark_mode",
+      "value": "Dark mode"
+    },
+    {
+      "name": "solution",
+      "value": "Solution"
+    },
+    {
+      "name": "2d_subscene_solution",
+      "value": "2D sub-scene solution"
+    },
+    {
+      "name": "latest_news",
+      "value": "Latest news"
+    },
+    {
+      "name": "multiple_solutions",
+      "value": "Solutions (repeated multiple times)"
+    },
+    {
+      "name": "today",
+      "value": "Today"
+    },
+    {
+      "name": "lunar_september_fourth",
+      "value": "Fourth day of the ninth lunar month"
+    },
+    {
+      "name": "all",
+      "value": "All"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "discover",
+      "value": "Discover"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    },
+    {
+      "name": "my_account",
+      "value": "My account"
+    },
+    {
+      "name": "xiaoyi",
+      "value": "Xiaoyi"
+    },
+    {
+      "name": "follow_system",
+      "value": "Follow system settings"
+    },
+    {
+      "name": "todo_item_title",
+      "value": "Get up and go running for exercise to strengthen your body and improve your health."
+    }
+  ]
+}

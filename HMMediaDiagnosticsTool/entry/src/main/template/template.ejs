@@ -1,0 +1,80 @@
+import { <%= componentName %> } from '<%= importPath %>'
+import { TemplateService, TranslateOption, ScaleOption, OpacityOption } from '@hadss/hmrouter'
+
+@Builder
+export function <%= componentName %>Builder(name: string, param: Object) {
+  <%= componentName %>Generated()
+}
+
+@Component
+export struct <%= componentName %>Generated {
+  @State translateOption: TranslateOption = new TranslateOption()
+  @State scaleOption: ScaleOption = new ScaleOption()
+  @State opacityOption: OpacityOption = new OpacityOption()
+  private pageUrl: string = '<%= pageUrl %>'
+  private ndId: string = ''
+  private navigationId: string = ''
+
+  aboutToAppear(): void {
+    this.navigationId = this.queryNavigationInfo()!.navigationId;
+    TemplateService.aboutToAppear(this.navigationId, this.pageUrl, <%= dialog %>,
+      this.translateOption, this.scaleOption, this.opacityOption)
+  }
+
+  aboutToDisappear(): void {
+    TemplateService.aboutToDisappear(this.navigationId, this.pageUrl, this.ndId)
+  }
+
+  build() {
+    NavDestination() {
+      <%= componentName %>()
+    }
+    <% if(dialog){ %>.mode(NavDestinationMode.DIALOG)<% } %>
+    .hideTitleBar(true)
+    .gesture(PanGesture()
+      .onActionStart((event: GestureEvent) => {
+        TemplateService.interactiveStart(this.navigationId, this.ndId, event)
+      })
+      .onActionUpdate((event: GestureEvent) =>{
+        TemplateService.interactiveProgress(this.navigationId, this.ndId, event)
+      })
+      .onActionEnd((event: GestureEvent) =>{
+        TemplateService.interactiveFinish(this.navigationId, this.ndId, event)
+      })
+    )
+    .translate(this.translateOption)
+    .scale(this.scaleOption)
+    .opacity(this.opacityOption.opacity)
+    .onAppear(() => {
+      TemplateService.onAppear(this.navigationId, this.pageUrl, this.ndId)
+    })
+    .onDisAppear(() => {
+      TemplateService.onDisAppear(this.navigationId, this.pageUrl, this.ndId)
+    })
+    .onShown(() => {
+      TemplateService.onShown(this.navigationId, this.pageUrl, this.ndId)
+    })
+    .onHidden(() => {
+      TemplateService.onHidden(this.navigationId, this.pageUrl, this.ndId)
+    })
+    .onWillAppear(() => {
+      TemplateService.onWillAppear(this.navigationId, this.pageUrl)
+    })
+    .onWillDisappear(() => {
+      TemplateService.onWillDisappear(this.navigationId, this.pageUrl, this.ndId)
+    })
+    .onWillShow(() => {
+      TemplateService.onWillShow(this.navigationId, this.pageUrl, this.ndId)
+    })
+    .onWillHide(() => {
+      TemplateService.onWillHide(this.navigationId, this.pageUrl, this.ndId)
+    })
+    .onReady((navContext: NavDestinationContext) => {
+      this.ndId = navContext.navDestinationId!
+      TemplateService.onReady(this.navigationId, this.pageUrl, navContext)
+    })
+    .onBackPressed(() => {
+      return TemplateService.onBackPressed(this.navigationId, this.pageUrl, this.ndId)
+    })
+  }
+}

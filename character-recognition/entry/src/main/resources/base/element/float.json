@@ -1,0 +1,124 @@
+{
+  "float": [
+    {
+      "name": "recognition_title_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "recognition_title_text_height",
+      "value": "33vp"
+    },
+    {
+      "name": "recognition_title_line_height",
+      "value": "33vp"
+    },
+    {
+      "name": "recognition_title_margin",
+      "value": "30vp"
+    },
+    {
+      "name": "recognition_title_height",
+      "value": "56vp"
+    },
+    {
+      "name": "recognition_list_padding_left",
+      "value": "10vp"
+    },
+    {
+      "name": "recognition_list_padding_right",
+      "value": "10vp"
+    },
+    {
+      "name": "recognition_list_padding_bottom",
+      "value": "10vp"
+    },
+    {
+      "name": "recognition_voice_image_height",
+      "value": "24vp"
+    },
+    {
+      "name": "recognition_search_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "recognition_input_height",
+      "value": "40vp"
+    },
+    {
+      "name": "recognition_input_button_width",
+      "value": "80vp"
+    },
+    {
+      "name": "recognition_input_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "recognition_search_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "recognition_outline_height",
+      "value": "65vp"
+    },
+    {
+      "name": "recognition_message_text_height",
+      "value": "22vp"
+    },
+    {
+      "name": "recognition_message_inline_height",
+      "value": "40vp"
+    },
+    {
+      "name": "recognition_message_item_padding_left",
+      "value": "13vp"
+    },
+    {
+      "name": "recognition_message_item_padding_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "recognition_message_item_padding_right",
+      "value": "13vp"
+    },
+    {
+      "name": "recognition_message_item_padding_top",
+      "value": "8vp"
+    },
+    {
+      "name": "recognition_message_item_border",
+      "value": "24vp"
+    },
+    {
+      "name": "recognition_message_item_border_top_right",
+      "value": "24vp"
+    },
+    {
+      "name": "recognition_message_item_border_bottom_left",
+      "value": "24vp"
+    },
+    {
+      "name": "recognition_message_item_border_bottom_right",
+      "value": "24vp"
+    },
+    {
+      "name": "recognition_message_item_margin_left",
+      "value": "8vp"
+    },
+    {
+      "name": "recognition_message_item_margin_right",
+      "value": "8vp"
+    },
+    {
+      "name": "recognition_message_item_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "recognition_message_item_padding",
+      "value": "20vp"
+    },
+    {
+      "name": "margin_button",
+      "value": "16vp"
+    }
+  ]
+}

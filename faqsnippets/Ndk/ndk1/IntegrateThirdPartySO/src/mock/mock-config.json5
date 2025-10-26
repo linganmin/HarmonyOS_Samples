@@ -1,0 +1,5 @@
+{
+  "libintegratethirdpartyso.so": {
+    "source": "src/mock/Libintegratethirdpartyso.mock.ets"
+  }
+}

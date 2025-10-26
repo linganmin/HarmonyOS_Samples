@@ -1,0 +1,5 @@
+{
+  "libnativecrossmoduleaccessres.so": {
+    "source": "src/mock/Libnativecrossmoduleaccessres.mock.ets"
+  }
+}

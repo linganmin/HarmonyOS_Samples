@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "SM2算法密文转换"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "密文转换"
+    },
+    {
+      "name": "text_origin_data",
+      "value": "原始数据"
+    },
+    {
+      "name": "text_encode_data",
+      "value": "加密数据"
+    },
+    {
+      "name": "text_decode_data",
+      "value": "解密数据"
+    },
+    {
+      "name": "btn_encode",
+      "value": "加密"
+    },
+    {
+      "name": "btn_decode",
+      "value": "解密"
+    },
+    {
+      "name": "btn_base64_convert",
+      "value": "base64转换"
+    },
+    {
+      "name": "btn_asn1_convert",
+      "value": "asn.1转换"
+    },
+    {
+      "name": "text_asn1",
+      "value": " (ASN.1) "
+    },
+    {
+      "name": "text_hex",
+      "value": "  (Hex)  "
+    },
+    {
+      "name": "text_base64",
+      "value": "(base64) "
+    },
+    {
+      "name": "text_c1c3c2",
+      "value": "(c1c3c2) "
+    }
+  ]
+}

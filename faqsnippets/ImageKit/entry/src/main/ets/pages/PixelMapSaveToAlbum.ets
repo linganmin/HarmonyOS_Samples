@@ -1,0 +1,95 @@
+/*
+* Copyright (c) 2024 Huawei Device Co., Ltd.
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+/*
+* FAQ:如何将PixelMap保存到相册
+ */
+
+// [Start PixelMapSaveToAlbum]
+import { resourceManager } from '@kit.LocalizationKit';
+import { photoAccessHelper } from '@kit.MediaLibraryKit';
+import { BusinessError } from '@kit.BasicServicesKit';
+import { image } from '@kit.ImageKit';
+import { fileIo } from '@kit.CoreFileKit';
+
+@Entry
+@Component
+struct SavePixelMapToAlbum {
+  @State saveButtonOptions: SaveButtonOptions = {
+    icon: SaveIconStyle.FULL_FILLED,
+    text: SaveDescription.SAVE,
+    buttonType: ButtonType.Capsule
+  };
+  @State pixel: image.PixelMap | undefined = undefined;
+  @State albumPath: string = '';
+  @State photoSize: number = 0;
+  private context: Context = this.getUIContext().getHostContext()!;
+
+  async aboutToAppear() {
+    const resourceMgr: resourceManager.ResourceManager = this.context.resourceManager;
+    // "beer.jpeg" is the name of the image file under the rawfile directory, which can be modified and used according to your own needs
+    const fileData: Uint8Array = await resourceMgr.getRawFileContent('beer.jpeg');
+    let buffer = new Uint8Array(fileData).buffer as object as ArrayBuffer;
+    let imageResource = image.createImageSource(buffer);
+    let opts: image.DecodingOptions = { editable: true };
+    this.pixel = await imageResource.createPixelMap(opts);
+  }
+
+  async savePixelMapToAlbum() {
+    // Obtain the save path of the album
+    let helper = photoAccessHelper.getPhotoAccessHelper(this.context);
+    let uri = await helper.createAsset(photoAccessHelper.PhotoType.IMAGE, 'jpeg');
+    let file = await fileIo.open(uri, fileIo.OpenMode.READ_WRITE | fileIo.OpenMode.CREATE);
+    let imagePackerApi = image.createImagePacker();
+    let packOpts: image.PackingOption = { format: 'image/jpeg', quality: 98 };
+
+    imagePackerApi.packToFile(this.pixel, file.fd, packOpts, (err: BusinessError) => {
+      if (err) {
+        console.error(`Failed to pack the image to file.code ${err.code},message is ${err.message}`);
+      } else {
+        console.info('Succeeded in packing the image to file.');
+        imagePackerApi.release((err: BusinessError) => {
+          if (err) {
+            console.error(`Failed to release the image source instance.code ${err.code},message is ${err.message}`);
+          } else {
+            console.info('Succeeded in releasing the image source instance.');
+            fileIo.close(file.fd);
+          }
+        })
+        this.getUIContext().getPromptAction().showToast({ message: '已保存至相册！' });
+      }
+    })
+  }
+
+  build() {
+    Row() {
+      Column() {
+        Image(this.pixel)
+          .objectFit(ImageFit.None)
+          .height('30%')
+
+        SaveButton(this.saveButtonOptions)
+          .onClick(async (event, result: SaveButtonOnClickResult) => {
+            if (result === SaveButtonOnClickResult.SUCCESS) {
+              this.savePixelMapToAlbum();
+            }
+          })
+      }
+      .width('100%')
+    }
+    .height('100%')
+  }
+}
+// [End PixelMapSaveToAlbum]

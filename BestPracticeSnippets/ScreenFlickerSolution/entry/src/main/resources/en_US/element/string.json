@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ScreenFlickerSolution"
+    },
+    {
+      "name": "screen_flicker_solution",
+      "value": "Solution to the application of dynamic effect flash screen"
+    },
+    {
+      "name": "continuous_click_scene_counterexample",
+      "value": "Continuous click scene - Counterexample"
+    },
+    {
+      "name": "continuous_click_scene_positive_example",
+      "value": "Continuous click scene - positive example"
+    },
+    {
+      "name": "tabs_tab_switchover_scenario_counterexample",
+      "value": "Tabs TAB Switchover scenario - Counterexample"
+    },
+    {
+      "name": "tabs_tab_switchover_scenario_positive_example",
+      "value": "Tabs TAB Switchover scenario - Positive example"
+    },
+    {
+      "name": "drop_down_refresh_scenario_counterexample",
+      "value": "Drop-down refresh scenario - Counterexample"
+    },
+    {
+      "name": "drop_down_refresh_scenario_positive_example",
+      "value": "Drop-down refresh scenario - Positive example"
+    },
+    {
+      "name": "message",
+      "value": "message"
+    },
+    {
+      "name": "pulling_up_to_refresh",
+      "value": "Pulling up to refresh..."
+    },
+    {
+      "name": "release_to_refresh",
+      "value": "Release to refresh"
+    },
+    {
+      "name": "loading_at_risk",
+      "value": "Loading at risk"
+    },
+    {
+      "name": "have_come_to_the_end",
+      "value": "Have come to the end"
+    },
+    {
+      "name": "loading",
+      "value": "loading"
+    }
+  ]
+}

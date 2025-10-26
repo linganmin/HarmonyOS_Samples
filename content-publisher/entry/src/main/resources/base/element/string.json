@@ -1,0 +1,436 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Content Publisher"
+    },
+    {
+      "name": "richEditor_placeholder",
+      "value": "Click to enter text......"
+    },
+    {
+      "name": "text_posts",
+      "value": "Posting"
+    },
+    {
+      "name": "text_publish",
+      "value": "Publish"
+    },
+    {
+      "name": "add_local",
+      "value": "Add Location"
+    },
+    {
+      "name": "topic",
+      "value": "Topic"
+    },
+    {
+      "name": "text_input_placeholder",
+      "value": "Add a title to be more likely to recommend (optional)"
+    },
+    {
+      "name": "contact",
+      "value": "Contact"
+    },
+    {
+      "name": "add_high_img",
+      "value": "Add Image"
+    },
+    {
+      "name": "trigger_emoji_event",
+      "value": "Trigger the emoji event."
+    },
+    {
+      "name": "add_picture_prompt",
+      "value": "The number of added pictures reaches the upper limit."
+    },
+    {
+      "name": "continue_add",
+      "value": "Continue Add"
+    },
+    {
+      "name": "default_location",
+      "value": "Building %d, XX Road, Wuhan"
+    },
+    {
+      "name": "single_heading",
+      "value": "Single Head"
+    },
+    {
+      "name": "waiting_diary",
+      "value": "Waiting Diary"
+    },
+    {
+      "name": "energy_sharing",
+      "value": "Energy Sharing"
+    },
+    {
+      "name": "fond_teasing",
+      "value": "Fond Teasing"
+    },
+    {
+      "name": "sunning_price",
+      "value": "Sunning Price"
+    },
+    {
+      "name": "utility_goods",
+      "value": "Utility Goods"
+    },
+    {
+      "name": "beautiful_life",
+      "value": "Beautiful Life"
+    },
+    {
+      "name": "love_share",
+      "value": "Love Share"
+    },
+    {
+      "name": "combined_head",
+      "value": "Combined Head"
+    },
+    {
+      "name": "composite_head",
+      "value": "Composite Head"
+    },
+    {
+      "name": "retrofit_operation",
+      "value": "Retrofit Operation"
+    },
+    {
+      "name": "everyone_reviews",
+      "value": "Everyone Reviews"
+    },
+    {
+      "name": "crowd_theme_contest",
+      "value": "Crowd test theme contest"
+    },
+    {
+      "name": "reading",
+      "value": "w Reading"
+    },
+    {
+      "name": "topic1",
+      "value": "Topics That May Interest You"
+    },
+    {
+      "name": "topic2",
+      "value": "Hot Topic"
+    },
+    {
+      "name": "topic3",
+      "value": "Hot Topic"
+    },
+    {
+      "name": "name1",
+      "value": "A Fei"
+    },
+    {
+      "name": "name2",
+      "value": "A Tai"
+    },
+    {
+      "name": "name3",
+      "value": "A Gao"
+    },
+    {
+      "name": "name4",
+      "value": "Bei Bei"
+    },
+    {
+      "name": "name5",
+      "value": "Bi Bi"
+    },
+    {
+      "name": "name6",
+      "value": "Bo Bo"
+    },
+    {
+      "name": "name7",
+      "value": "Ci Ci"
+    },
+    {
+      "name": "name8",
+      "value": "Chen Chen"
+    },
+    {
+      "name": "name9",
+      "value": "Cheng Cheng"
+    },
+    {
+      "name": "name10",
+      "value": "Di Di"
+    },
+    {
+      "name": "name11",
+      "value": "Duo Duo"
+    },
+    {
+      "name": "name12",
+      "value": "Da Da"
+    },
+    {
+      "name": "name13",
+      "value": "Fu Fu"
+    },
+    {
+      "name": "name14",
+      "value": "Fo Fo"
+    },
+    {
+      "name": "name15",
+      "value": "Fei Fei"
+    },
+    {
+      "name": "name16",
+      "value": "Guang Guang"
+    },
+    {
+      "name": "name17",
+      "value": "Gui Gui"
+    },
+    {
+      "name": "name18",
+      "value": "Happy"
+    },
+    {
+      "name": "name19",
+      "value": "Gao Gao"
+    },
+    {
+      "name": "name20",
+      "value": "He He"
+    },
+    {
+      "name": "name21",
+      "value": "He He"
+    },
+    {
+      "name": "name22",
+      "value": "Hang Hang"
+    },
+    {
+      "name": "name23",
+      "value": "Hu Hu"
+    },
+    {
+      "name": "name24",
+      "value": "Hui Hui"
+    },
+    {
+      "name": "name25",
+      "value": "Ji Ji"
+    },
+    {
+      "name": "name26",
+      "value": "Jiu Jiu"
+    },
+    {
+      "name": "name27",
+      "value": "Jia Jia"
+    },
+    {
+      "name": "name28",
+      "value": "Kai Kai"
+    },
+    {
+      "name": "name29",
+      "value": "Kang Kang"
+    },
+    {
+      "name": "name30",
+      "value": "Happy"
+    },
+    {
+      "name": "name31",
+      "value": "Lan Lan"
+    },
+    {
+      "name": "name32",
+      "value": "Li Li"
+    },
+    {
+      "name": "name33",
+      "value": "Luo Luo"
+    },
+    {
+      "name": "name34",
+      "value": "Man Man"
+    },
+    {
+      "name": "name35",
+      "value": "Meng Meng"
+    },
+    {
+      "name": "name36",
+      "value": "Nan Nan"
+    },
+    {
+      "name": "name37",
+      "value": "Ni Ni"
+    },
+    {
+      "name": "name38",
+      "value": "Ning Ning"
+    },
+    {
+      "name": "name39",
+      "value": "Pan Pan"
+    },
+    {
+      "name": "name40",
+      "value": "Qing Qing"
+    },
+    {
+      "name": "name41",
+      "value": "Qi Qi"
+    },
+    {
+      "name": "name42",
+      "value": "Qin Qin"
+    },
+    {
+      "name": "name43",
+      "value": "Ruo Ruo"
+    },
+    {
+      "name": "name44",
+      "value": "Rong Rong"
+    },
+    {
+      "name": "name45",
+      "value": "Shi Shi"
+    },
+    {
+      "name": "name46",
+      "value": "San San"
+    },
+    {
+      "name": "name47",
+      "value": "Shuang Shuang"
+    },
+    {
+      "name": "name48",
+      "value": "Su Su"
+    },
+    {
+      "name": "name49",
+      "value": "Tian Tian"
+    },
+    {
+      "name": "name50",
+      "value": "Tai Tai"
+    },
+    {
+      "name": "name51",
+      "value": "Tang Tang"
+    },
+    {
+      "name": "name52",
+      "value": "UU"
+    },
+    {
+      "name": "name53",
+      "value": "Va Va"
+    },
+    {
+      "name": "name54",
+      "value": "Wei Wei"
+    },
+    {
+      "name": "name55",
+      "value": "Wen Wen"
+    },
+    {
+      "name": "name56",
+      "value": "Wen Wen"
+    },
+    {
+      "name": "name57",
+      "value": "Wei Wei"
+    },
+    {
+      "name": "name58",
+      "value": "Xi Xi"
+    },
+    {
+      "name": "name59",
+      "value": "Xiang Xiang"
+    },
+    {
+      "name": "name60",
+      "value": "Xiang Xiang"
+    },
+    {
+      "name": "name61",
+      "value": "Xiang Xiang"
+    },
+    {
+      "name": "name62",
+      "value": "Yin Yin"
+    },
+    {
+      "name": "name63",
+      "value": "Yan Yan"
+    },
+    {
+      "name": "name64",
+      "value": "Yi Yi"
+    },
+    {
+      "name": "name65",
+      "value": "Yang Yang"
+    },
+    {
+      "name": "name66",
+      "value": "Zhu Zhu"
+    },
+    {
+      "name": "name67",
+      "value": "Zhou Zhou"
+    },
+    {
+      "name": "name68",
+      "value": "Zhang Zhang"
+    },
+    {
+      "name": "name69",
+      "value": "Zhen Zhen"
+    },
+    {
+      "name": "name70",
+      "value": "Zuo Zuo"
+    },
+    {
+      "name": "name71",
+      "value": "Zi Zi"
+    },
+    {
+      "name": "name72",
+      "value": "Zhang Zhang"
+    },
+    {
+      "name": "name73",
+      "value": "Zhou Zhou"
+    },
+    {
+      "name": "recent_contact",
+      "value": "Recent Contact"
+    },
+    {
+      "name": "reason_location",
+      "value": "Allow the app to obtain location information in content publishing scenarios"
+    },
+    {
+      "name": "reason_location_in_background",
+      "value": "Allow the app to obtain location information in the background in content publishing scenarios"
+    }
+  ]
+}

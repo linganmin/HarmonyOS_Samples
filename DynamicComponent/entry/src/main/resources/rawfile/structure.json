@@ -1,0 +1,327 @@
+{
+  "type": "Column",
+  "css": {
+    "width": "100%",
+    "height": "100%",
+    "justifyContent": "FlexAlign.End",
+    "backgroundColor": "#ffffff"
+  },
+  "children": [
+    {
+      "type": "Swiper",
+      "css": {
+        "width": "100%",
+        "height": 170
+      },
+      "children": [
+        {
+          "type": "Image",
+          "css": {
+            "height": "40%",
+            "width": "100%"
+          },
+          "content": "app.media.movie1"
+        },
+        {
+          "type": "Image",
+          "css": {
+            "height": "40%",
+            "width": "100%"
+          },
+          "content": "app.media.movie2"
+        },
+        {
+          "type": "Image",
+          "css": {
+            "height": "40%",
+            "width": "100%"
+          },
+          "content": "app.media.movie3"
+        }
+      ]
+    },
+    {
+      "type": "Row",
+      "css": {
+        "width": "100%",
+        "padding": {
+          "left": 16,
+          "right": 16
+        },
+        "margin": {
+          "top": 15,
+          "bottom": 15
+        },
+        "justifyContent": "FlexAlign.SpaceBetween"
+      },
+      "children": [
+        {
+          "type": "Column",
+          "css": {
+            "padding": {
+              "right": 8
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "css": {
+                "width": 75,
+                "height": 40,
+                "borderRadius": 60,
+                "fontColor": "#FFFFFF",
+                "backgroundColor": "#0A59F7",
+                "fontWeight": 500
+              },
+              "content": "精选"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "css": {
+            "padding": {
+              "right": 8
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "css": {
+                "width": 75,
+                "height": 40,
+                "borderRadius": 60,
+                "fontColor": "#000000",
+                "backgroundColor": "#0D000000",
+                "fontWeight": 500
+              },
+              "content": "电视剧"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "css": {
+            "padding": {
+              "right": 8
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "css": {
+                "width": 75,
+                "height": 40,
+                "borderRadius": 60,
+                "fontColor": "#000000",
+                "backgroundColor": "#0D000000",
+                "fontWeight": 500
+              },
+              "content": "电影"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "css": {
+            "padding": {
+              "right": 16
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "css": {
+                "width": 75,
+                "height": 40,
+                "borderRadius": 60,
+                "fontColor": "#000000",
+                "backgroundColor": "#0D000000",
+                "fontWeight": 500
+              },
+              "content": "综艺"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Row",
+      "css": {
+        "width": "100%",
+        "padding": {
+          "left": 16,
+          "right": 16
+        },
+        "justifyContent": "FlexAlign.SpaceBetween"
+      },
+      "children": [
+        {
+          "type": "Column",
+          "css": {
+            "padding": {
+              "top": 20,
+              "bottom": 4
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "css": {
+                "fontSize": 18,
+                "fontColor": "#182431",
+                "fontWeight": 700
+              },
+              "content": "每日推荐"
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "css": {
+            "padding": {
+              "top": 20,
+              "bottom": 4
+            }
+          },
+          "children": [
+            {
+              "type": "Text",
+              "css": {
+                "fontSize": 14,
+                "fontColor": "#182431",
+                "opacity": 0.5,
+                "fontWeight": 500
+              },
+              "content": "更多"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Row",
+      "css": {
+        "width": "100%",
+        "padding": {
+          "left": 15,
+          "right": 15
+        },
+        "margin": {
+          "top": 5,
+          "bottom": 5
+        },
+        "justifyContent": "FlexAlign.SpaceBetween"
+      },
+      "children": [
+        {
+          "type": "Column",
+          "css": {
+            "alignItems": "HorizontalAlign.Start",
+            "padding": {
+              "right": 8
+            }
+          },
+          "children": [
+            {
+              "type": "Image",
+              "css": {
+                "height": 90,
+                "width": 170,
+                "borderRadius": 10
+              },
+              "content": "app.media.movie4"
+            },
+            {
+              "type": "Column",
+              "css": {
+                "padding": {
+                  "top": 8,
+                  "left": 4
+                }
+              },
+              "children": [
+                {
+                  "type": "Text",
+                  "css": {
+                    "fontColor": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": 500
+                  },
+                  "padding": {
+                    "top": 8
+                  },
+                  "content": "自然景色风光1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "Column",
+          "css": {
+            "alignItems": "HorizontalAlign.Start"
+          },
+          "children": [
+            {
+              "type": "Image",
+              "css": {
+                "height": 90,
+                "width": 170,
+                "borderRadius": 10
+              },
+              "content": "app.media.movie5"
+            },
+            {
+              "type": "Column",
+              "css": {
+                "padding": {
+                  "top": 8,
+                  "left": 4
+                }
+              },
+              "children": [
+                {
+                  "type": "Text",
+                  "css": {
+                    "fontColor": "#000000",
+                    "fontSize": 14,
+                    "fontWeight": 500
+                  },
+                  "padding": {
+                    "top": 8
+                  },
+                  "content": "自然景色风光2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Column",
+      "css": {
+        "width": "100%",
+        "height": "40%",
+        "padding": {
+          "bottom": 16
+        }
+      },
+      "children": [
+        {
+          "id": "refreshImage",
+          "type": "Text",
+          "css": {
+            "width": 340,
+            "height": 40,
+            "borderRadius": 60,
+            "fontColor": "#ffffff",
+            "backgroundColor": "#0A59F7"
+          },
+          "content": "刷新"
+        }
+      ]
+    }
+  ]
+}

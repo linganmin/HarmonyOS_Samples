@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "常见瀑布流操作"
+    },
+    {
+      "name": "recommend_goods",
+      "value": "推荐商品"
+    },
+    {
+      "name": "zoom_change_column",
+      "value": "双指缩放改变列数"
+    },
+    {
+      "name": "synthesis",
+      "value": "综合"
+    },
+    {
+      "name": "businesses",
+      "value": "商户"
+    },
+    {
+      "name": "note",
+      "value": "笔记"
+    },
+    {
+      "name": "buy",
+      "value": "团购"
+    },
+    {
+      "name": "user",
+      "value": "用户"
+    },
+    {
+      "name": "other",
+      "value": "其他"
+    },
+    {
+      "name": "distance",
+      "value": "距离"
+    },
+    {
+      "name": "category",
+      "value": "分类"
+    },
+    {
+      "name": "food",
+      "value": "餐饮"
+    },
+    {
+      "name": "leisure",
+      "value": "休闲"
+    },
+    {
+      "name": "amusement",
+      "value": "娱乐"
+    },
+    {
+      "name": "sort",
+      "value": "排序"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "pull_down_refresh",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "scroll_stop_auto_play",
+      "value": "停止滑动时自动播放"
+    },
+    {
+      "name": "force_left_show",
+      "value": "强制显示到左上角位置"
+    },
+    {
+      "name": "merge_double_waterflow",
+      "value": "瀑布流衔接效果"
+    },
+    {
+      "name": "section_sort",
+      "value": "分组参差布局"
+    },
+    {
+      "name": "edge_fading",
+      "value": "边缘渐隐"
+    },
+    {
+      "name": "item_height",
+      "value": "高度"
+    }
+  ]
+}

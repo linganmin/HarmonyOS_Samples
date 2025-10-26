@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SwiperPerformance"
+    },
+    {
+      "name": "Use_LazyForEach",
+      "value": "使用LazyForEach加载Swiper"
+    },
+    {
+      "name": "Use_Preload",
+      "value": "提前加载数据加载Swiper"
+    },
+    {
+      "name": "question_title",
+      "value": "%1$d 如下图所示，请仔细看图，谨慎回答，下面这个图是什么动物？"
+    },
+    {
+      "name": "answer1",
+      "value": "A、骡子"
+    },
+    {
+      "name": "answer2",
+      "value": "B、斑马"
+    },
+    {
+      "name": "answer3",
+      "value": "C、驴子"
+    },
+    {
+      "name": "answer4",
+      "value": "D、牛马"
+    },
+    {
+      "name": "current_title_index",
+      "value": "当前在%1$d题，一共%2$d题"
+    },
+    {
+      "name": "title_picture",
+      "value": "图片"
+    },
+    {
+      "name": "title_question",
+      "value": "答题"
+    },
+    {
+      "name": "title_main",
+      "value": "Swiper高性能开发示例"
+    },
+    {
+      "name": "reason_internet",
+      "value": "使用Internet权限用于加载网络图片"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "特殊文本识别跳转"
+    },
+    {
+      "name": "jump_scene",
+      "value": "特殊文本识别跳转"
+    },
+    {
+      "name": "common_link_jump_scenarios",
+      "value": "跳转场景"
+    },
+    {
+      "name": "text",
+      "value": "以后聚餐来我哥家吧，我们可以在院子里吃些烧烤"
+    },
+    {
+      "name": "telephone_number",
+      "value": "这是我哥的联系方式：13112345678"
+    },
+    {
+      "name": "link",
+      "value": "在这个链接备注想吃的食材：https://develper.huawei.com"
+    },
+    {
+      "name": "email",
+      "value": "聚餐照片记得分享这个邮箱哦：xxx@example.com"
+    },
+    {
+      "name": "address",
+      "value": "他家地址：未来科技城A1栋"
+    },
+    {
+      "name": "date",
+      "value": "聚餐时间：4月19日"
+    },
+    {
+      "name": "appLinking",
+      "value": "这个地图应用很好用，快来试试：https://www.petalmaps.com"
+    }
+  ]
+}

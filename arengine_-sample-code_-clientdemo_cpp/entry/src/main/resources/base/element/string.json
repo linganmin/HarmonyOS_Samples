@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "ARSample"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ARSample"
+    },
+    {
+      "name": "tips",
+      "value": "Tips"
+    },
+    {
+      "name": "warning",
+      "value": "Warning"
+    },
+    {
+      "name": "permission_desc",
+      "value": "Camera permission required. Please enable it under Settings > Apps & services."
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "alert_desc",
+      "value": "Unable to identify the plane due to limited number of feature points. Please move the camera."
+    },
+    {
+      "name": "open_depth_render",
+      "value": "Enable depth rendering"
+    },
+    {
+      "name": "close_depth_render",
+      "value": "Disable depth rendering"
+    },
+    {
+      "name": "open_image_track",
+      "value": "Open image track"
+    },
+    {
+      "name": "choose_local_image",
+      "value": "Choose local image"
+    },
+    {
+      "name": "load_local_database",
+      "value": "Load local database"
+    },
+    {
+      "name": "add_image_msg_count",
+      "value": "Adding pictures progress: "
+    },
+    {
+      "name": "add_image_msg_success",
+      "value": "Number of pictures successfully added: "
+    },
+    {
+      "name": "add_image_msg_fail",
+      "value": "Number of pictures failed added: "
+    },
+    {
+      "name": "invalid_image_added",
+      "value": "Please add a valid image."
+    },
+    {
+      "name": "image_name_by_add",
+      "value": "Failed image name: "
+    },
+    {
+      "name": "image_add_reason_by_add",
+      "value": "Failed reason: "
+    },
+    {
+      "name": "semantic_dense_normal",
+      "value": "Semantic Dense Normal"
+    },
+    {
+      "name": "semantic_dense_cube_volume",
+      "value": "Semantic Dense Cube Volume"
+    },
+    {
+      "name": "semantic_dense_cube_space",
+      "value": "Semantic Dense Cube Space"
+    }
+  ]
+}

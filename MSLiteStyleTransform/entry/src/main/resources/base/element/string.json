@@ -1,0 +1,51 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Image Style Transform"
+    },
+    {
+      "name": "home_btn_text",
+      "value": "Image compositing"
+    },
+    {
+      "name": "home_navbar_title",
+      "value": "Image Style Transform"
+    },
+    {
+      "name": "image_page_navbar_title",
+      "value": "Image composition"
+    },
+    {
+      "name": "segment_btn_text_first",
+      "value": "origin"
+    },
+    {
+      "name":"segment_btn_text_second",
+      "value": "generate"
+    },
+    {
+      "name": "preview_img_list_001",
+      "value": "style 1"
+    },
+    {
+      "name": "preview_img_list_002",
+      "value": "style 2"
+    },
+    {
+      "name": "preview_img_list_003",
+      "value": "style 3"
+    },
+    {
+      "name": "preview_img_list_004",
+      "value": "style 4"
+    }]
+}

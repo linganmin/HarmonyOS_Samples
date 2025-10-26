@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "This module provides an example of using the AVSession interface to develop media provider app."
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "This ability provides an example of using the AVSession interface to develop media provider app."
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MediaProvider"
+    },
+    {
+      "name": "In_play",
+      "value": "In play"
+    },
+    {
+      "name": "Not_in_play",
+      "value": "Not in play"
+    },
+    {
+      "name": "reason_keep_background_running",
+      "value": "Used to maintain background operation in music playback scenarios."
+    }
+  ]
+}

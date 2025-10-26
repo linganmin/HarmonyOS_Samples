@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/Index",
+    "segment/segment2",
+    "segment/segment3"
+  ]
+}

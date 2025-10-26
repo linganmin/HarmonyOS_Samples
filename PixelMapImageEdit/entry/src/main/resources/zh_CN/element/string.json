@@ -1,0 +1,152 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "图片编辑"
+    },
+    {
+      "name": "index_title",
+      "value": "图片PixelMap编辑"
+    },
+    {
+      "name": "select_img",
+      "value": "选择图片"
+    },
+    {
+      "name": "picture_preview",
+      "value": "图片预览"
+    },
+    {
+      "name": "preview",
+      "value": "预览"
+    },
+    {
+      "name": "picture_information",
+      "value": "图片信息"
+    },
+    {
+      "name": "reason",
+      "value": "用于保存图片"
+    },
+    {
+      "name": "image_edit",
+      "value": "图片编辑"
+    },
+    {
+      "name": "none",
+      "value": "无"
+    },
+    {
+      "name": "grayscale",
+      "value": "黑白"
+    },
+    {
+      "name": "brightness",
+      "value": "高亮"
+    },
+    {
+      "name": "invert",
+      "value": "反转"
+    },
+    {
+      "name": "blur",
+      "value": "模糊"
+    },
+    {
+      "name": "customize",
+      "value": "自定义"
+    },
+    {
+      "name": "horizontal",
+      "value": "横向"
+    },
+    {
+      "name": "vertical",
+      "value": "纵向"
+    },
+    {
+      "name": "crop",
+      "value": "裁剪"
+    },
+    {
+      "name": "mirror",
+      "value": "镜像"
+    },
+    {
+      "name": "filter",
+      "value": "滤镜"
+    },
+    {
+      "name": "translate",
+      "value": "平移"
+    },
+    {
+      "name": "zoom",
+      "value": "缩放"
+    },
+    {
+      "name": "rotate",
+      "value": "旋转"
+    },
+    {
+      "name": "adjust",
+      "value": "调节"
+    },
+    {
+      "name": "light",
+      "value": "亮度"
+    },
+    {
+      "name": "transparency",
+      "value": "透明度"
+    },
+    {
+      "name": "saturation",
+      "value": "饱和度"
+    },
+    {
+      "name": "save_image",
+      "value": "保存图片"
+    },
+    {
+      "name": "confirm_save",
+      "value": "确定要保存图片吗"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "exec_edit",
+      "value": "正在执行编辑"
+    },
+    {
+      "name": "save_crop",
+      "value": "是否保存裁剪？"
+    },
+    {
+      "name": "save_adjust",
+      "value": "是否保存调节？"
+    },
+    {
+      "name": "save_filter",
+      "value": "是否保存滤镜？"
+    }
+  ]
+}

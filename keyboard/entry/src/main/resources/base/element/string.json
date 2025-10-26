@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Keyboard"
+    },
+    {
+      "name": "Address_book",
+      "value": "Address Book"
+    },
+    {
+      "name": "Search_text",
+      "value": "search contact"
+    },
+    {
+      "name": "prompt_text",
+      "value": "Search function is not supported yet"
+    },
+    {
+      "name": "prompt_text2",
+      "value": "Send function is not supported yet"
+    },
+    {
+      "name": "comment_title",
+      "value": "Comment"
+    },
+    {
+      "name": "sign_up",
+      "value": "Sign Up"
+    },
+    {
+      "name": "chat_list",
+      "value": "ChatListPage"
+    },
+    {
+      "name": "mail_page",
+      "value": "MailPage"
+    },
+    {
+      "name": "comment_page",
+      "value": "CommentPage"
+    },
+    {
+      "name": "toast_avoid",
+      "value": "ToastAvoid"
+    },
+    {
+      "name": "new_email",
+      "value": "New Email"
+    },
+    {
+      "name": "from",
+      "value": "From"
+    },
+    {
+      "name": "to",
+      "value": "To"
+    },
+    {
+      "name": "subject",
+      "value": "Subject"
+    },
+    {
+      "name": "comment_time",
+      "value": "just now"
+    },
+    {
+      "name": "commenter_name",
+      "value": "Suger"
+    }
+  ]
+}

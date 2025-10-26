@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "player_button_color",
+      "value": "#0959f7"
+    },
+    {
+      "name": "record_button_background_inactive_color",
+      "value": "#0C000000"
+    },
+    {
+      "name": "record_button_active_color",
+      "value": "#ee6a5a"
+    },
+    {
+      "name": "record_button_background_active_color",
+      "value": "#fef5f4"
+    },
+    {
+      "name": "player_toolbar_background_color",
+      "value": "#00000000"
+    },
+    {
+      "name": "player_video_toolbar_background_color",
+      "value": "#1A000000"
+    },
+    {
+      "name": "player_title_bar_background_color",
+      "value": "#80ffffff"
+    }
+  ]
+}

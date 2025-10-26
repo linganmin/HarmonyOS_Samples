@@ -1,0 +1,5 @@
+{
+  "libnativegetarktsobject.so": {
+    "source": "src/mock/Libnativegetarktsobject.mock.ets"
+  }
+}

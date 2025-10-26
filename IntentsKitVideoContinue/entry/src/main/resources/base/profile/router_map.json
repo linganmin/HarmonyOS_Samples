@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "PlayPage",
+      "pageSourceFile": "src/main/ets/pages/PlayPage.ets",
+      "buildFunction": "PlayPageBuilder",
+      "data": {
+        "description": "this is PlayPage"
+      }
+    }
+  ]
+}

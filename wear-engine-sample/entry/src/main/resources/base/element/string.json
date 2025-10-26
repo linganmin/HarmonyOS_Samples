@@ -1,0 +1,225 @@
+{
+  "string": [
+    {
+      "name": "btn_get_Connected_devices",
+      "value": "getConnectedDevices"
+    },
+    {
+      "name": "btn_get_sn",
+      "value": "getSerialNumber"
+    },
+    {
+      "name": "btn_is_remote_app_installed",
+      "value": "isInstalled"
+    },
+    {
+      "name": "btn_start_remote_app",
+      "value": "start"
+    },
+    {
+      "name": "btn_send_message",
+      "value": "sendMsg"
+    },
+    {
+      "name": "btn_transfer_file",
+      "value": "transferFile"
+    },
+    {
+      "name": "btn_cancel_transfer_file",
+      "value": "cancelTransferFile"
+    },
+    {
+      "name": "register_receiver",
+      "value": "Register receiver"
+    },
+    {
+      "name": "btn_get_remote_app_version",
+      "value": "getVersion"
+    },
+    {
+      "name": "btn_notification",
+      "value": "notification"
+    },
+    {
+      "name": "btn_on",
+      "value": "on"
+    },
+    {
+      "name": "btn_off",
+      "value": "off"
+    },
+    {
+      "name": "btn_destroy",
+      "value": "destroy"
+    },
+    {
+      "name": "btn_clear_print",
+      "value": "clearPrint"
+    },
+    {
+      "name": "btn_query_status",
+      "value": "queryStatus"
+    },
+    {
+      "name": "btn_subscribe_event",
+      "value": "subscribeEvent"
+    },
+    {
+      "name": "btn_unsubscribe_event",
+      "value": "unsubscribeEvent"
+    },
+    {
+      "name": "btn_register_status_of_Device",
+      "value": "registerListener"
+    },
+    {
+      "name": "btn_unregister_status_of_device",
+      "value": "unregisterListener"
+    },
+    {
+      "name": "btn_notify_message",
+      "value": "notifyMessage"
+    },
+    {
+      "name": "btn_get_common_device",
+      "value": "getCommonDevice"
+    },
+    {
+      "name": "bundle_name",
+      "value": "remote bundle name(default: None)"
+    },
+    {
+      "name": "message_content",
+      "value": "message content"
+    },
+    {
+      "name": "btn_get_hi_link_device_id",
+      "value": "getHiLinkDeviceId"
+    },
+    {
+      "name": "btn_query_available_device",
+      "value": "queryAvailableDevice"
+    },
+    {
+      "name": "tip_for_P2P",
+      "value": "P2P communication and Msg management:"
+    },
+    {
+      "name": "tip_for_monitor",
+      "value": "Registering or unregistering a listener for monitoring the connection status:"
+    },
+    {
+      "name": "tip_for_get_status",
+      "value": "Get status of device:"
+    },
+    {
+      "name": "tip_for_register_listener",
+      "value": "Register Listener of device status:"
+    },
+    {
+      "name": "tip_for_notify",
+      "value": "Notify the device:"
+    },
+    {
+      "name": "tip_for_get_device_msg",
+      "value": "Get device message:"
+    },
+    {
+      "name": "title_for_result",
+      "value": "resultPrint:"
+    },
+    {
+      "name": "device_title",
+      "value": "Device"
+    },
+    {
+      "name": "p2p_title",
+      "value": "P2P"
+    },
+    {
+      "name": "auth_title",
+      "value": "Auth"
+    },
+    {
+      "name": "monitor_title",
+      "value": "Monitor"
+    },
+    {
+      "name": "service_title",
+      "value": "WearEngine Service"
+    },
+    {
+      "name": "notify_title",
+      "value": "Notify"
+    },
+    {
+      "name": "sensor_title",
+      "value": "Sensor"
+    },
+    {
+      "name": "service_tip",
+      "value": "(Click button to execute function)"
+    },
+    {
+      "name": "select_device_tip",
+      "value": "(Please select target device)"
+    },
+    {
+      "name": "select_permission",
+      "value": "(Please select permission)"
+    },
+    {
+      "name": "sensor_list",
+      "value": "Sensor list:"
+    },
+    {
+      "name": "query_sensor_list",
+      "value": "query sensor list"
+    },
+    {
+      "name": "subscribe_sensor",
+      "value": "subscribe sensor"
+    },
+    {
+      "name": "unsubscribe_sensor",
+      "value": "unsubscribe sensor"
+    },
+    {
+      "name": "btn_is_capability_support",
+      "value": "isSupport"
+    },
+    {
+      "name": "btn_request_authorization",
+      "value": "requestAuthorization"
+    },
+    {
+      "name": "target_device_info",
+      "value": "target device infomation:"
+    },
+    {
+      "name": "device_name",
+      "value": "device name: "
+    },
+    {
+      "name": "software_version",
+      "value": "software version: "
+    },
+    {
+      "name": "device_model",
+      "value": "device model: "
+    },
+    {
+      "name": "is_smart_watch",
+      "value": "is smart watch: "
+    },
+    {
+      "name": "device_category",
+      "value": "device category: "
+    },
+    {
+      "name": "btn_get_authorization",
+      "value": "getAuthorization"
+    }
+
+  ]
+}

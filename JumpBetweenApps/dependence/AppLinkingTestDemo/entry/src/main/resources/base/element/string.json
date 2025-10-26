@@ -1,0 +1,140 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AppLinkingTestDemo"
+    },
+    {
+      "name": "product_type",
+      "value": "3D"
+    },
+    {
+      "name": "comparison_type",
+      "value": "Comparison"
+    },
+    {
+      "name": "percentage",
+      "value": "100%"
+    },
+    {
+      "name": "original_price",
+      "value": "¥12,999"
+    },
+    {
+      "name": "discounted_price",
+      "value": "¥13,999"
+    },
+    {
+      "name": "time_remaining",
+      "value": "Time Remaining Until End"
+    },
+    {
+      "name": "interest_free_periods",
+      "value": "Up to 12 Installments with 0% Interest"
+    },
+    {
+      "name": "gift",
+      "value": "Gift"
+    },
+    {
+      "name": "limited_time_discount",
+      "value": "Limited Time Discount of ¥800 Off"
+    },
+    {
+      "name": "trade_in_subsidy",
+      "value": "Trade-in Subsidy"
+    },
+    {
+      "name": "promotion",
+      "value": "Promotion"
+    },
+    {
+      "name": "location",
+      "value": "Guangdong, Shenzhen City, Longgang District"
+    },
+    {
+      "name": "stock_status",
+      "value": "In Stock"
+    },
+    {
+      "name": "product_info",
+      "value": "[In Stock & Fast Shipping] HUAWEI Mate X5 12GB+512GB Phantom Purple"
+    },
+    {
+      "name": "promotion_details",
+      "value": "[Huawei Super New Product Season] 1. Limited Buy & Get a Free Smart Window Case worth ¥299 2. Student Certification Discount of ¥100 (Pull Down for Details) 3. Trade-in..."
+    },
+    {
+      "name": "related_product",
+      "value": "Mate 50 Pro:"
+    },
+    {
+      "name": "limited_gift_earphones",
+      "value": "Limited Gift: Free Earphones Vitality Edition"
+    },
+    {
+      "name": "home_page",
+      "value": "Home Page"
+    },
+    {
+      "name": "go_to_page",
+      "value": "Go to Page"
+    },
+    {
+      "name": "page_redirect_notice",
+      "value": "This page will automatically redirect in 3 seconds"
+    },
+    {
+      "name": "payment_success",
+      "value": "Payment Successful"
+    },
+    {
+      "name": "payment_amount",
+      "value": "Payment Successful: ¥12,999 Paid"
+    },
+    {
+      "name": "return_to_previous",
+      "value": "Return to Previous"
+    },
+    {
+      "name": "huawei_traffic_card",
+      "value": "Huawei Traffic Card"
+    },
+    {
+      "name": "price",
+      "value": "¥12,999.00"
+    },
+    {
+      "name": "huawei_wallet_payment",
+      "value": "Huawei Wallet Payment"
+    },
+    {
+      "name": "no_more_items",
+      "value": "No More Items"
+    },
+    {
+      "name": "confirm_payment",
+      "value": "Confirm Payment"
+    },
+    {
+      "name": "add_to_cart",
+      "value": "Add to Cart"
+    },
+    {
+      "name": "buy",
+      "value": "Buy"
+    },
+    {
+      "name": "living",
+      "value": "living"
+    }
+  ]
+}

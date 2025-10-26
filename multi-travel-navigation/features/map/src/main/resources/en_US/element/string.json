@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "reason",
+      "value": "Used for obtaining location information in map navigation scenarios."
+    },
+    {
+      "name": "full_percent",
+      "value": "100%"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "nearby",
+      "value": "Nearby"
+    },
+    {
+      "name": "taxi",
+      "value": "Taxi"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "AdaptiveBufferResolution Samples"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "AdaptiveBufferResolution Samples"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ABR Demo"
+    },
+    {
+      "name": "title",
+      "value": "AdaptiveBufferResolution Samples"
+    },
+    {
+      "name": "AdaptiveBufferResolution_enabled",
+      "value": "ABR开启"
+    },
+    {
+      "name": "AdaptiveBufferResolution_disabled",
+      "value": "ABR关闭"
+    }
+  ]
+}

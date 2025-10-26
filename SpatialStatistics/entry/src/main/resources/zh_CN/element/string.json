@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "系统空间统计"
+    },
+    {
+      "name": "app_space_statistics",
+      "value": "应用空间统计"
+    },
+    {
+      "name": "file_space_statistics",
+      "value": "文件系统空间统计"
+    },
+    {
+      "name": "system_spatial_statistics",
+      "value": "系统空间统计"
+    },
+    {
+      "name": "app_data_size",
+      "value": "APP数据大小"
+    },
+    {
+      "name": "cache_file_size",
+      "value": "缓存数据大小"
+    },
+    {
+      "name": "app_total_data_size",
+      "value": "应用总数据大小"
+    },
+    {
+      "name": "free_bytes",
+      "value": "文件系统空闲字节数"
+    },
+    {
+      "name": "total_bytes",
+      "value": "文件系统总字节数"
+    },
+    {
+      "name": "spatial_statistics",
+      "value": "空间统计"
+    }
+  ]
+}

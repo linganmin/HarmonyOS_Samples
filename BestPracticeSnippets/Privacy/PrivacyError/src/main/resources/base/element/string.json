@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "PrivacyErrorAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "PrivacyErrorAbility_label",
+      "value": "label"
+    }
+  ]
+}

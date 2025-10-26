@@ -1,0 +1,24 @@
+{
+  "HVIGOR_OHOS_PLUGIN": {
+    "MODULES": [
+      {
+        "MODULE_NAME": "1043bfc77febe75fafec0c4309faccf1",
+        "API_TYPE": "stageMode"
+      }
+    ],
+    "BUILD_MODE": "debug"
+  },
+  "HVIGOR": {
+    "IS_INCREMENTAL": true,
+    "IS_DAEMON": true,
+    "IS_PARALLEL": true,
+    "IS_HVIGORFILE_TYPE_CHECK": false,
+    "TASK_TIME": {},
+    "BUILD_ID": "202505151037354630",
+    "ERROR_MESSAGE": {
+      "CODE": "00000",
+      "TIMESTAMP": "1747276657327"
+    },
+    "TOTAL_TIME": 1869802400
+  }
+}

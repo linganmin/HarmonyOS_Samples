@@ -1,0 +1,24 @@
+{
+  "routerMap": [
+    {
+      "name": "ConsumablesPage",
+      "pageSourceFile": "src/main/ets/pages/ConsumablesPage.ets",
+      "buildFunction": "ConsumablesPageBuilder"
+    },
+    {
+      "name": "NonConsumablesPage",
+      "pageSourceFile": "src/main/ets/pages/NonConsumablesPage.ets",
+      "buildFunction": "NonConsumablesPageBuilder"
+    },
+    {
+      "name": "SubscriptionsPage",
+      "pageSourceFile": "src/main/ets/pages/SubscriptionsPage.ets",
+      "buildFunction": "SubscriptionsPageBuilder"
+    },
+    {
+      "name": "NonRenewablesPage",
+      "pageSourceFile": "src/main/ets/pages/NonRenewablesPage.ets",
+      "buildFunction": "NonRenewablesPageBuilder"
+    }
+  ]
+}

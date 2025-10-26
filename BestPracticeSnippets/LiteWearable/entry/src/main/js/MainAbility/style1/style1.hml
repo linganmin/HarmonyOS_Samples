@@ -1,0 +1,10 @@
+<!-- [Start style_1] -- >
+<!-- The "style" contains the style information of the component. -->
+<!-- The detailed introduction about the style will be presented in the next subsection. -->
+<div style="width: 466px; height: 466px;">
+    <text style="width: 200px; height: 100px;">
+    <!-- The content to be displayed in the <text> component. -->
+        Hello World
+    </text>
+</div>
+<!-- [End style_1] -- >

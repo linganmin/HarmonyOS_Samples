@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ClientSocket"
+    },
+    {
+      "name": "text_input_placeholder",
+      "value": "input your word..."
+    },
+    {
+      "name": "app_title",
+      "value": "客户端"
+    },
+    {
+      "name": "show_message",
+      "value": "收到的消息"
+    },
+    {
+      "name": "show_address",
+      "value": "绑定的IP地址"
+    },
+    {
+      "name": "show_family",
+      "value": "网络协议类型"
+    },
+    {
+      "name": "show_port",
+      "value": "端口号"
+    },
+    {
+      "name": "show_size",
+      "value": "消息长度"
+    },
+    {
+      "name": "connection_button",
+      "value": "连接服务端"
+    },
+    {
+      "name": "connect_server_success",
+      "value": "连接服务端成功"
+    },
+    {
+      "name": "bind_fail_tips",
+      "value": "连接失败，请先对服务端进行初始化，然后重启本应用，再次连接"
+    },
+    {
+      "name": "connect_success_tips",
+      "value": "连接成功"
+    },
+    {
+      "name": "connected_tips",
+      "value": "已连接"
+    },
+    {
+      "name": "message_send_tips",
+      "value": "消息发送成功"
+    },
+    {
+      "name": "message_not_send_tips",
+      "value": "请输入需要发送的消息"
+    },
+    {
+      "name": "connect_server_tips",
+      "value": "请先连接服务器"
+    },
+    {
+      "name": "application_tips",
+      "value": "请先打开服务端应用，对服务端进行初始化。再打开客户端应用，连接服务端。"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "用于跨进程通信使用Internet网络"
+    }
+  ]
+}

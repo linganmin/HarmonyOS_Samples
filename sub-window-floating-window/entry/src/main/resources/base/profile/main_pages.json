@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ResizeWindowPage",
+    "pages/MiniWindowPage",
+    "pages/NavigationRedirectPage",
+    "pages/RouterRedirectPage",
+    "pages/RouterRedirect"
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "reason",
+      "value": "getUserLocation"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_locate",
+      "value": "Nearby"
+    },
+    {
+      "name": "tab_taxi",
+      "value": "Taxi"
+    },
+    {
+      "name": "tab_my",
+      "value": "My"
+    },
+    {
+      "name": "drive",
+      "value": "Drive"
+    },
+    {
+      "name": "metro",
+      "value": "Public transportation"
+    },
+    {
+      "name": "taxi",
+      "value": "Taxi"
+    },
+    {
+      "name": "bus",
+      "value": "Bus"
+    },
+    {
+      "name": "hotel",
+      "value": "Hotel"
+    },
+    {
+      "name": "attractions",
+      "value": "Attractions"
+    },
+    {
+      "name": "buy",
+      "value": "Discounted buying"
+    },
+    {
+      "name": "download",
+      "value": "Offline map"
+    },
+    {
+      "name": "drive2",
+      "value": "Call it a chauffeur"
+    },
+    {
+      "name": "more",
+      "value": "More tools"
+    },
+    {
+      "name": "textInput_holder",
+      "value": "Search for location, address, and bus"
+    },
+    {
+      "name": "frequent_locations",
+      "value": "Frequently visited locations"
+    },
+    {
+      "name": "all",
+      "value": "All"
+    },
+    {
+      "name": "add_home",
+      "value": "Add home"
+    },
+    {
+      "name": "add_comp",
+      "value": "Add company/school"
+    },
+    {
+      "name": "add_address",
+      "value": "Add frequently visited address"
+    },
+    {
+      "name": "recommend_location",
+      "value": "Recommended location"
+    },
+    {
+      "name": "recommend",
+      "value": "Jianghan Road Pedestrian Street"
+    },
+    {
+      "name": "direction_desc",
+      "value": "Distance from you in a straight line<364 meters"
+    },
+    {
+      "name": "goto",
+      "value": "Go to see"
+    },
+    {
+      "name": "discount_attraction",
+      "value": "Discounted attractions"
+    },
+    {
+      "name": "attraction1",
+      "value": "The Yellow Crane Tower"
+    },
+    {
+      "name": "attraction2",
+      "value": "Hankou River Beach"
+    },
+    {
+      "name": "attraction3",
+      "value": "Jianghan Road"
+    },
+    {
+      "name": "attraction4",
+      "value": "Tan Hualin"
+    },
+    {
+      "name": "have_more",
+      "value": "View more"
+    },
+    {
+      "name": "voice_navigation",
+      "value": "Voice navigation"
+    },
+    {
+      "name": "location_distance",
+      "value": "Location distance"
+    },
+    {
+      "name": "rank_recommendation",
+      "value": "Sort recommendations"
+    },
+    {
+      "name": "favor",
+      "value": "favor"
+    },
+    {
+      "name": "share",
+      "value": "share"
+    },
+    {
+      "name": "start_navigate",
+      "value": "Start Navigation"
+    },
+    {
+      "name": "navigate",
+      "value": "navigate"
+    },
+    {
+      "name": "route",
+      "value": "route"
+    },
+    {
+      "name": "location_name_width",
+      "value": "70%"
+    }
+  ]
+}

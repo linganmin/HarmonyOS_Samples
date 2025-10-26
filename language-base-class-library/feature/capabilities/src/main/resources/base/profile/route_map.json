@@ -1,0 +1,220 @@
+{
+  "routerMap": [
+    {
+      "name": "ConvertXml",
+      "pageSourceFile": "src/main/ets/capabilities/ConvertXml.ets",
+      "buildFunction": "ConvertXmlBuilder",
+      "data": {
+        "description": "this is ConvertXml"
+      }
+    },
+    {
+      "name": "TaskPool",
+      "pageSourceFile": "src/main/ets/capabilities/TaskPool.ets",
+      "buildFunction": "TaskPoolBuilder",
+      "data": {
+        "description": "this is TaskPool"
+      }
+    },
+    {
+      "name": "Url",
+      "pageSourceFile": "src/main/ets/capabilities/Url.ets",
+      "buildFunction": "UrlBuilder",
+      "data": {
+        "description": "this is Url"
+      }
+    },
+    {
+      "name": "Uri",
+      "pageSourceFile": "src/main/ets/capabilities/Uri.ets",
+      "buildFunction": "UriBuilder",
+      "data": {
+        "description": "this is Uri"
+      }
+    },
+    {
+      "name": "Util",
+      "pageSourceFile": "src/main/ets/capabilities/Util.ets",
+      "buildFunction": "UtilBuilder",
+      "data": {
+        "description": "this is Util"
+      }
+    },
+    {
+      "name": "LRUCache",
+      "pageSourceFile": "src/main/ets/components/utilcomponents/LRUCache.ets",
+      "buildFunction": "LRUCacheBuilder",
+      "data": {
+        "description": "this is LRUCache"
+      }
+    },
+    {
+      "name": "StringCode",
+      "pageSourceFile": "src/main/ets/components/utilcomponents/StringCode.ets",
+      "buildFunction": "StringCodeBuilder",
+      "data": {
+        "description": "this is StringCode"
+      }
+    },
+    {
+      "name": "RationalNumber",
+      "pageSourceFile": "src/main/ets/components/utilcomponents/RationalNumber.ets",
+      "buildFunction": "RationalNumberBuilder",
+      "data": {
+        "description": "this is RationalNumber"
+      }
+    },
+    {
+      "name": "ScopeHelper",
+      "pageSourceFile": "src/main/ets/components/utilcomponents/ScopeHelper.ets",
+      "buildFunction": "ScopeHelperBuilder",
+      "data": {
+        "description": "this is ScopeHelper"
+      }
+    },
+    {
+      "name": "Base64Helper",
+      "pageSourceFile": "src/main/ets/components/utilcomponents/Base64Helper.ets",
+      "buildFunction": "Base64HelperBuilder",
+      "data": {
+        "description": "this is Base64Helper"
+      }
+    },
+    {
+      "name": "TypeCheck",
+      "pageSourceFile": "src/main/ets/components/utilcomponents/TypeCheck.ets",
+      "buildFunction": "TypeCheckBuilder",
+      "data": {
+        "description": "this is TypeCheck"
+      }
+    },
+    {
+      "name": "JsonFunction",
+      "pageSourceFile": "src/main/ets/components/utilcomponents/JsonFunction.ets",
+      "buildFunction": "JsonFunctionBuilder",
+      "data": {
+        "description": "this is JsonFunction"
+      }
+    },
+    {
+      "name": "ArkTSUtil",
+      "pageSourceFile": "src/main/ets/capabilities/ArkTSUtil.ets",
+      "buildFunction": "ArkTSUtilBuilder",
+      "data": {
+        "description": "this is ArkTSUtil"
+      }
+    },
+    {
+      "name": "AsonFunction",
+      "pageSourceFile": "src/main/ets/components/arkTSUtilcomponents/AsonFunction.ets",
+      "buildFunction": "AsonFunctionBuilder",
+      "data": {
+        "description": "this is AsonFunction"
+      }
+    },
+    {
+      "name": "ArrayListView",
+      "pageSourceFile": "src/main/ets/capabilities/ArrayListView.ets",
+      "buildFunction": "ArrayListViewBuilder",
+      "data": {
+        "description": "this is ArrayListView"
+      }
+    },
+    {
+      "name": "DequeView",
+      "pageSourceFile": "src/main/ets/capabilities/DequeView.ets",
+      "buildFunction": "DequeViewBuilder",
+      "data": {
+        "description": "this is DequeView"
+      }
+    },
+    {
+      "name": "HashMapView",
+      "pageSourceFile": "src/main/ets/capabilities/HashMapView.ets",
+      "buildFunction": "HashMapViewBuilder",
+      "data": {
+        "description": "this is HashMapView"
+      }
+    },
+    {
+      "name": "HashSetView",
+      "pageSourceFile": "src/main/ets/capabilities/HashSetView.ets",
+      "buildFunction": "HashSetViewBuilder",
+      "data": {
+        "description": "this is HashSetView"
+      }
+    },
+    {
+      "name": "LightWeightMapView",
+      "pageSourceFile": "src/main/ets/capabilities/LightWeightMapView.ets",
+      "buildFunction": "LightWeightMapViewBuilder",
+      "data": {
+        "description": "this is LightWeightMapView"
+      }
+    },
+    {
+      "name": "LightWeightSetView",
+      "pageSourceFile": "src/main/ets/capabilities/LightWeightSetView.ets",
+      "buildFunction": "LightWeightSetViewViewBuilder",
+      "data": {
+        "description": "this is LightWeightSetView"
+      }
+    },
+    {
+      "name": "LinkedListView",
+      "pageSourceFile": "src/main/ets/capabilities/LinkedListView.ets",
+      "buildFunction": "LinkedListViewBuilder",
+      "data": {
+        "description": "this is LinkedListView"
+      }
+    },
+    {
+      "name": "ListView",
+      "pageSourceFile": "src/main/ets/capabilities/ListView.ets",
+      "buildFunction": "ListViewBuilder",
+      "data": {
+        "description": "this is ListView"
+      }
+    },
+    {
+      "name": "PlainArrayView",
+      "pageSourceFile": "src/main/ets/capabilities/PlainArrayView.ets",
+      "buildFunction": "PlainArrayViewBuilder",
+      "data": {
+        "description": "this is PlainArrayView"
+      }
+    },
+    {
+      "name": "QueueView",
+      "pageSourceFile": "src/main/ets/capabilities/QueueView.ets",
+      "buildFunction": "QueueViewBuilder",
+      "data": {
+        "description": "this is QueueView"
+      }
+    },
+    {
+      "name": "StackView",
+      "pageSourceFile": "src/main/ets/capabilities/StackView.ets",
+      "buildFunction": "StackViewBuilder",
+      "data": {
+        "description": "this is StackView"
+      }
+    },
+    {
+      "name": "TreeMapView",
+      "pageSourceFile": "src/main/ets/capabilities/TreeMapView.ets",
+      "buildFunction": "TreeMapViewBuilder",
+      "data": {
+        "description": "this is TreeMapView"
+      }
+    },
+    {
+      "name": "TreeSetView",
+      "pageSourceFile": "src/main/ets/capabilities/TreeSetView.ets",
+      "buildFunction": "TreeSetViewBuilder",
+      "data": {
+        "description": "this is TreeSetView"
+      }
+    }
+  ]
+}

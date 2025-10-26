@@ -1,0 +1,35 @@
+/**
+* 最佳实践：应用代码混淆
+  */
+{
+  "apiType": "stageMode",
+  "buildOption": {
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      // [Start arkOptions]
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": true,
+            // [StartExclude arkOptions]
+            "files": [
+              "./obfuscation-rules.txt"
+            ],
+            // [EndExclude arkOptions]
+          }
+        }
+      },
+      // [End arkOptions]
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

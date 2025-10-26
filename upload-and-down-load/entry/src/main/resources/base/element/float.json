@@ -1,0 +1,16 @@
+{
+  "float": [
+    {
+      "name": "normal_font_weight",
+      "value": "400"
+    },
+    {
+      "name": "add_pictures_margin_top",
+      "value": "16vp"
+    },
+    {
+      "name": "add_pictures_margin_bottom",
+      "value": "48vp"
+    }
+  ]
+}

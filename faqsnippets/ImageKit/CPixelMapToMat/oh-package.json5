@@ -1,0 +1,11 @@
+{
+  "name": "cpixelmaptomat",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libcpixelmaptomat.so": "file:./src/main/cpp/types/libcpixelmaptomat"
+  }
+}

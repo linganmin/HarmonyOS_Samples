@@ -1,0 +1,11 @@
+{
+  "app": {
+    // bundleName需要与您在AppGallery Connect中创建应用时的包名保持一致
+    "bundleName": "com.huawei.hms.payment.demo",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:app_icon",
+    "label": "$string:app_name"
+  }
+}

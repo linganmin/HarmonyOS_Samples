@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PushAtomicDemo"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "Push Main Ability"
+    },
+    {
+      "name": "subscribe_title",
+      "value": "Subscribe Service Notification"
+    },
+    {
+      "name": "subscribe_btn",
+      "value": "Initiate subscription"
+    },
+    {
+      "name": "enable_device_switch",
+      "value": "Please turn on the Service notifications & updates in the Smart Assistance settings."
+    },
+    {
+      "name": "login",
+      "value": "Please login to your Huawei ID."
+    },
+    {
+      "name": "login_btn",
+      "value": "Login"
+    },
+    {
+      "name": "logined",
+      "value": "Logined"
+    },
+    {
+      "name": "subscribe_succeeded",
+      "value": "Subscription succeeded."
+    },
+    {
+      "name": "subscribe_partial_succeeded",
+      "value": "Partial Subscription succeeded."
+    },
+    {
+      "name": "subscribe_failed",
+      "value": "Subscription failed."
+    },
+    {
+      "name": "sure",
+      "value": "OK"
+    },
+    {
+      "name": "click_action_page",
+      "value": "Notification Landing Page"
+    },
+    {
+      "name": "click_action_data",
+      "value": "Data in the message"
+    },
+    {
+      "name": "network_error",
+      "value": "The network is unavailable. Please check the network."
+    }
+  ]
+}

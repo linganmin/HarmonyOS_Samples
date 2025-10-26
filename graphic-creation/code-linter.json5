@@ -1,0 +1,24 @@
+{
+  "files": [
+    "**/*.ets"
+  ],
+  "ignore": [
+    "**/src/ohosTest/**/*",
+    "**/src/test/**/*",
+    "**/src/mock/**/*",
+    "**/node_modules/**/*",
+    "**/oh_modules/**/*",
+    "**/build/**/*",
+    "**/.preview/**/*"
+  ],
+  "ruleSet": [
+    "plugin:@performance/recommended",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {
+    "@performance/waterflow-data-preload-check": "suggestion",
+    "@performance/hp-arkui-set-cache-count-for-lazyforeach-grid": "suggestion",
+    "@performance/hp-arkui-use-onAnimationStart-for-swiper-preload": "warn",
+    "@performance/hp-arkui-use-reusable-component": "warn",
+  }
+}

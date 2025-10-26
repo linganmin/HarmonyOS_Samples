@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "ConversionAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ConversionAbility_label",
+      "value": "NativeDataConversion"
+    },
+    {
+      "name": "Demo",
+      "value": "Data Type Conversion"
+    },
+    {
+      "name": "NumberType",
+      "value": "Type of number conversion"
+    },
+    {
+      "name": "NumberType_description",
+      "value": "Calculate the sum of two given numbers: x+y.The maximum length of input data is 16."
+    },
+    {
+      "name": "NumberType_input1",
+      "value": "Enter a value for x"
+    },
+    {
+      "name": "NumberType_input2",
+      "value": "Enter a value for y"
+    },
+    {
+      "name": "NumberType_result",
+      "value": "Calculation results"
+    },
+    {
+      "name": "StringBoolType",
+      "value": "Type of string conversion"
+    },
+    {
+      "name": "StringBoolType_description",
+      "value": "String character data str1 and str2 are concatenated, and the bool type controls the relative position.The maximum length of input data is 16."
+    },
+    {
+      "name": "StringBoolType_input1",
+      "value": "Enter a value for str1"
+    },
+    {
+      "name": "StringBoolType_input2",
+      "value": "Enter a value for str2"
+    },
+    {
+      "name": "ArrayType",
+      "value": "Type of array conversion"
+    },
+    {
+      "name": "ArrayType_description",
+      "value": "Enter the array items one by one, confirm the key to add the data to the array, reset the key to clear the array data, and reverse the conversion key to reverse the order of the input array data.The maximum length of input data is 16."
+    },
+    {
+      "name": "ArrayType_array",
+      "value": "Array"
+    },
+    {
+      "name": "ArrayType_reverse",
+      "value": "Reverse"
+    },
+    {
+      "name": "ArrayType_input1",
+      "value": "Enter a value for the array item"
+    },
+    {
+      "name": "ArrayType_reset",
+      "value": "Reset"
+    },
+    {
+      "name": "ArrayType_confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "ArrayType_conversion",
+      "value": "Reverse order conversion"
+    },
+    {
+      "name": "ArraybufferType",
+      "value": "Type of arraybuffer conversion"
+    },
+    {
+      "name": "ArraybufferType_description",
+      "value": "Assign the values of num1 and num2 to arraybuffer and square native, and then print arraybuffer on the arkts side.The maximum length of input data is 4."
+    },
+    {
+      "name": "ArraybufferType_input1",
+      "value": "Enter a value for num1"
+    },
+    {
+      "name": "ArraybufferType_input2",
+      "value": "Enter a value for num2"
+    },
+    {
+      "name": "ArraybufferType_conversion",
+      "value": "Confirm the conversion"
+    },
+    {
+      "name": "ObjectType",
+      "value": "Type of object conversion"
+    },
+    {
+      "name": "ObjectType_description",
+      "value": "Give basic personal information and construct a self-introduction statement.The maximum length of input data is 4."
+    },
+    {
+      "name": "ObjectType_name",
+      "value": "Name"
+    },
+    {
+      "name": "ObjectType_age",
+      "value": "Age"
+    },
+    {
+      "name": "ObjectType_convert",
+      "value": "Convert the results"
+    },
+    {
+      "name": "result",
+      "value": "Result"
+    },
+    {
+      "name": "date_type",
+      "value": "Type of date conversion"
+    },
+    {
+      "name": "date_type_description",
+      "value": "Click the Get Time button to retrieve the current time of Date type from the native side. Click the conversion button to convert the obtained date into total milliseconds."
+    },
+    {
+      "name": "date",
+      "value": "date"
+    },
+    {
+      "name": "milliseconds",
+      "value": "milliseconds"
+    },
+    {
+      "name": "date_type_get",
+      "value": "get date"
+    },
+    {
+      "name": "date_type_convert",
+      "value": "convert"
+    }
+  ]
+}

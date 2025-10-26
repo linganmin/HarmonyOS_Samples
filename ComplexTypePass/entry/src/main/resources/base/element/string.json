@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DataPass"
+    },{
+      "name": "100percent",
+      "value": "100%"
+    },{
+      "name": "25percent",
+      "value": "25%"
+    },{
+      "name": "75percent",
+      "value": "75%"
+    },{
+      "name": "main_title",
+      "value": "Cross-language Complex Parameter Interaction"
+    },{
+      "name": "button_width",
+      "value": "312"
+    },{
+      "name": "margin_m_half",
+      "value": "6"
+    },{
+      "name": "margin_m",
+      "value": "12"
+    },{
+      "name": "margin_s",
+      "value": "10"
+    },{
+      "name": "margin_l_half",
+      "value": "8"
+    },{
+      "name": "margin_l",
+      "value": "16"
+    },{
+      "name": "margin_huge",
+      "value": "24"
+    },{
+      "name": "border_radius",
+      "value": "16"
+    },{
+      "name": "output_area_min_height",
+      "value": "100"
+    },{
+      "name": "output_area_max_height",
+      "value": "300"
+    },{
+      "name": "button_text_execute",
+      "value": "Execute"
+    },{
+      "name": "button_text_Ts2Napi",
+      "value": "ArkTS class pass to Napi"
+    },{
+      "name": "button_text_Napi2Ts",
+      "value": "Napi class pass to ArkTS"
+    },{
+      "name": "input_hint_nums_0_9",
+      "value": "A number from 0 to 9"
+    },{
+      "name": "input_hint_nums_0_255",
+      "value": "A number from 0 to 255"
+    },{
+      "name": "button_text_font_size_big",
+      "value": "16"
+    },{
+      "name": "button_text_font_size_small",
+      "value": "12"
+    },{
+      "name": "input_text_row_height",
+      "value": "48"
+    },{
+      "name": "divider_color",
+      "value": "rgba(0, 0, 0, 0.15)"
+    },{
+      "name": "OutputArea_background",
+      "value": "rgba(0, 0, 0, 0.05)"
+    }
+  ]
+}

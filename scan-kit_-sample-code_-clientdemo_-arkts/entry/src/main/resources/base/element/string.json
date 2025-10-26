@@ -1,0 +1,240 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Scan Kit Demo"
+    },
+    {
+      "name": "Scan_light_to_off",
+      "value": "Turn off light"
+    },
+    {
+      "name": "Scan_light_to_on",
+      "value": "Turn light on"
+    },
+    {
+      "name": "Scan_diaLog_not_found",
+      "value": "QR Code/barcode not found."
+    },
+    {
+      "name": "Scan_diaLog_got_it",
+      "value": "Got it"
+    },
+    {
+      "name": "Scan_access_not_enabled",
+      "value": "Camera, Access Not Enabled"
+    },
+    {
+      "name": "Scan_access_tips",
+      "value": "Grant the Camera permission in Settings > Apps & services > Scan Kit Demo > Permissions to enable the Camera permission."
+    },
+    {
+      "name": "Scan_got_it",
+      "value": "Cancel"
+    },
+    {
+      "name": "Scan_settings",
+      "value": "Settings"
+    },
+    {
+      "name": "Scan_barcode",
+      "value": "Scan QR code/barcode"
+    },
+    {
+      "name": "Scan_barcode_tips",
+      "value": "Align the QR code/barcode below"
+    },
+    {
+      "name": "demo_title",
+      "value": "HarmonyOS Scan Kit Demo"
+    },
+    {
+      "name": "demo_subject",
+      "value": "Scan Kit"
+    },
+    {
+      "name": "demo_detail",
+      "value": "The system-level scanning and Scan to Access services feature hardware and software synergy, helping you swiftly build barcode recognition and generation capabilities for a wide range of scenarios."
+    },
+    {
+      "name": "default_view_decode",
+      "value": "Barcode Scan by Default UI"
+    },
+    {
+      "name": "customized_view_decode",
+      "value": "Barcode Scan by Custom UI"
+    },
+    {
+      "name": "customized_view_decode_v2",
+      "value": "Barcode Scan by Custom UI V2"
+    },
+    {
+      "name": "bitmap_api_decode",
+      "value": "Image-Based Barcode Recognition"
+    },
+    {
+      "name": "bitmap_api_decode_image",
+      "value": "Recognize local images"
+    },
+    {
+      "name": "bitmap_api_decode_pixel",
+      "value": "Recognize image data"
+    },
+    {
+      "name": "generate_QR_code",
+      "value": "Barcode Image Generation"
+    },
+    {
+      "name": "barcode_content",
+      "value": "Barcode Content:"
+    },
+    {
+      "name": "barcode_width",
+      "value": "Barcode width:"
+    },
+    {
+      "name": "barcode_height",
+      "value": "Barcode height:"
+    },
+    {
+      "name": "barcode_type",
+      "value": "Type:"
+    },
+    {
+      "name": "barcode_margin",
+      "value": "Margin:"
+    },
+    {
+      "name": "barcode_color",
+      "value": "Color:"
+    },
+    {
+      "name": "barcode_background_color",
+      "value": "Background:"
+    },
+    {
+      "name": "barcode_error_level",
+      "value": "Error correction level:"
+    },
+    {
+      "name": "generate_barcode",
+      "value": "Generate Barcode"
+    },
+    {
+      "name": "generate_trip_barcode",
+      "value": "Generate Ride Code"
+    },
+    {
+      "name": "trip_barcode_tip",
+      "value": "A ride code is created using a byte array. Input a byte array, represented as a hexadecimal string."
+    },
+    {
+      "name": "title_result",
+      "value": "Result"
+    },
+    {
+      "name": "code_format",
+      "value": "Code Format"
+    },
+    {
+      "name": "code_rect",
+      "value": "Code Rect"
+    },
+    {
+      "name": "result_content",
+      "value": "Result"
+    },
+    {
+      "name": "permission_reason_camera",
+      "value": "Used for scanning barcodes"
+    },
+    {
+      "name": "decode_zoom_current",
+      "value": "Zoom Ratio; Current: "
+    },
+    {
+      "name": "decode_zoom_enter",
+      "value": "Enter a zoom ratio."
+    },
+    {
+      "name":"Scan_gallery",
+      "value":"Gallery"
+    },
+    {
+      "name":"Scan_album_loading",
+      "value":"Processing…"
+    },
+    {
+      "name":"Scan_barcode_tips_callback",
+      "value":"Select a code to open"
+    },
+    {
+      "name": "scan_to_access",
+      "value": "Scan to Access"
+    },
+    {
+      "name": "welcome_to_access",
+      "value": "Welcome to the Scan to Access service"
+    },
+    {
+      "name": "access_integration_process",
+      "value": "Integration Process"
+    },
+    {
+      "name": "access_detail_title",
+      "value": "Scan to Access"
+    },
+    {
+      "name": "access_detail_info_f",
+      "value": "In our daily lives, we often use various apps to scan a multitude of barcodes. The Scan to Access service revolutionizes this experience."
+    },
+    {
+      "name": "access_detail_info_t",
+      "value": "Once developers have registered their domain names with the Scan to Access service, users can use system-level, always-available entry points like the Control Panel to scan a 1D or 2D barcode. This takes them directly to the corresponding service page of an app, providing a seamless, one-step experience."
+    },
+    {
+      "name": "access_detail_example",
+      "value": "Development Example:"
+    },
+    {
+      "name": "access_detail_example_f",
+      "value": "1. Refer to the App Linking integration guide to register a domain name and generate a 2D barcode."
+    },
+    {
+      "name": "access_detail_example_t",
+      "value": "2. Scan the 2D barcode through the barcode scanning entry in the Control Panel."
+    },
+    {
+      "name": "access_detail_procedure",
+      "value": "Development Procedure:"
+    },
+    {
+      "name": "access_detail_procedure1",
+      "value": "1. Register a domain name by referring to the App Linking integration guide."
+    },
+    {
+      "name": "access_detail_procedure2",
+      "value": "2. Configure the bundle name, domain name mapping, and app signature in the app project. (The project name should be the same as the bundle name.)"
+    },
+    {
+      "name": "access_detail_procedure3",
+      "value": "3. Launch the barcode scanner in HarmonyOS (found in the Control Panel), and scan the 2D barcode provided by the app (this barcode is generated from the registered domain name)."
+    },
+    {
+      "name": "access_detail_procedure4",
+      "value": "4. The installed app is started and the target service page is displayed."
+    },
+    {
+      "name": "access_detail_th",
+      "value": "Example"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "libnativeaki.so": {
+    "source": "src/mock/Libnativeaki.mock.ets"
+  }
+}

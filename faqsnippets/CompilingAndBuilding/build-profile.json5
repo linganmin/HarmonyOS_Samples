@@ -1,0 +1,58 @@
+{
+  "app": {
+    "signingConfigs": [],
+    // [Start sdk_version]
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "targetSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    // [End sdk_version]
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "library",
+      "srcPath": "./library",
+    },
+    {
+      "name": "library1",
+      "srcPath": "./library1",
+    },
+    {
+      "name": "library2",
+      "srcPath": "./library2",
+    },
+    {
+      "name": "library3",
+      "srcPath": "./library3",
+    },
+    {
+      "name": "react",
+      "srcPath": "./react"
+    }
+  ]
+}

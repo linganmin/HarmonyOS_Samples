@@ -1,0 +1,9 @@
+<!-- [Start index] -- >
+<!-- index.hml -->
+<div class="container">
+    <stack class="stackContainer">
+        <input class="button" type="button" value="Button"></input>
+    </stack>
+    <input class="button2" type="button" value="Exit"></input>
+</div>
+<!-- [End index] -->

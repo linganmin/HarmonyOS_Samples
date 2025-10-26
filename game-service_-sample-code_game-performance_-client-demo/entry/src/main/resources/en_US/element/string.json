@@ -1,0 +1,37 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "init",
+      "value": "Initialize scene perception"
+    },
+    {
+      "name": "subscribe",
+      "value": "Subscribe to device information"
+    },
+    {
+      "name": "unSubscribe",
+      "value": "Unsubscribe from device information"
+    },
+    {
+      "name": "update",
+      "value": "Update game scene information"
+    },
+    {
+      "name": "query",
+      "value": "Query device information"
+    }
+
+  ]
+}

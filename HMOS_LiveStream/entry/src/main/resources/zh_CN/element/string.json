@@ -1,0 +1,184 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HMOSLiveStream"
+    },
+    {
+      "name": "full_width",
+      "value": "100%"
+    },
+    {
+      "name": "full_height",
+      "value": "100%"
+    },
+    {
+      "name": "alert",
+      "value": "未选择视频！"
+    },
+    {
+      "name": "reason",
+      "value": "允许应用使用麦克风"
+    },
+    {
+      "name": "camera_reason",
+      "value": "允许应用使用相机"
+    },
+    {
+      "name": "distribute_file_reason",
+      "value": "允许应用访问不同设备的分布式文件"
+    },
+    {
+      "name": "background_running_reason",
+      "value": "允许应用在后台运行"
+    },
+    {
+      "name": "playing",
+      "value": "播放中"
+    },
+    {
+      "name": "play",
+      "value": "播放"
+    },
+    {
+      "name": "record",
+      "value": "录制"
+    },
+    {
+      "name": "alert_setting",
+      "value": "当前设备不支持该设置。"
+    },
+    {
+      "name": "saveButtonNote",
+      "value": "是否允许HMOSLiveStream保存拍摄的视频到分布式文件？"
+    },
+    {
+      "name": "saveButtonCancel",
+      "value": "取消"
+    },
+    {
+      "name": "saveButtonTitle",
+      "value": "视频保存位置确认"
+    },
+    {
+      "name": "home_page_title",
+      "value": "直播开发示例"
+    },
+    {
+      "name": "watch_live_stream",
+      "value": "看直播"
+    },
+    {
+      "name": "start_live_stream",
+      "value": "开直播"
+    },
+    {
+      "name": "set_roi",
+      "value": "ROI"
+    },
+    {
+      "name": "set_bgm",
+      "value": "背景音乐"
+    },
+    {
+      "name": "set_quality",
+      "value": "画质设置"
+    },
+    {
+      "name": "people_in_live_room",
+      "value": "直播间人数：1213"
+    },
+    {
+      "name": "author_name",
+      "value": "主播小帅"
+    },
+    {
+      "name": "number_of_people",
+      "value": "1213"
+    },
+    {
+      "name": "watch",
+      "value": "观看"
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "followed",
+      "value": "已关注"
+    },
+    {
+      "name": "first_one_name",
+      "value": "林小杰"
+    },
+    {
+      "name": "first_one_comment",
+      "value": "鸿蒙开播啦！我第一个冲进来～"
+    },
+    {
+      "name": "first_two_name",
+      "value": "刘小华"
+    },
+    {
+      "name": "first_two_comment",
+      "value": "鸿蒙YYDS！冲鸭！！"
+    },
+    {
+      "name": "first_three_name",
+      "value": "吴小京"
+    },
+    {
+      "name": "first_three_comment",
+      "value": "这波操作帅炸！继续输出！"
+    },
+    {
+      "name": "first_four_name",
+      "value": "周小伦"
+    },
+    {
+      "name": "first_four_comment",
+      "value": "坐等新功能发布！已三连！"
+    },
+    {
+      "name": "first_five_name",
+      "value": "张小友"
+    },
+    {
+      "name": "first_five_comment",
+      "value": "主播讲得太棒了！在线打Call！"
+    },
+    {
+      "name": "feature_not_supported",
+      "value": "该功能尚未支持，敬请期待！"
+    },
+    {
+      "name": "bundle_name",
+      "value": "com.samples.HMOSLiveStream"
+    },
+    {
+      "name": "no_video_alert",
+      "value": "请先开直播并保存视频！"
+    },
+    {
+      "name": "setting_title",
+      "value": "设置"
+    },
+    {
+      "name": "setting_ok",
+      "value": "确定"
+    },
+    {
+      "name": "setting_cancel",
+      "value": "取消"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+#version 320 es
+#ifdef GL_ARB_shader_draw_parameters
+#extension GL_ARB_shader_draw_parameters : enable
+#endif
+#define SPIRV_CROSS_CONSTANT_ID_256 1u
+
+#ifndef SPIRV_CROSS_CONSTANT_ID_1
+#define SPIRV_CROSS_CONSTANT_ID_1 0u
+#endif
+const uint CORE_MATERIAL_FLAGS = SPIRV_CROSS_CONSTANT_ID_1;
+const uint _51 = (CORE_MATERIAL_FLAGS & 16384u);
+const bool _53 = (_51 == 16384u);
+#ifndef SPIRV_CROSS_CONSTANT_ID_6
+#define SPIRV_CROSS_CONSTANT_ID_6 0u
+#endif
+const uint CORE_SUBMESH_FLAGS = SPIRV_CROSS_CONSTANT_ID_6;
+const uint _67 = (CORE_SUBMESH_FLAGS & 4u);
+const bool _68 = (_67 == 4u);
+
+struct DefaultMaterialSkinStruct
+{
+    mat4 jointMatrices[256];
+};
+
+struct DefaultMaterialSingleMeshStruct
+{
+    mat4 world;
+    mat4 normalWorld;
+    mat4 prevWorld;
+    uvec4 indices;
+    uvec4 layers;
+    uvec4 customData[2];
+};
+
+struct DefaultMaterialMeshStruct
+{
+    DefaultMaterialSingleMeshStruct mesh[64];
+};
+
+struct DefaultMaterialGeneralDataStruct
+{
+    uvec4 indices;
+    vec4 viewportSizeInvViewportSize;
+    vec4 sceneTimingData;
+};
+
+struct DefaultCameraMatrixStruct
+{
+    mat4 view;
+    mat4 proj;
+    mat4 viewProj;
+    mat4 viewInv;
+    mat4 projInv;
+    mat4 viewProjInv;
+    mat4 viewPrevFrame;
+    mat4 projPrevFrame;
+    mat4 viewProjPrevFrame;
+    mat4 shadowViewProj;
+    mat4 shadowViewProjInv;
+    vec4 jitter;
+    vec4 jitterPrevFrame;
+    uvec4 indices;
+    uvec4 multiViewIndices;
+    vec4 frustumPlanes[6];
+    uvec4 counts;
+    uvec4 pad0;
+    mat4 matPad0;
+    mat4 matPad1;
+};
+
+#ifndef SPIRV_CROSS_CONSTANT_ID_256
+#define SPIRV_CROSS_CONSTANT_ID_256 0u
+#endif
+const uint CORE_BACKEND_TYPE = SPIRV_CROSS_CONSTANT_ID_256;
+const uint _368 = (CORE_BACKEND_TYPE & 15u);
+const bool _369 = (_368 != 0u);
+uniform float CORE_FLIP_NDC ;
+
+layout(std140) uniform s1_b1
+{
+    DefaultMaterialSkinStruct uSkinData;
+} _s1_b1;
+
+layout(std140) uniform s1_b0
+{
+    DefaultMaterialMeshStruct uMeshMatrix;
+} _s1_b0;
+
+layout(std140) uniform s0_b1
+{
+    DefaultMaterialGeneralDataStruct uGeneralData;
+} _s0_b1;
+
+layout(std140) uniform s0_b0
+{
+    DefaultCameraMatrixStruct uCameras[16];
+} _s0_b0;
+
+#ifdef GL_ARB_shader_draw_parameters
+#define SPIRV_Cross_BaseInstance gl_BaseInstanceARB
+#else
+uniform int SPIRV_Cross_BaseInstance;
+#endif
+layout(location = 5) in uvec4 inIndex;
+layout(location = 6) in mediump vec4 inWeight;
+layout(location = 0) in vec3 inPosition;
+layout(location = 6) flat out uint outIndices;
+layout(location = 0) out vec3 outPos;
+layout(location = 1) out vec3 outNormal;
+layout(location = 2) out vec4 outTangentW;
+layout(location = 3) out vec4 outPrevPosI;
+layout(location = 4) out vec4 outUv;
+layout(location = 5) out mediump vec4 outColor;
+
+void main()
+{
+    uint _688;
+    if (_53)
+    {
+        _688 = uint((gl_InstanceID + SPIRV_Cross_BaseInstance));
+    }
+    else
+    {
+        _688 = 0u;
+    }
+    mat4 _689;
+    if (_68)
+    {
+        mat4 _473 = _s1_b1.uSkinData.jointMatrices[inIndex.x] * inWeight.x;
+        mat4 _480 = _s1_b1.uSkinData.jointMatrices[inIndex.y] * inWeight.y;
+        mat4 _501 = _s1_b1.uSkinData.jointMatrices[inIndex.z] * inWeight.z;
+        mat4 _522 = _s1_b1.uSkinData.jointMatrices[inIndex.w] * inWeight.w;
+        _689 = _s1_b0.uMeshMatrix.mesh[_688].world * mat4(((_473[0] + _480[0]) + _501[0]) + _522[0], ((_473[1] + _480[1]) + _501[1]) + _522[1], ((_473[2] + _480[2]) + _501[2]) + _522[2], ((_473[3] + _480[3]) + _501[3]) + _522[3]);
+    }
+    else
+    {
+        _689 = _s1_b0.uMeshMatrix.mesh[_688].world;
+    }
+    vec4 _332 = _689 * vec4(inPosition, 1.0);
+    vec4 _685 = _332;
+    _685.x = _332.z;
+    vec4 _687 = _685;
+    _687.z = -_332.x;
+    gl_Position = _s0_b0.uCameras[_s0_b1.uGeneralData.indices.x].viewProj * _687;
+    if (_369)
+    {
+        gl_Position = vec4(gl_Position.x, gl_Position.y * CORE_FLIP_NDC, fma(gl_Position.z, 2.0, -gl_Position.w), gl_Position.w);
+    }
+    uint _690;
+    if (_53)
+    {
+        _690 = uint((gl_InstanceID + SPIRV_Cross_BaseInstance));
+    }
+    else
+    {
+        _690 = 0u;
+    }
+    outIndices = (_690 << uint(16)) | (_s0_b1.uGeneralData.indices.x & 65535u);
+    outPos = _687.xyz;
+}
+

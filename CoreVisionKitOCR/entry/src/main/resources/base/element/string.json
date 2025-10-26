@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CoreVisionKitOCR"
+    },
+    {
+      "name": "page_title",
+      "value": "Picture recognition"
+    },
+    {
+      "name": "page_subtitle",
+      "value": "New address"
+    },
+    {
+      "name": "dialog_title",
+      "value": "Picture recognition"
+    },
+    {
+      "name": "dialog_subtitle",
+      "value": "Image capture options"
+    },
+    {
+      "name": "dialog_camera_btn",
+      "value": "Photograph"
+    },
+    {
+      "name": "dialog_photo_btn",
+      "value": "Album"
+    },
+    {
+      "name": "dialog_cancel_btn",
+      "value": "cancel"
+    },
+    {
+      "name": "loading_content",
+      "value": "Recognition..."
+    },
+    {
+      "name": "input_placeholder",
+      "value": "Text recognized from images will appear here, automatically identifying shipping information.Example: Lili, 139******* "
+    },
+    {
+      "name": "open_dialog_btn",
+      "value": "Recognition"
+    },
+    {
+      "name": "parse_btn",
+      "value": "Parse"
+    },
+    {
+      "name": "empty_toast",
+      "value": "Please enter the text to be parsed"
+    },
+    {
+      "name": "save_btn",
+      "value": "Saving address"
+    },
+    {
+      "name": "save_success_toast",
+      "value": "Saving successfully"
+    },
+    {
+      "name": "list_name_label",
+      "value": "Name"
+    },
+    {
+      "name": "list_phone_label",
+      "value": "Phone"
+    },
+    {
+      "name": "list_address_label",
+      "value": "Address"
+    },
+    {
+      "name": "list_name_placeholder",
+      "value": "Consignee's name"
+    },
+    {
+      "name": "list_phone_placeholder",
+      "value": "Consignee's phone number"
+    },
+    {
+      "name": "list_address_placeholder",
+      "value": "Full address and house number"
+    }
+  ]
+}

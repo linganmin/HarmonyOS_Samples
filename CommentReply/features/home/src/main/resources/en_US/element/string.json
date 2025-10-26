@@ -1,0 +1,71 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "video_title",
+      "value": "@Geographic Scenery"
+    },
+    {
+      "name": "video_title_time",
+      "value": "2 hours ago"
+    },
+    {
+      "name": "video_info_music",
+      "value": "Original Music"
+    },
+    {
+      "name": "video_info",
+      "value": "The Sanjiangyuan region is located in the southern part of Qinghai Province, with an average altitude of over 4,000 meters. It is the source of the Yangtze River, Yellow River, and..."
+    },
+    {
+      "name": "comment_list_title",
+      "value": "23 Comments"
+    },
+    {
+      "name": "comment_button_text",
+      "value": "Write a Comment"
+    },
+    {
+      "name": "comment_button_bg_color",
+      "value": "rgba(0, 0, 0, 0.05)"
+    },
+    {
+      "name": "comment_button_text_color",
+      "value": "rgba(0, 0, 0, 0.6)"
+    },
+    {
+      "name": "comment_keyboard_mask_bgcolor",
+      "value": "rgba(0, 0, 0, 0.1)"
+    },
+    {
+      "name": "friend_nickname_1",
+      "value": "Friend 1"
+    },
+    {
+      "name": "friend_nickname_2",
+      "value": "Friend 2"
+    },{
+      "name": "tab1",
+      "value": "Home"
+    },
+    {
+      "name": "tab2",
+      "value": "Friends"
+    },
+    {
+      "name": "tab4",
+      "value": "Messages"
+    },
+    {
+      "name": "tab5",
+      "value": "Profile"
+    },
+    {
+      "name": "send_title",
+      "value": "The comment content sent is:"
+    }
+  ]
+}

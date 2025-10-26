@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "KVStore"
+    },
+    {
+      "name": "table_header_key",
+      "value": "Key"
+    },
+    {
+      "name": "table_header_value",
+      "value": "Value"
+    },
+    {
+      "name": "table_header_type",
+      "value": "Type"
+    },
+    {
+      "name": "table_header_operate",
+      "value": "Operate"
+    },
+    {
+      "name": "title",
+      "value": "Create a key value database"
+    },
+    {
+      "name": "select",
+      "value": "Select security level"
+    },
+    {
+      "name": "encrypt",
+      "value": "Encrypt"
+    },
+    {
+      "name": "create",
+      "value": "Create"
+    },
+    {
+      "name": "destination_title",
+      "value": "Database details"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "edit_title",
+      "value": "Edit project"
+    },
+    {
+      "name": "new_title",
+      "value": "New project"
+    },
+    {
+      "name": "edit_type",
+      "value": "Edit Type"
+    },
+    {
+      "name": "new_type",
+      "value": "New Type"
+    },
+    {
+      "name": "submit",
+      "value": "Submit"
+    },
+    {
+      "name": "new",
+      "value": "New"
+    }
+  ]
+}

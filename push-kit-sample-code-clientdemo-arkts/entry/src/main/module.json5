@@ -1,0 +1,93 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:entry_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "MainAbility",
+        "srcEntry": "./ets/abilities/MainAbility.ets",
+        "description": "$string:MainAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:MainAbility_label",
+        "exported": true,
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:startWindowBackgroundColor",
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home",
+              "action.ohos.push.listener"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "ClickActionAbility",
+        "srcEntry": "./ets/abilities/ClickActionAbility.ets",
+        "description": "$string:ClickActionAbility_desc",
+        "icon": "$media:icon",
+        "label": "$string:ClickActionAbility_label",
+        "startWindowIcon": "$media:icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "actions": ["com.pushtest.action"]
+          },
+          {
+            "actions": [""],
+            "uris": [
+              {
+                "scheme": "https",
+                "host": "www.xxx.com",
+                "port": "8080",
+                "path": "push/test"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "FormAbility",
+        "srcEntry": "./ets/abilities/FormAbility.ets",
+        "label": "$string:FormAbility_label",
+        "description": "$string:FormAbility_desc",
+        "type": "form",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.form",
+            "resource": "$profile:form_config"
+          }
+        ]
+      },
+      {
+        "name": "RemoteNotificationExtAbility",
+        "type": "remoteNotification",
+        "srcEntry": "./ets/abilities/RemoteNotificationExtAbility.ets",
+        "description": "$string:RemoteNotificationExtAbility_desc",
+        "exported": false,
+        "skills": [
+          {
+            "actions": ["action.hms.push.extension.remotenotification"]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "桌面快捷方式"
+    },
+    {
+      "name": "Go_to_company",
+      "value": "去公司"
+    },
+    {
+      "name": "Go_to_house",
+      "value": "回家"
+    },
+    {
+      "name": "ui_displayed",
+      "value": "仅作为UI展示"
+    },
+    {
+      "name": "placeholder",
+      "value": "搜索地点、地址、公交"
+    },
+    {
+      "name": "driving",
+      "value": "驾车"
+    },
+    {
+      "name": "bus_and_subway",
+      "value": "公交地铁"
+    },
+    {
+      "name": "take_a_taxi",
+      "value": "打车"
+    },
+    {
+      "name": "real_time_bus",
+      "value": "实时公交"
+    },
+    {
+      "name": "book_a_hotel",
+      "value": "订酒店"
+    },
+    {
+      "name": "add_home",
+      "value": "添加家"
+    },
+    {
+      "name": "add_company_school",
+      "value": "添加公司/学校"
+    },
+    {
+      "name": "add_frequent_address",
+      "value": "添加常去地址"
+    },
+    {
+      "name": "home_page",
+      "value": "首页"
+    },
+    {
+      "name": "near",
+      "value": "附件"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "my_position",
+      "value": "我的位置"
+    },
+    {
+      "name": "my_home",
+      "value": "我的家"
+    },
+    {
+      "name": "collection",
+      "value": "收藏"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "start_navigating",
+      "value": "开始导航"
+    },
+    {
+      "name": "good_road",
+      "value": "大路多"
+    },
+    {
+      "name": "10_minutes",
+      "value": "10分钟"
+    },
+    {
+      "name": "23_km",
+      "value": "2.3公里"
+    },
+    {
+      "name": "option_2",
+      "value": "备选二"
+    },
+    {
+      "name": "26_km",
+      "value": "2.6公里"
+    },
+    {
+      "name": "12_minutes",
+      "value": "12分钟"
+    },
+    {
+      "name": "short_distance",
+      "value": "距离短"
+    },
+    {
+      "name": "8_minutes",
+      "value": "8分钟"
+    },
+    {
+      "name": "21_km",
+      "value": "2.1公里"
+    },
+    {
+      "name": "my_company",
+      "value": "我的公司"
+    },
+    {
+      "name": "take_a_taxi_now",
+      "value": "立即打车"
+    },
+    {
+      "name": "intelligent_recommendation",
+      "value": "智能推荐"
+    },
+    {
+      "name": "estimate",
+      "value": "预估"
+    },
+    {
+      "name": "money",
+      "value": "10-11"
+    },
+    {
+      "name": "yuan",
+      "value": "元"
+    },
+    {
+      "name": "21_models_selected",
+      "value": "已选21个车型"
+    },
+    {
+      "name": "last_memory",
+      "value": "上次记忆"
+    },
+    {
+      "name": "5_models_in_total",
+      "value": "共5个车型"
+    },
+    {
+      "name": "ride",
+      "value": "骑行"
+    },
+    {
+      "name": "taxi",
+      "value": "打车"
+    },
+    {
+      "name": "walking",
+      "value": "步行"
+    },
+    {
+      "name": "substitute_driver",
+      "value": "代驾"
+    },
+    {
+      "name": "train",
+      "value": "火车"
+    },
+    {
+      "name": "coach",
+      "value": "客车"
+    }
+  ]
+}

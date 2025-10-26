@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AdsKitDemo"
+    },
+    {
+      "name": "ads_demo_title",
+      "value": "AdsKitDemo"
+    },
+    {
+      "name": "request_reward_ad_btn",
+      "value": "Request rewarded ad"
+    },
+    {
+      "name": "request_native_video_ad_btn",
+      "value": "Request native video ad"
+    },
+    {
+      "name": "request_native_large_image_ad_btn",
+      "value": "Request native large image ad"
+    },
+    {
+      "name": "request_native_small_image_ad_btn",
+      "value": "Request native small image ad"
+    },
+    {
+      "name": "request_native_three_image_ad_btn",
+      "value": "Request native three-image ad"
+    },
+    {
+      "name": "request_splash_video_ad_btn",
+      "value": "Request splash video ad"
+    },
+    {
+      "name": "request_splash_image_ad_btn",
+      "value": "Request splash image ad"
+    },
+    {
+      "name": "request_roll_ad_btn",
+      "value": "Request roll ad"
+    },
+    {
+      "name": "request_interstitial_video_ad_btn",
+      "value": "Request interstitial video ad"
+    },
+    {
+      "name": "request_interstitial_image_ad_btn",
+      "value": "Request interstitial image ad"
+    },
+    {
+      "name": "request_banner_ad_btn",
+      "value": "Request banner ad"
+    },
+    {
+      "name": "video",
+      "value": "video"
+    },
+    {
+      "name": "copyright",
+      "value": "Copyright © 2022-2025 Huawei Technologies Co., Ltd."
+    },
+    {
+      "name": "app_tracking_permission_reason",
+      "value": "The app obtains this information to recommend content that you may be interested in."
+    },
+    {
+      "name": "ad_free_for_VIP_members",
+      "value": "Ad-free for VIP members"
+    }
+  ]
+}

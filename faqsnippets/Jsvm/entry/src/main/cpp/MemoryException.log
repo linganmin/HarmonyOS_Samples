@@ -1,0 +1,16 @@
+/*
+* FAQ:如何解决应用运行时OH_JSVM_CreateVM多线程创建发生竞争，导致VM内部的成员变量（array_buffer_allocator_）内存异常应用退出问题
+*/
+
+// [Start Js_MemoryException1]
+#00 pc 00000000017793f8 /system/lib64/ndk/libjsvm.so
+#01 pc 000000000163cef4 /system/lib64/ndk/libjsvm.so(v8::internal::Heap::AllocateExternalBackingStore(std::__h::function<void* (unsigned long)> const&, unsigned long)+212)
+#02 pc 0000000001777454 /system/lib64/ndk/libjsvm.so(v8::internal::BackingStore::Allocate(v8::internal::Isolate*, unsigned long, v8::internal::SharedFlag, v8::internal::InitializedFlag)+220)
+#03 pc 000000000149e420 /system/lib64/ndk/libjsvm.so
+#04 pc 000000000149d99c /system/lib64/ndk/libjsvm.so(v8::internal::Builtin_ArrayBufferConstructor(int, unsigned long*, v8::internal::Isolate*)+260)
+#05 pc 0000000000f75984 /system/lib64/ndk/libjsvm.so(Builtins_CEntry_Return1_ArgvOnStack_BuiltinExit+100)
+#06 pc 0000000000ee6e40 /system/lib64/ndk/libjsvm.so(Builtins_JSBuiltinsConstructStub+320)
+#07 pc 000000000102eae4 /system/lib64/ndk/libjsvm.so(Builtins_ConstructHandler+644)
+#08 pc 0000000000ee9b88 /system/lib64/ndk/libjsvm.so(Builtins_InterpreterEntryTrampoline+264)
+#09 pc 0000000000ee9b88 /system/lib64/ndk/libjsvm.so(Builtins_InterpreterEntryTrampoline+264)
+// [End Js_MemoryException1]

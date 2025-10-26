@@ -1,0 +1,315 @@
+[2025-05-12T09:32:46.619] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-12T09:32:47.103] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: false,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-12T09:32:47.125] [DEBUG] debug-file - hvigorfile, resolving D:\LiuDongHai\FAQ最佳实践资料\BestPractices\BestPractices\DevelopmentPractice\NonSameLayerRendering\hvigorfile.ts
+[2025-05-12T09:32:48.789] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: appTasks], plugins: [] } }
+[2025-05-12T09:32:48.986] [DEBUG] debug-file - hvigor build process will be closed with an error.
+[2025-05-12T09:32:48.996] [WARN] debug-file - BUILD FAILED in 1 s 912 ms 
+[2025-05-12T09:32:46.621] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-12T09:32:49.011] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-12T09:32:47.105] [DEBUG] debug-file - Since current hvigor version 5.17.0 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2025-05-12T09:32:48.790] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: appTasks]
+[2025-05-12T09:32:48.988] [DEBUG] debug-file - ERROR: stacktrace = Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-12T09:32:49.008] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-12T09:32:46.623] [DEBUG] debug-file - env: daemon=false
+[2025-05-12T09:32:49.014] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-12T09:32:47.105] [DEBUG] debug-file - Cache service initialization finished in 2 ms 
+[2025-05-12T09:32:48.988] [ERROR] debug-file - Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-12T09:32:49.009] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-12T09:32:46.623] [DEBUG] debug-file - no-daemon, use the parent process.execArgv --max-old-space-size=8192,--expose-gc
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Clear worker 0.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Worker 0 has been cleared.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Clear worker 1.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Worker 1 has been cleared.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-12T09:32:49.016] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-12T09:32:49.025] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-12T09:32:49.029] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-12T09:32:49.030] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2025-05-12T09:32:49.030] [DEBUG] debug-file - Current worker pool is terminated.
+[2025-05-12T15:51:04.914] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-12T15:51:05.233] [DEBUG] debug-file - env: daemon=true
+[2025-05-12T15:51:04.916] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-12T15:51:06.089] [DEBUG] debug-file - java daemon tryConnect failed Error: connect ECONNREFUSED 127.0.0.1:45050
+[2025-05-12T15:51:06.095] [DEBUG] debug-file - java daemon started at port 45050 pid 17184
+[2025-05-12T15:51:06.122] [DEBUG] debug-file - session manager: set active socket. socketId=anqZBjvNsk9q37FuAAAB
+[2025-05-12T15:51:06.815] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-12T15:51:06.835] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-12T15:51:06.836] [DEBUG] debug-file - Since current hvigor version 5.17.0 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2025-05-12T15:51:06.839] [DEBUG] debug-file - Cache service initialization finished in 4 ms 
+[2025-05-12T15:51:06.853] [DEBUG] debug-file - hvigorfile, resolving D:\LiuDongHai\FAQ最佳实践资料\BestPractices\BestPractices\DevelopmentPractice\NonSameLayerRendering\hvigorfile.ts
+[2025-05-12T15:51:08.439] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2025-05-12T15:51:08.439] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2025-05-12T15:51:08.636] [DEBUG] debug-file - hvigor build process will be closed with an error.
+[2025-05-12T15:51:08.637] [DEBUG] debug-file - ERROR: stacktrace = Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-12T15:51:08.638] [ERROR] debug-file - Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-12T15:51:08.645] [WARN] debug-file - BUILD FAILED in 1 s 824 ms 
+[2025-05-12T15:51:08.655] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-12T15:51:08.655] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-12T15:51:08.657] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-12T15:51:08.659] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-12T15:51:08.659] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-12T15:51:08.660] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-12T15:51:08.663] [DEBUG] debug-file - Cleanup worker 0.
+[2025-05-12T15:51:08.663] [DEBUG] debug-file - Worker 0 has been cleaned up.
+[2025-05-12T15:51:08.663] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-12T15:51:08.663] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-12T15:51:08.663] [DEBUG] debug-file - Cleanup worker 1.
+[2025-05-12T15:51:08.663] [DEBUG] debug-file - Worker 1 has been cleaned up.
+[2025-05-12T15:51:08.664] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-12T15:51:08.664] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-12T15:51:08.670] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-12T15:51:08.677] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-12T15:51:08.677] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-12T15:51:08.678] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-12T15:51:08.678] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2025-05-13T15:27:33.512] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-13T15:27:33.835] [DEBUG] debug-file - env: daemon=true
+[2025-05-13T15:27:33.515] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-13T15:27:34.726] [DEBUG] debug-file - java daemon tryConnect failed Error: connect ECONNREFUSED 127.0.0.1:45050
+[2025-05-13T15:27:34.732] [DEBUG] debug-file - java daemon started at port 45050 pid 19412
+[2025-05-13T15:27:34.756] [DEBUG] debug-file - session manager: set active socket. socketId=Rp0KAOiA6eNweB92AAAB
+[2025-05-13T15:27:35.459] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-13T15:27:35.477] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-13T15:27:35.479] [DEBUG] debug-file - Since current hvigor version 5.17.0 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2025-05-13T15:27:35.481] [DEBUG] debug-file - Cache service initialization finished in 4 ms 
+[2025-05-13T15:27:35.493] [DEBUG] debug-file - hvigorfile, resolving D:\LiuDongHai\FAQ最佳实践资料\BestPractices\BestPractices\DevelopmentPractice\NonSameLayerRendering\hvigorfile.ts
+[2025-05-13T15:27:37.114] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2025-05-13T15:27:37.114] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2025-05-13T15:27:37.308] [DEBUG] debug-file - hvigor build process will be closed with an error.
+[2025-05-13T15:27:37.309] [DEBUG] debug-file - ERROR: stacktrace = Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-13T15:27:37.309] [ERROR] debug-file - Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-13T15:27:37.316] [WARN] debug-file - BUILD FAILED in 1 s 852 ms 
+[2025-05-13T15:27:37.327] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-13T15:27:37.327] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-13T15:27:37.328] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-13T15:27:37.330] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-13T15:27:37.330] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-13T15:27:37.331] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-13T15:27:37.333] [DEBUG] debug-file - Cleanup worker 0.
+[2025-05-13T15:27:37.334] [DEBUG] debug-file - Worker 0 has been cleaned up.
+[2025-05-13T15:27:37.334] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-13T15:27:37.334] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-13T15:27:37.334] [DEBUG] debug-file - Cleanup worker 1.
+[2025-05-13T15:27:37.334] [DEBUG] debug-file - Worker 1 has been cleaned up.
+[2025-05-13T15:27:37.334] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-13T15:27:37.334] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-13T15:27:37.341] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-13T15:27:37.342] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-13T15:27:37.343] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-13T15:27:37.343] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-13T15:27:37.344] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2025-05-15T10:37:33.616] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-15T10:37:33.933] [DEBUG] debug-file - env: daemon=true
+[2025-05-15T10:37:33.618] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-15T10:37:34.736] [DEBUG] debug-file - java daemon tryConnect failed Error: connect ECONNREFUSED 127.0.0.1:45050
+[2025-05-15T10:37:34.743] [DEBUG] debug-file - java daemon started at port 45050 pid 21960
+[2025-05-15T10:37:34.779] [DEBUG] debug-file - session manager: set active socket. socketId=pexVYVJnokvAG0BIAAAB
+[2025-05-15T10:37:35.460] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-15T10:37:35.478] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-15T10:37:35.480] [DEBUG] debug-file - Since current hvigor version 5.17.0 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2025-05-15T10:37:35.482] [DEBUG] debug-file - Cache service initialization finished in 4 ms 
+[2025-05-15T10:37:35.495] [DEBUG] debug-file - hvigorfile, resolving D:\LiuDongHai\FAQ最佳实践资料\BestPractices\BestPractices\DevelopmentPractice\NonSameLayerRendering\hvigorfile.ts
+[2025-05-15T10:37:37.140] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2025-05-15T10:37:37.140] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2025-05-15T10:37:37.327] [DEBUG] debug-file - hvigor build process will be closed with an error.
+[2025-05-15T10:37:37.328] [DEBUG] debug-file - ERROR: stacktrace = Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-15T10:37:37.328] [ERROR] debug-file - Error: Invalid project path.
+	 Detail: Please move the project to a valid path
+    at OhosLogger.errorMessageExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\log\hvigor-log.js:1:3224)
+    at OhosLogger._printAllExit (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\utils\log\ohos-logger.js:1:1274)
+    at ProjectInspection.exitOnError (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\tasks\inspection\project-inspection.js:1:672)
+    at AppPlugin.doProjectInspection (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\common\abstract-project-plugin.js:1:1585)
+    at PluginFactory.getAppPlugin (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js:1:2159)
+    at appTasks (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js:1:593)
+    at bindSystemPlugins (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:5900)
+    at evaluateNodeVigorFile (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:8450)
+    at evalProject (D:\LiuDongHai\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js:1:3495)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+[2025-05-15T10:37:37.335] [WARN] debug-file - BUILD FAILED in 1 s 870 ms 
+[2025-05-15T10:37:37.346] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-15T10:37:37.346] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-15T10:37:37.348] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-15T10:37:37.349] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-15T10:37:37.349] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-15T10:37:37.350] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-15T10:37:37.352] [DEBUG] debug-file - Cleanup worker 0.
+[2025-05-15T10:37:37.353] [DEBUG] debug-file - Worker 0 has been cleaned up.
+[2025-05-15T10:37:37.353] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-15T10:37:37.353] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-15T10:37:37.353] [DEBUG] debug-file - Cleanup worker 1.
+[2025-05-15T10:37:37.353] [DEBUG] debug-file - Worker 1 has been cleaned up.
+[2025-05-15T10:37:37.353] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-15T10:37:37.353] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-15T10:37:37.360] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-15T10:37:37.362] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-15T10:37:37.363] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-15T10:37:37.363] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-15T10:37:37.364] [DEBUG] debug-file - worker[1] exits with exit code 0.

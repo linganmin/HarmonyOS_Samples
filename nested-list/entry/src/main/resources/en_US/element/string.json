@@ -1,0 +1,180 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NestedList"
+    },
+    {
+      "name": "common_service",
+      "value": "Common service"
+    },
+    {
+      "name": "title",
+      "value": "My services"
+    },
+    {
+      "name": "common_font_family",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "check_in",
+      "value": "Check-in & Seat selection"
+    },
+    {
+      "name": "refund",
+      "value": "Self-service refund"
+    },
+    {
+      "name": "food",
+      "value": "Food reservation"
+    },
+    {
+      "name": "ticket",
+      "value": "Air ticket redemption"
+    },
+    {
+      "name": "Travel",
+      "value": "Travel mall"
+    },
+    {
+      "name": "itinerary",
+      "value": "My itinerary"
+    },
+    {
+      "name": "order",
+      "value": "My order"
+    },
+    {
+      "name": "reservation",
+      "value": "Air ticket reservation"
+    },
+    {
+      "name": "Retrofit",
+      "value": "Retrofit service"
+    },
+    {
+      "name": "purchase",
+      "value": "Luggage purchase"
+    },
+    {
+      "name": "light",
+      "value": "Travel light"
+    },
+    {
+      "name": "lounge",
+      "value": "VIP lounge"
+    },
+    {
+      "name": "running",
+      "value": "Ground running"
+    },
+    {
+      "name": "gift",
+      "value": "Gift card"
+    },
+    {
+      "name": "fund",
+      "value": "Self-service refund"
+    },
+    {
+      "name": "invoice",
+      "value": "Electronic invoice"
+    },
+    {
+      "name": "pass",
+      "value": "Boarding pass"
+    },
+    {
+      "name": "Baggage",
+      "value": "Baggage inquiry"
+    },
+    {
+      "name": "feed",
+      "value": "Food reservation"
+    },
+    {
+      "name": "Subway",
+      "value": "Subway travel"
+    },
+    {
+      "name": "transfer",
+      "value": "Airport transfer"
+    },
+    {
+      "name": "tourism",
+      "value": "Transit tourism"
+    },
+    {
+      "name": "family",
+      "value": "My family"
+    },
+    {
+      "name": "redemption",
+      "value": "Air ticket redemption"
+    },
+    {
+      "name": "complement",
+      "value": "Integral complement"
+    },
+    {
+      "name": "paradise",
+      "value": "Integral paradise"
+    },
+    {
+      "name": "Points",
+      "value": "Points mall"
+    },
+    {
+      "name": "calculator",
+      "value": "Integrating calculator"
+    },
+    {
+      "name": "network",
+      "value": "Service network"
+    },
+    {
+      "name": "Corporate",
+      "value": "Corporate travel"
+    },
+    {
+      "name": "guide",
+      "value": "Travel guide"
+    },
+    {
+      "name": "ride",
+      "value": "First ride guide"
+    },
+    {
+      "name": "more",
+      "value": "More discoveries"
+    },
+    {
+      "name": "account",
+      "value": "Green account"
+    },
+    {
+      "name": "trip",
+      "value": "Schedule a trip"
+    },
+    {
+      "name": "Tourism",
+      "value": "Tourism service"
+    },
+    {
+      "name": "entertainment",
+      "value": "Light entertain"
+    },
+    {
+      "name": "assistant",
+      "value": "Travel assistant"
+    }
+  ]
+}

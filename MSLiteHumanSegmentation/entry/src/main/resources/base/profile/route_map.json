@@ -1,0 +1,9 @@
+{
+  "routerMap": [
+    {
+      "name": "ImageGenerate",
+      "pageSourceFile": "src/main/ets/pages/ImageGenerate.ets",
+      "buildFunction": "ImageGeneratePageBuilder"
+    }
+  ]
+}

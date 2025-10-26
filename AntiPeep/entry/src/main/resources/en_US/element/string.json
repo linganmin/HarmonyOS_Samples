@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ScreenPrivacyProtection"
+    },
+    {
+      "name": "asset_overview",
+      "value": "Asset Overview"
+    },
+    {
+      "name": "yesterday_earnings",
+      "value": "Yesterday's earnings"
+    },
+    {
+      "name": "anti_peep_not_enable",
+      "value": "Privacy protection capability not activated"
+    },
+    {
+      "name": "device_not_supported",
+      "value": "Your device does not support privacy protection capability"
+    },
+    {
+      "name": "my_assets",
+      "value": "My assets (￥)"
+    },
+    {
+      "name": "flexible_access",
+      "value": "Flexible access"
+    },
+    {
+      "name": "stable_financial_management",
+      "value": "Pension Insurance"
+    },
+    {
+      "name": "advanced_financial_management",
+      "value": "Equity Fund"
+    },
+    {
+      "name": "permission_hide",
+      "value": "Enable the system's anti-peep feature to protect the app's privacy."
+    }
+  ]
+}

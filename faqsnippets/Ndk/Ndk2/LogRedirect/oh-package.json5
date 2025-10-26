@@ -1,0 +1,11 @@
+{
+  "name": "logredirect",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "liblogredirect.so": "file:./src/main/cpp/types/liblogredirect"
+  }
+}

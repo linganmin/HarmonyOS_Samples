@@ -1,0 +1,152 @@
+{
+  "float": [
+    {
+      "name": "page_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "title_row_height",
+      "value": "56vp"
+    },
+    {
+      "name": "title_font",
+      "value": "20fp"
+    },
+    {
+      "name": "title_font_line",
+      "value": "26vp"
+    },
+    {
+      "name": "list_row_height",
+      "value": "72vp"
+    },
+    {
+      "name": "file_name_font",
+      "value": "16fp"
+    },
+    {
+      "name": "file_name_font_line",
+      "value": "22vp"
+    },
+    {
+      "name": "file_name_margin",
+      "value": "2vp"
+    },
+    {
+      "name": "file_size_font",
+      "value": "14fp"
+    },
+    {
+      "name": "file_size_font_line",
+      "value": "19vp"
+    },
+    {
+      "name": "operation_row_line",
+      "value": "28vp"
+    },
+    {
+      "name": "operation_row_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "operation_font",
+      "value": "12fp"
+    },
+    {
+      "name": "operation_font_line",
+      "value": "16vp"
+    },
+    {
+      "name": "operation_left_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "list_row_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "preview_dialog_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "preview_title_font",
+      "value": "20fp"
+    },
+    {
+      "name": "preview_title_font_line",
+      "value": "26vp"
+    },
+    {
+      "name": "preview_button_font",
+      "value": "16fp"
+    },
+    {
+      "name": "preview_button_font_line",
+      "value": "21vp"
+    },
+    {
+      "name": "preview_content_font",
+      "value": "14fp"
+    },
+    {
+      "name": "preview_content_font_line",
+      "value": "19vp"
+    },
+    {
+      "name": "preview_title_margin",
+      "value": "15vp"
+    },
+    {
+      "name": "preview_operation_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "preview_operation_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "preview_operation_row_height",
+      "value": "40vp"
+    },
+    {
+      "name": "preview_content_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "preview_dialog_height",
+      "value": "500vp"
+    },
+    {
+      "name": "preview_dialog_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "compress_row_height",
+      "value": "56vp"
+    },
+    {
+      "name": "compress_list_font",
+      "value": "16fp"
+    },
+    {
+      "name": "compress_list_font_line",
+      "value": "22vp"
+    },
+    {
+      "name": "compress_dialog_height",
+      "value": "400vp"
+    },
+    {
+      "name": "rawfile_button_font",
+      "value": "16fp"
+    },
+    {
+      "name": "rawfile_button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "rawfile_button_margin",
+      "value": "16vp"
+    }
+  ]
+}

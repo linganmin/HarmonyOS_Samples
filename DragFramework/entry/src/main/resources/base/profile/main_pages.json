@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/image/Image",
+    "pages/hyperlink/HyperLink",
+    "pages/richEditor/RichEditor",
+    "pages/textInput/TextInput",
+    "pages/textarea/TextArea",
+    "pages/list/List",
+    "pages/background/Background",
+    "pages/aiRecognition/AIRecognition",
+    "pages/watermark/Watermark"
+  ]
+}

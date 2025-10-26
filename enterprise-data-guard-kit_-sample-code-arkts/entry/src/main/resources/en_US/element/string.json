@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Demo_title",
+      "value": "DataGuard sample"
+    },
+    {
+      "name": "scanCommonDir",
+      "value": "1: Scan common directory"
+    },
+    {
+      "name": "scanAllFiles",
+      "value": "1.1: Scan all files"
+    },
+    {
+      "name": "openFile",
+      "value": "2: Open file"
+    },
+    {
+      "name": "deleteFile",
+      "value": "2.1: Delete file"
+    },
+    {
+      "name": "setFileTags",
+      "value": "3: Set file tags"
+    },
+    {
+      "name": "queryFileTags",
+      "value": "3.1: Query file tags"
+    },
+    {
+      "name": "setKIAFileList",
+      "value": "4: Deliver KIA list"
+    },
+    {
+      "name": "setAddKIAFileList",
+      "value": "4.1: Deliver incremental KIA list"
+    },
+    {
+      "name": "setDeleteKIAFileList",
+      "value": "4.2: Delete some KIA records"
+    },
+    {
+      "name": "updatePolicy",
+      "value": "5: Deliver policy"
+    },
+    {
+      "name": "updateIncrementalPolicy",
+      "value": "5.1: Update policy incrementally"
+    },
+    {
+      "name": "queryFileUri",
+      "value": "6: Query file URI"
+    },
+    {
+      "name": "subscriptionKIAEvent",
+      "value": "7.1: Subscribing to KIA Events"
+    },
+    {
+      "name": "UnsubscriptionKIAEvent",
+      "value": "7.2: Unsubscribing from KIA Events"
+    },
+    {
+      "name": "setKiaWatermarkImage",
+      "value": "8: Setting a KIA Watermark Image"
+    }
+  ]
+}

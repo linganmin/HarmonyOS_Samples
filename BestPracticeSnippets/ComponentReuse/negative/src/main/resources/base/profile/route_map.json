@@ -1,0 +1,39 @@
+{
+  "routerMap": [
+    {
+      "name": "NoReuseScene1",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene1.ets",
+      "buildFunction": "buildNoReuseScene1"
+    },
+    {
+      "name": "NoReuseScene2_StructureOne",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene2_StructureOne.ets",
+      "buildFunction": "buildNoReuseScene2_StructureOne"
+    },
+    {
+      "name": "NoReuseScene2_StructureTwo",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene2_StructureTwo.ets",
+      "buildFunction": "buildNoReuseScene2_StructureTwo"
+    },
+    {
+      "name": "NoReuseScene3",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene3.ets",
+      "buildFunction": "buildNoReuseScene3"
+    },
+    {
+      "name": "ImproperReuseOfComponentsScene1",
+      "pageSourceFile": "src/main/ets/pages/ImproperReuseOfComponentsScene1.ets",
+      "buildFunction": "buildImproperReuseOfComponentsScene1"
+    },
+    {
+      "name": "ImproperReuseOfComponentsScene2",
+      "pageSourceFile": "src/main/ets/pages/ImproperReuseOfComponentsScene2.ets",
+      "buildFunction": "buildImproperReuseOfComponentsScene2"
+    },
+    {
+      "name": "ImproperReuseOfComponentsScene3",
+      "pageSourceFile": "src/main/ets/pages/ImproperReuseOfComponentsScene3.ets",
+      "buildFunction": "buildImproperReuseOfComponentsScene3"
+    }
+  ]
+}

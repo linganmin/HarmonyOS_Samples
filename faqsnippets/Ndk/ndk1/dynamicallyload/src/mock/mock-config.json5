@@ -1,0 +1,5 @@
+{
+  "libdynamicallyload.so": {
+    "source": "src/mock/Libdynamicallyload.mock.ets"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web用户代理"
+    },
+    {
+      "name": "user_agent",
+      "value": "自定义用户代理：%s"
+    },
+    {
+      "name": "default_agent",
+      "value": "默认用户代理：%s"
+    },
+    {
+      "name": "refresh",
+      "value": "刷新"
+    },
+    {
+      "name": "get_agent",
+      "value": "获取自定义用户代理"
+    },
+    {
+      "name": "set_agent",
+      "value": "设置自定义用户代理"
+    },
+    {
+      "name": "get_default_agent",
+      "value": "获取默认用户代理"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于User Agent的设置和获取"
+    }
+  ]
+}

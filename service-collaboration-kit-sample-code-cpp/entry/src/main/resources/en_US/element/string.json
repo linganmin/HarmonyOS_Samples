@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NotepadMock"
+    },
+    {
+      "name": "Take_photo",
+      "value": "Take a photo"
+    },
+    {
+      "name": "Scan",
+      "value": "Scan document"
+    },
+    {
+      "name": "Picker_photo",
+      "value": "Select images"
+    },
+    {
+      "name": "Photo_cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "serviceCollaButton",
+      "value": "Use remote device to insert images"
+    },
+    {
+      "name": "Other_device",
+      "value": "Import from another device"
+    },
+    {
+      "name": "using",
+      "value": "Using %s to "
+    },
+    {
+      "name": "use",
+      "value": "Use %s to "
+    }
+  ]
+}

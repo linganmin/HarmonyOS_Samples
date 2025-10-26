@@ -1,0 +1,123 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:launcher",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:launcher",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home",
+              "entity.system.browsable"
+            ],
+            "actions": [
+              "action.system.home",
+              "ohos.want.action.viewData"
+            ],
+            "uris": [
+              {
+                "scheme": "https",
+                "host": "sharekitdemo.drcn.agconnect.link"
+              },
+              {
+                "scheme": "file",
+                "type": "com.example.sharekit_sample_demo.share",
+                "maxFileSupported": 1
+              },
+              {
+                "scheme": "file",
+                "linkFeature": "FileOpen",
+                "type": "org.openxmlformats.wordprocessingml.document",
+                "maxFileSupported": 1
+              }
+            ],
+            "domainVerify": true
+          }
+        ]
+      },
+      {
+        "name": "ShareUIAbility",
+        "srcEntry": "./ets/entryability/ShareUIAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:launcher",
+        "label": "$string:ShareUIAbility_label",
+        "startWindowIcon": "$media:launcher",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "actions": [
+              "ohos.want.action.sendData"
+            ],
+            "uris": [
+              {
+                "scheme": "file",
+                "utd": "general.text",
+                "maxFileSupported": 1
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "ShareExtensionAbility",
+        "srcEntry": "./ets/extensionAbility/ShareExtAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:launcher",
+        "label": "$string:ShareExtensionAbility_label",
+        "type": "share",
+        "exported": true,
+        "skills": [
+          {
+            "actions": [
+              "ohos.want.action.sendData"
+            ],
+            "uris": [
+              {
+                "scheme": "file",
+                "utd": "general.image",
+                "maxFileSupported": 3
+              }
+            ]
+          }
+        ],
+        "metadata": [
+          {
+            "name": "systemShare.uiExtension.layout.preferredHeight",
+            "value": "400"
+          }
+        ]
+      }
+    ],
+    "metadata": [
+      {
+        "name": "shareType",
+        "value": "sharekitModel",
+      },
+      {
+        "name": "shareBundleName",
+        "value": "com.example.sharekit_sample_demo",
+      }
+    ]
+  }
+}

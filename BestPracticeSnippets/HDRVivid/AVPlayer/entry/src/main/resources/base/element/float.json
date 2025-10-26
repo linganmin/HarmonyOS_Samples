@@ -1,0 +1,244 @@
+{
+  "float": [
+    {
+      "name": "opacity_9",
+      "value": "0.9"
+    },
+    {
+      "name": "opacity_4",
+      "value": "0.4"
+    },
+    {
+      "name": "opacity_half",
+      "value": "0.5"
+    },
+    {
+      "name": "opacity_6",
+      "value": "0.6"
+    },
+    {
+      "name": "font_size_20",
+      "value": "20fp"
+    },
+    {
+      "name": "font_size_10",
+      "value": "10fp"
+    },
+    {
+      "name": "fabulous_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "name_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "new_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "font_size_18",
+      "value": "18fp"
+    },
+    {
+      "name": "input_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "avatar_borderRadius",
+      "value": "20vp"
+    },
+    {
+      "name": "list_img_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "time_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "list_img_height",
+      "value": "76vp"
+    },
+    {
+      "name": "list_img_width",
+      "value": "135vp"
+    },
+    {
+      "name": "list_img_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "back_position_x",
+      "value": "16vp"
+    },
+    {
+      "name": "padding_14",
+      "value": "14vp"
+    },
+    {
+      "name": "icon_size_large",
+      "value": "48vp"
+    },
+    {
+      "name": "icon_size_normal",
+      "value": "24vp"
+    },
+    {
+      "name": "margin_padding_lg",
+      "value": "24vp"
+    },
+    {
+      "name": "image_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "avatar_size",
+      "value": "40vp"
+    },
+    {
+      "name": "concern_size",
+      "value": "20vp"
+    },
+    {
+      "name": "concern_border_radius",
+      "value": "10vp"
+    },
+    {
+      "name": "concern_margin_bottom",
+      "value": "-8vp"
+    },
+    {
+      "name": "avatar_padding_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "fabulous_height",
+      "value": "32vp"
+    },
+    {
+      "name": "fabulous_width",
+      "value": "32vp"
+    },
+    {
+      "name": "fabulous_margin_bottom",
+      "value": "4vp"
+    },
+    {
+      "name": "space_30",
+      "value": "30vp"
+    },
+    {
+      "name": "side_margin_bottom",
+      "value": "36vp"
+    },
+    {
+      "name": "side_width",
+      "value": "40vp"
+    },
+    {
+      "name": "name_padding_left",
+      "value": "10vp"
+    },
+    {
+      "name": "video_des_margin_bottom",
+      "value": "2vp"
+    },
+    {
+      "name": "video_margin_bottom",
+      "value": "36vp"
+    },
+    {
+      "name": "video_side_margin_bottom",
+      "value": "164vp"
+    },
+    {
+      "name": "font_size_14",
+      "value": "14fp"
+    },
+    {
+      "name": "font_size_12",
+      "value": "12fp"
+    },
+    {
+      "name": "margin_4",
+      "value": "4vp"
+    },
+    {
+      "name": "bottom_height",
+      "value": "40vp"
+    },
+    {
+      "name": "size_24",
+      "value": "24vp"
+    },
+    {
+      "name": "image_size_12",
+      "value": "12vp"
+    },
+    {
+      "name": "button_back_size",
+      "value": "40vp"
+    },
+    {
+      "name": "bottom_space",
+      "value": "12vp"
+    },
+    {
+      "name": "right_space",
+      "value": "12vp"
+    },
+    {
+      "name": "margin_small",
+      "value": "8vp"
+    },
+    {
+      "name": "padding_16",
+      "value": "16vp"
+    },
+    {
+      "name": "padding_15",
+      "value": "15vp"
+    },
+    {
+      "name": "padding_12",
+      "value": "12vp"
+    },
+    {
+      "name": "padding_11",
+      "value": "11vp"
+    },
+    {
+      "name": "button_content_height",
+      "value": "20vp"
+    },
+    {
+      "name": "button_content_width",
+      "value": "56vp"
+    },
+    {
+      "name": "size_6",
+      "value": "6vp"
+    },
+    {
+      "name": "size_8",
+      "value": "8vp"
+    },
+    {
+      "name": "size_16",
+      "value": "16vp"
+    },
+    {
+      "name": "size_20",
+      "value": "20vp"
+    },
+    {
+      "name": "size_44",
+      "value": "44vp"
+    },
+    {
+      "name": "space_48",
+      "value": "48vp"
+    }
+  ]
+}

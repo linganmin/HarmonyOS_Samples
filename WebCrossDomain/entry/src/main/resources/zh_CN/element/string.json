@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web跨域场景案例"
+    },
+    {
+      "name": "internet_reason",
+      "value": "您需要获取网络权限以获取网络资源显示数据。"
+    },
+    {
+      "name": "project_name",
+      "value": "Web跨域场景案例"
+    },
+    {
+      "name": "router_back",
+      "value": "返回"
+    },
+    {
+      "name": "scene_name1",
+      "value": "本地资源跨域"
+    },
+    {
+      "name": "scene_name2",
+      "value": "远程请求跨域"
+    },
+    {
+      "name": "scene_name3",
+      "value": "跨域Cookies设置"
+    },
+    {
+      "name": "scene_name4",
+      "value": "自定义协议跨域"
+    },
+    {
+      "name": "CustomProtocol_toast",
+      "value": "已拦截自定义协议"
+    },
+    {
+      "name": "CookiesSettings_button",
+      "value": "点击按钮，传递cookie"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "routerMap": [
+    {
+      "name": "SameItemListPage",
+      "pageSourceFile": "src/main/ets/pages/SameItemListPage.ets",
+      "buildFunction": "buildSameItemListPage"
+    },
+    {
+      "name": "DifferentItemListPage",
+      "pageSourceFile": "src/main/ets/pages/DifferentItemListPage.ets",
+      "buildFunction": "buildDifferentItemListPage"
+    },
+    {
+      "name": "CombineItemListPage",
+      "pageSourceFile": "src/main/ets/pages/CombineItemListPage.ets",
+      "buildFunction": "buildCombineItemListPage"
+    },
+    {
+      "name": "GroupLayoutListPage",
+      "pageSourceFile": "src/main/ets/pages/GroupLayoutListPage.ets",
+      "buildFunction": "buildGroupLayoutListPage"
+    },
+    {
+      "name": "TabsCeilingListPage",
+      "pageSourceFile": "src/main/ets/pages/TabsCeilingListPage.ets",
+      "buildFunction": "buildTabsCeilingListPage"
+    }
+  ]
+}

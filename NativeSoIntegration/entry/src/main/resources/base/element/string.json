@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NativeSoIntegration"
+    },
+    {
+      "name": "main_title",
+      "value": "Native third-party SO library integration"
+    },
+    {
+      "name": "native_so_add",
+      "value": "Calculate X + Y"
+    },
+    {
+      "name": "native_so_dlopen_sub",
+      "value": "Calculate X - Y"
+    },
+    {
+      "name": "arkts_so_multiply",
+      "value": "Calculate X * Y"
+    },
+    {
+      "name": "parameter_x",
+      "value": "Parameter X"
+    },
+    {
+      "name": "parameter_x_input",
+      "value": "Input the parameter X..."
+    },
+    {
+      "name": "parameter_y",
+      "value": "Parameter Y"
+    },
+    {
+      "name": "parameter_y_input",
+      "value": "Input the parameter Y..."
+    },
+    {
+      "name": "native_so_content",
+      "value": "Integrate the SO library on the Native side by compiling the dynamic link library to complete the addition operation, the result is: "
+    },
+    {
+      "name": "native_so_dlopen_content",
+      "value": "Integrate the SO library on the Native side by dlopen to complete the subtraction operation, the result is: "
+    },
+    {
+      "name": "arkts_so_content",
+      "value": "Integrate the SO library that has been adapted to Native On the ArkTS side to complete the multiplication operation, the result is: "
+    },
+    {
+      "name": "input_alert",
+      "value": "Please input the parameters X and Y and try again!"
+    }
+  ]
+}

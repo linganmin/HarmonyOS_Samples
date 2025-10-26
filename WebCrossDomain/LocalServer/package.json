@@ -1,0 +1,23 @@
+{
+  "name": "serve",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "forever:start": "forever start app.js",
+    "forever:stop": "forever stop app.js",
+    "forever:restart": "forever restart app.js",
+    "forever:list": "forever list",
+    "forever:kill": "forever stopall"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "forever": "^4.0.3",
+    "vhost": "^3.0.2"
+  }
+}

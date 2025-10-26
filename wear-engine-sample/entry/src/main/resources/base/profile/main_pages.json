@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/DevicePage",
+    "pages/MonitorPage",
+    "pages/ServicePage",
+    "pages/P2pPage",
+    "pages/NotifyPage",
+    "pages/SensorPage",
+    "pages/AuthPage"
+  ]
+}

@@ -1,0 +1,344 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "description"
+    },
+    {
+      "name": "entryability_label",
+      "value": "sample"
+    },
+    {
+      "name": "cloud_db_label",
+      "value": "Cloud Database"
+    },
+    {
+      "name": "tips_label",
+      "value": "Tips:"
+    },
+    {
+      "name": "data_label",
+      "value": "Data:"
+    },
+    {
+      "name": "publishButton_label",
+      "value": "Upload"
+    },
+    {
+      "name": "popUpDesc_label",
+      "value": "Confirm Delete?"
+    },
+    {
+      "name": "deleteButton_label",
+      "value": "Delete"
+    },
+    {
+      "name": "cloud_storage_label",
+      "value": "Cloud Storage"
+    },
+    {
+      "name": "cancelButton_label",
+      "value": "Cancel"
+    },
+    {
+      "name": "confirmButton_label",
+      "value": "Confirm"
+    },
+    {
+      "name": "no_photo",
+      "value": "You don't have any images on your phone."
+    },
+    {
+      "name": "cloudStorage_description_title",
+      "value": "Tips:"
+    },
+    {
+      "name": "cloudStorage_uploadButton",
+      "value": "Upload Image"
+    },
+    {
+      "name": "list_left_title",
+      "value": "My Posts"
+    },
+    {
+      "name": "list_right_title",
+      "value": "Release Time"
+    },
+    {
+      "name": "main_page_title",
+      "value": "Cloud Development"
+    },
+    {
+      "name": "auth_service_title",
+      "value": "Auth Service"
+    },
+    {
+      "name": "auth_result_name",
+      "value": "nickname"
+    },
+    {
+      "name": "auth_service_description",
+      "value": "Secure and reliable user authentication system."
+    },
+    {
+      "name": "auth_service_login_button_text",
+      "value": "Login"
+    },
+    {
+      "name": "auth_service_logout_button_text",
+      "value": "Log out"
+    },
+    {
+      "name": "auth_service_delete_user_button_text",
+      "value": "Delete User"
+    },
+    {
+      "name": "auth_dialog_title",
+      "value": "Mobile verification code login"
+    },
+    {
+      "name": "auth_dialog_number_placeholder",
+      "value": "phone number"
+    },
+    {
+      "name": "auth_dialog_code_placeholder",
+      "value": "code"
+    },
+    {
+      "name": "auth_dialog_get_code_button_text",
+      "value": "Get code"
+    },
+    {
+      "name": "auth_dialog_auth_button_text",
+      "value": "Authorize"
+    },
+    {
+      "name": "auth_result_user_id",
+      "value": "user id"
+    },
+    {
+      "name": "auth_result_mobile_number",
+      "value": "mobile number"
+    },
+    {
+      "name": "auth_result_avatar",
+      "value": "avatar"
+    },
+    {
+      "name": "auth_result_registered",
+      "value": "registered"
+    },
+    {
+      "name": "auth_result_last_login",
+      "value": "last login"
+    },
+    {
+      "name": "cloud_function_title",
+      "value": "Cloud Functions"
+    },
+    {
+      "name": "cloud_database_title",
+      "value": "Cloud Database"
+    },
+    {
+      "name": "cloud_storage_title",
+      "value": "Cloud Storage"
+    },
+    {
+      "name": "cloud_periodic_prefetch_title",
+      "value": "Periodic prefetch"
+    },
+    {
+      "name": "cloud_function_description_main",
+      "value": "Easy to run code without managing servers."
+    },
+    {
+      "name": "cloud_function_description",
+      "value": "Click to create a key for sorting the cloud database, taking price query as an example."
+    },
+    {
+      "name": "cloud_function_button_text",
+      "value": "Create a key"
+    },
+    {
+      "name": "cloud_db_description_main",
+      "value": "Secure and trusted data management services."
+    },
+    {
+      "name": "login_warning_title",
+      "value": "Auth Error"
+    },
+    {
+      "name": "login_warning_message",
+      "value": "You must login to use this service"
+    },
+    {
+      "name": "cloudDB_Publications",
+      "value": "Query according to the key returned by the cloud function in ascending order. If the key does not exist, query according to the id in ascending order."
+    },
+    {
+      "name": "cloudDB_HighestHit",
+      "value": "Query by price in descending order"
+    },
+    {
+      "name": "cloudDB_SeeOnly",
+      "value": "My Posts"
+    },
+    {
+      "name": "cloudDB_new_record",
+      "value": "Add new data"
+    },
+    {
+      "name": "dialog_success_title",
+      "value": "Success"
+    },
+    {
+      "name": "dialog_success_message",
+      "value": "Successfully Added"
+    },
+    {
+      "name": "global_var_description",
+      "value": "Insert as global record"
+    },
+    {
+      "name": "cloudStorage_description",
+      "value": "Upload a picture, and the picture address will be displayed after uploading. The picture address will be displayed in the cloud database list."
+    },
+    {
+      "name": "cloudStorage_accessAddressLabel",
+      "value": "Access URL: "
+    },
+    {
+      "name": "cloudStorage_publicAccessAddressLabel",
+      "value": "Public URL: "
+    },
+    {
+      "name": "image_upload_label",
+      "value": "image uploading:"
+    },
+    {
+      "name": "cloudStorage_link1",
+      "value": "copy"
+    },
+    {
+      "name": "cloudStorage_link2",
+      "value": "copy"
+    },
+    {
+      "name": "db_option_edit",
+      "value": "Edit"
+    },
+    {
+      "name": "cloud_storage_description_main",
+      "value": "Efficient cloud storage. High speed, low cost file upload and download services."
+    },
+    {
+      "name": "cloudStorage_progressLabel",
+      "value": "Image uploading "
+    },
+    {
+      "name": "media_permission_reason",
+      "value": "App needs media permission to display Cloud Storage Features."
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "App needs internet permission to display Cloud Foundation Features."
+    },
+    {
+      "name": "cloudStorage_link_copy",
+      "value": "Copy"
+    },
+    {
+      "name": "common_prompt",
+      "value": "Warn"
+    },
+    {
+      "name": "common_login_fail",
+      "value": "Fail to login"
+    },
+    {
+      "name": "common_check_size",
+      "value": "The image size cannot exceed 2 MB."
+    },
+    {
+      "name": "cloud_function_button_text1",
+      "value": "Create a key 'price', returned in Promise mode."
+    },
+    {
+      "name": "cloud_function_button_text2",
+      "value": "Create a key 'id', returned in Callback mode."
+    },
+    {
+      "name": "cloudStorage_btn1",
+      "value": "Upload Files"
+    },
+    {
+      "name": "cloudStorage_btn2",
+      "value": "Download Files"
+    },
+    {
+      "name": "cloudStorage_btn3",
+      "value": "Delete Files"
+    },
+    {
+      "name": "cloudStorage_btn4",
+      "value": "Get the URL of the Files"
+    },
+    {
+      "name": "cloudStorage_btn5",
+      "value": "Get File List"
+    },
+    {
+      "name": "cloudStorage_btn6",
+      "value": "Get Metadata"
+    },
+    {
+      "name": "cloudStorage_btn7",
+      "value": "Set Metadata"
+    },
+    {
+      "name": "cloud_periodic_prefetch_description",
+      "value": "To implement periodic prefetch, register a task first, and the task will obtain the latest data every 12 hours."
+    },
+    {
+      "name": "cloud_prefetch_registerTask_text",
+      "value": "1. Register task"
+    },
+    {
+      "name": "cloud_prefetch_periodic_text",
+      "value": "2. Obtain data"
+    },
+    {
+      "name": "cloud_res_prefetch_periodic_label",
+      "value": "Periodic prefetch"
+    },
+    {
+      "name": "cloud_res_prefetch_install_label",
+      "value": "Prefetch during installation"
+    },
+    {
+      "name": "cloud_install_prefetch_description",
+      "value": "The function of prefetching during installation can take effect only when users open the app for the first time."
+    },
+    {
+      "name": "cloud_prefetch_desc",
+      "value": "Obtain prefetched result from the local cache in "
+    },
+    {
+      "name": "cloud_prefetch_desc_err",
+      "value": "Obtain prefetched result from the local cache failed"
+    },
+    {
+      "name": "cloud_prefetch_register",
+      "value": "Register Success"
+    },
+    {
+      "name": "cloud_prefetch_no_data",
+      "value": "no data now! please try again after 12 hours"
+    }
+  ]
+}

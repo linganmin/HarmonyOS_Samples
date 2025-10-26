@@ -1,0 +1,11 @@
+{
+  "app": {
+    "bundleName": "com.huawei.hmos.walletkitdemo",
+    "vendor": "example",
+    "versionCode": 1000000,
+    "versionName": "1.0.0",
+    "icon": "$media:ic_doubleball",
+    "label": "$string:app_name",
+    "distributedNotificationEnabled": true
+  }
+}

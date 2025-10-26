@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TaskPool使用示例"
+    },
+    {
+      "name": "priorityTask",
+      "value": "优先级任务示例"
+    },
+    {
+      "name": "PeriodicTask",
+      "value": "周期任务示例"
+    },
+    {
+      "name": "DelayedTask",
+      "value": "延时任务示例"
+    },
+    {
+      "name": "LongTask",
+      "value": "长任务示例"
+    },
+    {
+      "name": "DependentTask",
+      "value": "依赖任务示例"
+    },
+    {
+      "name": "TaskGroup",
+      "value": "TaskGroup示例"
+    },
+    {
+      "name": "SequenceRunner",
+      "value": "SequenceRunner示例"
+    },
+    {
+      "name": "ThreadCommunication",
+      "value": "线程交互示例"
+    },
+    {
+      "name": "ButtonCreate",
+      "value": "创建任务"
+    },
+    {
+      "name": "ButtonExe",
+      "value": "执行任务"
+    },
+    {
+      "name": "ButtonCancel",
+      "value": "取消任务"
+    },
+    {
+      "name": "TaskPoolToMain",
+      "value": "TaskPool线程与宿主线程通信"
+    },
+    {
+      "name": "WorkerToMain",
+      "value": "Worker线程与宿主线程通信"
+    },
+    {
+      "name": "TaskPoolToWorker",
+      "value": "TaskPool线程与Worker线程通信"
+    },
+    {
+      "name": "RunInfo",
+      "value": "运行信息"
+    },
+    {
+      "name": "ThreadInfo",
+      "value": "TaskPool线程信息"
+    }
+  ]
+}

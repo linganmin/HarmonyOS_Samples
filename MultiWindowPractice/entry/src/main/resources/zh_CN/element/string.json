@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiWindowPractice"
+    },
+    {
+      "name": "Question1",
+      "value": "页面被截断，无法上下滑动"
+    },
+    {
+      "name": "Question2",
+      "value": "XComponent视频播放显示不全"
+    },
+    {
+      "name": "Question3",
+      "value": "Video组件在分屏状态下被截断"
+    },
+    {
+      "name": "Question4",
+      "value": "子组件超出父组件范围"
+    },
+    {
+      "name": "Question5",
+      "value": "Image组件在分屏状态下比例异常"
+    },
+    {
+      "name": "Question6",
+      "value": "弹窗布局错乱"
+    },
+    {
+      "name": "Question7",
+      "value": "悬浮窗顶部操作栏无法响应操作"
+    },
+    {
+      "name": "Question8",
+      "value": "横屏悬浮窗未适配"
+    },
+    {
+      "name": "before_optimization",
+      "value": "优化前"
+    },
+    {
+      "name": "after_optimization",
+      "value": "优化后"
+    },
+    {
+      "name": "login_page",
+      "value": "登录界面"
+    },
+    {
+      "name": "login_more",
+      "value": "登录帐好以使用更多服务"
+    },
+    {
+      "name": "account",
+      "value": "帐号"
+    },
+    {
+      "name": "password",
+      "value": "密码"
+    },
+    {
+      "name": "login",
+      "value": "登录"
+    },
+    {
+      "name": "welcome",
+      "value": "欢迎使用我的应用"
+    },
+    {
+      "name": "dialog_content",
+      "value": "这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知，这是用户使用须知"
+    },
+    {
+      "name": "agree",
+      "value": "同意"
+    },
+    {
+      "name": "disagree",
+      "value": "不同意"
+    }
+  ]
+}

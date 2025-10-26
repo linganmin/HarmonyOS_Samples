@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "智能穿戴-地图应用"
+    },
+    {
+      "name": "request_permission_reason",
+      "value": "在定位场景中获取位置权限"
+    },
+    {
+      "name": "location_permission",
+      "value": "在定位场景中获取位置权限"
+    }
+  ]
+}

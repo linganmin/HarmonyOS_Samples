@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "Play_backgroundColor",
+      "value": "#F9F9F9"
+    },
+    {
+      "name": "Toggle_fontColor",
+      "value": "#182431"
+    },
+    {
+      "name": "Toggle_selectedColor",
+      "value": "#317aff"
+    },
+    {
+      "name": "Callback_message_backgroundColor",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "XComponent_backgroundColor",
+      "value": "#000000"
+    },
+    {
+      "name": "Text_color",
+      "value": "#686868"
+    },
+    {
+      "name": "Message_color",
+      "value": "#737373"
+    },
+    {
+      "name": "XComponent_text_color",
+      "value": "#686868"
+    }
+  ]
+}

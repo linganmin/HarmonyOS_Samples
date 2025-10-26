@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "数据库升级"
+    },
+    {
+      "name": "Update_failed",
+      "value": "更新失败"
+    },
+    {
+      "name": "Sequence_diagram",
+      "value": "顺序图"
+    },
+    {
+      "name": "input_field",
+      "value": "请选择你要添加的字段名"
+    },
+    {
+      "name": "field_value",
+      "value": "字段值"
+    },
+    {
+      "name": "username",
+      "value": "用户名"
+    },
+    {
+      "name": "account",
+      "value": "账号"
+    },
+    {
+      "name": "nickname",
+      "value": "昵称"
+    },
+    {
+      "name": "age",
+      "value": "年龄"
+    },
+    {
+      "name": "version_update",
+      "value": "版本更新"
+    },
+    {
+      "name": "version_rollback",
+      "value": "版本回退"
+    },
+    {
+      "name": "rollback_failed",
+      "value": "回退失败"
+    },
+    {
+      "name": "rollback_success",
+      "value": "回退成功"
+    },
+    {
+      "name": "user_info",
+      "value": "用户信息展示"
+    },
+    {
+      "name": "updating",
+      "value": "正在更新"
+    },
+    {
+      "name": "update_failed",
+      "value": "更新失败"
+    },
+    {
+      "name": "update_success",
+      "value": "更新成功"
+    }
+  ]
+}

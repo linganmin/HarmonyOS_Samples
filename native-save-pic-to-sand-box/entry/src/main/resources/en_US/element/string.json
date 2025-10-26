@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NativeSavePicture"
+    },
+    {
+      "name": "rawfile_write_fail",
+      "value": "Rawfile image writing failed"
+    },
+    {
+      "name": "tbn_RawFilePicture",
+      "value": "Save Rawfile Image"
+    },
+    {
+      "name": "txt_sandBox_path",
+      "value": "Sandbox path :"
+    },
+    {
+      "name": "internet_file_write_fail",
+      "value": "Network picture writing failed"
+    },
+    {
+      "name": "tbn_InternetPicture",
+      "value": "Save Network Image"
+    }
+  ]
+}

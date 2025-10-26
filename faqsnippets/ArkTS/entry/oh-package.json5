@@ -1,0 +1,20 @@
+/*
+* FAQ:ArkTS是否支持反射调用类的静态成员函数和实例成员函数
+* FAQ:是否支持模块的动态加载？如何实现
+ */
+
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  // [Start harlibrary_dep]
+  // HAP's oh-package.json5
+  "dependencies": {
+    "harlibrary": "file:../harlibrary"
+  },
+  // [End harlibrary_dep]
+}
+

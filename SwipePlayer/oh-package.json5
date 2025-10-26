@@ -1,0 +1,9 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+    "@hadss/swipeplayer": "^1.0.0-rc.0"
+  },
+  "devDependencies": {},
+  "dynamicDependencies": {}
+}

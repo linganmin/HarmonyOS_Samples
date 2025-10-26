@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "图片获取与保存"
+    },
+    {
+      "name": "title",
+      "value": "图片获取与保存"
+    },
+    {
+      "name": "get_image",
+      "value": "获取图片"
+    },
+    {
+      "name": "get_image_info",
+      "value": "读取图片信息"
+    },
+    {
+      "name": "get_pixel_map",
+      "value": "创建PixelMap对象"
+    },
+    {
+      "name": "save_image",
+      "value": "保存图片"
+    },
+    {
+      "name": "get_image_from_component",
+      "value": "使用Photo Picker组件从图库选择一张图片"
+    },
+    {
+      "name": "title_get_image_from_component",
+      "value": "从图库选择一张图片"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "get_image_from_photo_picker",
+      "value": "拉起图库选择一张图片"
+    },
+    {
+      "name": "get_image_from_camera_picker",
+      "value": "拉起相机拍摄一张图片"
+    },
+    {
+      "name": "get_image_from_document_picker",
+      "value": "拉起文件管理器选择一张图片"
+    },
+    {
+      "name": "save_image_in_sandbox",
+      "value": "保存至应用沙箱"
+    },
+    {
+      "name": "document_alert",
+      "value": "选择的文件非图片，请重新选择！"
+    },
+    {
+      "name": "no_image_alert",
+      "value": "请先获取一张图片！"
+    },
+    {
+      "name": "no_image_info_alert",
+      "value": "请先读取图片信息！"
+    },
+    {
+      "name": "no_pixel_map_alert",
+      "value": "请先创建PixelMap对象！"
+    },
+    {
+      "name": "get_image_info_success",
+      "value": "读取图片信息成功，请在日志中查看！"
+    },
+    {
+      "name": "get_pixel_map_success",
+      "value": "创建PixelMap对象成功！"
+    },
+    {
+      "name": "save_in_sandbox_success",
+      "value": "图片已经保存至应用沙箱！"
+    },
+    {
+      "name": "save_in_gallery_success",
+      "value": "图片已经保存至图库！"
+    }
+  ]
+}

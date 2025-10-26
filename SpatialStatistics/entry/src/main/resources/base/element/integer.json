@@ -1,0 +1,28 @@
+{
+  "integer": [
+    {
+      "name": "comm_border_radius1",
+      "value": 16
+    },
+    {
+      "name": "comm_padding_margin2",
+      "value": 12
+    },
+    {
+      "name": "comm_padding_margin3",
+      "value": 16
+    },
+    {
+      "name": "card_height",
+      "value": 48
+    },
+    {
+      "name": "data_panel_size",
+      "value": 280
+    },
+    {
+      "name": "data_panel_text_size",
+      "value": 22
+    }
+  ]
+}

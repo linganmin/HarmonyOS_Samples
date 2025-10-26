@@ -1,0 +1,67 @@
+{
+  "strarray": [
+    {
+      "name": "language_base_class_library_list",
+      "value": [
+
+        {
+          "value": "Xml & ConvertXml (XML Parsing, Generation and convert)"
+        },
+        {
+          "value": "TaskPool (Starting the TaskPool)"
+        },
+        {
+          "value": "Url (URL String Parsing)"
+        },
+        {
+          "value": "Uri (URI String Parsing)"
+        },
+        {
+          "value": "Util (util)"
+        },
+        {
+          "value": "ArkTSUtil (ArkTSUtil)"
+        },
+        {
+          "value": "ArrayList (Linear Container)"
+        },
+        {
+          "value": "Deque (Linear Container)"
+        },
+        {
+          "value": "HashMap (NonLinear Container)"
+        },
+        {
+          "value": "HashSet (NonLinear Container)"
+        },
+        {
+          "value": "LightWeightMap (NonLinear\nContainer)"
+        },
+        {
+          "value": "LightWeightSet (NonLinear\nContainer)"
+        },
+        {
+          "value": "LinkedList (Linear Container)"
+        },
+        {
+          "value": "List (Linear Container)"
+        },
+        {
+          "value": "PlainArray (NonLinear Container)"
+        },
+        {
+          "value": "Queue (Linear Container)"
+        },
+        {
+          "value": "Stack (Linear Container)"
+        },
+        {
+          "value": "TreeMap (NonLinear Container)"
+        },
+        {
+          "value": "TreeSet (NonLinear Container)"
+        }
+      ]
+    }
+  ]
+}

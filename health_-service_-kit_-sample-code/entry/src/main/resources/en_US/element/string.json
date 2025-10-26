@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SampleCode"
+    },
+    {
+      "name": "Kit",
+      "value": "Health Service Kit"
+    },
+    {
+      "name": "DataSource",
+      "value": "DataSource Manage"
+    },
+    {
+      "name": "SamplePoint",
+      "value": "SamplePoint Manage"
+    },
+    {
+      "name": "ExerciseSequence",
+      "value": "ExerciseSequence Manage"
+    },
+    {
+      "name": "HealthSequence",
+      "value": "HealthSequence Manage"
+    },
+    {
+      "name": "Auth",
+      "value": "Auth Manage"
+    },
+    {
+      "name": "Workout",
+      "value": "Workout"
+    },
+    {
+      "name": "Print_log",
+      "value": "print log :"
+    },
+    {
+      "name": "SaveData",
+      "value": "saveData"
+    },
+    {
+      "name": "ReadData",
+      "value": "readData"
+    },
+    {
+      "name": "DeleteByRequest",
+      "value": "deleteByRequest"
+    },
+    {
+      "name": "DeleteBySamplePoint",
+      "value": "deleteBySamplePoint"
+    },
+    {
+      "name": "DeleteByExerciseSequence",
+      "value": "deleteByExerciseSequence"
+    },
+    {
+      "name": "DeleteByHealthSequence",
+      "value": "deleteByHealthSequence"
+    },
+    {
+      "name": "AggregateData",
+      "value": "aggregateData"
+    },
+    {
+      "name": "InsertDataSource",
+      "value": "insertDataSource"
+    },
+    {
+      "name": "UpdateDataSource",
+      "value": "updateDataSource"
+    },
+    {
+      "name": "ReadDataSource",
+      "value": "readDataSource"
+    },
+    {
+      "name": "RequestAuthorizations",
+      "value": "requestAuthorizations"
+    },
+    {
+      "name": "CancelAuthorizations",
+      "value": "cancelAuthorizations"
+    },
+    {
+      "name": "GetAuthorizations",
+      "value": "getAuthorizations"
+    },
+    {
+      "name": "ReadActivityReport",
+      "value": "readActivityReport"
+    }
+  ]
+}

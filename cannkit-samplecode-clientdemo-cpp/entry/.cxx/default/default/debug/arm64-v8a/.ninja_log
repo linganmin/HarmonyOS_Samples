@@ -1,0 +1,9 @@
+# ninja log v6
+10	1077	7767691776286304	CMakeFiles/entry.dir/HIAIModelManager.cpp.o	bed1dd0e5dc84405
+7	1138	7767691776256305	CMakeFiles/entry.dir/Classification.cpp.o	810ae36f51f2bbf1
+4	14	7767770542386464	clean	7ddec02ea5f4a6c3
+1664	2033	7651755272724123	D:/prolrj909/0331/CANNkit-samplecode-Clientdemo-cpp/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	c41724c4be44b1ec
+1138	1458	7767691787566379	D:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	3e216b8b40e84bdf
+14	1033	7767771066047570	CMakeFiles/entry.dir/HIAIModelManager.cpp.o	bed1dd0e5dc84405
+10	1120	7767771066007577	CMakeFiles/entry.dir/Classification.cpp.o	810ae36f51f2bbf1
+1120	1447	7767771077107890	D:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libentry.so	3e216b8b40e84bdf

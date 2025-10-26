@@ -1,0 +1,17 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/DataLoadMorePage",
+    "pages/FlowItemRemoveAnimationPage",
+    "pages/FlowItemRemovePage",
+    "pages/DataUpdateAndAnimationPage",
+    "pages/ElementByOrderPage",
+    "pages/FlowItemAutoPlayPage",
+    "pages/SectionOptionsUsePage",
+    "pages/StickOnTopPage",
+    "pages/ForceShowOnTopLeftPage",
+    "pages/MergeDoubleWaterFlowPage",
+    "pages/ZoomChangeColumnPage",
+    "pages/FadingEdgePage"
+  ]
+}

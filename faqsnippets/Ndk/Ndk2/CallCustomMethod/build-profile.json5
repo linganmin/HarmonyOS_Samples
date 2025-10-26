@@ -1,0 +1,51 @@
+/**
+ * FAQ: 如何在Native侧直接使用其他模块的ArkTS方法
+ */
+{
+  "apiType": "stageMode",
+  // [Start call_custom_method_json]
+  "buildOption": {
+    "externalNativeOptions": {
+      "path": "./src/main/cpp/CMakeLists.txt",
+      "arguments": "",
+      "cppFlags": "",
+    },
+    "arkOptions": {
+      "runtimeOnly": {
+        "sources": [
+          "./src/main/ets/pages/Test.ets"
+        ]
+      }
+    },
+  },
+  // [End call_custom_method_json]
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      },
+      "nativeLib": {
+        "debugSymbol": {
+          "strip": true,
+          "exclude": []
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

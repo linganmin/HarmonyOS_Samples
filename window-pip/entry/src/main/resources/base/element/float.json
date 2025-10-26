@@ -1,0 +1,12 @@
+{
+  "float": [
+    {
+      "name": "x_component_height",
+      "value": "800px"
+    },
+    {
+      "name": "toggle_padding",
+      "value": "10.75"
+    }
+  ]
+}

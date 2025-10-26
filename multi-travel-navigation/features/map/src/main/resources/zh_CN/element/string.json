@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "reason",
+      "value": "用于在地图导航场景中获取位置信息。"
+    },
+    {
+      "name": "full_percent",
+      "value": "100%"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "nearby",
+      "value": "附近"
+    },
+    {
+      "name": "taxi",
+      "value": "打车"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    }
+  ]
+}

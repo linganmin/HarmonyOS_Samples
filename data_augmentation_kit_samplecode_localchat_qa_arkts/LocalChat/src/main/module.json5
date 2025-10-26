@@ -1,0 +1,55 @@
+{
+  "module": {
+    "name": "LocalChat",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "LocalChatAbility",
+    "deviceTypes": [
+      "2in1"
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      }
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "LocalChatAbility",
+        "srcEntry": "./ets/localchatability/LocalChatAbility.ets",
+        "description": "$string:LocalChatAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:LocalChatAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "ohos.want.action.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "LocalChatBackupAbility",
+        "srcEntry": "./ets/localchatbackupability/LocalChatBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      }
+    ]
+  }
+}

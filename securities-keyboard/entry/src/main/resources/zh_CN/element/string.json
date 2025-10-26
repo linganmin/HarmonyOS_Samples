@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "证券键盘"
+    },
+    {
+      "name": "search_content",
+      "value": "请输入证券代码"
+    },
+    {
+      "name": "search_box_prompt",
+      "value": "最多可输入14个字符"
+    },
+    {
+      "name": "text_search",
+      "value": "搜索"
+    },
+    {
+      "name": "text_space",
+      "value": "空格"
+    },
+    {
+      "name": "text_clear",
+      "value": "清空"
+    }
+  ]
+}

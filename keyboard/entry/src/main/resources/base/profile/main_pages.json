@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/ExamplePage",
+    "pages/GetKeyboardHeightDemo",
+    "pages/GetSafeAreaHeightDemo",
+    "pages/MailHomePage2",
+    "pages/NavDestinationModeDemo",
+    "pages/CustomDialogAvoid"
+  ]
+}

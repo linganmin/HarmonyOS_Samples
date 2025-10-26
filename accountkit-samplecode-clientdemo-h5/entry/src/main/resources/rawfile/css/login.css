@@ -1,0 +1,262 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    user-select: none;
+}
+
+html {
+    height: 100%;
+    font-size: 14px;
+}
+
+body {
+    height: 100%;
+    font-family: 'Microsoft Yahei', 'PingFang SC', 'Avenir', 'Segoe UI', 'Hiragino Sans GB', 'STHeiti', 'Microsoft Sans Serif', 'WenQuanYi Micro Hei';
+    font-size: 1em;
+    line-height: 1.4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Main screen style START */
+
+.page-box {
+    height: 100%;
+    background-color: #f1f3f5;
+    position: relative;
+    padding: 36px 16px 28px;
+}
+
+.page-box .topper {
+    height: 40%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.topper .back-press {
+    width: 40px;
+    height: 40px;
+    margin: 8px 0;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background-color: #e7e8ea;
+    border-radius: 50%;
+}
+
+.topper .app-market {
+    width: 80px;
+    height: 80px;
+}
+
+.page-box .bottommer {
+    height: 60%;
+    overflow: hidden;
+    position: relative;
+}
+
+.page-box .bottommer .button-box {
+    margin-top: 92px;
+    height: 96px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.button-box .login-button {
+    width: 100%;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #e7e8ea;
+    color: rgba(0, 0, 0, 0.9);
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: medium;
+    border: none;
+    max-width: 448px;
+}
+
+.other-login-button:active {
+    background-color: #d1d2d4;
+}
+
+.bottommer .preview-box {
+    position: absolute;
+    bottom: 0;
+    font-size: 12px;
+    line-height: 16px;
+    display: flex;
+    padding-bottom: 16px;
+    overflow: hidden;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+
+.bottommer .preview-box input[type="checkbox"] {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    margin: 0 2px 2px 2px;
+    border: 1px solid #00000066;
+    border-radius: 50%;
+    flex-shrink: 0;
+}
+
+.preview-text {
+    margin-left: 12px;
+    line-height: 14px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.preview-text .text {
+    color: #00000066;
+}
+
+.preview-text .link-text {
+    color: #000000E5;
+}
+
+/* Style after the user interacts with the checkbox */
+
+.bottommer .preview-box input[type="checkbox"]:checked {
+    background-image: url('../img/checked.png');
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position: center;
+    background-color: #cd2424;
+    border: 1px solid transparent;
+}
+
+.phone {
+    width: 100%;
+    height: 72px;
+    text-align: center;
+    position: absolute;
+    bottom: -36px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.phone #quick-login-anonymous-phone {
+    font-size: 36px;
+    color: rgba(0, 0, 0, 0.9);
+    font-weight: 700;
+    line-height: 42px;
+}
+
+.phone .phone-lable {
+    color: rgba(0, 0, 0, 0.4);
+    font-size: 12px;
+    line-height: 14px;
+}
+
+/* Main screen style END */
+
+/* Pop-up style START */
+
+.toast-model {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    display: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.toast-model.show {
+    display: flex;
+}
+
+.toast-model.hide {
+    display: none;
+}
+
+.toast-model .toast-content {
+    background-color: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(20px);
+    border-radius: 32px;
+    width: 100%;
+    max-width: 400px;
+}
+
+.toast-model .toast-content .toast-title {
+    font-size: 20px;
+    line-height: 56px;
+    text-align: center;
+    color: rgba(0, 0, 0, 0.9);
+    font-weight: 700;
+    padding: 0 24px;
+}
+
+.toast-model .toast-content .preview-text {
+    font-size: 16px;
+    line-height: 22px;
+    padding: 0 24px;
+    margin: 0;
+    font-weight: 600;
+}
+
+.toast-model .toast-content .preview-text .text {
+    color: #000000E5;
+}
+
+.toast-model .toast-content .preview-text .link-text {
+    color: #cd2424;
+}
+
+.toast-model .toast-content .toast-button-box {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 16px 16px 16px;
+}
+
+.toast-button-box .button {
+    width: calc(50% - 8px);
+    height: 40px;
+    border-radius: 20px;
+    border: 0;
+    font-size: 16px;
+    line-height: 40px;
+    background-color: transparent;
+}
+
+.button.cancel-button {
+    color: rgba(0, 0, 0, 0.9);
+}
+
+.cancel-button:active {
+    background-color: #18243119;
+}
+
+.button.agree-button {
+    color: #fff;
+    background-color: #cd2424;
+}
+
+.agree-button:active {
+    background-color: #b90c28;
+}
+
+.disabled-class {
+    opacity: 0.6;
+}
+
+.disabled-class.other-login-button:active {
+    background-color: #e7e8ea;
+}
+
+/* Pop-up style END */

@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.0.0",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+    "@ohos/commons-compress": "2.0.6"
+  },
+  "devDependencies": {
+  },
+  "dynamicDependencies": {}
+}

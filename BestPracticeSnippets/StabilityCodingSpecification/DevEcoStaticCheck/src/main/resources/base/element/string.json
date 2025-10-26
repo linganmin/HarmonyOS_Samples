@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "DevEcoStaticCheckAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "DevEcoStaticCheckAbility_label",
+      "value": "DevEcoStaticCheck"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "strarray": [
+    {
+      "name": "in_tabs_items",
+      "value": [
+        {
+          "value": "Follows"
+        },
+        {
+          "value": "For You"
+        },
+        {
+          "value": "Popular"
+        },
+        {
+          "value": "Video"
+        },
+        {
+          "value": "Sports"
+        },
+        {
+          "value": "Finance"
+        },
+        {
+          "value": "Investing"
+        },
+        {
+          "value": "Movies"
+        },
+        {
+          "value": "Music"
+        },
+        {
+          "value": "Games"
+        }
+      ]
+    },
+    {
+      "name": "switch_tabs_items",
+      "value": [
+        {
+          "value": "Follows"
+        },
+        {
+          "value": "For You"
+        },
+        {
+          "value": "Popular"
+        },
+        {
+          "value": "Video"
+        }
+      ]
+    }
+  ]
+}
+
+
+
+
+
+
+
+

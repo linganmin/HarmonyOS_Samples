@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HandWriteToImage"
+    },
+    {
+      "name": "hand_writing_revert",
+      "value": "Undo"
+    },
+    {
+      "name": "hand_writing_reset",
+      "value": "Clear"
+    },
+    {
+      "name": "hand_writing_pack_to_file",
+      "value": "PackToFile Save Picture"
+    },
+    {
+      "name": "hand_writing_packing",
+      "value": "Packing Save Picture"
+    },
+    {
+      "name": "hand_writing_image_save_path",
+      "value": "Image path:"
+    }
+  ]
+}

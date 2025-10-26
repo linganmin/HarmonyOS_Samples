@@ -1,0 +1,39 @@
+{
+  "routerMap": [
+    {
+      "name": "NoReuseScene1Positive",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene1Positive.ets",
+      "buildFunction": "buildNoReuseScene1Positive"
+    },
+    {
+      "name": "NoReuseScene2_StructureOnePositive",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene2_StructureOnePositive.ets",
+      "buildFunction": "buildNoReuseScene2_StructureOnePositive"
+    },
+    {
+      "name": "NoReuseScene2_StructureTwoPositive",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene2_StructureTwoPositive.ets",
+      "buildFunction": "buildNoReuseScene2_StructureTwoPositive"
+    },
+    {
+      "name": "NoReuseScene3Positive",
+      "pageSourceFile": "src/main/ets/pages/NoReuseScene3Positive.ets",
+      "buildFunction": "buildNoReuseScene3Positive"
+    },
+    {
+      "name": "ImproperReuseOfComponentsScene1Positive",
+      "pageSourceFile": "src/main/ets/pages/ImproperReuseOfComponentsScene1Positive.ets",
+      "buildFunction": "buildImproperReuseOfComponentsScene1Positive"
+    },
+    {
+      "name": "ImproperReuseOfComponentsScene2Positive",
+      "pageSourceFile": "src/main/ets/pages/ImproperReuseOfComponentsScene2Positive.ets",
+      "buildFunction": "buildImproperReuseOfComponentsScene2Positive"
+    },
+    {
+      "name": "ImproperReuseOfComponentsScene3Positive",
+      "pageSourceFile": "src/main/ets/pages/ImproperReuseOfComponentsScene3Positive.ets",
+      "buildFunction": "buildImproperReuseOfComponentsScene3Positive"
+    }
+  ]
+}

@@ -1,0 +1,352 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AppGalleryKitDemo"
+    },
+    {
+      "name": "load_product",
+      "value": "Load Product"
+    },
+    {
+      "name": "load_install",
+      "value": "Load Install"
+    },
+    {
+      "name": "load_service",
+      "value": "Load Service"
+    },
+    {
+      "name": "getAdsVerificationVersion",
+      "value": "getAdsVerificationVersion"
+    },
+    {
+      "name": "getSelfSceneCode",
+      "value": "getSelfSceneCode"
+    },
+    {
+      "name": "attribution_manager",
+      "value": "Attribution Manager"
+    },
+    {
+      "name": "check_update",
+      "value": "Check update"
+    },
+    {
+      "name": "getAppPrivacyMgmtInfo",
+      "value": "getAppPrivacyMgmtInfo"
+    },
+    {
+      "name": "getAppPrivacyResult",
+      "value": "getAppPrivacyResult"
+    },
+    {
+      "name": "disableService",
+      "value": "disableService"
+    },
+    {
+      "name": "requestAppPrivacyConsent",
+      "value": "requestAppPrivacyConsent"
+    },
+    {
+      "name": "addShortcutToDesktop",
+      "value": "addShortcutToDesktop"
+    },
+    {
+      "name": "shortcut",
+      "value": "shortcut"
+    },
+    {
+      "name": "dynamicIconManager",
+      "value": "DynamicIconManager"
+    },
+    {
+      "name": "dynamicIconTitle",
+      "value": "Manage dynamic icons"
+    },
+    {
+      "name": "dynamicIconDescName",
+      "value": "Function Introduction"
+    },
+    {
+      "name": "dynamicIconDesc",
+      "value": "Provides querying dynamic icon information, selecting dynamic icons, and disabling dynamic icon functions. Developers can dynamically switch personalized icons on the app side without upgrading the app version."
+    },
+    {
+      "name": "dynamicIconUsageSteps",
+      "value": "Usage steps"
+    },
+    {
+      "name": "dynamicIconUsageSteps1",
+      "value": "1. You need to upload the dynamic icon of your app to the AppGallery Connect website. After the review, the dynamic icon will be pushed to the device periodically."
+    },
+    {
+      "name": "dynamicIconUsageSteps2",
+      "value": "2. You can call the appInfoManager.queryDynamicIcons interface to query the dynamic icon information that has been approved and successfully distributed."
+    },
+    {
+      "name": "dynamicIconUsageSteps3",
+      "value": "3. You can call the appInfoManager.selectDynamicIcon interface and pass the dynamic icon ID obtained in step 1 to change the icon of the current application."
+    },
+    {
+      "name": "dynamicIconUsageSteps4",
+      "value": "4. You can call the appInfoManager.disableDynamicIcon interface to disable the dynamic icon. After disabling, the default icon of the application will be displayed."
+    },
+    {
+      "name": "dynamicIconDemonstration",
+      "value": "Interface demonstration"
+    },
+    {
+      "name": "messageShowDialog",
+      "value": "Waiting"
+    },
+    {
+      "name": "messageCheckUpdate",
+      "value": "Waiting"
+    },
+    {
+      "name": "updateSdkTitle",
+      "value": "Example of updateSdk"
+    },
+    {
+      "name": "showUpdateDialog",
+      "value": "Call the showUpdateDialog API"
+    },
+    {
+      "name": "checkAppUpdate",
+      "value": "Call the checkAppUpdate API"
+    },
+    {
+      "name": "shortcutTitle",
+      "value": "Add app shortcut to home screen"
+    },
+    {
+      "name": "shortcutOverview",
+      "value": "Function overview"
+    },
+    {
+      "name": "shortcutDescribe",
+      "value": "Shortcuts of your in-app abilities can be added to the home screen for quick access."
+    },
+    {
+      "name": "shortcutProcedure",
+      "value": "Procedure"
+    },
+    {
+      "name": "shortcutProcedure1",
+      "value": "1. Call the checkPinShortcutPermitted API provided by AppGallery Kit to check whether a shortcut can be added to the home screen. If so, the ID of the authentication result will be returned."
+    },
+    {
+      "name": "shortcutProcedure2",
+      "value": "2. Call the requestNewPinShortcut API provided by AppGallery Kit and pass the ID of the authentication result obtained in step 1 to request to add the shortcut to the home screen. A confirmation pop-up will be displayed to the user. If the user confirms the operation, the shortcut will be added to the home screen."
+    },
+    {
+      "name": "shortcutDemo",
+      "value": "API demo"
+    },
+    {
+      "name": "checkPinShortcutPermittedDescribe",
+      "value": "checkPinShortcutPermitted supports two overloaded methods:"
+    },
+    {
+      "name": "checkPinShortcutPermittedNote",
+      "value": "Note: Place a foreground image and a background image (optional) in the sandbox and modify the demo source code based on the actual path, for example, /data/app/el2/100/base/com.example.appgallery.kit.demo/haps/entry/files/icon.png."
+    },
+    {
+      "name": "requestNewPinShortcutDescribe",
+      "value": "requestNewPinShortcut supports only one call method:"
+    },
+    {
+      "name": "fetchModuleException",
+      "value": "An exception occurred during the instance loading request."
+    },
+    {
+      "name": "fetchModuleSuccess",
+      "value": "Loading request succeeded."
+    },
+    {
+      "name": "fetchModuleWaitWifi",
+      "value": "Loading request succeeded.The user confirmation dialog box is displayed later in the traffic scenario."
+    },
+    {
+      "name": "fetchModuleFailed",
+      "value": "Loading request failed."
+    },
+    {
+      "name": "taskIdNotExist",
+      "value": "The task ID does not exist."
+    },
+    {
+      "name": "cancelTaskException",
+      "value": "An exception occurred during the cancellation of the download task."
+    },
+    {
+      "name": "ShowCellularDataConfirmationException",
+      "value": "An exception occurred during the display of a mobile data reminder."
+    },
+    {
+      "name": "onListeningException",
+      "value": "An exception occurred during the registration of a progress listener."
+    },
+    {
+      "name": "offListeningException",
+      "value": "An exception occurred during the cancellation of a progress listener."
+    },
+    {
+      "name": "resetSucceeded",
+      "value": "Reset succeeded."
+    },
+    {
+      "name": "introduction",
+      "value": "Introduction"
+    },
+    {
+      "name": "moduleInformation",
+      "value": "Information about currently installed modules"
+    },
+    {
+      "name": "fetchModules",
+      "value": "Request module loading"
+    },
+    {
+      "name": "selectModules",
+      "value": "Select all incremental modules"
+    },
+    {
+      "name": "moduleEmpty",
+      "value": "The incremental module to be installed cannot be empty."
+    },
+    {
+      "name": "registerListen",
+      "value": "Register a progress listener"
+    },
+    {
+      "name": "startListen",
+      "value": "Register progress listener"
+    },
+    {
+      "name": "cancelRegisterListen",
+      "value": "Cancel a progress listener"
+    },
+    {
+      "name": "cancelListen",
+      "value": "Cancel progress listener"
+    },
+    {
+      "name": "DisplayDialogReminder",
+      "value": "Display a mobile data reminder"
+    },
+    {
+      "name": "dialogReminder",
+      "value": "Display mobile data reminder"
+    },
+    {
+      "name": "cancelDownloadTask",
+      "value": "Cancel a download task"
+    },
+    {
+      "name": "invokeToast",
+      "value": "Call showDateComponent in the incremental module"
+    },
+    {
+      "name": "moduleInstalled",
+      "value": "The %1$s module has been installed."
+    },
+    {
+      "name": "moduleNotInstalled",
+      "value": "The %1$s module has not been installed."
+    },
+    {
+      "name": "success",
+      "value": "success"
+    },
+    {
+      "name": "failed",
+      "value": "failed"
+    },
+    {
+      "name": "cancelTaskResult",
+      "value": "Result of canceling the download task: %1$s."
+    },
+    {
+      "name": "showCellularDataConfirmationResult",
+      "value": "Result of displaying a mobile data reminder:: %1$s."
+    },
+    {
+      "name": "onResult",
+      "value": "Result of registering a progress listener:: %1$s."
+    },
+    {
+      "name": "offResult",
+      "value": "Result of canceling the progress listener:: %1$s."
+    },
+    {
+      "name": "ModuleInstallIntroduction",
+      "value": "This app (name: incrementally installed module; package name: %1$s) contains five modules, including two HAP modules: entry and commonHap, and three HSP modules: AModulelib, BModulelib, and commonLibrary. Additionally, a fake module XModulelib is constructed."
+    },
+    {
+      "name": "QueryModule",
+      "value": "Query installation information of module %1$s"
+    },
+    {
+      "name": "fetchModuleButton",
+      "value": "Request to load module %1$s"
+    },
+    {
+      "name": "cancelTaskId",
+      "value": "Cancel download task (taskId= %1$s)"
+    },
+    {
+      "name": "invokeButton",
+      "value": "Call the add function in the incremental module: 3+6= %1$d"
+    },
+    {
+      "name": "commonHap",
+      "value": "Common HAP"
+    },
+    {
+      "name": "AModulelib",
+      "value": "Incremental module A (greater than 10 MB)"
+    },
+    {
+      "name": "BModulelib",
+      "value": "Incremental module B"
+    },
+    {
+      "name": "XModulelib",
+      "value": "Incremental module X (a fake one that does not really exist)"
+    },
+    {
+      "name": "commonLibrary",
+      "value": "Basic common library package (installed)"
+    },
+    {
+      "name": "resultMsg",
+      "value": "The result: %1$s"
+    },
+    {
+      "name": "reset",
+      "value": "reset"
+    },
+    {
+      "name": "information",
+      "value": "Information"
+    },
+    {
+      "name": "message",
+      "value": "Are you sure you want to reset the information?"
+    },
+    {
+      "name": "confirm",
+      "value": "OK"
+    }
+  ]
+}

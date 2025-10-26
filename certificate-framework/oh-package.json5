@@ -1,0 +1,12 @@
+{
+  "modelVersion": "5.0.4",
+  "license": "ISC",
+  "devDependencies": {
+  },
+  "author": "",
+  "name": "certificateframework",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {}
+}

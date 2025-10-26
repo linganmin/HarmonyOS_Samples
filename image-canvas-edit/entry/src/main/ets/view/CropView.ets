@@ -1,0 +1,125 @@
+/*
+ * Copyright (c) 2025 Huawei Device Co., Ltd.
+ * Licensed under the Apache License,Version 2.0 (the 'License');
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an 'AS IS' BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+import { CommonConstants } from '../common/constant/CommonConstants';
+import { MirrorType } from '../viewModel/OptionViewModel';
+import { IconStatus } from '../viewModel/IconListViewModel';
+import { PixelMapManager } from '../utils/PixelMapManager';
+import { getResource } from '../component/TabComponent';
+
+interface translateListType {
+  icon: string,
+  title: Resource | string,
+  color: string,
+  selectColor: string
+}
+
+@Component
+export default struct CropView {
+  @Consume pixelMapManager?: PixelMapManager;
+  @Consume currentCropMode: number;
+  @State cropList: translateListType[] = [
+    {
+      icon: 'sys.symbol.aspect_ratio',
+      title: $r('app.string.none'),
+      color: '#fff',
+      selectColor: '#ff000000'
+    },
+    {
+      icon: 'sys.symbol.rectangle_ratio_1_to_1',
+      title: '1:1',
+      color: '#fff',
+      selectColor: '#ff000000'
+    },
+    {
+      icon: 'sys.symbol.rectangle_ratio_4_to_3',
+      title: '4:3',
+      color: '#fff',
+      selectColor: '#ff000000'
+    },
+    {
+      icon: 'sys.symbol.rectangle_ratio_16_to_9',
+      title: '16:9',
+      color: '#fff',
+      selectColor: '#ff000000'
+    }
+  ];
+  onCropImage?: (index: number) => void;
+  onRotateImage?: () => void;
+  onMirrorImage?: (mirrorType: MirrorType) => void;
+
+  build() {
+    Column() {
+      Flex({ justifyContent: FlexAlign.SpaceBetween }) {
+        Text() {
+          SymbolSpan($r(`sys.symbol.rotate_left`))
+            .fontColor([Color.White, Color.White, Color.White])
+            .fontWeight(FontWeight.Normal)
+            .fontSize(24)
+        }
+        .width(CommonConstants.TAB_MENU_WIDTH)
+        .height(CommonConstants.TAB_MENU_WIDTH)
+        .onClick(() => {
+          this.onRotateImage!();
+        })
+
+        Text() {
+          SymbolSpan($r(`sys.symbol.line_arrowtriangle_2_inward`))
+            .fontColor([Color.White, Color.White, Color.White])
+            .fontWeight(FontWeight.Normal)
+            .fontSize(24)
+        }
+        .width(CommonConstants.TAB_MENU_WIDTH)
+        .height(CommonConstants.TAB_MENU_WIDTH)
+        .onClick(() => {
+          this.onMirrorImage!(MirrorType.CLOCKWISE);
+        })
+      }
+      .margin({ top: 26, bottom: 33 })
+      .padding({ left: 50, right: 50 })
+
+      Row() {
+        ForEach(this.cropList, (item: translateListType, index: number) => {
+          Column() {
+            Text() {
+              SymbolSpan(getResource(item, index))
+                .fontColor(this.currentCropMode === index ?
+                  [item.selectColor, item.selectColor, item.selectColor] :
+                  [item.color, item.color, item.color])
+                .fontWeight(FontWeight.Normal)
+                .fontSize(24)
+            }
+            .padding(9)
+            .borderRadius('50%')
+            .backgroundColor(this.currentCropMode === index ? '#e6ffffff' : '#26ffffff')
+
+            Text(item.title)
+              .margin({ top: 4 })
+              .fontColor('#fff')
+              .fontSize(10)
+          }
+          .onClick(() => {
+            this.currentCropMode = index;
+            this.onCropImage!(index);
+          })
+        }, (item: IconStatus) => JSON.stringify(item))
+      }
+      .padding({ left: 15, right: 15 })
+      .justifyContent(FlexAlign.SpaceAround)
+      .width(CommonConstants.LAYOUT_FULL_SCREEN)
+    }
+    .width(CommonConstants.LAYOUT_FULL_SCREEN)
+    .height(CommonConstants.LAYOUT_FULL_SCREEN)
+  }
+}

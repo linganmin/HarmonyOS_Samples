@@ -1,0 +1,5 @@
+{
+  "libloglistener.so": {
+    "source": "src/mock/Libloglistener.mock.ets"
+  }
+}

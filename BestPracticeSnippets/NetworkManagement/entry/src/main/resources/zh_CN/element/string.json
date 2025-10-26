@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "网络管理与状态监听"
+    },
+    {
+      "name": "get_network_status",
+      "value": "查询网络状态"
+    },
+    {
+      "name": "current_network_status",
+      "value": "当前网络状态："
+    },
+    {
+      "name": "check_current_network",
+      "value": "查询当前网络是3G/4G/5G"
+    },
+    {
+      "name": "current_network",
+      "value": "当前网络是："
+    },
+    {
+      "name": "check_radio_status",
+      "value": "判断主卡的Radio是否打开"
+    },
+    {
+      "name": "radio_status",
+      "value": "主卡的Radio是否打开："
+    },
+    {
+      "name": "query_current_network_information",
+      "value": "查询当前网络信息"
+    },
+    {
+      "name": "cellular_network_query",
+      "value": "蜂窝网络查询"
+    },
+    {
+      "name": "wifi_query",
+      "value": "Wi-Fi查询"
+    },
+    {
+      "name": "get_current_network_connection_type",
+      "value": "获取当前网络连接类型"
+    },
+    {
+      "name": "current_network_connection_type",
+      "value": "当前网络连接类型："
+    },
+    {
+      "name": "check_network_is_available",
+      "value": "判断当前网络是否可用"
+    },
+    {
+      "name": "network_is_available",
+      "value": "当前网络是否可用："
+    },
+    {
+      "name": "query_route_and_link_information",
+      "value": "查询网络路由信息、网络链路信息"
+    },
+    {
+      "name": "route_and_link_information",
+      "value": "网络路由信息、网络链路信息如下："
+    },
+    {
+      "name": "query_Network_connection_information",
+      "value": "查询网络连接信息"
+    },
+    {
+      "name": "network_status_listening",
+      "value": "网络状态监听"
+    },
+    {
+      "name": "network_unavailable_message",
+      "value": "当前网络不可用，请检查网络"
+    },
+    {
+      "name": "weak_network_environment_message",
+      "value": "当前处于弱网环境，建议您切换网络"
+    },
+    {
+      "name": "simulate_network_unavailable",
+      "value": "模拟网络不可用"
+    },
+    {
+      "name": "simulate_network_lost",
+      "value": "模拟网络丢失"
+    },
+    {
+      "name": "simulate_network_disconnected_message",
+      "value": "当前网络断开，请检查网络"
+    },
+    {
+      "name": "simulate_weak_network_environment",
+      "value": "模拟弱网环境"
+    },
+    {
+      "name": "weak_network_toggle_video",
+      "value": "当前处于弱网环境，请切换网络或者降低视频清晰度"
+    },
+    {
+      "name": "Simulate_low_quality_network_environment",
+      "value": "模拟网络低质量环境"
+    },
+    {
+      "name": "low_quality_network_environment_message",
+      "value": "当前处于网络低质量环境，请降低视频清晰度"
+    },
+    {
+      "name": "toggle_video_to_low_definition",
+      "value": "切换视频到低清晰度"
+    },
+    {
+      "name": "toggle_low_definition_message",
+      "value": "切换成功，当前播放低清晰度视频"
+    },
+    {
+      "name": "toggle_definition_message_fail",
+      "value": "切换失败，当前已是低清晰度视频"
+    },
+    {
+      "name": "toggle_video_to_high_definition",
+      "value": "切换视频到高清晰度"
+    },
+    {
+      "name": "toggle_high_definition_message",
+      "value": "切换成功，当前播放高清晰度视频"
+    },
+    {
+      "name": "Check_wlan_is_enabled",
+      "value": "查询WLAN是否已使能"
+    },
+    {
+      "name": "wlan_is_enabled",
+      "value": "WLAN是否已使能："
+    },
+    {
+      "name": "Check_wlan_is_Connected",
+      "value": "查询WLAN是否已连接"
+    },
+    {
+      "name": "wlan_is_Connected",
+      "value": "WLAN是否已连接："
+    },
+    {
+      "name": "get_list_of_scanned_hotspots",
+      "value": "获取扫描到的热点列表"
+    },
+    {
+      "name": "list_of_scanned_hotspots",
+      "value": "扫描到的热点列表如下："
+    },
+    {
+      "name": "get_wifi_signal_strength",
+      "value": "获取当前连接Wi-Fi的信号强度"
+    },
+    {
+      "name": "wifi_signal_strength",
+      "value": "当前连接Wi-Fi的信号强度："
+    },
+    {
+      "name": "add_candidate_network_configuration",
+      "value": "添加候选网络配置"
+    },
+    {
+      "name": "candidate_network_configuration",
+      "value": "添加候选网络配置如下："
+    },
+    {
+      "name": "reason_set_wifi_info",
+      "value": "设置Wi-Fi信息"
+    },
+    {
+      "name": "reason_get_wifi_info",
+      "value": "获取Wi-Fi信息"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "获取网络信息"
+    }
+  ]
+}

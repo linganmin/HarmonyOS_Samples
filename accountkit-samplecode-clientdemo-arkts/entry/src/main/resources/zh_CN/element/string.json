@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HuaweiIDSample"
+    },
+    {
+      "name": "login",
+      "value": "登录 / 注册"
+    },
+    {
+      "name": "personalInfo",
+      "value": "个人信息"
+    },
+    {
+      "name": "avatar",
+      "value": "头像"
+    },
+    {
+      "name": "nickname",
+      "value": "昵称"
+    },
+    {
+      "name": "phone",
+      "value": "手机号"
+    },
+    {
+      "name": "dearUser",
+      "value": "亲爱的用户"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "网络未连接，请检查网络设置。"
+    },
+    {
+      "name": "hwid_text_button_known",
+      "value": "知道了"
+    },
+    {
+      "name": "agree",
+      "value": "已阅读并同意"
+    },
+    {
+      "name": "and",
+      "value": "和"
+    },
+    {
+      "name": "end",
+      "value": "。"
+    },
+    {
+      "name": "shippingAddress",
+      "value": "收货地址"
+    },
+    {
+      "name": "addAddress",
+      "value": "从华为账号添加"
+    },
+    {
+      "name": "invoiceTitle",
+      "value": "发票抬头"
+    },
+    {
+      "name": "addInvoiceTitle",
+      "value": "从华为账号添加"
+    },
+    {
+      "name": "minorProtection",
+      "value": "未成年人模式"
+    },
+    {
+      "name": "availableTime",
+      "value": "可用时长限制"
+    },
+    {
+      "name": "closeMinorsTitle",
+      "value": "当前应用已开启未成年人模式，确定关闭后，将不会根据年龄展示适龄内容和可用时长限制。"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "close",
+      "value": "关闭"
+    },
+    {
+      "name": "other_login_models",
+      "value": "其他方式登录"
+    },
+    {
+      "name": "login_for_enjoy_service",
+      "value": "登录后享受更多服务"
+    },
+    {
+      "name": "dear_user_good_morning",
+      "value": "尊敬的用户，上午好"
+    },
+    {
+      "name": "next_step",
+      "value": "下一步"
+    },
+    {
+      "name": "pwd_login",
+      "value": "密码登录"
+    },
+    {
+      "name": "shopping_user_agreement",
+      "value": "《购物用户协议》"
+    },
+    {
+      "name": "shopping_privacy_policy",
+      "value": "《购物隐私政策》"
+    },
+    {
+      "name": "huaweiId_user_authentication_protocol",
+      "value": "《华为账号用户认证协议》"
+    },
+    {
+      "name": "user_agreement_and_privacy_policy",
+      "value": "用户协议与隐私条款"
+    },
+    {
+      "name": "protocol_separator",
+      "value": ""
+    },
+    {
+      "name": "bind_huaweiId_number",
+      "value": "华为账号绑定号码"
+    },
+    {
+      "name": "service_error",
+      "value": "服务或网络异常，请稍后重试"
+    },
+    {
+      "name": "agree_and_sign_in",
+      "value": "同意并登录"
+    },
+    {
+      "name": "not_login_in",
+      "value": "华为账号未登录，请重试"
+    },
+    {
+      "name": "scope_not_supported",
+      "value": "该scopes或permissions不支持"
+    },
+    {
+      "name": "use_hwid_silently_login",
+      "value": "使用华为账号静默登录"
+    },
+    {
+      "name": "logout",
+      "value": "退出登录"
+    },
+    {
+      "name": "get_network_info_reason",
+      "value": "点击隐私协议前查询设置网络状态。"
+    },
+    {
+      "name": "internet_reason",
+      "value": "用于访问外部链接"
+    },
+    {
+      "name": "app_name",
+      "value": "购物"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "用于调用一键登录组件。"
+    },
+    {
+      "name": "get_network_info_permission_reason",
+      "value": "用于跳转华为账号用户认证协议页面前判断当前设备是否连接网络。"
+    },
+    {
+      "name": "ageAppropriateContent",
+      "value": "适龄内容"
+    },
+    {
+      "name": "age",
+      "value": "%1$d ~ %2$d 周岁"
+    }
+  ]
+}

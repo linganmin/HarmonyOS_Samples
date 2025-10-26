@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "多网并发传输"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "多网并发传输"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "多网并发传输"
+    },
+    {
+      "name": "file_too_small",
+      "value": "文件太小,请选择超过5M大小的文件"
+    },
+    {
+      "name": "file_too_big",
+      "value": "文件太大,请选择不超过250M大小的文件"
+    },
+    {
+      "name": "multi_net_upload",
+      "value": "多网并发传输"
+    },
+    {
+      "name": "upload_success",
+      "value": "%fs 上传成功"
+    },
+    {
+      "name": "upload_failed",
+      "value": "上传失败"
+    },
+    {
+      "name": "submitting",
+      "value": "正在发布"
+    },
+    {
+      "name": "submit_content",
+      "value": "内容发布"
+    },
+    {
+      "name": "upload_content",
+      "value": "上传内容"
+    },
+    {
+      "name": "upload_tips",
+      "value": "注:仅能上传1张图片或1个视频"
+    },
+    {
+      "name": "submit",
+      "value": "发布"
+    },
+    {
+      "name": "upload_file",
+      "value": "上传文件"
+    },
+    {
+      "name": "multi_net_failed",
+      "value": "请求开启多网失败"
+    },
+    {
+      "name": "transfer_accelerating",
+      "value": "当前正在使用多网能力上传"
+    },
+    {
+      "name": "multi_net_enabled",
+      "value": "请求开启多网成功"
+    },
+    {
+      "name": "submit_download",
+      "value": "内容下载"
+    },
+    {
+      "name": "suggest_open",
+      "value": "建议开启多网"
+    },
+    {
+      "name": "suggest_close",
+      "value": "建议关闭多网"
+    },
+    {
+      "name": "unkown",
+      "value": "未知建议"
+    },
+    {
+      "name": "download",
+      "value": "下载"
+    },
+    {
+      "name": "china",
+      "value": "中国.mp4"
+    },
+    {
+      "name": "foreign_history",
+      "value": "外国历史.mp4"
+    },
+    {
+      "name": "download_list",
+      "value": "下载列表"
+    },
+    {
+      "name": "multi_net_upload_slice_file",
+      "value": "单文件分段上传"
+    },
+    {
+      "name": "multi_net_download_single_file",
+      "value": "多文件下载"
+    },
+    {
+      "name": "down_failed",
+      "value": "下载失败"
+    },
+    {
+      "name": "permission_internet",
+      "value": "允许应用访问网络"
+    },
+    {
+      "name": "permission_get_net_info",
+      "value": "允许应用获取网络详细信息"
+    },
+    {
+      "name": "permission_turbo",
+      "value": "允许应用使用网络加速功能"
+    }
+  ]
+}

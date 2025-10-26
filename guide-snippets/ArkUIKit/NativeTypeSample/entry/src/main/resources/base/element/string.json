@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "native_type_sample"
+    },
+    {
+      "name": "set_hover_mode_area_type",
+      "value": "HoverModeAreaType"
+    },
+    {
+      "name": "set_button_type",
+      "value": "ButtonType"
+    },
+    {
+      "name": "set_slider_block_style",
+      "value": "SliderBlockStyle"
+    },
+    {
+      "name": "set_slider_direction",
+      "value": "SliderDirection"
+    },
+    {
+      "name": "set_slider_style",
+      "value": "SliderStyle"
+    },
+    {
+      "name": "set_checkbox_shape",
+      "value": "CheckboxShape"
+    },
+    {
+      "name": "return_to_home_screen",
+      "value": "返回"
+    },
+    {
+      "name": "Set_alignment_mode",
+      "value": "设置对齐方式"
+    },
+    {
+      "name": "Select_datepicker_mode",
+      "value": "选择DATEPICKER模式"
+    },
+    {
+      "name": "Select_image_coverage_mode",
+      "value": "选择图片的宽高样式IMAGE_SIZE"
+    },
+    {
+      "name": "Select_image_adaptation_mode",
+      "value": "选择图片填充效果ObjectFit"
+    },
+    {
+      "name": "Select_image_interpolation_mode",
+      "value": "选择图片插值方式ImageInterpolation"
+    },
+    {
+      "name": "Select_image_rendering_mode",
+      "value": "选择图片渲染方式ImageRenderMode"
+    },
+    {
+      "name": "Select_background_overlay_mode",
+      "value": "选择背景覆盖方式ImageRepeat"
+    },
+    {
+      "name": "ImageAnimator_width",
+      "value": "宽度"
+    },
+    {
+      "name": "ImageAnimator_height",
+      "value": "高度"
+    },
+    {
+      "name": "ImageAnimator_top",
+      "value": "顶部"
+    },
+    {
+      "name": "ImageAnimator_left",
+      "value": "左侧"
+    },
+    {
+      "name": "ImageAnimator_duration",
+      "value": "持续时间(ms)"
+    },
+    {
+      "name": "Creat_imageAnimator",
+      "value": "创建imageAnimator"
+    },
+    {
+      "name": "Get_frameInfo",
+      "value": "获取FrameInfo值并销毁"
+    },
+    {
+      "name": "Smooth_effect",
+      "value": "平滑效果:"
+    },
+    {
+      "name": "Scan_effect",
+      "value": "扫描效果:"
+    },
+    {
+      "name": "Stroke_width",
+      "value": "线宽:"
+    },
+    {
+      "name": "Stroke_radius",
+      "value": "圆角半径:"
+    },
+    {
+      "name": "Select_node_type",
+      "value": "选择节点类型:"
+    },
+    {
+      "name": "Set_style_option",
+      "value": "设置styleOption:"
+    },
+    {
+      "name": "Get_style_option",
+      "value": "获取styleOption值并销毁"
+    },
+    {
+      "name": "Select_textPicker_type",
+      "value": "选择TextPicker类型"
+    },
+    {
+      "name": "Set_crossLanguage",
+      "value": "设置CrossLanguage并获取结果"
+    },
+    {
+      "name": "Set_progress_value",
+      "value": "设置进度条值"
+    },
+    {
+      "name": "Input_progress_value",
+      "value": "输入进度条值:"
+    },
+    {
+      "name": "Back",
+      "value": "返回上级"
+    }
+  ]
+}

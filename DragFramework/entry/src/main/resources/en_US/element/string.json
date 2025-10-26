@@ -1,0 +1,184 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DragFramework"
+    },
+    {
+      "name": "singletonAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "singletonAbility_label",
+      "value": "DragFrameworkSingleton"
+    },
+    {
+      "name": "hyperlink_title",
+      "value": "HyperLink Drag"
+    },
+    {
+      "name": "hyperlink_none_text_column_name",
+      "value": "Area that the hyperlink can not be dragged in"
+    },
+    {
+      "name": "hyperlink_text_column_name",
+      "value": "Area that the hyperlink can be dragged in"
+    },
+    {
+      "name": "none_data",
+      "value": "Invalid data"
+    },
+    {
+      "name": "data_detail",
+      "value": "HyperLink\nurl: %s\ndescription: %s"
+    },
+    {
+      "name": "image_text_title",
+      "value": "Area that the image can be dragged in"
+    },
+    {
+      "name": "image_none_text_title",
+      "value": "Area that the image can not be dragged in"
+    },
+    {
+      "name": "image_title",
+      "value": "Image Drag"
+    },
+    {
+      "name": "rich_editor_text_title",
+      "value": "Area that the text can be dragged in"
+    },
+    {
+      "name": "textarea_title",
+      "value": "TextArea Drag"
+    },
+    {
+      "name": "textarea_text_title",
+      "value": "Area that the text can be dragged in"
+    },
+    {
+      "name": "textarea_none_text_title",
+      "value": "Area that the text can not be dragged in"
+    },
+    {
+      "name": "text_input_title",
+      "value": "TextInput Drag"
+    },
+    {
+      "name": "index_title",
+      "value": "Drag Framework"
+    },
+    {
+      "name": "rich_editor_title",
+      "value": "RichEditor Drag"
+    },
+    {
+      "name": "rich_editor_text",
+      "value": "RichEditor drag, try it!"
+    },
+    {
+      "name": "list_title",
+      "value": "List Drag"
+    },
+    {
+      "name": "background_title",
+      "value": "Background customization"
+    },
+    {
+      "name": "watermark_title",
+      "value": "Add a watermark"
+    },
+    {
+      "name": "ai_recognition_title",
+      "value": "AI recognizes dragged content"
+    },
+    {
+      "name": "background_content",
+      "value": "Snow-capped mountain landscape"
+    },
+    {
+      "name": "drag_successfully",
+      "value": "Drag successfully"
+    },
+    {
+      "name": "drag_failed",
+      "value": "Drag failed"
+    },
+    {
+      "name": "area_can_drag",
+      "value": "Area that can be dragged in"
+    },
+    {
+      "name": "drag_time",
+      "value": "Drag time: "
+    },
+    {
+      "name": "splice_screen_drag",
+      "value": "SpliceScreenDrag"
+    },
+    {
+      "name": "area_none_drag",
+      "value": "No dragging area"
+    },
+    {
+      "name": "online_image_title",
+      "value": "Online Image Drag"
+    },
+    {
+      "name": "localvideo_text_title",
+      "value": "Area that the video can be dragged in"
+    },
+    {
+      "name": "localvideo_title",
+      "value": "LocalVideo Drag"
+    },
+    {
+      "name": "localvideo_none_text_title",
+      "value": "Area that the video can not be dragged in"
+    },
+    {
+      "name": "internet_reason",
+      "value": "Access the network"
+    },
+    {
+      "name": "Text_title",
+      "value": "Text Drag"
+    },
+    {
+      "name": "image_and_text_text_title",
+      "value": "Area that the text and image can be dragged in"
+    },
+    {
+      "name": "pixelMap_text_title",
+      "value": "Area that pixelMap can be dragged in"
+    },
+    {
+      "name": "uri_text_title",
+      "value": "Area that uri image can be dragged in"
+    },
+    {
+      "name": "text_and_image_text_description",
+      "value": "This is an image"
+    },
+    {
+      "name": "text_and_image_title",
+      "value": "Text and Image Drag"
+    },
+    {
+      "name": "RichEditor_title",
+      "value": "RichEditor Drag"
+    },
+    {
+      "name": "MultiEntry_title",
+      "value": "MultiEntry Drag"
+    }
+  ]
+}

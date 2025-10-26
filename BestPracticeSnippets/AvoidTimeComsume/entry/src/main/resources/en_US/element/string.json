@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Main Thread Time-consuming Operations Optimization Guide"
+    },
+    {
+      "name": "test",
+      "value": "test"
+    },
+    {
+      "name": "redundant_operation",
+      "value": "Redundant operations"
+    },
+    {
+      "name": "no_redundant_operation",
+      "value": "No redundant operations"
+    },
+    {
+      "name": "negative_of_grid",
+      "value": "Component reuse counterexample"
+    },
+    {
+      "name": "positive_of_grid",
+      "value": "Component reuse examples"
+    },
+    {
+      "name": "negative_of_lazy_forEach",
+      "value": "Loop rendering counterexamples"
+    },
+    {
+      "name": "positive_of_lazy_forEach",
+      "value": "Circular rendering normal"
+    },
+    {
+      "name": "negative_of_property",
+      "value": "Component property counterexamples"
+    },
+    {
+      "name": "positive_of_property",
+      "value": "Component property examples"
+    },
+    {
+      "name": "get_str_of_resource",
+      "value": "Through resource objects"
+    },
+    {
+      "name": "get_str_of_id",
+      "value": "By resource ID"
+    },
+    {
+      "name": "use_async",
+      "value": "Use asynchronous"
+    },
+    {
+      "name": "use_task_pool",
+      "value": "Use multithreading"
+    },
+    {
+      "name": "negative_of_onScroll",
+      "value": "High-frequency event callbacks perform time-consuming operations"
+    },
+    {
+      "name": "positive_of_onScroll",
+      "value": "High-frequency event callbacks do not perform time-consuming operations"
+    },
+    {
+      "name": "conditional_rendering",
+      "value": "Conditional rendering"
+    }
+  ]
+}

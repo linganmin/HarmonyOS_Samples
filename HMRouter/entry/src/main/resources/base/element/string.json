@@ -1,0 +1,592 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HMRouter"
+    },
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "comment_placeholder",
+      "value": "What to say ..."
+    },
+    {
+      "name": "official_review",
+      "value": "Official anchor"
+    },
+    {
+      "name": "store_name",
+      "value": "Official live broadcast room"
+    },
+    {
+      "name": "number_of_viewers",
+      "value": "738,600 people watch"
+    },
+    {
+      "name": "NAV_ROUTER_LIST1",
+      "value": "Phone"
+    },
+    {
+      "name": "NAV_ROUTER_LIST2",
+      "value": "Wearable"
+    },
+    {
+      "name": "NAV_ROUTER_LIST3",
+      "value": "Tablet"
+    },
+    {
+      "name": "NAV_ROUTER_LIST4",
+      "value": "PC"
+    },
+    {
+      "name": "NAV_ROUTER_LIST5",
+      "value": "Display&Print"
+    },
+    {
+      "name": "NAV_ROUTER_LIST6",
+      "value": "Headphone"
+    },
+    {
+      "name": "NAV_ROUTER_LIST7",
+      "value": "Vision"
+    },
+    {
+      "name": "NAV_ROUTER_LIST8",
+      "value": "Lock&Router"
+    },
+    {
+      "name": "NAV_ROUTER_LIST9",
+      "value": "Travel vehicle products"
+    },
+    {
+      "name": "NAV_ROUTER_LIST10",
+      "value": "Digital accessories"
+    },
+    {
+      "name": "NAV_ROUTER_LIST11",
+      "value": "Huawei Services"
+    },
+    {
+      "name": "NAV_ROUTER_LIST12",
+      "value": "Digital content"
+    },
+    {
+      "name": "NAV_ROUTER_LIST13",
+      "value": "Commercial terminal"
+    },
+    {
+      "name": "NAV_ROUTER_LIST14",
+      "value": "Huawei Premium"
+    },
+    {
+      "name": "NAV_ROUTER_LIST15",
+      "value": "Household Appliances"
+    },
+    {
+      "name": "SHOP_TITLE_LIST1",
+      "value": "New products"
+    },
+    {
+      "name": "SHOP_TITLE_LIST2",
+      "value": "2"
+    },
+    {
+      "name": "SHOP_TITLE_LIST3",
+      "value": "HUAWEI P Series"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST1",
+      "value": "Home"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST2",
+      "value": "Categories"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST3",
+      "value": "Discover"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST4",
+      "value": "Cart"
+    },
+    {
+      "name": "FOOTER_TOPIC_LIST5",
+      "value": "Personal"
+    },
+    {
+      "name": "TOP_BAR_TEXTS1",
+      "value": "Huawei"
+    },
+    {
+      "name": "TOP_BAR_TEXTS2",
+      "value": "AITO Car"
+    },
+    {
+      "name": "TOP_BAR_TEXTS3",
+      "value": "Huawei Premium"
+    },
+    {
+      "name": "TOP_BAR_TEXTS4",
+      "value": "Ecological Surroundings"
+    },
+    {
+      "name": "searching",
+      "value": "Search..."
+    },
+    {
+      "name": "GOOD_CATEGORIES1",
+      "value": "智慧办公"
+    },
+    {
+      "name": "GOOD_CATEGORIES2",
+      "value": "智慧家居"
+    },
+    {
+      "name": "GOOD_CATEGORIES3",
+      "value": "华为手机"
+    },
+    {
+      "name": "GOOD_CATEGORIES4",
+      "value": "影音娱乐"
+    },
+    {
+      "name": "GOOD_CATEGORIES5",
+      "value": "运动健康"
+    },
+    {
+      "name": "GOOD_CATEGORIES6",
+      "value": "AITO汽车"
+    },
+    {
+      "name": "GOOD_CATEGORIES7",
+      "value": "华为智选"
+    },
+    {
+      "name": "GOOD_CATEGORIES8",
+      "value": "鸿蒙智联"
+    },
+    {
+      "name": "GOOD_CATEGORIES9",
+      "value": "企业商用"
+    },
+    {
+      "name": "GOOD_CATEGORIES10",
+      "value": "全屋智能"
+    },
+    {
+      "name": "PRICE_UNIT",
+      "value": "起"
+    },
+    {
+      "name": "HOME_TITLES1",
+      "value": "Welfare Zone"
+    },
+    {
+      "name": "HOME_TITLES2",
+      "value": "Recommendation"
+    },
+    {
+      "name": "HOME_TITLES3",
+      "value": "Time-Limited Discounts"
+    },
+    {
+      "name": "BUTTON_TEXTS1",
+      "value": "Coupon"
+    },
+    {
+      "name": "BUTTON_TEXTS2",
+      "value": "Buy"
+    },
+    {
+      "name": "TIP_TEXTS1",
+      "value": "用券价"
+    },
+    {
+      "name": "TIP_TEXTS2",
+      "value": "More"
+    },
+    {
+      "name": "TIP_TEXTS3",
+      "value": "新品"
+    },
+    {
+      "name": "SECTION_PRODUCTS_TITLES1",
+      "value": "MateBook X Pro 12代"
+    },
+    {
+      "name": "SECTION_PRODUCTS_TITLES2",
+      "value": "新品"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO1",
+      "value": "北斗卫星消息 | 低电量应急模式"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO2",
+      "value": "144Hz高割全面屏"
+    },
+    {
+      "name": "SECTION_PRODUCTS_INFO3",
+      "value": "32GB大内存 | 13代酷睿处理器 | 超级终端"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES1",
+      "value": "V1-V5优惠400元/12期免息"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES2",
+      "value": "新一代直屏旗舰机"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES3",
+      "value": "最高省100"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES4",
+      "value": "限时直降300"
+    },
+    {
+      "name": "SECTION_PRODUCTS_FEATURES5",
+      "value": "最高省300"
+    },
+    {
+      "name": "SHOPPING_BAG_TITLES1",
+      "value": "Cart"
+    },
+    {
+      "name": "SHOPPING_BAG_TITLES2",
+      "value": "Manage"
+    },
+    {
+      "name": "SHOPPING_BAG_TITLES3",
+      "value": "Huawei official flagship store"
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES1",
+      "value": "Select All"
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES2",
+      "value": "Total:"
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES3",
+      "value": "Discounted ￥1000"
+    },
+    {
+      "name": "SHOPPING_CARD_FOOT_TITLES4",
+      "value": "Check out(1)"
+    },
+    {
+      "name": "LOGIN_TITLE",
+      "value": "Log in to my account"
+    },
+    {
+      "name": "LOGIN_PLACEHOLDER1",
+      "value": "Mobile number/Email address/Account name"
+    },
+    {
+      "name": "LOGIN_PLACEHOLDER2",
+      "value": "Password"
+    },
+    {
+      "name": "LOGIN_INPUT_TEXT",
+      "value": "Xiaoyi"
+    },
+    {
+      "name": "LOGIN_BUTTON",
+      "value": "Login"
+    },
+    {
+      "name": "LOGIN_TOAST",
+      "value": "Please log in first"
+    },
+    {
+      "name": "PAY_CARD_TEXT1",
+      "value": "Huawei Transportation Card"
+    },
+    {
+      "name": "PAY_CARD_TEXT2",
+      "value": "Huawei Pay payment"
+    },
+    {
+      "name": "PAY_CARD_TEXT3",
+      "value": "No more"
+    },
+    {
+      "name": "PAY_CARD_BUTTON",
+      "value": "Confirm payment"
+    },
+    {
+      "name": "PAY_CANCEL_TITLE",
+      "value": "Cancel Order"
+    },
+    {
+      "name": "PAY_CANCEL_CONTENT",
+      "value": "Are you sure you want to cancel the order?"
+    },
+    {
+      "name": "PAY_CANCEL_SEE",
+      "value": "Look again"
+    },
+    {
+      "name": "PAY_CANCEL_CONFIRM",
+      "value": "Cancel Order"
+    },
+    {
+      "name": "HOME_EXIT_TOAST",
+      "value": "Go back and exit the app again"
+    },
+    {
+      "name": "MINE_TITLE",
+      "value": "My Account"
+    },
+    {
+      "name": "MINE_TEXT1",
+      "value": "Login"
+    },
+    {
+      "name": "MINE_TEXT2",
+      "value": "Transition Animation Settings"
+    },
+    {
+      "name": "MINE_ANIMATION_CONTENT",
+      "value": "When the transition animation is personalized, the system uses the animation selected by the user for transition. The user can upload the animation to use it."
+    },
+    {
+      "name": "MINE_ANIMATION_TYPE1",
+      "value": "Default"
+    },
+    {
+      "name": "MINE_ANIMATION_TYPE2",
+      "value": "Follow-up system"
+    },
+    {
+      "name": "MINE_ANIMATION_TYPE3",
+      "value": "Personalized"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TITLE",
+      "value": "My transition animation"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TYPE1",
+      "value": "Right"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TYPE2",
+      "value": "Left"
+    },
+    {
+      "name": "PERSONALIZED_ANIMATION_TYPE3",
+      "value": "Zoom"
+    },
+    {
+      "name": "MINE_BUTTON_TEXT",
+      "value": "Click Login"
+    },
+    {
+      "name": "MINE_NAME",
+      "value": "Xiaoyi"
+    },
+    {
+      "name": "MINE_LOG_OUT_TITLE",
+      "value": "HMOS account"
+    },
+    {
+      "name": "MINE_LOG_OUT_TEXT",
+      "value": "Personal Information"
+    },
+    {
+      "name": "MINE_LOG_OUT_BUTTON",
+      "value": "Log out"
+    },
+    {
+      "name": "SHOPPING_SETTLEMENT_BUTTON",
+      "value": "Pay"
+    },
+    {
+      "name": "SHOPPING_UNPAID",
+      "value": "Unpaid"
+    },
+    {
+      "name": "SHOPPING_PAID",
+      "value": "Paid"
+    },
+    {
+      "name": "EXIT_LOGIN_TITLE",
+      "value": "Log out"
+    },
+    {
+      "name": "EXIT_LOGIN_CONTENT",
+      "value": "Are you sure you want to exit the current account?"
+    },
+    {
+      "name": "EXIT_LOGIN_LEFT_BUTTON",
+      "value": "Cancel"
+    },
+    {
+      "name": "EXIT_LOGIN_RIGHT_BUTTON",
+      "value": "Exit"
+    },
+    {
+      "name": "PAY_SUCCESS_TITLE",
+      "value": "Payment successful"
+    },
+    {
+      "name": "PAY_SUCCESS_TEXT",
+      "value": "Successful payment"
+    },
+    {
+      "name": "PAY_SUCCESS_BUTTON",
+      "value": "Back home"
+    },
+    {
+      "name": "BUTTON_NAMES1",
+      "value": "Add to bag"
+    },
+    {
+      "name": "BUTTON_NAMES2",
+      "value": "Buy"
+    },
+    {
+      "name": "SELECT_NAME_LIST1",
+      "value": "Body color"
+    },
+    {
+      "name": "SELECT_NAME_LIST2",
+      "value": "Storage capacity"
+    },
+    {
+      "name": "SELECT_NAME_LIST3",
+      "value": "Package type"
+    },
+    {
+      "name": "PAY_INFO1",
+      "value": "Contacts  +8610000000000"
+    },
+    {
+      "name": "PAY_INFO2",
+      "value": "Huawei Pay payment"
+    },
+    {
+      "name": "PAY_INFO3",
+      "value": "Pay Now"
+    },
+    {
+      "name": "PAY_INFO4",
+      "value": "Paid already"
+    },
+    {
+      "name": "LIVING",
+      "value": "Live"
+    },
+    {
+      "name": "LIVING_LEFT_TEXT",
+      "value": "A total of "
+    },
+    {
+      "name": "LIVING_RIGHT_TEXT",
+      "value": " comments"
+    },
+    {
+      "name": "LIVING_WRITE",
+      "value": "Write a comment"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TITLE",
+      "value": "XX service"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT1",
+      "value": "\"XX\"is XXXXXXXXX (business description)."
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT2",
+      "value": "This application requires networking, calling XX, XX permissions, using Bluetooth and NFC functions, enabling XX, XX, reading XX, XX, reading and modifying XX, XX, reading and transmitting XX, XX to provide XX related services..."
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT3",
+      "value": "About XX business and Privacy Statement"
+    },
+    {
+      "name": "PRIVACY_DIALOG_TEXT4",
+      "value": "Please carefully read the above statement and click 'Agree' to acknowledge and agree to..."
+    },
+    {
+      "name": "PRIVACY_DIALOG_LEFT_BUTTON",
+      "value": "Cancel"
+    },
+    {
+      "name": "PRIVACY_DIALOG_RIGHT_BUTTON",
+      "value": "Agree"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TITLE",
+      "value": "Privacy Statement"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT1",
+      "value": "Statement on XX and Privacy"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT2",
+      "value": "Update date: XX month XX day, 20XX"
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT3",
+      "value": "XX is (function introduction). Huawei attaches great importance to the protection of your personal information and privacy. We will provide corresponding protection measures for your personal information in accordance with legal requirements and mature security standards in the industry."
+    },
+    {
+      "name": "PRIVACY_DETAIL_TEXT4",
+      "value": "Other supplements"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT1",
+      "value": "How do we collect and use your personal information"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT2",
+      "value": "Personalized recommendation (optional)"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT3",
+      "value": "Advertisement (optional)"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT4",
+      "value": "Protection of children"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT5",
+      "value": "Sharing with third parties"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT6",
+      "value": "Third party SDK"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT7",
+      "value": "Manage your data"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT8",
+      "value": "Data storage location and duration"
+    },
+    {
+      "name": "PRIVACY_DETAIL_ITEM_TEXT9",
+      "value": "How to contact us"
+    }
+  ]
+}

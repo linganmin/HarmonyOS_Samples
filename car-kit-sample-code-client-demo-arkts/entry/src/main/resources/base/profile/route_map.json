@@ -1,0 +1,14 @@
+{
+  "routerMap": [
+    {
+      "name": "NavInfoServicePage",
+      "pageSourceFile": "src/main/ets/pages/NavInfoServicePage.ets",
+      "buildFunction": "NavInfoServicePageBuilder"
+    },
+    {
+      "name": "TravelServicePage",
+      "pageSourceFile": "src/main/ets/pages/TravelServicePage.ets",
+      "buildFunction": "TravelServicePageBuilder"
+    }
+  ]
+}

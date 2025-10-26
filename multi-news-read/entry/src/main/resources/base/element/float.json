@@ -1,0 +1,220 @@
+{
+  "float": [
+    {
+      "name": "news_big_title_size",
+      "value": "16vp"
+    },
+    {
+      "name": "news_small_title_size",
+      "value": "12vp"
+    },
+    {
+      "name": "list_gutter",
+      "value": "4vp"
+    },
+    {
+      "name": "grid_gutter",
+      "value": "16vp"
+    },
+    {
+      "name": "container_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "cards_height",
+      "value": "266vp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "24vp"
+    },
+    {
+      "name": "hot_rank_font_size",
+      "value": "22vp"
+    },
+    {
+      "name": "normal_font_size",
+      "value": "16vp"
+    },
+    {
+      "name": "brief_font_size",
+      "value": "14vp"
+    },
+    {
+      "name": "small_font_size",
+      "value": "12vp"
+    },
+    {
+      "name": "smallest_font_size",
+      "value": "10vp"
+    },
+    {
+      "name": "grid_gutter_bigger",
+      "value": "20vp"
+    },
+    {
+      "name": "small_line_height",
+      "value": "14vp"
+    },
+    {
+      "name": "line_height",
+      "value": "18vp"
+    },
+    {
+      "name": "rank_list_line_height",
+      "value": "22vp"
+    },
+    {
+      "name": "brief_line_height",
+      "value": "22vp"
+    },
+    {
+      "name": "bigger_line_height",
+      "value": "33vp"
+    },
+    {
+      "name": "multi_image_news_line_height",
+      "value": "23vp"
+    },
+    {
+      "name": "bigger_more_icon_size",
+      "value": "24vp"
+    },
+    {
+      "name": "small_more_icon_size",
+      "value": "12vp"
+    },
+    {
+      "name": "rank_card_size",
+      "value": "18vp"
+    },
+    {
+      "name": "rank_card_border_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "image_border_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "small_border_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "normal_border_radius",
+      "value": "10vp"
+    },
+    {
+      "name": "bigger_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "rank_span_text",
+      "value": "9vp"
+    },
+    {
+      "name": "rank_list_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "text_margin_image",
+      "value": "8vp"
+    },
+    {
+      "name": "title_margin_space",
+      "value": "12vp"
+    },
+    {
+      "name": "ic_more_size",
+      "value": "14vp"
+    },
+    {
+      "name": "publisher_info_height",
+      "value": "29vp"
+    },
+    {
+      "name": "left_text_right_image_height",
+      "value": "125vp"
+    },
+    {
+      "name": "left_text_right_image_normal_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "left_text_right_image_bottom_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "publisher_info_space_bottom",
+      "value": "4vp"
+    },
+    {
+      "name": "play_icon_width",
+      "value": "14vp"
+    },
+    {
+      "name": "play_icon_height",
+      "value": "17vp"
+    },
+    {
+      "name": "play_icon_size",
+      "value": "40vp"
+    },
+    {
+      "name": "duration_height",
+      "value": "14vp"
+    },
+    {
+      "name": "duration_width",
+      "value": "26vp"
+    },
+    {
+      "name": "duration_container_width",
+      "value": "38vp"
+    },
+    {
+      "name": "duration_container_height",
+      "value": "23vp"
+    },
+    {
+      "name": "duration_container_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "relative_container_height",
+      "value": "185vp"
+    },
+    {
+      "name": "video_card_info_height",
+      "value": "32vp"
+    },
+    {
+      "name": "video_card_info_width",
+      "value": "328vp"
+    },
+    {
+      "name": "video_card_title_height",
+      "value": "21vp"
+    },
+    {
+      "name": "video_card_title_width",
+      "value": "523vp"
+    },
+    {
+      "name": "square_image_size",
+      "value": "80vp"
+    },
+    {
+      "name": "video_card_info_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "news_list_common_space",
+      "value": "16vp"
+    },
+    {
+      "name": "header_height",
+      "value": "56vp"
+    }
+  ]
+}

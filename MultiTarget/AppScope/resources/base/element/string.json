@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "MultiTarget"
+    },
+    {
+      "name": "test_app_name",
+      "value": "Test Version"
+    },
+    {
+      "name": "official_app_name",
+      "value": "Official Version"
+    }
+  ]
+}

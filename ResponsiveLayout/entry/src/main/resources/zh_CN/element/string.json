@@ -1,0 +1,116 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "响应式布局"
+    },
+    {
+      "name": "tabs",
+      "value": "底部/侧边导航"
+    },
+    {
+      "name": "list",
+      "value": "列表布局"
+    },
+    {
+      "name": "grid",
+      "value": "宫格布局"
+    },
+    {
+      "name": "swiper",
+      "value": "轮播布局"
+    },
+    {
+      "name": "water_flow",
+      "value": "瀑布流布局"
+    },
+    {
+      "name": "sidebar",
+      "value": "侧边栏"
+    },
+    {
+      "name": "double_column",
+      "value": "二分栏"
+    },
+    {
+      "name": "triple_column",
+      "value": "三分栏"
+    },
+    {
+      "name": "move_layout",
+      "value": "挪移布局"
+    },
+    {
+      "name": "indented_layout",
+      "value": "缩进布局"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_category",
+      "value": "分类"
+    },
+    {
+      "name": "tab_discovery",
+      "value": "发现"
+    },
+    {
+      "name": "tab_shopping_bag",
+      "value": "购物袋"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "navigation_content_home",
+      "value": "内容区详情页"
+    },
+    {
+      "name": "navigation_bar",
+      "value": "导航栏"
+    },
+    {
+      "name": "song_list",
+      "value": "歌曲列表"
+    },
+    {
+      "name": "side_bar",
+      "value": "侧边栏"
+    },
+    {
+      "name": "main_page",
+      "value": "主页面"
+    },
+    {
+      "name": "song_description",
+      "value": "歌单描述"
+    },
+    {
+      "name": "playlist",
+      "value": "歌单"
+    },
+    {
+      "name": "jump_content_home",
+      "value": "跳转内容区首页"
+    },
+    {
+      "name": "jump_content_detail",
+      "value": "跳转内容区详情页"
+    },
+    {
+      "name": "sample_name",
+      "value": "基于一多能力实现响应式布局"
+    }
+  ]
+}

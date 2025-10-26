@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "DefaultFormAbility_desc",
+      "value": "healthy living service card"
+    },
+    {
+      "name": "DefaultFormAbility_label",
+      "value": "healthy living service cards labels"
+    },
+    {
+      "name": "progress_desc",
+      "value": "service card"
+    },
+    {
+      "name": "progress_display_name",
+      "value": "service card"
+    },
+    {
+      "name": "agency_desc",
+      "value": "service card"
+    },
+    {
+      "name": "agency_display_name",
+      "value": "service card"
+    },
+    {
+      "name": "agency_no_task",
+      "value": "Go to Healthy Living to add tasks"
+    }
+  ]
+}

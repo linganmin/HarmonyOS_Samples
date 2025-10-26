@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "应用间跳转"
+    },
+    {
+      "name": "huawei_reader",
+      "value": "华为阅读"
+    },
+    {
+      "name": "read_des",
+      "value": "文学名著，散文诗集，千万小说尽在华为阅读。"
+    },
+    {
+      "name": "goods_detail",
+      "value": "HUAWEI Mate X5 12 GB + 512 GB 幻影紫"
+    },
+    {
+      "name": "goods_name",
+      "value": "【官方旗舰店】 HUAWEI Mate X5 12GB+512GB 幻影紫"
+    },
+    {
+      "name": "no_network",
+      "value": "当前无网络连接，请点击设置网络连接"
+    },
+    {
+      "name": "error_toast",
+      "value": "当前无网络连接，请点击设置网络连接"
+    },
+    {
+      "name": "payment_status",
+      "value": "支付成功"
+    }
+  ]
+}

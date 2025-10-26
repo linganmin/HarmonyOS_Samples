@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "组件动态创建"
+    },
+    {
+      "name": "text_NavDestination_title",
+      "value": "组件动态创建Sample "
+    },
+    {
+      "name": "text_card_title",
+      "value": "组件动态创建sample标题 "
+    },
+    {
+      "name": "text_card_abstract",
+      "value": "组件动态创建sample文本 "
+    },
+    {
+      "name": "text_ad_icon",
+      "value": "广告"
+    },
+    {
+      "name": "text_dialog_title",
+      "value": "屏蔽广告"
+    },
+    {
+      "name": "text_dialog_description",
+      "value": "屏蔽后将减少此类广告推荐"
+    },
+    {
+      "name": "text_dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "text_dialog_shield",
+      "value": "屏蔽"
+    },
+    {
+      "name": "tab1",
+      "value": "组件动态创建开发实践"
+    },
+    {
+      "name": "tab2",
+      "value": "列表流广告组件实践案例"
+    },
+    {
+      "name": "tab3",
+      "value": "动态生成页面实践案例"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ObtainingDeviceID"
+    },
+    {
+      "name": "Title",
+      "value": "获取设备标识"
+    },
+    {
+      "name": "ODID",
+      "value": "ODID"
+    },
+    {
+      "name": "AAID",
+      "value": "AAID"
+    },
+    {
+      "name": "OAID",
+      "value": "OAID"
+    },
+    {
+      "name": "create",
+      "value": "创建%s"
+    },
+    {
+      "name": "toBeCreate",
+      "value": "待创建"
+    },
+    {
+      "name": "saveToKeyAssets",
+      "value": "保存到关键资产中"
+    },
+    {
+      "name": "savedToKeyAssets",
+      "value": "已保存到关键资产中"
+    },
+    {
+      "name": "queryKeyAssets",
+      "value": "查询关键资产"
+    },
+    {
+      "name": "pleaseCreateAndSaveFirst",
+      "value": "请先创建并保存%s"
+    },
+    {
+      "name": "query",
+      "value": "查询"
+    },
+    {
+      "name": "tracking_reason",
+      "value": "获取开放匿名设备标识符"
+    }
+  ]
+}

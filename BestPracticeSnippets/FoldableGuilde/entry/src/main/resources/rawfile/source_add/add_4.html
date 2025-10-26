@@ -1,0 +1,55 @@
+// [Start add_4]
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <style>
+            * {
+              margin: 0;
+              padding: 0;
+            }
+            ul {
+              width: 90vw;
+              height: auto;
+              margin: 0 auto;
+              font-size: 0;
+            }
+
+            li {
+              width: 60px;
+              height: 60px;
+              background-color: aqua;
+              display: inline-block;
+              margin: 0;
+              margin-bottom: 5px;
+            }
+
+            /* Example: a way of left alignment and even layout */
+            li:not(:nth-child(4n)) {
+              margin-right: calc((100% - 60px * 4) / 3);
+            }
+            /* Use the @media property to achieve adaptation */
+            @media only screen and (min-width: 500px) {
+              li:not(:nth-child(8n)) {
+                margin-right: calc((100% - 60px * 8) / 7);
+              }
+            }
+        </style>
+    </head>
+    <body>
+        <ul>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </body>
+</html>
+// [End add_4]

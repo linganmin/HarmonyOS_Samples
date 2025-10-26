@@ -1,0 +1,300 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DialogHubSample"
+    },
+    {
+      "name": "privacy_title",
+      "value": "关于XX与隐私的声明"
+    },
+    {
+      "name": "update_date",
+      "value": "更新日期：20XX年X月X日"
+    },
+    {
+      "name": "introductory_1",
+      "value": "\"XX\"是由华为软件技术有限公司（以下简称“我们”或“华为”）\n为您提供XXXX。华为非常重视您的个人信息和隐私保护，我们将会按照法律要求和业界成熟的安全标准，为您的个人信息提供相应的安全保护措施。"
+    },
+    {
+      "name": "introductory_2",
+      "value": "1.我们如何收集和使用您的个人信息"
+    },
+    {
+      "name": "introductory_3",
+      "value": "您可以通过访问个人信息收集清单快速了解完整功能服务模式下“XX”收集、使用个人信息的基本情况。各功能收集、使用个人信息的详细情况可查看下方说明"
+    },
+    {
+      "name": "introductory_4",
+      "value": "1.1 我们将通过“XX”为您提供下述业务能力，在您使用相关业务功能的过程中，我们会处理下列提供功能所必需的信息，以便展行我们的合同义务，确保您能正常使用本应用的相关功能。"
+    },
+    {
+      "name": "introductory_5",
+      "value": "为实现向您提供XX产品和服务的基本功能，包括定位服务、搜索服务、地图服务、出行服务（导航服务、路线规划服务、用车出现服务）"
+    },
+    {
+      "name": "friend_nickname_1",
+      "value": "朋友1"
+    },
+    {
+      "name": "friend_nickname_2",
+      "value": "朋友2"
+    },
+    {
+      "name": "comment_button_text",
+      "value": "写评论"
+    },
+    {
+      "name": "comment_list_title",
+      "value": "23条评论"
+    },
+    {
+      "name": "after",
+      "value": "点击后处理逻辑"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "not_interested",
+      "value": "不感兴趣"
+    },
+    {
+      "name": "reduce",
+      "value": "减少这类内容"
+    },
+    {
+      "name": "shield",
+      "value": "屏蔽"
+    },
+    {
+      "name": "share",
+      "value": "生活分享"
+    },
+    {
+      "name": "more",
+      "value": "更多功能"
+    },
+    {
+      "name": "cancel",
+      "value": "取消关注"
+    },
+    {
+      "name": "cancel_user",
+      "value": "确认不再关注此用户吗"
+    },
+    {
+      "name": "tips",
+      "value": "成功提示"
+    },
+    {
+      "name": "think_again",
+      "value": "再想想"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "scan",
+      "value": "扫一扫"
+    },
+    {
+      "name": "collect",
+      "value": "收藏"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "text_tips",
+      "value": "文本提示"
+    },
+    {
+      "name": "message",
+      "value": "ok，我是DEFAULT toast"
+    },
+    {
+      "name": "img_tips",
+      "value": "图文提示"
+    },
+    {
+      "name": "operate_tips",
+      "value": "操作提示"
+    },
+    {
+      "name": "collection_successful",
+      "value": "收藏成功"
+    },
+    {
+      "name": "join_the_album",
+      "value": "加入专辑"
+    },
+    {
+      "name": "turn_off_the_sound",
+      "value": "关闭声音"
+    },
+    {
+      "name": "dialog",
+      "value": "对话框"
+    },
+    {
+      "name": "confirm_dialog",
+      "value": "确认弹窗"
+    },
+    {
+      "name": "privacy_dialog",
+      "value": "隐私弹窗"
+    },
+    {
+      "name": "progress_dialog",
+      "value": "进度条弹窗"
+    },
+    {
+      "name": "progress",
+      "value": "保存中"
+    },
+    {
+      "name": "menu",
+      "value": "菜单/气泡"
+    },
+    {
+      "name": "menu_dialog",
+      "value": "菜单弹窗"
+    },
+    {
+      "name": "bubble_dialog",
+      "value": "气泡弹窗"
+    },
+    {
+      "name": "operation",
+      "value": "操作栏"
+    },
+    {
+      "name": "operation_list",
+      "value": "操作列表"
+    },
+    {
+      "name": "comment_reply_dialog",
+      "value": "评论回复弹窗"
+    },
+    {
+      "name": "agreement_tips",
+      "value": "用户协议提示"
+    },
+    {
+      "name": "sign_in_and_agree",
+      "value": "登录即同意"
+    },
+    {
+      "name": "user_authentication_protocol",
+      "value": "《华为账号用户认证协议》"
+    },
+    {
+      "name": "rejected",
+      "value": "拒绝"
+    },
+    {
+      "name": "confirm_login",
+      "value": "确认登录"
+    },
+    {
+      "name": "modal_dialog",
+      "value": "模态弹窗"
+    },
+    {
+      "name": "non_modal_dialog",
+      "value": "非模态弹窗"
+    },
+    {
+      "name": "start",
+      "value": "开始"
+    },
+    {
+      "name": "list",
+      "value": "可变高度操作列表"
+    },
+    {
+      "name": "nick_name_1",
+      "value": "黄河"
+    },
+    {
+      "name": "nick_name_2",
+      "value": "森林"
+    },
+    {
+      "name": "nick_name_3",
+      "value": "地理风光"
+    },
+    {
+      "name": "nick_name_4",
+      "value": "大山"
+    },
+    {
+      "name": "nick_name_5",
+      "value": "小溪"
+    },
+    {
+      "name": "comment_1",
+      "value": "君不见黄河之水天上来"
+    },
+    {
+      "name": "comment_2",
+      "value": "这座山的地理环境很重要"
+    },
+    {
+      "name": "comment_3",
+      "value": "会当凌绝顶"
+    },
+    {
+      "name": "comment_4",
+      "value": "美丽的山峦"
+    },
+    {
+      "name": "comment_5",
+      "value": "蜿蜒的河流之水"
+    },
+    {
+      "name": "place_1",
+      "value": "10-23·来自北京"
+    },
+    {
+      "name": "place_2",
+      "value": "10-23·来自云南"
+    },
+    {
+      "name": "place_3",
+      "value": "10-23·来自武汉"
+    },
+    {
+      "name": "place_4",
+      "value": "10-23·来自湖南"
+    },
+    {
+      "name": "place_5",
+      "value": "10-23·来自河南"
+    },
+    {
+      "name": "tips_title",
+      "value": "提示"
+    },
+    {
+      "name": "reply",
+      "value": "回复"
+    },
+    {
+      "name": "ui_display",
+      "value": "仅作UI展示"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "login": "Sign in/Sign up",
+  "personalInfo": "Personal info",
+  "phone": "Mobile number",
+  "hwid_no_internet_connect": "No Internet connection. Check your network settings. ",
+  "hwid_text_button_known": "OK",
+  "agree": "I have read and agree to ",
+  "and": " and ",
+  "end": ". ",
+  "cancel": "Cancel",
+  "close": "Continue",
+  "other_login_models": "Other ways to sign in",
+  "login_for_enjoy_service": "Enjoy more services after signing in",
+  "shopping_user_agreement": "Shopping User Agreement",
+  "shopping_privacy_policy": "Shopping Privacy Policy",
+  "huaweiId_user_authentication_protocol": "HUAWEI ID User Authentication Agreement",
+  "user_agreement_and_privacy_policy": "User Agreement and Privacy Policy",
+  "protocol_separator": ", ",
+  "bind_huaweiId_number": "Mobile number associated with HUAWEI ID",
+  "agree_and_sign_in": "Accept & sign in",
+  "logout": "Sign out"
+}

@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "wearable bus"
+    },
+    {
+      "name": "home_page_title",
+      "value": "公交出行"
+    },
+    {
+      "name": "home_page_get_location",
+      "value": "未获取到定位，点我重试"
+    },
+    {
+      "name": "btn_nearby_bus",
+      "value": "附近公交"
+    },
+    {
+      "name": "btn_go_where",
+      "value": "去哪儿"
+    },
+    {
+      "name": "btn_go_home",
+      "value": "回家"
+    },
+    {
+      "name": "btn_go_work",
+      "value": "公司"
+    },
+    {
+      "name": "station",
+      "value": "XXXX站"
+    },
+    {
+      "name": "nearby_bus_station",
+      "value": "附近公交站"
+    },
+    {
+      "name": "three_bus_station",
+      "value": "3个公交站"
+    },
+    {
+      "name": "now_bus_station",
+      "value": "实时公交站"
+    },
+    {
+      "name": "bus_station_name",
+      "value": "光古七路九峰三路站"
+    },
+    {
+      "name": "bus_station_name_1",
+      "value": "九峰三路未来科技站"
+    },
+    {
+      "name": "bus_station_name_2",
+      "value": "海淀华为科技园站"
+    },
+    {
+      "name": "station_1",
+      "value": "373路"
+    },
+    {
+      "name": "station_2",
+      "value": "536路"
+    },
+    {
+      "name": "station_time",
+      "value": "4站 | 8分钟"
+    },
+    {
+      "name": "direction",
+      "value": "方向"
+    },
+    {
+      "name": "Road",
+      "value": "XX路"
+    },
+    {
+      "name": "distance",
+      "value": "1.6公里"
+    },
+    {
+      "name": "road_plan",
+      "value": "线路方案"
+    },
+    {
+      "name": "time",
+      "value": "27分钟"
+    },
+    {
+      "name": "road_distance",
+      "value": "925米"
+    },
+    {
+      "name": "plan",
+      "value": "6站 ·高新大道光古八路"
+    },
+    {
+      "name": "car",
+      "value": "上车"
+    },
+    {
+      "name": "open_permission",
+      "value": "请打开位置权限并开启精确位置开关"
+    },
+    {
+      "name": "latitude",
+      "value": "经度：%d"
+    },
+    {
+      "name": "longitude",
+      "value": "  纬度：%d"
+    }
+  ]
+}

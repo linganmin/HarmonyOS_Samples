@@ -1,0 +1,48 @@
+// FAQ:entry引用本地library时，没有ASan日志输出
+// [Start asan]
+{
+  // [StartExclude asan]
+  "apiType": "stageMode",
+  "buildOption": {
+    "externalNativeOptions": {
+      "path": "./src/main/cpp/CMakeLists.txt",
+      // [EndExclude asan]
+      "arguments": "-DOHOS_ENABLE_ASAN=ON",
+      // [StartExclude asan]
+      "cppFlags": "",
+      // [EndExclude asan]
+    }
+  },
+  // [StartExclude asan]
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      },
+      "nativeLib": {
+        "debugSymbol": {
+          "strip": true,
+          "exclude": []
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ],
+  // [EndExclude asan]
+}
+// [End asan]

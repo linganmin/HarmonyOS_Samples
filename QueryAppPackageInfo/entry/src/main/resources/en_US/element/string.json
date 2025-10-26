@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "QueryAppPackageInfo"
+    },
+    {
+      "name": "title_desc",
+      "value": "Obtain application package information"
+    },
+    {
+      "name": "get_appInfo_button",
+      "value": "Obtain application package information on the ArkTS side"
+    },
+    {
+      "name": "get_appSignatureInfo_button",
+      "value": "Obtain application package signature information on the ArkTS side"
+    },
+    {
+      "name": "native_get_appInfo_button",
+      "value": "Obtain application package information on the Native side"
+    },
+    {
+      "name": "image_text",
+      "value": "Wait for obtaining the icon"
+    },
+    {
+      "name": "image_desc",
+      "value": "App icon"
+    },
+    {
+      "name": "get_info_button",
+      "value": "Obtain information"
+    },
+    {
+      "name": "app_name",
+      "value": "App Name"
+    },
+    {
+      "name": "app_bundleName",
+      "value": "App Bundle Name"
+    },
+    {
+      "name": "version_name",
+      "value": "Version Name"
+    },
+    {
+      "name": "version_code",
+      "value": "Version Code"
+    }
+  ]
+}

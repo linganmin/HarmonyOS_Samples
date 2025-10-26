@@ -1,0 +1,61 @@
+{
+  "knowledgeSource": [{
+    "version": 1,
+    "dbName": "testmail_store.db",
+    "tables": [{
+      "tableName": "email",
+      "referenceFields": ["id"],
+      "knowledgeFields": [{
+        "columnName": "subject",
+        "type": ["Text"]
+      },
+        {
+          "columnName": "content",
+          "type": ["Text"]
+        },
+        {
+          "columnName": "image_text",
+          "type": ["Text"]
+        },
+        {
+          "columnName": "attachment_names",
+          "type": ["Text"]
+        },
+        {
+          "columnName": "sender",
+          "type": ["Scalar"],
+          "description": "sender"
+        },
+        {
+          "columnName": "toReceivers",
+          "type": ["Scalar"],
+          "description": "toReceivers"
+        },
+        {
+          "columnName": "ccReceivers",
+          "type": ["Scalar"],
+          "description": "ccReceivers"
+        },
+        {
+          "columnName": "bccReceivers",
+          "type": ["Scalar"],
+          "description": "bccReceivers"
+        },
+        {
+          "columnName": "attachment",
+          "type": ["Json"],
+          "parser": [
+            {
+              "type": "File",
+              "path": "$[*].uri"
+            }
+          ]
+        },
+        {
+          "columnName": "received_date",
+          "type": ["Scalar"],
+          "description": "received_date"
+        }]
+    }]
+  }]
+}

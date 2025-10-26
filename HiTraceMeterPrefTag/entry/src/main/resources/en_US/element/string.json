@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HiTraceMeterPerfTag"
+    },
+    {
+      "name": "Update_component_title",
+      "value": "title %d"
+    },
+    {
+      "name": "Module_title",
+      "value": "HiTraceMeter performance tagging"
+    },
+    {
+      "name": "ArkTSPerfTag_Button",
+      "value": "Execution time-consuming calculation on the ArkTS side"
+    },
+    {
+      "name": "ArkTSPerfTag_Toast",
+      "value": "The execution time-consuming calculation on the ArkTS side has been completed. Please view the HiTraceMeter tagging information through DevEco Studio or the command line"
+    },
+    {
+      "name": "ArkTSPerfTag_Title",
+      "value": "HiTraceMeter tagging on the ArkTS side"
+    },
+    {
+      "name": "ComponentCBPerfTag_Title",
+      "value": "HiTraceMeter tagging for the time-consuming component callbacks"
+    },
+    {
+      "name": "LifeCyclePerfTag_Title",
+      "value": "HiTraceMeter tagging for the time-consuming of the life cycle"
+    },
+    {
+      "name": "NativePerfTag_Button",
+      "value": "Execution time-consuming calculation on the Native side"
+    },
+    {
+      "name": "NativePerfTag_Toast",
+      "value": "The execution time-consuming calculation on the Native side has been completed. Please view the HiTraceMeter tagging information through DevEco Studio or the command line"
+    },
+    {
+      "name": "NativePerfTag_Title",
+      "value": "HiTraceMeter tagging on the Native side"
+    },
+    {
+      "name": "ComponentCBPerfTag_Button",
+      "value": "ScrollToIndex: 1900"
+    }
+  ]
+}

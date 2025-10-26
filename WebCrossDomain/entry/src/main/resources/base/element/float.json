@@ -1,0 +1,20 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "30vp"
+    },
+    {
+      "name": "header_height",
+      "value": "56vp"
+    },
+    {
+      "name": "back_button_height",
+      "value": "40vp"
+    }
+  ]
+}

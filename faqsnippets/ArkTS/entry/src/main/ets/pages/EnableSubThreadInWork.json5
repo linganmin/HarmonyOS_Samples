@@ -1,0 +1,41 @@
+
+/*
+* FAQ:如何在Worker中开启多级子线程
+*/
+{
+  "apiType": "stageMode",
+
+  // [Start EnableSubThreadInWorker3]
+  "buildOption": {
+    "sourceOption": {
+      "workers": [
+        "./src/main/ets/pages/Worker.ets",
+        "./src/main/ets/pages/Work.ets"
+      ]
+    }
+  },
+  // [End EnableSubThreadInWorker3]
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

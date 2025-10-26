@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Audio"
+    },
+    {
+      "name": "audio_captures",
+      "value": "Record/Play"
+    },
+    {
+      "name": "low_latency_renderer",
+      "value": "Low-latency playback"
+    },
+    {
+      "name": "low_latency_captures",
+      "value": "Low-latency recording"
+    },
+    {
+      "name": "CONTINUE",
+      "value": "Continue"
+    },
+    {
+      "name": "pause_audio",
+      "value": "Pause"
+    },
+    {
+      "name": "record_result",
+      "value": "Recordings"
+    },
+    {
+      "name": "Back",
+      "value": "Back"
+    },
+    {
+      "name": "play_now",
+      "value": "Playing..."
+    },
+    {
+      "name": "permission_microphone",
+      "value": "Allow the application to use a microphone in recording audio scenes."
+    }
+  ]
+}

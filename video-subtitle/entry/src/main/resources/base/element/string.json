@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "brightness_imagesize",
+      "value": "2%"
+    },
+    {
+      "name": "volume_imagesize",
+      "value": "9%"
+    },
+    {
+      "name": "avvolumepanel_width",
+      "value": "30%"
+    },
+    {
+      "name": "row_height",
+      "value": "100%"
+    },
+    {
+      "name": "column_size",
+      "value": "100%"
+    },
+    {
+      "name": "trackcolor",
+      "value": "#94fffefe"
+    },
+    {
+      "name": "video_width",
+      "value": "100%"
+    },
+    {
+      "name": "video_height",
+      "value": "100%"
+    },
+    {
+      "name": "plus",
+      "value": "+"
+    },
+    {
+      "name": "minus",
+      "value": "-"
+    },
+    {
+      "name": "selectedcolor",
+      "value": "#beffffff"
+    },
+    {
+      "name": "HarmonyOS_Sans",
+      "value": "Sans"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "Condensed"
+    },
+    {
+      "name": "demo_title",
+      "value": "Video subtitle editing"
+    },
+    {
+      "name": "av_caption",
+      "value": "External subtitles for AVPlayer"
+    },
+    {
+      "name": "video_caption",
+      "value": "External subtitles for video components"
+    },
+    {
+      "name": "caption_title",
+      "value": "Subtitle Settings"
+    },
+    {
+      "name": "caption_family",
+      "value": "Font"
+    },
+    {
+      "name": "caption_size",
+      "value": "Font Size"
+    },
+    {
+      "name": "caption_color",
+      "value": "Color"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "VideoSubtitle"
+    }
+  ]
+}

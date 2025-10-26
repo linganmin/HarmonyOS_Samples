@@ -1,0 +1,70 @@
+//FAQ:armeabi-v7a是否支持Neon指令扩展
+//FAQ:如何在编译打包的时候在hap包中仅编译指定的so库？
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    // [Start neon]
+    "externalNativeOptions": {
+      "path": "./src/main/cpp/CMakeLists.txt",
+      "arguments": "",
+      "abiFilters": [
+        "x86_64",
+        "arm64-v8a"
+      ],
+      // This is a configuration item to be added
+      "cppFlags": "-mfloat-abi=hard",
+      // This is a configuration item to be added
+    },
+    // [End neon]
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          },
+          "consumerFiles": [
+            "./consumer-rules.txt"
+          ]
+        }
+      },
+      // [Start native_lib_option]
+      //Configure filtering rules for har dependent. so resource files
+      "nativeLib": {
+        "filter": {
+          //Pack the highest priority. so file in the order of its priority. so file
+          "pickFirsts": [
+            "**/1.so"
+          ],
+          //Pack the lowest priority. so file in the order of its priority. so file
+          "pickLasts": [
+            "**/2.so"
+          ],
+          //Excluded. so files
+          "excludes": [
+            "**/3.so",
+            //Exclude all so files with the name '3'
+            "**/x86_64/*.so"
+            //Exclude all so files for x86_64 architecture
+          ],
+          //Allow high priority. so files to overwrite low priority. so files when. so duplicate names conflict
+          "enableOverride": true,
+        }
+      },
+      // [End native_lib_option]
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest"
+    }
+  ]
+}

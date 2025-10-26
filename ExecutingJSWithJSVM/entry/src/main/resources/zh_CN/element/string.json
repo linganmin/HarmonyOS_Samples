@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "JSVM"
+    },
+    {
+      "name": "application_title",
+      "value": "使用JSVM-API接口创建多个引擎执行JS代码并销毁"
+    },
+    {
+      "name": "click_execute",
+      "value": "点击执行"
+    }
+  ]
+}

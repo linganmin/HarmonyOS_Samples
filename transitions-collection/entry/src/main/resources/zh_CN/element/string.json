@@ -1,0 +1,340 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "转场动效合集"
+    },
+    {
+      "name": "multimodaltransion_phone_back",
+      "value": "手机验证码登录"
+    },
+    {
+      "name": "multimodaltransion_auto_after_login",
+      "value": "首次登录将自动注册"
+    },
+    {
+      "name": "multimodaltransion_read_and_agree",
+      "value": "我已阅读并同意"
+    },
+    {
+      "name": "multimodaltransion_server_proxy_rule_detail",
+      "value": "服务协议及个人信息处理规则"
+    },
+    {
+      "name": "multimodaltransion_phone_start_login",
+      "value": "手机号码一键登录"
+    },
+    {
+      "name": "multimodaltransion_login_success",
+      "value": "登录成功"
+    },
+    {
+      "name": "multimodaltransion_please_read_and_agree",
+      "value": "请先阅读并同意协议"
+    },
+    {
+      "name": "multimodaltransion_please_input_account_and_pwd",
+      "value": "请输入账号或密码"
+    },
+    {
+      "name": "multimodaltransion_account",
+      "value": "天翼账号服务协议"
+    },
+    {
+      "name": "multimodaltransion_login",
+      "value": "登录"
+    },
+    {
+      "name": "multimodaltransion_input_phone_number",
+      "value": "请输入手机号"
+    },
+    {
+      "name": "multimodaltransion_86",
+      "value": "+86"
+    },
+    {
+      "name": "multimodaltransion_size_full",
+      "value": "100%"
+    },
+    {
+      "name": "multimodaltransion_size_ninety_percent",
+      "value": "90%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_five_percent",
+      "value": "85%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_percent",
+      "value": "80%"
+    },
+    {
+      "name": "multimodaltransion_size_account_width",
+      "value": "79%"
+    },
+    {
+      "name": "multimodaltransion_size_sixty_percent",
+      "value": "60%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_two_percent",
+      "value": "83%"
+    },
+    {
+      "name": "multimodaltransion_account_login_text",
+      "value": "账号密码登录"
+    },
+    {
+      "name": "multimodaltransion_place_holder",
+      "value": "请输入账号"
+    },
+    {
+      "name": "multimodaltransion_text_input_place_holder",
+      "value": "请输入密码"
+    },
+    {
+      "name": "multimodaltransion_row_text",
+      "value": "手机验证码登录"
+    },
+    {
+      "name": "multimodaltransion_account_btn_text",
+      "value": "登录"
+    },
+    {
+      "name": "multimodaltransion_captcha_change_title_text",
+      "value": "账号密码登录"
+    },
+    {
+      "name": "multimodaltransion_captcha_get",
+      "value": "登录"
+    },
+    {
+      "name": "multimodaltransion_captcha_sent",
+      "value": "验证码已发送"
+    },
+    {
+      "name": "multimodaltransion_user_phone_number",
+      "value": "122****2222"
+    },
+    {
+      "name": "multimodaltransion_get_service",
+      "value": "中国XX提供认证服务"
+    },
+    {
+      "name": "multimodaltransion_captcha_login_text",
+      "value": "验证码登录"
+    },
+    {
+      "name": "multimodaltransion_only_show_ui",
+      "value": "此样式仅为案例展示"
+    },
+    {
+      "name": "multimodaltransion_after_login_more_service",
+      "value": "登录体验更多服务"
+    },
+    {
+      "name": "full_size",
+      "value": "100%"
+    },
+    {
+      "name": "search_component_search_placeholder",
+      "value": "Searching for"
+    },
+    {
+      "name": "search_component_search_history",
+      "value": "Search History"
+    },
+    {
+      "name": "search_component_search_delete_title",
+      "value": "Confirm Delete All History"
+    },
+    {
+      "name": "search_component_delete_back",
+      "value": "cancelling"
+    },
+    {
+      "name": "search_component_delete_ok",
+      "value": "confirms"
+    },
+    {
+      "name": "temp_sample_toast",
+      "value": "This case does not support redirection"
+    },
+    {
+      "name": "mini_player_animation_home",
+      "value": "首页"
+    },
+    {
+      "name": "mini_player_animation_rank",
+      "value": "排行"
+    },
+    {
+      "name": "mini_player_animation_user",
+      "value": "我的"
+    },
+    {
+      "name": "mini_player_animation_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "mini_player_animation_prompt_info",
+      "value": "仅用于UX展示"
+    },
+    {
+      "name": "mini_player_animation_song_name",
+      "value": "爱从未离开"
+    },
+    {
+      "name": "mini_player_animation_singer",
+      "value": "小碗你好"
+    },
+    {
+      "name": "mini_player_animation_response_region",
+      "value": "0%"
+    },
+    {
+      "name": "mini_player_animation_playback_duration",
+      "value": "02:15"
+    },
+    {
+      "name": "mini_player_animation_total_playback_duration",
+      "value": "02:30"
+    },
+    {
+      "name": "mini_player_animation_slider_width",
+      "value": "80%"
+    },
+    {
+      "name": "mini_player_animation_row_width",
+      "value": "95%"
+    },
+    {
+      "name": "mini_player_animation_recommendation",
+      "value": "推荐"
+    },
+    {
+      "name": "mini_player_animation_recommendation_music_sheet",
+      "value": "歌单推荐"
+    },
+    {
+      "name": "mini_player_animation_recommendation_exclusive",
+      "value": "专属推荐"
+    },
+    {
+      "name": "mini_player_animation_music_column_height",
+      "value": "60%"
+    },
+    {
+      "name": "mini_player_animation_music_common_height",
+      "value": "7%"
+    },
+    {
+      "name": "mini_player_animation_common_width",
+      "value": "90%"
+    },
+    {
+      "name": "mini_player_animation_big_image_height",
+      "value": "25%"
+    },
+    {
+      "name": "mini_player_animation_music_column_more",
+      "value": "更多"
+    },
+    {
+      "name": "mini_player_animation_search",
+      "value": "猜你喜欢-周周"
+    },
+    {
+      "name": "transition_animation_two_fr",
+      "value": "1fr 1fr"
+    },
+    {
+      "name": "DetailPage_text",
+      "value": "三生万物，演化自如。HarmonyOS 是面向多设备体验的操作系统，因此，给用户提供舒适便捷的多设备操作体验是 HarmonyOS 区别于其他操作系统的核心要点。\n\n一方面，界面设计/组件设计需要拥有良好的自适应能力，可快速进行不同尺寸屏幕的开发。\n\n另一方面，我们希望多设备的体验能在一致性与差异性中取得良好的平衡。\n\n● 一致性：界面中的元素设计以及交互方式尽量保持一致，以便减少用户的学习成本。\n\n● 差异性：不同类型的设备在设屏幕尺寸、交互方式、使用场景、用户人群等方面都会存在一定的差异性，为了给用户提供合适的操作体验，我们需要针对不同类型的设备进行差异化的设计。"
+    },
+    {
+      "name": "recent_reading",
+      "value": "最近阅读"
+    },
+    {
+      "name": "recommend",
+      "value": "为你推荐"
+    },
+    {
+      "name": "bookshelf",
+      "value": "书架"
+    },
+    {
+      "name": "content",
+      "value": "出现和消失的两个节点有位置大小内容的关联"
+    },
+    {
+      "name": "card_title",
+      "value": "卡片一镜到底"
+    },
+    {
+      "name": "img_title",
+      "value": "图片一镜到底"
+    },
+    {
+      "name": "img",
+      "value": "图片"
+    },
+    {
+      "name": "double_finger_amplification",
+      "value": "双指放大"
+    },
+    {
+      "name": "semi_modal",
+      "value": "半模态"
+    },
+    {
+      "name": "semiView_larger_image_modal",
+      "value": "查看大图"
+    },
+    {
+      "name": "list_title",
+      "value": "列表一镜到底"
+    },
+    {
+      "name": "memorandum",
+      "value": "备忘录"
+    },
+    {
+      "name": "search_title",
+      "value": "搜索一镜到底"
+    },
+    {
+      "name": "video_title",
+      "value": "视频一镜到底"
+    },
+    {
+      "name": "model_title",
+      "value": "多模态页面转场"
+    },
+    {
+      "name": "model_transition",
+      "value": "多模态页面转场动效实现案例"
+    },
+    {
+      "name": "music_transition",
+      "value": "音乐播放转场动效实现案例"
+    },
+    {
+      "name": "long_take_title",
+      "value": "一镜到底转场"
+    },
+    {
+      "name": "book_title",
+      "value": "图书翻页一镜到底"
+    }
+  ]
+}

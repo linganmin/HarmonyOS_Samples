@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SubWindow"
+    },
+    {
+      "name": "floating_window",
+      "value": "Subwindow - Floating Window"
+    },
+    {
+      "name": "small_video_window",
+      "value": "Picture-in-Picture - Small Video Window"
+    },
+    {
+      "name": "router_back",
+      "value": "Click a subwindow to return to the previous page through the router."
+    },
+    {
+      "name": "hide_window",
+      "value": "Click on a child window to hide the child window"
+    },
+    {
+      "name": "show_window",
+      "value": "Show child windows"
+    },
+    {
+      "name": "navigation_jump",
+      "value": "Click a sub-window to switch to the picture-in-picture mode through Navigation"
+    },
+    {
+      "name": "enable_picture",
+      "value": "Enable the picture-in-picture function"
+    },
+    {
+      "name": "resize_window",
+      "value": "Click the sub-window to adjust the size of the sub-window"
+    },
+    {
+      "name": "create_window_resize",
+      "value": "Create a child window - click on the child window to resize it"
+    },
+    {
+      "name": "show_sub_window",
+      "value": "Minimize the sub-window - click the background to pull up the sub-window"
+    },
+    {
+      "name": "sub_jump_pip",
+      "value": "Subwindow Control Navigation - Clicking a Subwindow Switches to the Picture-in-Picture Mode"
+    },
+    {
+      "name": "router_jump_index",
+      "value": "Sub-window control router jump - Click the sub-window to return to the home page"
+    }
+  ]
+}

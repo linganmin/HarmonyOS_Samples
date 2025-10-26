@@ -1,0 +1,162 @@
+[
+  {
+    "subject": "【请阅】Mate系列手机优惠政策",
+    "sender_name": "zhangsan",
+    "sender_email": "zhangsan@xxx.com",
+    "received_time": "2025-05-15 15:49:04.135",
+    "recipients": [
+      {
+        "Address": "lisi@xxx.com",
+        "name": "lisi",
+        "Type": 1
+      },
+      {
+        "Address": "wangwu@xxx.com",
+        "name": "wangwu",
+        "Type": 2
+      },
+      {
+        "Address": "zhaoliu@xxx.com",
+        "name": "zhaoliu",
+        "Type": 3
+      }
+    ],
+    "to": [
+      "lisi"
+    ],
+    "cc": [
+      "wangwu"
+    ],
+    "bcc": [
+      "zhaoliu"
+    ],
+    "attachment": [],
+    "body": "优惠政策：\r\n\r\nMate60系列优惠xxx！！ Mate70系列优惠xxx！！。",
+    "attachment_path": "[{\"uri\":\"/data/storage/el1/bundle/entry/resources/resfile/restrict.png\"}]",
+    "unread": false
+  },
+  {
+    "subject": "办公楼层搬迁安排",
+    "sender_name": "admin_office",
+    "sender_email": "admin@group.com",
+    "received_time": "2025-02-28 17:30",
+    "recipients": [
+      {
+        "Address": "f8_team@group.com",
+        "name": "f8_team",
+        "Type": 1
+      },
+      {
+        "Address": "f9_team@group.com",
+        "name": "f9_team",
+        "Type": 2
+      }
+    ],
+    "to": [
+      "f8_team"
+    ],
+    "cc": [
+      "f9_team"
+    ],
+    "bcc": [],
+    "attachment": [],
+    "body": "搬迁须知：\r\n\r\n3月15-16日进行8→11楼搬迁，请各部门：\r\n1. 15日下班前整理私人物品入箱\r\n2. 技术部16日8:00先行迁移服务器\r\n3. 绿植统一由物业处理\r\n\r\n详见附件平面图与搬迁指南。\r\n\r\n行政办公室",
+    "attachment_path": "",
+    "unread": false
+  },
+  {
+    "subject": "年度培训需求调研",
+    "sender_name": "training_dept",
+    "sender_email": "train@hr.com",
+    "received_time": "2025-01-07 09:00",
+    "recipients": [
+      {
+        "Address": "all_staff@hr.com",
+        "name": "all_staff",
+        "Type": 1
+      }
+    ],
+    "to": [
+      "all_staff"
+    ],
+    "cc": [],
+    "bcc": [],
+    "attachment": [],
+    "body": "各位同事：\r\n\r\n2025年度培训计划启动，现开放课程需求征集。重点方向：\r\n- AI工具应用（ChatGPT进阶）\r\n- 项目管理实战\r\n- 跨文化沟通\r\n\r\n请于1月20日前在线提交意向，附件为课程目录。\r\n\r\n培训发展部",
+    "attachment_path": "",
+    "unread": true
+  },
+  {
+    "subject": "供应商合作协议修订",
+    "sender_name": "liqiang",
+    "sender_email": "liqiang@procure.com",
+    "received_time": "2025-11-05 14:18",
+    "recipients": [
+      {
+        "Address": "johnson@supplier.com",
+        "name": "johnson",
+        "Type": 1
+      }
+    ],
+    "to": [
+      "johnson"
+    ],
+    "cc": [],
+    "bcc": [],
+    "attachment": [],
+    "body": "Johnson先生：\r\n\r\n根据最新采购政策，协议主要修订条款：\r\n1. 付款周期从90天调整为60天\r\n2. 新增质量违约金条款（第5.2条）\r\n3. 延长协议有效期至2028年底\r\n\r\n请审阅附件并签署回传。\r\n\r\n采购总监 李强",
+    "attachment_path": "",
+    "unread": false
+  },
+  {
+    "subject": "机房温度异常警报",
+    "sender_name": "system_alert",
+    "sender_email": "noreply@monitor.com",
+    "received_time": "2025-03-12 03:22",
+    "recipients": [
+      {
+        "Address": "ops_team@monitor.com",
+        "name": "ops_team",
+        "Type": 1
+      },
+      {
+        "Address": "director@monitor.com",
+        "name": "director",
+        "Type": 3
+      }
+    ],
+    "to": [
+      "ops_team"
+    ],
+    "cc": [],
+    "bcc": [
+      "director"
+    ],
+    "attachment": [],
+    "body": "紧急通知：\r\n\r\nIDC机房B区温度于03:15升至38℃，超过安全阈值。备用空调已启动，请值班工程师立即前往检查冷水机组。\r\n\r\n附件为实时温度日志。\r\n\r\n监控系统自动发送",
+    "attachment_path": "",
+    "unread": true
+  },
+  {
+    "subject": "新产品发布会邀请函",
+    "sender_name": "david",
+    "sender_email": "david@innovate.com",
+    "received_time": "2025-09-18 16:40",
+    "recipients": [
+      {
+        "Address": "vip_clients@innovate.com",
+        "name": "vip_clients",
+        "Type": 1
+      }
+    ],
+    "to": [
+      "vip_clients"
+    ],
+    "cc": [],
+    "bcc": [],
+    "attachment": [],
+    "body": "尊敬的合作伙伴：\r\n\r\n诚邀您出席10月10日14:00在北京国家会议中心举行的\"星曜\"智能眼镜发布会。现场将演示AR实时翻译功能，并预留首批预订优惠名额。\r\n\r\n请于9月25日前点击链接确认席位。\r\n\r\n创新科技 David",
+    "attachment_path": "",
+    "unread": false
+  }
+]

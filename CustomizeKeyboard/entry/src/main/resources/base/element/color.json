@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "menu_color_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "menu_color_gray",
+      "value": "#BCC0C7"
+    },
+    {
+      "name": "menu_color_blue",
+      "value": "#0A58F7"
+    },
+    {
+      "name": "keyboard_background_color",
+      "value": "#DEE0E6"
+    }
+  ]
+}

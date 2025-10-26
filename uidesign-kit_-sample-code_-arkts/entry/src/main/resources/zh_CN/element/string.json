@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UIDesignKit"
+    },
+    {
+      "name": "process_layered_icon",
+      "value": "分层图标处理"
+    },
+    {
+      "name": "process_single_layer_icon",
+      "value": "单层图标处理"
+    }
+  ]
+}

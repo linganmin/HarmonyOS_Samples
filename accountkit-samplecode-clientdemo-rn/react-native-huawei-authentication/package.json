@@ -1,0 +1,61 @@
+{
+  "name": "react-native-huawei-authentication",
+  "description": "react native huawei authentication",
+  "license": "MIT",
+  "version": "0.0.1",
+  "main": "lib/commonjs/index",
+  "module": "lib/module/index",
+  "source": "src/index",
+  "typings": "lib/typescript/index.d.ts",
+  "scripts": {
+    "bob": "bob build",
+    "prepack": "bob build"
+  },
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.5"
+  },
+  "files": [
+    "lib",
+    "src",
+    "harmony",
+    "index.ts",
+    "License",
+    "package.json",
+    "!**/__tests__",
+    "!**/__fixtures__",
+    "!**/__mocks__"
+  ],
+  "keywords": [
+    "react-native",
+    "huawei",
+    "authentication"
+  ],
+  "devDependencies": {
+    "@tsconfig/react-native": "^3.0.0",
+    "@types/jest": "^29.5.1",
+    "@types/react": "^18.0.24",
+    "@types/react-native": "^0.71.6",
+    "react-native-builder-bob": "^0.20.4",
+    "typescript": "^5.0.4"
+  },
+  "react-native-builder-bob": {
+    "source": "src",
+    "output": "lib",
+    "targets": [
+      "commonjs",
+      "module",
+      "typescript"
+    ]
+  },
+  "harmony": {
+    "codegenConfig": [
+      {
+        "version": 1,
+        "specPaths": [
+          "./src/specs"
+        ]
+      }
+    ]
+  }
+}

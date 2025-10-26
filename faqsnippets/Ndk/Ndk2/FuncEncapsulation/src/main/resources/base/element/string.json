@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "FuncEncapsulationAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "FuncEncapsulationAbility_label",
+      "value": "label"
+    }
+  ]
+}

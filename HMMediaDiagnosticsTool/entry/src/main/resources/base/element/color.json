@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "album_background",
+      "value": "#E4ECF7"
+    },
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_background",
+      "value": "#EFEFEF"
+    },
+    {
+      "name": "text",
+      "value": "#000000"
+    },
+    {
+      "name": "primary_button",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "shadow",
+      "value": "#30000000"
+    }
+  ]
+}

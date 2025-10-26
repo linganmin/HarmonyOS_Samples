@@ -1,0 +1,14 @@
+{
+  "rules": {
+    "@hw-stylistic/file-naming-convention": [
+      // Alarm level: enumeration type, supports configuration as error, warn, off
+      "error",
+      {
+        // The selector property is optional and can be configured as code or resources
+        // code表示检查代码文件的命名风格
+        // Code represents checking the naming style of code files
+        "selector": "code"
+      }
+    ]
+  },
+}

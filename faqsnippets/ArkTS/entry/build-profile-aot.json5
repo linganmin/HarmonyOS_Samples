@@ -1,0 +1,14 @@
+/*
+* FAQ:如何开启AOT编译模式
+ */
+
+// [Start apPath]
+{
+  "apiType": 'stageMode',
+  "buildOption": {
+    "arkOptions": {
+      "apPath": "./entry.ap"
+    }
+  },
+}
+// [End apPath]

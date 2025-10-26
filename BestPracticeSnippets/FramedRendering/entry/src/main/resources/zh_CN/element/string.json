@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "高负载分帧渲染"
+    },
+    {
+      "name": "car",
+      "value": "汽车"
+    },
+    {
+      "name": "wallet",
+      "value": "钱包"
+    },
+    {
+      "name": "jigsaw",
+      "value": "拼图"
+    },
+    {
+      "name": "favorite",
+      "value": "收藏"
+    },
+    {
+      "name": "product_title01",
+      "value": "笔记本电脑"
+    },
+    {
+      "name": "product_title02",
+      "value": "移动手机"
+    },
+    {
+      "name": "product_title03",
+      "value": "极简潮流背包"
+    },
+    {
+      "name": "product_title04",
+      "value": "折叠屏"
+    },
+    {
+      "name": "product_price01",
+      "value": "￥6975.8"
+    },
+    {
+      "name": "product_price02",
+      "value": "￥4279.6"
+    },
+    {
+      "name": "product_price03",
+      "value": "105.3"
+    },
+    {
+      "name": "product_price04",
+      "value": "1252.9"
+    },
+    {
+      "name": "product_des01",
+      "value": "卫星通话 | 全焦段超清影像"
+    },
+    {
+      "name": "product_des02",
+      "value": "超轻薄全能折叠 | 超清临镜"
+    },
+    {
+      "name": "product_des03",
+      "value": "双卫星通信 | 玄武钢化昆仑"
+    },
+    {
+      "name": "product_des04",
+      "value": "超可靠昆仑玻璃 | 北斗卫星"
+    },
+    {
+      "name": "new_product",
+      "value": "新品"
+    },
+    {
+      "name": "computer",
+      "value": "笔记本"
+    },
+    {
+      "name": "vision",
+      "value": "智慧屏"
+    },
+    {
+      "name": "sound_box",
+      "value": "音箱"
+    },
+    {
+      "name": "mobile_phone",
+      "value": "手机"
+    },
+    {
+      "name": "watches",
+      "value": "手表"
+    },
+    {
+      "name": "transition",
+      "value": "转场场景"
+    },
+    {
+      "name": "sliding",
+      "value": "滑动场景"
+    },
+    {
+      "name": "search_title",
+      "value": "好物精选"
+    },
+    {
+      "name": "year",
+      "value": "年"
+    },
+    {
+      "name": "month",
+      "value": "月"
+    },
+    {
+      "name": "week",
+      "value": "周"
+    },
+    {
+      "name": "sunday",
+      "value": "日"
+    },
+    {
+      "name": "monday",
+      "value": "一"
+    },
+    {
+      "name": "tuesday",
+      "value": "二"
+    },
+    {
+      "name": "wednesday",
+      "value": "三"
+    },
+    {
+      "name": "thursday",
+      "value": "四"
+    },
+    {
+      "name": "Friday",
+      "value": "五"
+    },
+    {
+      "name": "saturday",
+      "value": "六"
+    },
+    {
+      "name": "seven",
+      "value": "七"
+    },
+    {
+      "name": "eight",
+      "value": "八"
+    },
+    {
+      "name": "nine",
+      "value": "九"
+    },
+    {
+      "name": "ten",
+      "value": "十"
+    },
+    {
+      "name": "january",
+      "value": "一月"
+    },
+    {
+      "name": "february",
+      "value": "二月"
+    },
+    {
+      "name": "march",
+      "value": "三月"
+    },
+    {
+      "name": "april",
+      "value": "四月"
+    },
+    {
+      "name": "may",
+      "value": "五月"
+    },
+    {
+      "name": "june",
+      "value": "六月"
+    },
+    {
+      "name": "july",
+      "value": "七月"
+    },
+    {
+      "name": "august",
+      "value": "八月"
+    },
+    {
+      "name": "september",
+      "value": "九月"
+    },
+    {
+      "name": "october",
+      "value": "十月"
+    },
+    {
+      "name": "november",
+      "value": "十一月"
+    },
+    {
+      "name": "december",
+      "value": "十二月"
+    },
+    {
+      "name": "grade",
+      "value": "初"
+    },
+    {
+      "name": "chinese_twenty",
+      "value": "廿"
+    }
+  ]
+}

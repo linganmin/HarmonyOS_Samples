@@ -1,0 +1,140 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TextDisplayFont"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "text_input",
+      "value": "search or input"
+    },
+    {
+      "name": "content1",
+      "value": "10 Gigabit Rongzhi Builds New Navigation, Shanghai Mobile and Huawei Build 5G A ² Demonstration City."
+    },
+    {
+      "name": "content2",
+      "value": "Huawei releases HUAWEI Pura 80 series, making imaging far beyond imagination."
+    },
+    {
+      "name": "content3",
+      "value": "Huawei's high-end all flash memory has won the DCIG annual recommendation for storage data security, ranking first in the recommended rankings."
+    },
+    {
+      "name": "content4",
+      "value": "In the era of data awakening, Huawei redefines data storage."
+    },
+    {
+      "name": "content5",
+      "value": "At the 9th Global ICT Energy Efficiency Summit, Huawei showcased its new generation of digital and intelligent site energy solutions, Single SitePower, to assist in the intelligent."
+    },
+    {
+      "name": "type1",
+      "value": "Evaluation"
+    },
+    {
+      "name": "type2",
+      "value": "News"
+    },
+    {
+      "name": "time",
+      "value": "15 minutes ago"
+    },
+    {
+      "name": "HarmonyOS_Italic",
+      "value": "HarmonyOS Italic"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "HarmonyOS Condensed"
+    },
+    {
+      "name": "system_default",
+      "value": "System default"
+    },
+    {
+      "name": "setting",
+      "value": "Setting"
+    },
+    {
+      "name": "preview_text",
+      "value": "Hello World, Preview font effects."
+    },
+    {
+      "name": "font_style",
+      "value": "Font Style"
+    },
+    {
+      "name": "follow_system",
+      "value": "Follow the system"
+    },
+    {
+      "name": "font_size",
+      "value": "Font size"
+    },
+    {
+      "name": "small",
+      "value": "Small"
+    },
+    {
+      "name": "normal",
+      "value": "Normal"
+    },
+    {
+      "name": "large",
+      "value": "Large"
+    },
+    {
+      "name": "huge",
+      "value": "Huge"
+    },
+    {
+      "name": "light",
+      "value": "Light"
+    },
+    {
+      "name": "bold",
+      "value": "Bold"
+    },
+    {
+      "name": "boldest",
+      "value": "Boldest"
+    },
+    {
+      "name": "adjusting_fontSize",
+      "value": "Adjusting font size"
+    },
+    {
+      "name": "text_a",
+      "value": "A"
+    },
+    {
+      "name": "font_weight",
+      "value": "Font weight"
+    },
+    {
+      "name": "Font_settings",
+      "value": "Font settings"
+    },
+    {
+      "name": "font",
+      "value": "Font"
+    }
+  ]
+}

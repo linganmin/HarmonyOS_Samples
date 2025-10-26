@@ -1,0 +1,131 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Embedded short video"
+    },
+    {
+      "name": "info_detail",
+      "value": "Getting close to the sea, understanding the sea, the sea naturally resonates with you."
+    },
+    {
+      "name": "caption_title",
+      "value": "Subtitle settings"
+    },
+    {
+      "name": "caption_family",
+      "value": "font family"
+    },
+    {
+      "name": "caption_size",
+      "value": "font size"
+    },
+    {
+      "name": "caption_color",
+      "value": "font color"
+    },
+    {
+      "name": "previousFrame",
+      "value": "previous frame"
+    },
+    {
+      "name": "nextFrame",
+      "value": "next frame"
+    },
+    {
+      "name": "pip_start",
+      "value": "whether to start picture in picture"
+    },
+    {
+      "name": "more",
+      "value": "more"
+    },
+    {
+      "name": "placeholder",
+      "value": "click to send comment"
+    },
+    {
+      "name": "comment1",
+      "value": "Very good"
+    },
+    {
+      "name": "comment2",
+      "value": "Wonderful"
+    },
+    {
+      "name": "comment3",
+      "value": "One more please"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "Playback speed"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "FIT"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "FIT_CROP"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "window scale mode"
+    },
+    {
+      "name": "send_btn",
+      "value": "Send"
+    },
+    {
+      "name": "currentCaption",
+      "value": "Trigger seasonal sound effects"
+    },    {
+      "name": "Chinese",
+      "value": "Chinese"
+    },
+    {
+      "name": "English",
+      "value": "English"
+    },
+    {
+      "name": "language_switch",
+      "value": "Language switch"
+    },
+    {
+      "name": "user_name",
+      "value": "Photography enthusiast"
+    },
+    {
+      "name": "title",
+      "value": "Keep the passion"
+    }
+  ]
+}

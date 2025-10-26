@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "场景检测"
+    },
+    {
+      "name": "home_navbar_title",
+      "value": "场景检测"
+    },
+    {
+      "name": "home_select_button_text",
+      "value": "选择图片"
+    },
+    {
+      "name": "result_title",
+      "value": "分析结果"
+    },
+    {
+      "name": "result_header_title",
+      "value": "被分析图片"
+    },
+    {
+      "name": "result_select_photo_text",
+      "value": "选择图片"
+    },
+    {
+      "name": "display_result",
+      "value": "分析结果"
+    }
+  ]
+}

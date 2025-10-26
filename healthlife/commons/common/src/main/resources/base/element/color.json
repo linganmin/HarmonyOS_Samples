@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "user_level_font_color",
+      "value": "#c99411"
+    },
+    {
+      "name": "user_level_bg_color",
+      "value": "#d4e6f1"
+    },
+    {
+      "name": "task_clock_bg_color",
+      "value": "#66FFFFFF"
+    }
+  ]
+}

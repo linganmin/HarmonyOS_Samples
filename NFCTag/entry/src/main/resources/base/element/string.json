@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NFC-Tag"
+    },
+    {
+      "name": "nfc_tag",
+      "value": "NFC-Tag"
+    },
+    {
+      "name": "near_identify_NFC_Tag",
+      "value": "Please place the card near the NFC recognizable area."
+    },
+    {
+      "name": "card_Technology_types",
+      "value": "Technology types supported by the card:"
+    },
+    {
+      "name": "no_card_message",
+      "value": "The card information is not identified."
+    },
+    {
+      "name": "tagInfo_information",
+      "value": "TagInfo object information:"
+    },
+    {
+      "name": "nfc_tag_information",
+      "value": "NFC-Tag information"
+    },
+    {
+      "name": "requestPermissions_reason",
+      "value": "Allow applications to read Tag cards"
+    }
+  ]
+}

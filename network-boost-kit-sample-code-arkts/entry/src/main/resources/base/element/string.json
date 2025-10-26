@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetworkBoostKit"
+    },
+    {
+      "name": "Network_quality_assessment",
+      "value": "Network quality assessment"
+    },
+    {
+      "name": "Network_scenario_identification",
+      "value": "Network scenario identification"
+    },
+    {
+      "name": "App_data_transmission_quality_feedback",
+      "value": "App data transmission quality feedback"
+    },
+    {
+      "name": "Network_handover_notification",
+      "value": "Network handover notification"
+    },
+    {
+      "name": "Network_handover_mode_setting",
+      "value": "Network handover mode setting"
+    },
+    {
+      "name": "Subscribe",
+      "value": "Subscribe"
+    },
+    {
+      "name": "UnSubscribe",
+      "value": "UnSubscribe"
+    },
+    {
+      "name": "Result",
+      "value": "Result"
+    },
+    {
+      "name": "Click_to_report_qoe",
+      "value": "Click to report qoe"
+    },
+    {
+      "name": "Click_to_set_handover_mode",
+      "value": "Click to set handover mode"
+    }
+  ]
+}

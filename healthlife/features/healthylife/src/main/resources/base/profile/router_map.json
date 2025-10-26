@@ -1,0 +1,14 @@
+{
+  "routerMap": [
+    {
+      "name": "AddTaskComponent",
+      "pageSourceFile": "src/main/ets/views/task/AddTaskComponent.ets",
+      "buildFunction": "addTaskBuilder"
+    },
+    {
+      "name": "EditTaskComponent",
+      "pageSourceFile": "src/main/ets/views/task/EditTaskComponent.ets",
+      "buildFunction": "editTaskBuilder"
+    }
+  ]
+}

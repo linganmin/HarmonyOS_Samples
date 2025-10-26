@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "生成用户目录环境文件"
+    },
+    {
+      "name": "insert_file",
+      "value": "插入文件"
+    },
+    {
+      "name": "file_name",
+      "value": "文件名称"
+    },
+    {
+      "name": "file_context",
+      "value": "*文件内容"
+    },
+    {
+      "name": "insert_document",
+      "value": "向Document插入文件"
+    },
+    {
+      "name": "insert_desktop",
+      "value": "向Desktop插入文件"
+    },
+    {
+      "name": "insert_download",
+      "value": "向Download插入文件"
+    },
+    {
+      "name": "message",
+      "value": "生成成功，文件目录为"
+    }
+  ]
+}

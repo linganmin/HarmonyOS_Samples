@@ -1,0 +1,79 @@
+{
+  "routerMap": [
+    {
+      "name": "ImageDrag",
+      "pageSourceFile": "src/main/ets/pages/image/Image.ets",
+      "buildFunction": "PageImageBuilder"
+    },
+    {
+      "name": "HyperLinkDrag",
+      "pageSourceFile": "src/main/ets/pages/hyperlink/HyperLink.ets",
+      "buildFunction": "PageHyperLinkBuilder"
+    },
+    {
+      "name": "RichEditorDrag",
+      "pageSourceFile": "src/main/ets/pages/richEditor/RichEditor.ets",
+      "buildFunction": "PageRichEditorBuilder"
+    },
+    {
+      "name": "TextInputDrag",
+      "pageSourceFile": "src/main/ets/pages/textInput/TextInput.ets",
+      "buildFunction": "PageTextInputBuilder"
+    },
+    {
+      "name": "TextAreaDrag",
+      "pageSourceFile": "src/main/ets/pages/textarea/TextArea.ets",
+      "buildFunction": "PageTextAreaBuilder"
+    },
+    {
+      "name": "ListDrag",
+      "pageSourceFile": "src/main/ets/pages/list/List.ets",
+      "buildFunction": "PageListBuilder"
+    },
+    {
+      "name": "BackgroundCustomization",
+      "pageSourceFile": "src/main/ets/pages/background/Background.ets",
+      "buildFunction": "PageBackgroundBuilder"
+    },
+    {
+      "name": "WatermarkAdded",
+      "pageSourceFile": "src/main/ets/pages/watermark/Watermark.ets",
+      "buildFunction": "PageWatermarkBuilder"
+    },
+    {
+      "name": "AIRecognition",
+      "pageSourceFile": "src/main/ets/pages/aiRecognition/AIRecognition.ets",
+      "buildFunction": "PageAIRecognitionBuilder"
+    },
+    {
+      "name": "OnlineImage",
+      "pageSourceFile": "src/main/ets/pages/onlineimage/OnlineImage.ets",
+      "buildFunction": "PageOnlineImageBuilder"
+    },
+    {
+      "name": "LocalVideo",
+      "pageSourceFile": "src/main/ets/pages/localvideo/LocalVideo.ets",
+      "buildFunction": "PageLocalVideoBuilder"
+    },
+    {
+      "name": "TextAndImageIndex",
+      "pageSourceFile": "src/main/ets/pages/textandimage/TextAndImageIndex.ets",
+      "buildFunction": "PageTextAndImageIndexBuilder"
+    },
+    {
+      "name": "Text",
+      "pageSourceFile": "src/main/ets/pages/textandimage/Text.ets",
+      "buildFunction": "PageTextDragBuilder"
+    },
+    {
+      "name": "RichEditor",
+      "pageSourceFile": "src/main/ets/pages/textandimage/RichEditor.ets",
+      "buildFunction": "PageRichEditorDragBuilder"
+    },
+    {
+      "name": "MultiEntry",
+      "pageSourceFile": "src/main/ets/pages/textandimage/MultiEntry.ets",
+      "buildFunction": "PageMultiEntryDragBuilder"
+    }
+  ]
+}

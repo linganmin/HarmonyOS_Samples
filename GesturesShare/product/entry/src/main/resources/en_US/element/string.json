@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GesturesShare"
+    },
+    {
+      "name": "index_title",
+      "value": "GesturesShare"
+    },
+    {
+      "name": "gestures_share_file",
+      "value": "gestures share file"
+    },
+    {
+      "name": "gestures_share_link",
+      "value": "gesture share link"
+    },
+    {
+      "name": "play_list",
+      "value": "play list"
+    }
+  ]
+}

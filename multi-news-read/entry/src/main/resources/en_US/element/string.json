@@ -1,0 +1,172 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiNewsRead"
+    },
+    {
+      "name": "project_name",
+      "value": "News Reading Differentiation Development Content"
+    },
+    {
+      "name": "hot_rank",
+      "value": "Hot List"
+    },
+    {
+      "name": "font_family",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "font_family_normal",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "font_family_bold",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "router_back",
+      "value": "Back"
+    },
+    {
+      "name": "repeated_layout_1",
+      "value": "Repeated Layout 1"
+    },
+    {
+      "name": "repeated_layout_2",
+      "value": "Repeated Layout 2"
+    },
+    {
+      "name": "list_to_grid",
+      "value": "List to Grid"
+    },
+    {
+      "name": "animal_news_highlight",
+      "value": "Breaking News! This Animal is in Trouble Again! May Face More Netizen Feedings"
+    },
+    {
+      "name": "seaside_luxury_invitation",
+      "value": "Luxurious Invitation from the Seaside Scenery, Experience the Elegant Time Facing the Sea"
+    },
+    {
+      "name": "special_architecture_showcase",
+      "value": "Special Architecture, Which Ones Have You Seen? Let's Take a Look Together"
+    },
+    {
+      "name": "music_world_tour_start",
+      "value": "Music World Tour | First Stop Begins"
+    },
+    {
+      "name": "spectacular_waterfall",
+      "value": "What Kind of Waterfall is This, So Spectacular"
+    },
+    {
+      "name": "flower_sea_attractions",
+      "value": "This Beautiful Sea of Flowers, Don't Miss These Treasure Check-in Locations!"
+    },
+    {
+      "name": "spiritual_nourishment_places",
+      "value": "How to Create More Places for Spiritual Nourishment"
+    },
+    {
+      "name": "dog_raising_regulations",
+      "value": "Involving Dog Raising Regulations! Expert's Latest Statement: Refine Management, Improve Environment"
+    },
+    {
+      "name": "new_aircraft_debut",
+      "value": "New Aircraft to Debut at Air Show"
+    },
+    {
+      "name": "music_listening_experience",
+      "value": "Music: Listen Intently to Music, Feel the Melodious Rhythms"
+    },
+    {
+      "name": "spring_scenery",
+      "value": "Clear Waters and Green Mountains, a Gorgeous Spring Scenery That is Refreshing to the Heart"
+    },
+    {
+      "name": "autumn_sun_wheat_field",
+      "value": "As Soon as the Sun Comes in Autumn, It Shines Its Rays onto the Wheat Fields, and the Wheat Sways in the Wind"
+    },
+    {
+      "name": "rabbit_in_mythology",
+      "value": "Rabbit Year Talks About Rabbits: Why Did Rabbits Always Appear in Mythology in Ancient Times?"
+    },
+    {
+      "name": "ai_in_education",
+      "value": "What Are the Applications of Artificial Intelligence in Education? Will Teachers Be Replaced by AI?"
+    },
+    {
+      "name": "movable_house_travel",
+      "value": "Traveling with a Movable House, the True Meaning of 'Moving House', Travel Whenever You Want"
+    },
+    {
+      "name": "panda_climbing_tree",
+      "value": "Panda Unlocks New Tree Climbing Pose, Netizens Say It's Adorable"
+    },
+    {
+      "name": "ecosystem_protection_effort",
+      "value": "In order to protect the stability of the entire ecosystem and the interests of human beings, it is necessary to focus on investment, funding, and facilities to deliver an impressive answer. And"
+    },
+    {
+      "name": "dog_management_discussion",
+      "value": "Against the background of many problems caused by uncivilized dog raising, dog bites have once again attracted attention. Netizens have discussed the issue of dog management, what is the final say?"
+    },
+    {
+      "name": "seaside_trip_relief",
+      "value": "Accustomed to city life, perhaps a trip to the seaside can alleviate fatigue, invite three or five friends to feel the sunshine by the sea"
+    },
+    {
+      "name": "aircraft_invention_significance",
+      "value": "As a major invention of the 20th century, airplanes have increasingly become an indispensable tool for modern travel, and the fields involved in aircraft manufacturing have become more and more specialized"
+    },
+    {
+      "name": "news_channel",
+      "value": "News Channel"
+    },
+    {
+      "name": "media_news",
+      "value": "Media News"
+    },
+    {
+      "name": "news_update_2_hours_ago",
+      "value": "2 Hours Ago"
+    },
+    {
+      "name": "news_update_1_hour_ago",
+      "value": "1 Hour Ago"
+    },
+    {
+      "name": "wildlife_protection_regulation",
+      "value": "Wildlife Protection: Standardized Management"
+    },
+    {
+      "name": "celebrity_wedding_photos",
+      "value": "Celebrity Wedding Photos Exposed"
+    },
+    {
+      "name": "tea_miraculous_effects",
+      "value": "The Miraculous Effects of Tea, Green Leaves on Green Mountains"
+    },
+    {
+      "name": "campus_recruitment_hr",
+      "value": "High-Profile HR in Campus Recruitment Goes Viral"
+    },
+    {
+      "name": "waterfall_wonder",
+      "value": "Magnificent Waterfall Wonder"
+    },
+    {
+      "name": "anticipated_tv_series_premiere",
+      "value": "The Anticipated TV Series Has Started Broadcasting"
+    }
+  ]
+}

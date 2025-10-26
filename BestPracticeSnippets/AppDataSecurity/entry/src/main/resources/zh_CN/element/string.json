@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "应用数据安全"
+    },
+    {
+      "name": "file_path",
+      "value": "文件路径："
+    },
+    {
+      "name": "get_file_path",
+      "value": "获取通用文件路径"
+    },
+    {
+      "name": "get_el1_file_path",
+      "value": "获取EL1文件路径"
+    },
+    {
+      "name": "encrypted",
+      "value": "加密"
+    },
+    {
+      "name": "decrypted",
+      "value": "解密"
+    }
+  ]
+}

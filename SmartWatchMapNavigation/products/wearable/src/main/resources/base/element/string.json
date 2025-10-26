@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "WearableAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "WearableAbility_label",
+      "value": "SmartWatchMapNavigation"
+    },
+    {
+      "name": "request_permission_reason",
+      "value": "Using location permissions in location scenarios."
+    },
+    {
+      "name": "Right_front",
+      "value": "Right front"
+    },
+    {
+      "name": "Left_front",
+      "value": "Left front"
+    },
+    {
+      "name": "Right",
+      "value": "Right"
+    },
+    {
+      "name": "Left",
+      "value": "Left"
+    },
+    {
+      "name": "End",
+      "value": "Getting to your destination"
+    },
+    {
+      "name": "location_permission",
+      "value": "Using location permissions in location scenarios."
+    },
+    {
+      "name": "meter",
+      "value": "m,"
+    },
+    {
+      "name": "Estimated_Time",
+      "value": "Estimated Time of Passing"
+    },
+    {
+      "name": "Second",
+      "value": "s"
+    }
+  ]
+}

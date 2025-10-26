@@ -1,0 +1,56 @@
+{
+  "strarray": [
+    {
+      "name": "in_tabs_items",
+      "value": [
+        {
+          "value": "关注"
+        },
+        {
+          "value": "推荐"
+        },
+        {
+          "value": "热度"
+        },
+        {
+          "value": "视频"
+        },
+        {
+          "value": "体育"
+        },
+        {
+          "value": "财经"
+        },
+        {
+          "value": "投资"
+        },
+        {
+          "value": "电影"
+        },
+        {
+          "value": "游戏"
+        },
+        {
+          "value": "音乐"
+        }
+      ]
+    },
+    {
+      "name": "switch_tabs_items",
+      "value": [
+        {
+          "value": "关注"
+        },
+        {
+          "value": "推荐"
+        },
+        {
+          "value": "热度"
+        },
+        {
+          "value": "视频"
+        }
+      ]
+    }
+  ]
+}

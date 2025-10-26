@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "StageSample"
+    },
+    {
+      "name": "watch",
+      "value": " live viewers"
+    },
+    {
+      "name": "first_author",
+      "value": "Tourism cultural ambassador."
+    },
+    {
+      "name": "first_one_name",
+      "value": "Lin Xiaojie"
+    },
+    {
+      "name": "first_one_comment",
+      "value": "I am coming, HDC2021！"
+    },
+    {
+      "name": "first_two_name",
+      "value": "Liu Xiaohua"
+    },
+    {
+      "name": "first_two_comment",
+      "value": "HarmonyOS, come on, go go go!"
+    },
+    {
+      "name": "first_three_name",
+      "value": "Wu Xiaojing"
+    },
+    {
+      "name": "first_three_comment",
+      "value": "Let's charge together, keep charging!"
+    },
+    {
+      "name": "first_four_name",
+      "value": "Zhou Xiaolun"
+    },
+    {
+      "name": "first_four_comment",
+      "value": "Looking forward to seeing the new version of HarmonyOS at HDC2021!"
+    },
+    {
+      "name": "first_five_name",
+      "value": "Zhang Xiaoyou"
+    },
+    {
+      "name": "first_five_comment",
+      "value": "Zhang Xiaoyou online support!"
+    },
+    {
+      "name": "two_author",
+      "value": "The voice of West Lake in beautiful Hangzhou"
+    },
+    {
+      "name": "three_author",
+      "value": "Come on, China"
+    },
+    {
+      "name": "say_something",
+      "value": "Say something"
+    },
+    {
+      "name": "in_live",
+      "value": "Live"
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "长截图开发实践"
+    },
+    {
+      "name": "reason_internet",
+      "value": "使用Internet权限用于加载网页"
+    },
+    {
+      "name": "title_scroll_snapshot",
+      "value": "滚动组件长截图"
+    },
+    {
+      "name": "title_web_snapshot",
+      "value": "Web组件长截图"
+    },
+    {
+      "name": "one_click_snapshot",
+      "value": "一键截图"
+    },
+    {
+      "name": "scroll_snapshot",
+      "value": "滚动截图"
+    },
+    {
+      "name": "snapshot",
+      "value": "截图"
+    },
+    {
+      "name": "news_item_publish_date",
+      "value": "2025年1月1日"
+    },
+    {
+      "name": "news_item_content",
+      "value": "%1$d 应用开发文档用于指导开发者通过HarmonyOS SDK提供的开放能力完成应用开发。"
+    },
+    {
+      "name": "screen_is_taking",
+      "value": "正在截图，请稍等..."
+    },
+    {
+      "name": "button_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "save_album_success",
+      "value": "已保存至相册"
+    }
+  ]
+}

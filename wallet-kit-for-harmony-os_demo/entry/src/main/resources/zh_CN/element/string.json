@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "WalletKitDemo"
+    },
+    {
+      "name": "Prerequisites",
+      "value": "前置条件"
+    },
+    {
+      "name": "Initialize",
+      "value": "初始化"
+    },
+    {
+      "name": "Public_Card_Operation",
+      "value": "公共卡操作"
+    },
+    {
+      "name": "Result",
+      "value": "结果:"
+    },
+    {
+      "name": "Enter_JWE",
+      "value": "输入jwe"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+//FAQ:怎样在编译配置中设置excludes文件
+//FAQ:如何控制编译过程的cpu使用
+{
+  "apiType": "stageMode",
+  // [Start external_native_options]
+  "buildOption": {
+    "externalNativeOptions": {
+      "path": "../cpp/CMakeLists.txt",
+      "arguments": "-DCMAKE_JOB_POOL_COMPILE:STRING=compile -DCMAKE_JOB_POOL_LINK:STRING=link -DCMAKE_JOB_POOLS:STRING=compile=2;link=2",
+      "cppFlags": "",
+      "abiFilters": [
+        "x86_64",
+        "arm64-v8a"
+      ]
+    }
+  },
+  // [End external_native_options]
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      },
+      // [Start native_lib]
+      "nativeLib": {
+        "debugSymbol": {
+          "strip": true,
+          "exclude": [
+            "**/3.so"
+          ]
+        }
+      },
+      // [End native_lib]
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "databaseReadWrite"
+    },
+    {
+      "name": "tabSql",
+      "value": "SQLite"
+    },
+    {
+      "name": "tabC",
+      "value": "C-API"
+    },
+    {
+      "name": "goodname",
+      "value": "商品名"
+    },
+    {
+      "name": "mate60",
+      "value": "Mate60"
+    },
+    {
+      "name": "mate60pro",
+      "value": "Mate60pro"
+    },
+    {
+      "name": "mate40",
+      "value": "Mate40"
+    },
+    {
+      "name": "mate40pro",
+      "value": "Mate40pro"
+    },
+    {
+      "name": "goodprice",
+      "value": "商品价格"
+    },
+    {
+      "name": "submit",
+      "value": "提交"
+    },
+    {
+      "name": "rdb",
+      "value": "关系型数据库"
+    },
+    {
+      "name": "list_mate60",
+      "value": "Mate60系列"
+    },
+    {
+      "name": "list_mate40",
+      "value": "Mate40系列"
+    },
+    {
+      "name": "capi",
+      "value": "C-API"
+    },
+    {
+      "name": "list_goodname",
+      "value": "商品"
+    },
+    {
+      "name": "list_greater",
+      "value": "大于5000"
+    },
+    {
+      "name": "list_lesser",
+      "value": "小于5000"
+    },
+    {
+      "name": "sellprice",
+      "value": "售价"
+    },
+    {
+      "name": "add",
+      "value": "新增"
+    },
+    {
+      "name": "addgoodinfo",
+      "value": "新增商品信息"
+    },
+    {
+      "name": "changeinfo",
+      "value": "修改商品信息"
+    }
+  ]
+}

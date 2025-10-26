@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Watermark"
+    },
+    {
+      "name": "title",
+      "value": "水印添加能力"
+    },
+    {
+      "name": "open_camera",
+      "value": "打开相机"
+    },
+    {
+      "name": "image_reason",
+      "value": "生成水印照片需要写入图片权限"
+    },
+    {
+      "name": "message_save_success",
+      "value": "图片保存成功"
+    },
+    {
+      "name": "pdf_save_success",
+      "value": "pdf下载成功"
+    },
+    {
+      "name": "watermark_text",
+      "value": "水印文字"
+    },
+    {
+      "name": "watermark_screen_text",
+      "value": "水印水印水印"
+    },
+    {
+      "name": "page_bg",
+      "value": "页面背景"
+    },
+    {
+      "name": "photo",
+      "value": "图片"
+    },
+    {
+      "name": "camera",
+      "value": "拍照"
+    },
+    {
+      "name": "file",
+      "value": "文件"
+    },
+    {
+      "name": "use_stack",
+      "value": "使用Stack组件添加添加水印"
+    },
+    {
+      "name": "use_overlay",
+      "value": "使用overlay属性添加水印"
+    },
+    {
+      "name": "save_photo",
+      "value": "保存图片添加水印"
+    },
+    {
+      "name": "take_camera",
+      "value": "拍照图片添加水印"
+    },
+    {
+      "name": "pdf_watermark",
+      "value": "PDF添加水印"
+    },
+    {
+      "name": "button_text_add_watermark",
+      "value": "添加水印"
+    }
+  ]
+}

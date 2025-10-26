@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "reason",
+      "value": "Apply for necessary permissions"
+    },
+    {
+      "name": "CreateKeySucc_desc",
+      "value": "Attestation key created successfully"
+    },
+    {
+      "name": "CreateKeyFail_desc",
+      "value": "Failed to create attestation key"
+    },
+    {
+      "name": "CameraOn_button",
+      "value": "Camera On (Secure)"
+    },
+    {
+      "name": "CameraOff_button",
+      "value": "Camera Off (Secure)"
+    },
+    {
+      "name": "OpenCameraFail_desc",
+      "value": "Failed to open secure camera"
+    },
+    {
+      "name": "GetLocationSpeedFirst_button",
+      "value": "Get Location (Speed First)"
+    },
+    {
+      "name": "GetLocationAccuracyFirst_button",
+      "value": "Get Location (Accuracy First)"
+    },
+    {
+      "name": "GetLocationFail_desc",
+      "value": "Failed to get secure location"
+    }
+  ]
+}

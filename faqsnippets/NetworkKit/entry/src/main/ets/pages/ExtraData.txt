@@ -1,0 +1,11 @@
+
+
+/*
+* FAQ:http请求的官方示例代码中的extraData是什么类型
+*/
+
+// [Start ExtraData]
+1）extraData:"data to send";
+2）extraData:{ data: "data to send", };
+3）extraData:{ data: new ArrayBuffer(1)};
+// [End ExtraData]

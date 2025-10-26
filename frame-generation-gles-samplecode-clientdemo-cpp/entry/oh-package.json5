@@ -1,0 +1,12 @@
+{
+    "license": "",
+    "devDependencies": {
+        "libentry.so": "file:./src/main/cpp/types/libentry"
+    },
+    "author": "Huawei RRI",
+    "name": "entry",
+    "description": "GameSDK integration samples",
+    "main": "",
+    "version": "1.0.0",
+    "dependencies": {}
+}

@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "video_title",
+      "value": "@地理风光"
+    },
+    {
+      "name": "video_title_time",
+      "value": "2小时前"
+    },
+    {
+      "name": "video_info_music",
+      "value": "创作的音乐"
+    },
+    {
+      "name": "video_info",
+      "value": "三江源地区位于青海省南部，平均海拔4000米以上，这里是长江、黄河和..."
+    },
+    {
+      "name": "comment_list_title",
+      "value": "23条评论"
+    },
+    {
+      "name": "comment_button_text",
+      "value": "写评论"
+    },
+    {
+      "name": "comment_button_bg_color",
+      "value": "rgba(0, 0, 0, 0.05)"
+    },
+    {
+      "name": "comment_button_text_color",
+      "value": "rgba(0, 0, 0, 0.6)"
+    },
+    {
+      "name": "comment_keyboard_mask_bgcolor",
+      "value": "rgba(0, 0, 0, 0.1)"
+    },
+    {
+      "name": "friend_nickname_1",
+      "value": "朋友1"
+    },
+    {
+      "name": "friend_nickname_2",
+      "value": "朋友2"
+    },
+    {
+      "name": "tab1",
+      "value": "首页"
+    },
+    {
+      "name": "tab2",
+      "value": "朋友"
+    },
+    {
+      "name": "tab4",
+      "value": "消息"
+    },
+    {
+      "name": "tab5",
+      "value": "我"
+    },
+    {
+      "name": "send_title",
+      "value": "发送的评论内容为："
+    }
+  ]
+}

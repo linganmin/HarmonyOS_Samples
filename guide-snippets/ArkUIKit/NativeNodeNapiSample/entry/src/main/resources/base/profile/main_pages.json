@@ -1,0 +1,24 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/page_navigation",
+    "pages/page_getDrawableDescriptor",
+    "pages/page_animation",
+    "pages/animation/animationIndex1",
+    "pages/animation/animationIndex2",
+    "pages/animation/animationIndex3",
+    "pages/animation/animationIndex4",
+    "pages/animation/animationIndex5",
+    "pages/page_visual_effects",
+    "pages/visualEffects/visualEffectsIndex1",
+    "pages/visualEffects/visualEffectsIndex2",
+    "pages/visualEffects/visualEffectsIndex3",
+    "pages/visualEffects/visualEffectsIndex4",
+    "pages/visualEffects/visualEffectsIndex5",
+    "pages/visualEffects/visualEffectsIndex6",
+    "pages/visualEffects/visualEffectsIndex7",
+    "pages/visualEffects/visualEffectsIndex8",
+    "pages/visualEffects/visualEffectsIndex9",
+    "pages/visualEffects/visualEffectsIndex10"
+  ]
+}

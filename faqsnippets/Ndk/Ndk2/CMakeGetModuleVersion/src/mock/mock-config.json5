@@ -1,0 +1,5 @@
+{
+  "libcmakegetmoduleversion.so": {
+    "source": "src/mock/Libcmakegetmoduleversion.mock.ets"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "comments": [
+    {
+      "id": "0",
+      "avatar": "app.media.ic_comm_pic1",
+      "userName": "name1",
+      "comment": "Happy every day. Happy every day. Happy every day.Happy every day.Happy every day.",
+      "image": "app.media.ic_comm_pic1",
+      "date": "12/11"
+    },
+    {
+      "id": "1",
+      "avatar": "app.media.ic_comm_pic2",
+      "userName": "name2",
+      "comment": "Happy every day. Happy every day.Happy every day.",
+      "image": "app.media.ic_comm_pic2",
+      "date": "12/11"
+    },
+    {
+      "id": "2",
+      "avatar": "app.media.ic_comm_pic3",
+      "userName": "name3",
+      "comment": "Happy every day.",
+      "image": "app.media.ic_comm_pic3",
+      "date": "12/11"
+    },
+    {
+      "id": "3",
+      "avatar": "app.media.ic_comm_pic4",
+      "userName": "name4",
+      "comment": "Happy every day.Happy every day.",
+      "image": "app.media.ic_comm_pic4",
+      "date": "12/11"
+    }
+  ]
+}

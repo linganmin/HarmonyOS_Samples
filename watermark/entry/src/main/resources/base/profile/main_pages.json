@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/WatermarkStackPage",
+    "pages/WatermarkOverlayPage",
+    "pages/SaveImagePage",
+    "pages/CameraPage",
+    "pages/WatermarkPdfPage"
+  ]
+}

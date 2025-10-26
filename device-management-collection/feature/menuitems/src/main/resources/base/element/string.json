@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from npm package"
+    },
+    {
+      "name": "battery_info",
+      "value": "Battery Information"
+    },
+    {
+      "name": "power_manager",
+      "value": "System Power Management"
+    },
+    {
+      "name": "running_lock",
+      "value": "RunningLock"
+    },
+    {
+      "name": "settings",
+      "value": "Data Item Settings"
+    },
+    {
+      "name": "thermal",
+      "value": "Thermal Management"
+    },
+    {
+      "name": "usb_manager",
+      "value": "USB Management"
+    }
+  ]
+}

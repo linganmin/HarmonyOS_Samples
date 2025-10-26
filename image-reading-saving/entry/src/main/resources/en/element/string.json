@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ImageReadingSaving"
+    },
+    {
+      "name": "accessing_album_files",
+      "value": "Accessing album files"
+    },
+    {
+      "name": "save_picture",
+      "value": "Save Picture"
+    },
+    {
+      "name": "using_photoPicker_to_read_images",
+      "value": "Using PhotoPicker to Read Images"
+    },
+    {
+      "name": "using_photoViewPicker_to_read_images",
+      "value": "Using PhotoViewPicker to Read Images"
+    },
+    {
+      "name": "apply_for_permission_to_read_images",
+      "value": "Apply for permission to read images"
+    },
+    {
+      "name": "authorization_successful",
+      "value": "Authorization successful"
+    },
+    {
+      "name": "authorized",
+      "value": "Authorized"
+    },
+    {
+      "name": "reauthorization",
+      "value": "Authorization failed, please reauthorize"
+    },
+    {
+      "name": "saved_to_album",
+      "value": "Saved to album"
+    },
+    {
+      "name": "save_using_the_saveButton_component",
+      "value": "Save using the SaveButton component"
+    },
+    {
+      "name": "use_popup_authorization_to_save",
+      "value": "Use popup authorization to save"
+    },
+    {
+      "name": "apply_for_media_library_permission_to_save_images",
+      "value": "Apply for media library permission to save images"
+    },
+    {
+      "name": "preview",
+      "value": "Preview"
+    },
+    {
+      "name": "authorization_save",
+      "value": "Authorization Save"
+    },
+    {
+      "name": "view_image_information",
+      "value": "View image information"
+    },
+    {
+      "name": "picture_information",
+      "value": "picture information"
+    },
+    {
+      "name": "width",
+      "value": "width"
+    },
+    {
+      "name": "height",
+      "value": "height"
+    },
+    {
+      "name": "picture_format",
+      "value": "picture format"
+    },
+    {
+      "name": "save",
+      "value": "save"
+    },
+    {
+      "name": "select_picture",
+      "value": "Select Picture"
+    },
+    {
+      "name": "please_select_an_image",
+      "value": "Please select an image"
+    },
+    {
+      "name": "image_reading_and_saving",
+      "value": "Image reading and saving"
+    },
+    {
+      "name": "density",
+      "value": "Pixel Density"
+    },
+    {
+      "name": "stride",
+      "value": "stride"
+    },
+    {
+      "name": "pixelFormat",
+      "value": "pixelFormat"
+    },
+    {
+      "name": "alphaType",
+      "value": "alphaType"
+    },
+    {
+      "name": "mimeType",
+      "value": "mimeType"
+    },
+    {
+      "name": "dynamic_range",
+      "value": "dynamic range"
+    },
+    {
+      "name": "basic_information",
+      "value": "Basic information"
+    },
+    {
+      "name": "pixel",
+      "value": "pixel"
+    },
+    {
+      "name": "reading_images_from_the_gallery",
+      "value": "Reading images from the gallery"
+    },
+    {
+      "name": "save_image_to_gallery",
+      "value": "Save image to gallery"
+    }
+  ]
+}

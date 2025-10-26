@@ -1,0 +1,100 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    },
+    {
+      "name": "content_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "font_weight_400",
+      "value": "400"
+    },
+    {
+      "name": "title_bar_default_height",
+      "value": "56vp"
+    },
+    {
+      "name": "font_weight_500",
+      "value": "500"
+    },
+    {
+      "name": "font_weight_700",
+      "value": "700"
+    },
+    {
+      "name": "content_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "size_18fp",
+      "value": "18fp"
+    },
+    {
+      "name": "size_26fp",
+      "value": "26fp"
+    },
+    {
+      "name": "size_8vp",
+      "value": "8vp"
+    },
+    {
+      "name": "size_12vp",
+      "value": "12vp"
+    },
+    {
+      "name": "size_4vp",
+      "value": "4vp"
+    },
+    {
+      "name": "size_13vp",
+      "value": "13vp"
+    },
+    {
+      "name": "size_16vp",
+      "value": "16vp"
+    },
+    {
+      "name": "size_16fp",
+      "value": "16fp"
+    },
+    {
+      "name": "size_14fp",
+      "value": "14fp"
+    },
+    {
+      "name": "size_19vp",
+      "value": "19vp"
+    },
+    {
+      "name": "size_35vp",
+      "value": "35vp"
+    },
+    {
+      "name": "size_21vp",
+      "value": "21vp"
+    },
+    {
+      "name": "size_24vp",
+      "value": "24vp"
+    },
+    {
+      "name": "size_24fp",
+      "value": "24fp"
+    },
+    {
+      "name": "size_32vp",
+      "value": "32vp"
+    },
+    {
+      "name": "size_50vp",
+      "value": "50vp"
+    },
+    {
+      "name": "size_64vp",
+      "value": "64vp"
+    }
+  ]
+}

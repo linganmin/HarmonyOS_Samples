@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "LongListPage",
+      "pageSourceFile": "src/main/ets/view/longlist/LongListPageComponent.ets",
+      "buildFunction": "LongListPageComponentBuilder",
+      "data": {
+        "description": "this is LongListPageComponent"
+      }
+    },
+    {
+      "name": "VideoPage",
+      "pageSourceFile": "src/main/ets/view/video/VideoPageComponent.ets",
+      "buildFunction": "VideoPageComponentBuilder",
+      "data": {
+        "description": "this is VideoPageComponent"
+      }
+    },
+    {
+      "name": "WebPageComponent",
+      "pageSourceFile": "src/main/ets/view/web/WebPageComponent.ets",
+      "buildFunction": "WebPageComponentBuilder",
+      "data": {
+        "description": "this is WebPageComponent"
+      }
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "图文编创"
+    },
+    {
+      "name": "distributed_desc",
+      "value": "允许应用在图文编辑场景中在不同设备间交换数据"
+    },
+    {
+      "name": "location_desc",
+      "value": "允许应用在图文编辑场景中获取设备位置信息"
+    },
+    {
+      "name": "location_in_background_desc",
+      "value": "允许应用在图文编辑场景中后台运行时获取设备位置信息"
+    },
+    {
+      "name": "approximately_location_desc",
+      "value": "允许应用在图文编辑场景中获取设备模糊位置信息"
+    },
+    {
+      "name": "camera_desc",
+      "value": "允许应用在图文编辑场景中使用相机拍摄"
+    },
+    {
+      "name": "mic_desc",
+      "value": "允许应用在图文编辑场景中使用麦克风"
+    },
+    {
+      "name": "read_desc",
+      "value": "允许应用在图文编辑场景中读取图片"
+    },
+    {
+      "name": "write_desc",
+      "value": "允许应用在图文编辑场景中保存图片"
+    },
+    {
+      "name": "reason_internet",
+      "value": "允许应用在图文编辑场景中使用Internet网络"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "允许应用在图文编辑场景中获取数据网络信息"
+    },
+    {
+      "name": "full_screen_20",
+      "value": "20%"
+    },
+    {
+      "name": "full_screen",
+      "value": "100%"
+    },
+    {
+      "name": "screen_height_60",
+      "value": "60%"
+    },
+    {
+      "name": "main_home",
+      "value": "首页"
+    },
+    {
+      "name": "main_shopping",
+      "value": "购物"
+    },
+    {
+      "name": "main_message",
+      "value": "消息"
+    },
+    {
+      "name": "main_mine",
+      "value": "我"
+    },
+    {
+      "name": "home_follow",
+      "value": "关注"
+    },
+    {
+      "name": "home_recommends",
+      "value": "推荐"
+    },
+    {
+      "name": "home_same_city",
+      "value": "同城"
+    },
+    {
+      "name": "author_1",
+      "value": "Leelook"
+    },
+    {
+      "name": "author_2",
+      "value": "苏苏"
+    },
+    {
+      "name": "author_3",
+      "value": "阡陌"
+    },
+    {
+      "name": "author_4",
+      "value": "达芙妮"
+    },
+    {
+      "name": "favorites_number",
+      "value": "100+"
+    },
+    {
+      "name": "descriptions",
+      "value": "请慢用~"
+    },
+    {
+      "name": "notes",
+      "value": "发笔记"
+    },
+    {
+      "name": "edit_image",
+      "value": "编辑图片"
+    },
+    {
+      "name": "span_end",
+      "value": "查看跨端设备"
+    },
+    {
+      "name": "edit_hold_txt",
+      "value": "请填写标题"
+    },
+    {
+      "name": "category_1",
+      "value": "太精彩了呀"
+    },
+    {
+      "name": "category_2",
+      "value": "追剧日常"
+    },
+    {
+      "name": "category_3",
+      "value": "节假日精彩瞬间"
+    },
+    {
+      "name": "category_4",
+      "value": "生活中的小美好"
+    },
+    {
+      "name": "edit_contents_hold_txt",
+      "value": "说点什么"
+    },
+    {
+      "name": "topics",
+      "value": "# 话题"
+    },
+    {
+      "name": "buddy",
+      "value": "@ 好友"
+    },
+    {
+      "name": "location",
+      "value": "所在位置"
+    },
+    {
+      "name": "visible",
+      "value": "所有人可见"
+    },
+    {
+      "name": "save_drafts",
+      "value": "存草稿"
+    },
+    {
+      "name": "publish_notes",
+      "value": "发布笔记"
+    },
+    {
+      "name": "picker_all",
+      "value": "全部"
+    },
+    {
+      "name": "picker_image",
+      "value": "图片"
+    },
+    {
+      "name": "picker_video",
+      "value": "视频"
+    },
+    {
+      "name": "picker_moving_photo",
+      "value": "Moving Photo"
+    },
+    {
+      "name": "local_front",
+      "value": "本端前置"
+    },
+    {
+      "name": "local_back",
+      "value": "本端后置"
+    },
+    {
+      "name": "remote_front",
+      "value": "远端前置"
+    },
+    {
+      "name": "remote_back",
+      "value": "远端后置"
+    },
+    {
+      "name": "template",
+      "value": "模板"
+    },
+    {
+      "name": "album",
+      "value": "相册"
+    },
+    {
+      "name": "texts",
+      "value": "文字"
+    },
+    {
+      "name": "take_photo",
+      "value": "拍摄"
+    },
+    {
+      "name": "select_num",
+      "value": "已选 %s"
+    },
+    {
+      "name": "finish",
+      "value": "完成"
+    },
+    {
+      "name": "search_hold",
+      "value": "搜索..."
+    },
+    {
+      "name": "btn_edite_label",
+      "value": "编辑"
+    },
+    {
+      "name": "toast_picker_limit",
+      "value": "最多选择18张图片！"
+    }
+  ]
+}

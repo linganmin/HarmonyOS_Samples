@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Describe the Job Partner Concurrency paradigm to improve task execution efficiency."
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Job Partner Demo"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Job Partner"
+    },
+    {
+      "name": "title",
+      "value": "JobPartner Concurrency Paradigm"
+    },
+    {
+      "name": "message",
+      "value": "Sometimes part of the code in a task must be executed in the master thread (e.g., the bridge layer between JavaScript and native code)."
+    },
+    {
+      "name": "task",
+      "value": "Assume 1000 tasks, each made up of three stages that take 50us each. Stage two must run on the master thread."
+    },
+    {
+      "name": "SerialTaskCost",
+      "value": "Serial Execution Time"
+    },
+    {
+      "name": "JobPartnerTaskCost",
+      "value": "Concurrent Execution Time"
+    },
+    {
+      "name": "SerialTaskCostBtn",
+      "value": "Serial Tasks"
+    },
+    {
+      "name": "JobPartnerTaskCostBtn",
+      "value": "Concurrent Tasks"
+    },
+    {
+      "name": "TimeUnit",
+      "value": "ms"
+    }
+  ]
+}

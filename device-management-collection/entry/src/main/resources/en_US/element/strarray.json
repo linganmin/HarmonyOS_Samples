@@ -1,0 +1,27 @@
+{
+  "strarray": [
+    {
+      "name": "device_management_list",
+      "value": [
+        {
+          "value": "Battery Information"
+        },
+        {
+          "value": "Runninglock"
+        },
+        {
+          "value": "System Power Management"
+        },
+        {
+          "value": "Data Item Settings"
+        },
+        {
+          "value": "Thermal Management"
+        },
+        {
+          "value": "USB Management"
+        }
+      ]
+    }
+  ]
+}

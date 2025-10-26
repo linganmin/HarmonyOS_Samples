@@ -1,0 +1,26 @@
+{
+  "module": {
+    "name": "DevEcoStaticCheck",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "DevEcoStaticCheckAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "DevEcoStaticCheckAbility",
+        "srcEntry": "./ets/devecostaticcheckability/DevEcoStaticCheckAbility.ets",
+        "description": "$string:DevEcoStaticCheckAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:DevEcoStaticCheckAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "float": [
+    {
+      "name": "item_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "sheet_item_height",
+      "value": "56vp"
+    },
+    {
+      "name": "video_processing_title_size",
+      "value": "24fp"
+    },
+    {
+      "name": "title_margin_left",
+      "value": "16vp"
+    },
+    {
+      "name": "processing_title_size",
+      "value": "18fp"
+    },
+    {
+      "name": "title_margin_right",
+      "value": "16vp"
+    },
+    {
+      "name": "video_select_button_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "processing_title_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "processing_title_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "processing_before_title_margin_top",
+      "value": "48vp"
+    },
+    {
+      "name": "processing_before_title_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "play_button_width",
+      "value": "24vp"
+    },
+    {
+      "name": "play_button_height",
+      "value": "24vp"
+    },
+    {
+      "name": "play_botton_margin_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "scale_button_width",
+      "value": "158vp"
+    },
+    {
+      "name": "meta_button_width",
+      "value": "158vp"
+    },
+    {
+      "name": "color_space_button_width",
+      "value": "328vp"
+    },
+    {
+      "name": "scale_button_margin",
+      "value": "6vp"
+    },
+    {
+      "name": "meta_button_margin",
+      "value": "6vp"
+    },
+    {
+      "name": "scale_meta_area_margin_left",
+      "value": "16vp"
+    },
+    {
+      "name": "scale_meta_area_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "scale_meta_area_margin_right",
+      "value": "16vp"
+    },
+    {
+      "name": "color_space_button_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "video_processing_after_area_hint_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "color_space_item_padding_left",
+      "value": "16vp"
+    },
+    {
+      "name": "color_space_item_margin_left",
+      "value": "8vp"
+    },
+    {
+      "name": "color_space_hdr_hint_margin_top",
+      "value": "34vp"
+    },
+    {
+      "name": "color_space_item_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "color_space_item_margin_bottom",
+      "value": "56vp"
+    },
+    {
+      "name": "videoProcessing_title_height",
+      "value": "56vp"
+    },
+    {
+      "name": "video_surface_height",
+      "value": "184vp"
+    }
+  ]
+}

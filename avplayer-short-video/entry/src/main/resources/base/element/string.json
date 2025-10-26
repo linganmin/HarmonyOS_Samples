@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "entryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "video_warn",
+      "value": "ExitProgram！"
+    },
+    {
+      "name": "entryAbility_label",
+      "value": "ShortVideoPlay"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "dialog_play_speed"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "dialog_cancel"
+    },
+    {
+      "name": "playing",
+      "value": "playing"
+    },
+    {
+      "name": "reason",
+      "value": "video"
+    },
+    {
+      "name": "reason_background",
+      "value": "reason_background"
+    },
+    {
+      "name": "pip_start",
+      "value": "Auto start picture in picture"
+    },
+    {
+      "name": "playing_now",
+      "value": "playing_now"
+    },
+    {
+      "name": "more",
+      "value": "more"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "Chinese",
+      "value": "Chinese"
+    },
+    {
+      "name": "English",
+      "value": "English"
+    },
+    {
+      "name": "language_switch",
+      "value": "Language switch"
+    }
+  ]
+}

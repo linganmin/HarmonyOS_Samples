@@ -1,0 +1,468 @@
+{
+  "string": [
+    {
+      "name": "system_share",
+      "value": "系统分享"
+    },
+    {
+      "name": "huawei_share",
+      "value": "华为分享"
+    },
+    {
+      "name": "huawei_share_title",
+      "value": "华为分享演示"
+    },
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "photo_reason",
+      "value": "获取预览图用于展示"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "华为分享演示应用"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "华为分享"
+    },
+    {
+      "name": "ShareUIAbility_label",
+      "value": "目标应用"
+    },
+    {
+      "name": "ShareExtensionAbility_label",
+      "value": "二级面板"
+    },
+    {
+      "name": "CustomUTDAbility_label",
+      "value": "自定义UTD"
+    },
+    {
+      "name": "navigation_toolbar_model",
+      "value": "接入模式"
+    },
+    {
+      "name": "navigation_toolbar_base",
+      "value": "基础使用"
+    },
+    {
+      "name": "navigation_toolbar_function",
+      "value": "功能示例"
+    },
+    {
+      "name": "navigation_toolbar_utd",
+      "value": "典型场景"
+    },
+    {
+      "name": "navigation_toolbar_knock",
+      "value": "一碰分享"
+    },
+    {
+      "name": "navigation_toolbar_gesture",
+      "value": "隔空传送"
+    },
+    {
+      "name": "share_btn",
+      "value": "分享"
+    },
+    {
+      "name": "text_sharing",
+      "value": "文本/链接分享"
+    },
+    {
+      "name": "text_sharing_description",
+      "value": "提供文本、链接等跨应用分享示例"
+    },
+    {
+      "name": "image_sharing",
+      "value": "图片分享"
+    },
+    {
+      "name": "image_sharing_description",
+      "value": "提供图片跨应用分享示例"
+    },
+    {
+      "name": "video_sharing",
+      "value": "视频分享"
+    },
+    {
+      "name": "video_sharing_description",
+      "value": "提供视频跨应用分享示例"
+    },
+    {
+      "name": "share_selection_mode",
+      "value": "实现了单选模式和批量模式切换"
+    },
+    {
+      "name": "share_preview_mode",
+      "value": "实现了模式默认(预览图卡片)和预览图模式切换"
+    },
+    {
+      "name": "share_excluded_abilities_print",
+      "value": "实现了从操作区排除“打印”操作"
+    },
+    {
+      "name": "share_close_listening",
+      "value": "实现了关闭分享面板事件监听能力"
+    },
+    {
+      "name": "function_title",
+      "value": "功能描述"
+    },
+    {
+      "name": "dismiss_description_1",
+      "value": "开发者可通过on方法注册dismiss事件监听分享面板关闭."
+    },
+    {
+      "name": "dismiss_description_2",
+      "value": "当分享面板关闭时,触发此事件."
+    },
+    {
+      "name": "dismiss_description_3",
+      "value": "开发者可通过调用off方法取消已注册的事件监听."
+    },
+    {
+      "name": "shareCompleted_description_1",
+      "value": "开发者可通过on方法注册shareCompleted事件监听用户分享操作."
+    },
+    {
+      "name": "shareCompleted_description_2",
+      "value": "当用户触发分享时,监听事件将返回用户分享的目标应用或操作."
+    },
+    {
+      "name": "shareCompleted_description_3",
+      "value": "开发者可基于此回调获得用户分享成功的事件及目标应用,用于数据统计等."
+    },
+    {
+      "name": "shareCompleted_description_4",
+      "value": "开发者可通过调用off方法取消已注册的事件监听."
+    },
+    {
+      "name": "single_mode",
+      "value": "单选模式"
+    },
+    {
+      "name": "batch_mode",
+      "value": "批量模式"
+    },
+    {
+      "name": "default_mode",
+      "value": "默认模式"
+    },
+    {
+      "name": "detail_mode",
+      "value": "预览图模式"
+    },
+    {
+      "name": "tab_text_1",
+      "value": "数据一"
+    },
+    {
+      "name": "tab_text_2",
+      "value": "数据二"
+    },
+    {
+      "name": "tab_text_3",
+      "value": "更多数据"
+    },
+    {
+      "name": "level_2",
+      "value": "二级面板"
+    },
+    {
+      "name": "target_app",
+      "value": "目标应用"
+    },
+    {
+      "name": "action_back",
+      "value": "返回"
+    },
+    {
+      "name": "action_start_ability",
+      "value": "打开主应用"
+    },
+    {
+      "name": "share_content",
+      "value": "接收到的分享内容"
+    },
+    {
+      "name": "compressed_package_type",
+      "value": "压缩包类型"
+    },
+    {
+      "name": "link_type",
+      "value": "链接类型"
+    },
+    {
+      "name": "poster_type",
+      "value": "链接 + 海报场景"
+    },
+    {
+      "name": "text_type",
+      "value": "纯文本类型"
+    },
+    {
+      "name": "video_type",
+      "value": "视频类型"
+    },
+    {
+      "name": "image_type",
+      "value": "图片类型"
+    },
+    {
+      "name": "select",
+      "value": "选择"
+    },
+    {
+      "name": "selected",
+      "value": "已选择"
+    },
+    {
+      "name": "add_data",
+      "value": "添加Record"
+    },
+    {
+      "name": "clearing_data",
+      "value": "清空Record"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    },
+    {
+      "name": "confirm",
+      "value": "确认"
+    },
+    {
+      "name": "share_to",
+      "value": "分享至"
+    },
+    {
+      "name": "app",
+      "value": "应用"
+    },
+    {
+      "name": "access_model_title",
+      "value": "宿主应用的2种接入模式"
+    },
+    {
+      "name": "full_title",
+      "value": "1.全接模式"
+    },
+    {
+      "name": "full_model",
+      "value": "直接调用系统分享面板"
+    },
+    {
+      "name": "full_description",
+      "value": "适用于华为自研应用以及对分享区无商业诉求的三方伙伴，直接使用系统面板，降低开发成本"
+    },
+    {
+      "name": "half_title",
+      "value": "2.半接模式"
+    },
+    {
+      "name": "half_model",
+      "value": "伙伴自开发分享能力+增加系统分享入口"
+    },
+    {
+      "name": "half_description",
+      "value": "适用于分享区有商业诉求，或有自己独有的业务逻辑的三方伙伴"
+    },
+    {
+      "name": "knock_title",
+      "value": "碰一碰分享"
+    },
+    {
+      "name": "immersive_title",
+      "value": "我看到了中国唯一没有的地貌，峡湾地貌"
+    },
+    {
+      "name": "immersive_description",
+      "value": "HarmonyShare · 220.8万播放"
+    },
+    {
+      "name": "white_title",
+      "value": "海岸风光·天气晴朗"
+    },
+    {
+      "name": "white_description",
+      "value": "HarmonyShare · 220.8万播放"
+    },
+    {
+      "name": "knock_close_other",
+      "value": "请先关闭其他碰一碰监听事件"
+    },
+    {
+      "name": "knock_purity_title",
+      "value": "纯图片布局"
+    },
+    {
+      "name": "knock_immersive_title",
+      "value": "沉浸式大卡布局"
+    },
+    {
+      "name": "knock_white_title",
+      "value": "白卡上下布局"
+    },
+    {
+      "name": "knock_share_title",
+      "value": "发起分享"
+    },
+    {
+      "name": "reject_title",
+      "value": "拒绝本次分享"
+    },
+    {
+      "name": "send_only_title",
+      "value": "单向组队"
+    },
+    {
+      "name": "send_only_description",
+      "value": "单向组队（sendOnly）属性通常用于游戏类、社交类应用，例如：当双方都处于游戏组队房间时，通过一碰邀请对方加入存在冲突，此时可通过设置单向组队的属性，提醒用户需要有一方退出后再试。"
+    },
+    {
+      "name": "delay_title",
+      "value": "延迟更新预览图"
+    },
+    {
+      "name": "delay_description",
+      "value": "当接收到碰一碰回调时，如果预览图需要从云端下载，可先调用share接口发起分线，待预览图下载完成后，再使用updateShareData更新预览图。"
+    },
+    {
+      "name": "sandbox_title",
+      "value": "直达应用沙箱"
+    },
+    {
+      "name": "sandbox_description",
+      "value": "通过手机设备轻碰PC/2in1设备的窗口，可实现文件直达应用沙箱。"
+    },
+    {
+      "name": "sandbox_account",
+      "value": "手机与PC/2in1设备之间碰一碰，仅支持双端登录相同的华为账号。"
+    },
+    {
+      "name": "sandbox_note",
+      "value": "本示例仅支持接收1张图片，通过capabilities字段配置。"
+    },
+    {
+      "name": "sandbox_result",
+      "value": "接收结果"
+    },
+    {
+      "name": "knock_register_title",
+      "value": "碰一碰注册"
+    },
+    {
+      "name": "knock_register_description",
+      "value": "碰一碰注册"
+    },
+    {
+      "name": "knock_reject_title",
+      "value": "碰一碰拒绝本次分享"
+    },
+    {
+      "name": "knock_reject_description",
+      "value": "碰一碰拒绝本次分享"
+    },
+    {
+      "name": "pcKnock_register_title",
+      "value": "pc多窗口注册"
+    },
+    {
+      "name": "pcKnock_register_description",
+      "value": "pc多窗口注册"
+    },
+    {
+      "name": "pcKnock_reject_title",
+      "value": "pc多窗口拒绝本次分享"
+    },
+    {
+      "name": "pcKnock_reject_description",
+      "value": "pc多窗口拒绝本次分享"
+    },
+    {
+      "name": "knock_listening",
+      "value": "碰一碰事件监听中"
+    },
+    {
+      "name": "knock_click",
+      "value": "点击开启碰一碰事件监听"
+    },
+    {
+      "name": "knock_no_title",
+      "value": "当仅传预览图参数时，使用纯图片布局。"
+    },
+    {
+      "name": "knock_image_upper_limit",
+      "value": "当预览图宽高比小于1:1时，使用沉浸式大卡布局。"
+    },
+    {
+      "name": "knock_image_lower_limit",
+      "value": "当预览图宽高比大于1:1时，使用白卡上下布局。"
+    },
+    {
+      "name": "share_timer",
+      "value": "当接收到碰一碰回调时，在3秒内准备好分享数据，并使用share方法触发发送。"
+    },
+    {
+      "name": "reject_timer",
+      "value": "当接收到碰一碰回调时，如果在3秒内无法准备好分享数据，请使用reject拒绝本次分享，并提供原因给用户。"
+    },
+    {
+      "name": "precautions",
+      "value": "注意事项："
+    },
+    {
+      "name": "knock_precautions_1",
+      "value": "1.当进入待分享页面时，使用harmonyShare.on()方法注册碰一碰监听事件。"
+    },
+    {
+      "name": "knock_precautions_2",
+      "value": "2.当离开待分享页面时，使用harmonyShare.off()方法取消碰一碰监听事件。"
+    },
+    {
+      "name": "knock_precautions_3",
+      "value": "3.当应用退至后台时，使用harmonyShare.off()方法取消碰一碰监听事件。"
+    },
+    {
+      "name": "gesture_title",
+      "value": "隔空传送"
+    },
+    {
+      "name": "gesture_listening",
+      "value": "隔空传送事件监听中"
+    },
+    {
+      "name": "gesture_click",
+      "value": "点击开启隔空传送事件监听"
+    },
+    {
+      "name": "gesture_precautions_1",
+      "value": "1.请开启“隔空传送”开关体验。开启路径：设置->系统->快捷启动和手势->隔空传送。"
+    },
+    {
+      "name": "gesture_file_title",
+      "value": "隔空传送文件"
+    },
+    {
+      "name": "gesture_close_other",
+      "value": "请先关闭其他隔空传送监听事件"
+    },
+    {
+      "name": "only_pc_supported",
+      "value": "请使用PC/2in1设备体验"
+    },
+    {
+      "name": "success_supported",
+      "value": "沙箱接收成功"
+    },
+    {
+      "name": "tap_to_share_tips",
+      "value": "提示：当用户进入支持碰一碰分享的界面或场景时，给出适当的引导和提示，可有效提升用户分享意愿。"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "application_exception_crash_event",
+      "value": "构建应用崩溃事件"
+    },
+    {
+      "name": "application_exception_freeze_event",
+      "value": "构建应用卡死事件"
+    },
+    {
+      "name": "application_exception_application_fault_title",
+      "value": "应用异常信息获取"
+    },
+    {
+      "name": "application_exception_application_fault_description",
+      "value": "点击构建异常事件，3s之后触发系统异常事件，需要重新启动应用并进入本页面，由于规格原因需等待1min左右才能获取异常数据"
+    },
+    {
+      "name": "application_exception_crash_event_message",
+      "value": "3s之后触发系统崩溃事件，需要重新启动应用并进入本页面获取上次异常退出原因"
+    },
+    {
+      "name": "application_exception_freeze_event_message",
+      "value": "3s之后触发系统卡死事件，需要重新启动应用并进入本页面获取上次异常退出原因"
+    },
+    {
+      "name": "application_exception_no_message",
+      "value": "暂无信息"
+    },
+    {
+      "name": "application_exception_data_delay_toast",
+      "value": "由于规格原因，当前异常事件接收有延迟，数据大约在1min左右会进行更新"
+    },
+    {
+      "name": "ohos_id_text_size_headline",
+      "value": "20"
+    },
+    {
+      "name": "ohos_id_text_font_family_medium",
+      "value": "medium"
+    },
+    {
+      "name": "ohos_id_text_size_body1",
+      "value": "14"
+    },
+    {
+      "name": "ohos_id_text_size_body2",
+      "value": "14"
+    },
+    {
+      "name": "ohos_id_text_size_body3",
+      "value": "12"
+    },
+    {
+      "name": "ohos_id_text_size_caption",
+      "value": "10"
+    },
+    {
+      "name": "ohos_id_corner_radius_default_l",
+      "value": "16"
+    },
+    {
+      "name": "ohos_id_corner_radius_default_m",
+      "value": "12"
+    },
+    {
+      "name": "ohos_id_corner_radius_subtab",
+      "value": "4"
+    },
+    {
+      "name": "ohos_id_card_margin_start",
+      "value": "12"
+    },
+    {
+      "name": "ohos_id_card_padding_start",
+      "value": "12"
+    },
+    {
+      "name": "ohos_id_button_margin_top",
+      "value": "12"
+    },
+    {
+      "name": "ohos_id_button_margin_bottom",
+      "value": "4"
+    },
+    {
+      "name": "ohos_id_elements_margin_vertical_m",
+      "value": "6"
+    },
+    {
+      "name": "ohos_id_elements_margin_vertical_l",
+      "value": "16"
+    },
+    {
+      "name": "ohos_id_elements_list_high",
+      "value": "300"
+    },
+    {
+      "name": "ohos_global_state_dialog_sixty_percent",
+      "value": "60%"
+    },
+    {
+      "name": "ohos_global_state_dialog_hundred_percent",
+      "value": "100%"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "异常处理"
+    }
+  ]
+}

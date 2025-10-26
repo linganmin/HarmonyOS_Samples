@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "ShareDirectBuilder",
+      "pageSourceFile": "src/main/ets/pages/ShareDitect.ets",
+      "buildFunction": "ShareDirectBuilder",
+      "data": {
+        "description" : "this is share direct page."
+      }
+    },
+    {
+      "name": "PasteBoardBuilder",
+      "pageSourceFile": "src/main/ets/pages/PasteBoard.ets",
+      "buildFunction": "PasteBoardBuilder",
+      "data": {
+        "description" : "this is paste board page."
+      }
+    },
+    {
+      "name": "ProgressBarBuilder",
+      "pageSourceFile": "src/main/ets/pages/ProgressBar.ets",
+      "buildFunction": "ProgressBarBuilder",
+      "data": {
+        "description" : "this is progress bar page"
+      }
+    },
+    {
+      "name": "PageABuilder",
+      "pageSourceFile": "src/main/ets/pages/PageA.ets",
+      "buildFunction": "PageABuilder",
+      "data": {
+        "description" : "this is PageA"
+      }
+    },
+    {
+      "name": "PageBBuilder",
+      "pageSourceFile": "src/main/ets/pages/PageB.ets",
+      "buildFunction": "PageBBuilder",
+      "data": {
+        "description" : "this is PageB"
+      }
+    }
+  ]
+}

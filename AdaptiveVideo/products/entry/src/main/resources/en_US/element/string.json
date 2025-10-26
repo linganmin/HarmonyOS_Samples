@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Short Video Scenarios"
+    },
+    {
+      "name": "index_btn_adaptive_immersion_rotation",
+      "value": "Short Video Playback Based on Adaptive Immersion and Rotation Rule Library"
+    },
+    {
+      "name": "index_btn_high_level_media_components",
+      "value": "Short Video Playback Based on High-Level Media Components"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+// [Start deep_link_json]
+{
+  "module": {
+    // [StartExclude deep_link_json]
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    // [EndExclude deep_link_json]
+    "abilities": [
+      {
+        // [StartExclude deep_link_json]
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        // [EndExclude deep_link_json]
+        "skills": [
+          // [StartExclude deep_link_json]
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          },
+          // [EndExclude deep_link_json]
+          {
+            "entities": [
+              "entity.system.browsable"
+            ],
+            "actions": [
+              "ohos.want.action.viewData"
+            ],
+            "uris": [
+              {
+                "scheme": "appScheme",
+                "host": "www.test.com",
+                "port": "80",
+                "path": "path1"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    // [StartExclude deep_link_json]
+    "extensionAbilities": [
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      }
+    ],
+    // [EndExclude deep_link_json]
+  }
+}
+// [End deep_link_json]

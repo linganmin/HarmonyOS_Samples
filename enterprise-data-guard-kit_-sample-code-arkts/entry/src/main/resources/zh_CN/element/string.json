@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Demo_title",
+      "value": "文件分级管控Sample"
+    },
+    {
+      "name": "scanCommonDir",
+      "value": "1：扫描公共目录"
+    },
+    {
+      "name": "scanAllFiles",
+      "value": "1.1：扫描全盘目录"
+    },
+    {
+      "name": "openFile",
+      "value": "2：打开文件"
+    },
+    {
+      "name": "deleteFile",
+      "value": "2.1：删除文件"
+    },
+    {
+      "name": "setFileTags",
+      "value": "3：设置文件标签"
+    },
+    {
+      "name": "queryFileTags",
+      "value": "3.1：查询文件标签"
+    },
+    {
+      "name": "setKIAFileList",
+      "value": "4：下发kia清单"
+    },
+    {
+      "name": "setAddKIAFileList",
+      "value": "4.1：增量下发kia清单"
+    },
+    {
+      "name": "setDeleteKIAFileList",
+      "value": "4.2：删除部分kia清单"
+    },
+    {
+      "name": "queryFileUri",
+      "value": "6：查询文件URI"
+    },
+    {
+      "name": "updateIncrementalPolicy",
+      "value": "5.1：增量更新策略"
+    },
+    {
+      "name": "updatePolicy",
+      "value": "5：下发策略"
+    },
+    {
+      "name": "subscriptionKIAEvent",
+      "value": "7.1：订阅KIA事件"
+    },
+    {
+      "name": "UnsubscriptionKIAEvent",
+      "value": "7.2：取消订阅KIA事件"
+    },
+    {
+      "name": "setKiaWatermarkImage",
+      "value": "8：设置KIA文件水印图片"
+    }
+  ]
+}

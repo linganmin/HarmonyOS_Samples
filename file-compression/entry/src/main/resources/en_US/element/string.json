@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "FileCompression"
+    },
+    {
+      "name": "text_document",
+      "value": "Documents"
+    },
+    {
+      "name": "text_preview",
+      "value": "Preview"
+    },
+    {
+      "name": "compressed_file_type",
+      "value": "Compressed file format"
+    },
+    {
+      "name": "text_confirm",
+      "value": "OK"
+    },
+    {
+      "name": "import_resource_path",
+      "value": "Import from rawfile"
+    },
+    {
+      "name": "gzip_compress",
+      "value": "gzip"
+    },
+    {
+      "name": "zip_compress",
+      "value": "zip"
+    },
+    {
+      "name": "7z_compress",
+      "value": "7z"
+    },
+    {
+      "name": "tar_compress",
+      "value": "tar"
+    },
+    {
+      "name": "compression_status_prompt1",
+      "value": "The compressed file already exists."
+    },
+    {
+      "name": "compression_status_prompt2",
+      "value": "Compression Failure."
+    },
+    {
+      "name": "compression_status_prompt3",
+      "value": "The file with the same name has been overwritten."
+    },
+    {
+      "name": "compression_status_prompt4",
+      "value": "Unzip, Please Wait."
+    },
+    {
+      "name": "text_compress",
+      "value": "Compress"
+    },
+    {
+      "name": "text_uncompress",
+      "value": "Decompress"
+    }
+  ]
+}

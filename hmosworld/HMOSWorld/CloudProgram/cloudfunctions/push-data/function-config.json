@@ -1,0 +1,23 @@
+{
+  "handler": "pushData.myHandler",
+  "triggers": [
+    {
+      "type": "http",
+      "properties": {
+        "enableUrlDecode": true,
+        "authFlag": "true",
+        "authAlgor": "HDA-SYSTEM",
+        "authType": "apigw-client"
+      }
+    },
+    {
+      "type": "cron",
+      "properties": {
+        "triggerMode": "Sync",
+        "schedule": "@every 360m",
+        "triggerSwitch": false,
+        "triggerName": "push-data"
+      }
+    }
+  ]
+}

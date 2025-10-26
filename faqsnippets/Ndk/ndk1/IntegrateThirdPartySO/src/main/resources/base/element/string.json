@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "IntegrateThirdPartySOAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "IntegrateThirdPartySOAbility_label",
+      "value": "label"
+    }
+  ]
+}

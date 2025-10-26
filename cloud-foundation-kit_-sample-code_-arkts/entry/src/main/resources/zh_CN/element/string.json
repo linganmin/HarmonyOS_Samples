@@ -1,0 +1,344 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "entryability_desc",
+      "value": "description"
+    },
+    {
+      "name": "entryability_label",
+      "value": "sample"
+    },
+    {
+      "name": "cloud_db_label",
+      "value": "云数据库"
+    },
+    {
+      "name": "tips_label",
+      "value": "Tips:"
+    },
+    {
+      "name": "data_label",
+      "value": "Data:"
+    },
+    {
+      "name": "publishButton_label",
+      "value": "上传"
+    },
+    {
+      "name": "popUpDesc_label",
+      "value": "确定删除?"
+    },
+    {
+      "name": "deleteButton_label",
+      "value": "删除"
+    },
+    {
+      "name": "cloud_storage_label",
+      "value": "云存储"
+    },
+    {
+      "name": "cancelButton_label",
+      "value": "取消"
+    },
+    {
+      "name": "confirmButton_label",
+      "value": "确认"
+    },
+    {
+      "name": "no_photo",
+      "value": "You don't have any images on your phone."
+    },
+    {
+      "name": "cloudStorage_description_title",
+      "value": "Tips:"
+    },
+    {
+      "name": "cloudStorage_uploadButton",
+      "value": "上传图片"
+    },
+    {
+      "name": "list_left_title",
+      "value": "My Posts"
+    },
+    {
+      "name": "list_right_title",
+      "value": "Release Time"
+    },
+    {
+      "name": "main_page_title",
+      "value": "Cloud Development"
+    },
+    {
+      "name": "auth_service_title",
+      "value": "Auth Service"
+    },
+    {
+      "name": "auth_result_name",
+      "value": "nickname"
+    },
+    {
+      "name": "auth_service_description",
+      "value": "Secure and reliable user authentication system."
+    },
+    {
+      "name": "auth_service_login_button_text",
+      "value": "Login"
+    },
+    {
+      "name": "auth_service_logout_button_text",
+      "value": "Log out"
+    },
+    {
+      "name": "auth_service_delete_user_button_text",
+      "value": "Delete User"
+    },
+    {
+      "name": "auth_dialog_title",
+      "value": "Mobile verification code login"
+    },
+    {
+      "name": "auth_dialog_number_placeholder",
+      "value": "phone number"
+    },
+    {
+      "name": "auth_dialog_code_placeholder",
+      "value": "code"
+    },
+    {
+      "name": "auth_dialog_get_code_button_text",
+      "value": "Get code"
+    },
+    {
+      "name": "auth_dialog_auth_button_text",
+      "value": "Authorize"
+    },
+    {
+      "name": "auth_result_user_id",
+      "value": "user id"
+    },
+    {
+      "name": "auth_result_mobile_number",
+      "value": "mobile number"
+    },
+    {
+      "name": "auth_result_avatar",
+      "value": "avatar"
+    },
+    {
+      "name": "auth_result_registered",
+      "value": "registered"
+    },
+    {
+      "name": "auth_result_last_login",
+      "value": "last login"
+    },
+    {
+      "name": "cloud_function_title",
+      "value": "云函数"
+    },
+    {
+      "name": "cloud_database_title",
+      "value": "云数据库"
+    },
+    {
+      "name": "cloud_storage_title",
+      "value": "云存储"
+    },
+    {
+      "name": "cloud_periodic_prefetch_title",
+      "value": "周期性预加载"
+    },
+    {
+      "name": "cloud_function_description_main",
+      "value": "Easy to run code without managing servers."
+    },
+    {
+      "name": "cloud_function_description",
+      "value": "点击创建一个key用于云数据库的排序，以price查询为例。"
+    },
+    {
+      "name": "cloud_function_button_text",
+      "value": "创建一个key"
+    },
+    {
+      "name": "cloud_function_button_text1",
+      "value": "创建一个key 'price', 用Promise方式返回"
+    },
+    {
+      "name": "cloud_function_button_text2",
+      "value": "创建一个key 'id', 用Callback方式返回"
+    },
+    {
+      "name": "cloud_db_description_main",
+      "value": "Secure and trusted data management services."
+    },
+    {
+      "name": "login_warning_title",
+      "value": "Auth Error"
+    },
+    {
+      "name": "login_warning_message",
+      "value": "You must login to use this service"
+    },
+    {
+      "name": "cloudDB_Publications",
+      "value": "根据云函数返回的key升序查询，如果key不存在，按照id升序查询。"
+    },
+    {
+      "name": "cloudDB_HighestHit",
+      "value": "按照price降序查询"
+    },
+    {
+      "name": "cloudDB_SeeOnly",
+      "value": "My Posts"
+    },
+    {
+      "name": "cloudDB_new_record",
+      "value": "新增数据"
+    },
+    {
+      "name": "dialog_success_title",
+      "value": "成功"
+    },
+    {
+      "name": "dialog_success_message",
+      "value": "成功添加"
+    },
+    {
+      "name": "global_var_description",
+      "value": "Insert as global record"
+    },
+    {
+      "name": "cloudStorage_description",
+      "value": "上传一张图片，上传完毕展示图片地址，图片地址将展示在云数据库列表中。"
+    },
+    {
+      "name": "cloudStorage_accessAddressLabel",
+      "value": "Access URL: "
+    },
+    {
+      "name": "cloudStorage_publicAccessAddressLabel",
+      "value": "Public URL: "
+    },
+    {
+      "name": "image_upload_label",
+      "value": "image uploading:"
+    },
+    {
+      "name": "cloudStorage_link1",
+      "value": "copy"
+    },
+    {
+      "name": "cloudStorage_link2",
+      "value": "copy"
+    },
+    {
+      "name": "db_option_edit",
+      "value": "Edit"
+    },
+    {
+      "name": "cloud_storage_description_main",
+      "value": "Efficient cloud storage. High speed, low cost file upload and download services."
+    },
+    {
+      "name": "cloudStorage_progressLabel",
+      "value": "Image uploading "
+    },
+    {
+      "name": "media_permission_reason",
+      "value": "App needs media permission to display Cloud Storage Features."
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "App needs internet permission to display Cloud Foundation Features."
+    },
+    {
+      "name": "cloudStorage_link_copy",
+      "value": "Copy"
+    },
+    {
+      "name": "common_prompt",
+      "value": "Warn"
+    },
+    {
+      "name": "common_login_fail",
+      "value": "Fail to login"
+    },
+    {
+      "name": "common_check_size",
+      "value": "The image size cannot exceed 2 MB."
+    },
+    {
+      "name": "cloudStorage_btn1",
+      "value": "上传文件"
+    },
+    {
+      "name": "cloudStorage_btn2",
+      "value": "下载文件"
+    },
+    {
+      "name": "cloudStorage_btn3",
+      "value": "删除文件"
+    },
+    {
+      "name": "cloudStorage_btn4",
+      "value": "获取文件的URL"
+    },
+    {
+      "name": "cloudStorage_btn5",
+      "value": "获取文件列表"
+    },
+    {
+      "name": "cloudStorage_btn6",
+      "value": "获取元数据"
+    },
+    {
+      "name": "cloudStorage_btn7",
+      "value": "设置元数据"
+    },
+    {
+      "name": "cloud_periodic_prefetch_description",
+      "value": "周期性预加载需要先注册任务，每隔12小时拉取最新数据。"
+    },
+    {
+      "name": "cloud_prefetch_registerTask_text",
+      "value": "1.注册周期性预加载任务"
+    },
+    {
+      "name": "cloud_prefetch_periodic_text",
+      "value": "2.周期性获取预加载数据"
+    },
+    {
+      "name": "cloud_res_prefetch_periodic_label",
+      "value": "周期性预加载"
+    },
+    {
+      "name": "cloud_res_prefetch_install_label",
+      "value": "安装预加载"
+    },
+    {
+      "name": "cloud_install_prefetch_description",
+      "value": "提示: 安装预加载，仅安装后首次打开应用有效"
+    },
+    {
+      "name": "cloud_prefetch_desc",
+      "value": "从本地缓存中获取预加载数据，耗时"
+    },
+    {
+      "name": "cloud_prefetch_desc_err",
+      "value": "获取预加载数据失败"
+    },
+    {
+      "name": "cloud_prefetch_register",
+      "value": "注册成功"
+    },
+    {
+      "name": "cloud_prefetch_no_data",
+      "value": "暂无数据，请在12小时后重试"
+    }
+  ]
+}

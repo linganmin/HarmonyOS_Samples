@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "string_in_har2",
+      "value": "String in har2"
+    }
+  ]
+}

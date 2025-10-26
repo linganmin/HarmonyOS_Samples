@@ -1,0 +1,98 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "MainAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "MainAbility",
+        "srcEntry": "./ets/abilities/MainAbility.ets",
+        "description": "$string:MainAbility_desc",
+        "icon": "$media:app_icon",
+        "label": "$string:app_name",
+        "startWindowIcon": "$media:app_icon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "orientation":"auto_rotation_restricted",  // 需要配置为相应的旋转策略
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ],
+        "backgroundModes": [
+          // 长时任务类型的配置项
+          "location"
+        ]
+      }
+    ],
+    "extensionAbilities": [
+    ],
+    "requestPermissions": [
+      {
+        "name" : "ohos.permission.GET_INSTALLED_BUNDLE_LIST",
+        "reason": "$string:request_permission",
+        "usedScene": {
+          "abilities": [
+            "MainAbility"
+          ],
+          "when":"inuse"
+        }
+      },
+      {
+        "name": "ohos.permission.NOTIFICATION_CONTROLLER"
+      },
+      {
+        "name": "ohos.permission.NOTIFICATION_AGENT_CONTROLLER"
+      },
+      {
+        "name": "ohos.permission.SET_UNREMOVABLE_NOTIFICATION"
+      },
+      {
+        "name": "ohos.permission.GET_BUNDLE_RESOURCES"
+      },
+      {
+        "name": "ohos.permission.GET_BUNDLE_INFO_PRIVILEGED"
+      },
+      {
+        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING"
+      },
+      {
+        "name": "ohos.permission.START_SYSTEM_DIALOG"
+      },
+      {
+        "name": "ohos.permission.START_ABILITIES_FROM_BACKGROUND"
+      },
+      {
+        "name": "ohos.permission.USE_FLOAT_BALL"
+      },
+      {
+        "name": "ohos.permission.SUBSCRIBE_NOTIFICATION_WINDOW_STATE"
+      }
+//      {
+//        "name": "ohos.permission.ACCESS_CAST_ENGINE_MIRROR"
+//      },
+//      {
+//        "name": "ohos.permission.GET_WIFI_INFO",
+//      },
+//      {
+//        "name": "ohos.permission.START_INVISIBLE_ABILITY",
+//      },
+//      {
+//        "name": "ohos.permission.GET_WALLPAPER"
+//      }
+    ]
+  }
+}

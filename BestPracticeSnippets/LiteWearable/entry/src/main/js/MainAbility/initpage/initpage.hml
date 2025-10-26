@@ -1,0 +1,8 @@
+<!-- [Start init_page] -- >
+<!-- Output the content of the text component. -->
+<div class="container">
+    <text class="title">
+        Hello {{ title }}
+    </text>
+</div>
+<!-- [End init_page] -->

@@ -1,0 +1,28 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "page_flip_background_color",
+      "value": "#FFEBC3"
+    },
+    {
+      "name": "bottom_selected_color",
+      "value": "#E6000000"
+    },
+    {
+      "name": "bottom_unselected_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "bottom_row_bgc",
+      "value": "#25231F"
+    },
+    {
+      "name": "text_font_color",
+      "value": "#4B3428"
+    }
+  ]
+}

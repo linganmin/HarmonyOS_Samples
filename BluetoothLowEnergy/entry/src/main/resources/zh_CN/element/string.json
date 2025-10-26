@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "低功耗蓝牙"
+    },
+    {
+      "name": "list_of_bluetooth_devices",
+      "value": "蓝牙设备列表"
+    },
+    {
+      "name": "no_equipment",
+      "value": "暂无设备"
+    },
+    {
+      "name": "search_device",
+      "value": "搜索设备"
+    },
+    {
+      "name": "connect",
+      "value": "连接"
+    },
+    {
+      "name": "connecting",
+      "value": "连接中"
+    },
+    {
+      "name": "disconnecting",
+      "value": "断连中"
+    },
+    {
+      "name": "connected",
+      "value": "已连接"
+    },
+    {
+      "name": "bluetooth_off_Stop_heart_rate_broadcast",
+      "value": "蓝牙关闭，停止心率广播"
+    },
+    {
+      "name": "ble_heart_rate_broadcast_is_disabled",
+      "value": "已关闭BLE心率广播"
+    },
+    {
+      "name": "the_ble_heart_rate_broadcast_has_been_enabled",
+      "value": "已开启BLE心率广播"
+    },
+    {
+      "name": "ble_server",
+      "value": "BLE服务端"
+    },
+    {
+      "name": "bluetooth_name",
+      "value": "蓝牙名称：%s"
+    },
+    {
+      "name": "current_heart_rate",
+      "value": "当前心率："
+    },
+    {
+      "name": "turn_off_ble_heart_rate_broadcast",
+      "value": "关闭BLE心率广播"
+    },
+    {
+      "name": "enable_ble_heart_rate_broadcast",
+      "value": "开启BLE心率广播"
+    },
+    {
+      "name": "real_time_heart_rate_graph",
+      "value": "实时心率图"
+    },
+    {
+      "name": "disconnected",
+      "value": "已断开连接"
+    },
+    {
+      "name": "times_per_minute",
+      "value": "次/每分钟"
+    },
+    {
+      "name": "maximum_heart_rate",
+      "value": "最高心率"
+    },
+    {
+      "name": "minimum_heart_rate",
+      "value": "最低心率"
+    },
+    {
+      "name": "mean_heart_rate",
+      "value": "平均心率"
+    },
+    {
+      "name": "bluetooth_low_energy",
+      "value": "低功耗蓝牙"
+    },
+    {
+      "name": "ble_client",
+      "value": "BLE客户端"
+    },
+    {
+      "name": "bluetooth_enabled_please_wait",
+      "value": "正在开启蓝牙，请稍后重试..."
+    },
+    {
+      "name": "bLE_scanning_has_been_stopped",
+      "value": "已停止BLE扫描"
+    },
+    {
+      "name": "change_bluetooth_name",
+      "value": "当前设备蓝牙名称过长，请前往设置中修改蓝牙名称"
+    },
+    {
+      "name": "connection_failed_please_rescan",
+      "value": "连接失败，请重新扫描"
+    },
+    {
+      "name": "current_heart",
+      "value": "当前心率"
+    },
+    {
+      "name": "reason",
+      "value": "允许应用接入蓝牙并使用蓝牙能力"
+    }
+  ]
+}

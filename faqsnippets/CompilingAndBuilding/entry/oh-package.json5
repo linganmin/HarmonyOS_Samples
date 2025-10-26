@@ -1,0 +1,16 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  // FAQ:如何解决三方包require语句报错
+  // [Start mainPath]
+  "main": "./src/index.js",
+  // [Start mainPath]
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "React": "file:../react",
+    "library": "file:../library"
+  }
+}
+

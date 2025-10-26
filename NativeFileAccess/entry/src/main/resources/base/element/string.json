@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NativeFileAccess"
+    },
+    {
+      "name": "file_content_sandbox",
+      "value": "The NATIVE side has accessed the file through the incoming sandbox path."
+    },
+    {
+      "name": "file_content_splice",
+      "value": "The NATIVE side has accessed the file through splicing path."
+    },
+    {
+      "name": "file_content_resource",
+      "value": "The NATIVE side has accessed the file through the incoming resource manager."
+    },
+    {
+      "name": "file_content_picker",
+      "value": "The NATIVE side has accessed the file through the incoming fd by picker."
+    },
+    {
+      "name": "button_sandbox",
+      "value": "Access File by Passing Sandbox Path"
+    },
+    {
+      "name": "button_splice",
+      "value": "Access file by splicing path"
+    },
+    {
+      "name": "button_resMgr",
+      "value": "Access file by passing resource manager"
+    },
+    {
+      "name": "button_create",
+      "value": "Create directory by calling picker"
+    },
+    {
+      "name": "button_write",
+      "value": "Select file to write by calling picker"
+    },
+    {
+      "name": "button_read",
+      "value": "Select file to read by calling picker"
+    }
+  ]
+}

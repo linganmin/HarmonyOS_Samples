@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UtilizeHWCEfficiently"
+    },
+    {
+      "name": "index_title",
+      "value": "高效利用HWC低功耗设计"
+    },
+    {
+      "name": "video_with_blur",
+      "value": "Video组件叠加模糊控件"
+    },
+    {
+      "name": "normal_video",
+      "value": "Video组件上方控件无模糊"
+    },
+    {
+      "name": "web_with_blur",
+      "value": "Web组件叠加模糊控件"
+    },
+    {
+      "name": "normal_web",
+      "value": "Web组件上方控件无模糊"
+    },
+    {
+      "name": "transparent_video",
+      "value": "视频图层设置透明度"
+    },
+    {
+      "name": "opaque_video",
+      "value": "视频图层不透明"
+    },
+    {
+      "name": "title",
+      "value": "Title"
+    },
+    {
+      "name": "user_name",
+      "value": "@欢乐萌宠"
+    },
+    {
+      "name": "date",
+      "value": "· 08-13"
+    },
+    {
+      "name": "topic",
+      "value": "#宠物 #小狗 #萌坏了"
+    },
+    {
+      "name": "review",
+      "value": "评论"
+    }
+  ]
+}

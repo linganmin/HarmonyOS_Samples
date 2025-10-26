@@ -1,0 +1,212 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DynamicComponent"
+    },
+    {
+      "name": "percent_100",
+      "value": "100%"
+    },
+    {
+      "name": "spacing_s",
+      "value": "4"
+    },
+    {
+      "name": "spacing_m",
+      "value": "8"
+    },
+    {
+      "name": "spacing_l",
+      "value": "12"
+    },
+    {
+      "name": "spacing_xl",
+      "value": "14"
+    },
+    {
+      "name": "spacing_xxl",
+      "value": "16"
+    },
+    {
+      "name": "spacing_huge",
+      "value": "64"
+    },
+    {
+      "name": "divider_color",
+      "value": "rgba(0, 0, 0, 0.15)"
+    },
+    {
+      "name": "line_width_thin",
+      "value": "0.5"
+    },
+    {
+      "name": "border_radius_s",
+      "value": "4"
+    },
+    {
+      "name": "border_radius_m",
+      "value": "8"
+    },
+    {
+      "name": "NavDestination_title_font_size",
+      "value": "30"
+    },
+    {
+      "name": "NavDestination_title_line_height",
+      "value": "40"
+    },
+    {
+      "name": "ad_icon_font_size",
+      "value": "10"
+    },
+    {
+      "name": "ad_icon_line_height",
+      "value": "13"
+    },
+    {
+      "name": "close_icon_size",
+      "value": "30"
+    },
+    {
+      "name": "close_icon_color",
+      "value": "rgba(0, 0, 0, 0.2)"
+    },
+    {
+      "name": "close_icon_symbol",
+      "value": "×"
+    },
+    {
+      "name": "close_icon_font_size",
+      "value": "24"
+    },
+    {
+      "name": "dialog_title_font_size",
+      "value": "20"
+    },
+    {
+      "name": "dialog_title_line_height",
+      "value": "27"
+    },
+    {
+      "name": "dialog_description_font_size",
+      "value": "14"
+    },
+    {
+      "name": "dialog_description_font_color",
+      "value": "rgba(0, 0, 0, 0.6)"
+    },
+    {
+      "name": "dialog_description_line_height",
+      "value": "19"
+    },
+    {
+      "name": "dialog_button_height",
+      "value": "40"
+    },
+    {
+      "name": "dialog_button_width",
+      "value": "144"
+    },
+    {
+      "name": "dialog_divider_height",
+      "value": "24"
+    },
+    {
+      "name": "pic_height",
+      "value": "113"
+    },
+    {
+      "name": "video_height",
+      "value": "170"
+    },
+    {
+      "name": "video_play_icon_height",
+      "value": "40"
+    },
+    {
+      "name": "card_image_size",
+      "value": "48"
+    },
+    {
+      "name": "card_title_font_size",
+      "value": "16"
+    },
+    {
+      "name": "card_title_line_height",
+      "value": "22"
+    },
+    {
+      "name": "card_abstract_font_size",
+      "value": "14"
+    },
+    {
+      "name": "card_abstract_line_height",
+      "value": "20"
+    },
+    {
+      "name": "card_height",
+      "value": "72"
+    },
+    {
+      "name": "text_NavDestination_title",
+      "value": "组件动态创建Sample "
+    },
+    {
+      "name": "text_card_title",
+      "value": "组件动态创建sample标题 "
+    },
+    {
+      "name": "text_card_abstract",
+      "value": "组件动态创建sample文本 "
+    },
+    {
+      "name": "text_ad_icon",
+      "value": "广告"
+    },
+    {
+      "name": "text_dialog_title",
+      "value": "屏蔽广告"
+    },
+    {
+      "name": "text_dialog_description",
+      "value": "屏蔽后将减少此类广告推荐"
+    },
+    {
+      "name": "text_dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "text_dialog_shield",
+      "value": "屏蔽"
+    },
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "imperative_demo_toast_tips",
+      "value": "仅演示，请根据业务需要自行实现"
+    },
+    {
+      "name": "tab1",
+      "value": "组件动态创建开发实践"
+    },
+    {
+      "name": "tab2",
+      "value": "列表流广告组件实践案例"
+    },
+    {
+      "name": "tab3",
+      "value": "动态生成页面实践案例"
+    }
+  ]
+}

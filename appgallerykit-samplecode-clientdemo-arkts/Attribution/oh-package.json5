@@ -1,0 +1,12 @@
+{
+  "name": "attribution",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "@hw-agconnect/petal-aegis": "1.4.11-300"
+  }
+}
+

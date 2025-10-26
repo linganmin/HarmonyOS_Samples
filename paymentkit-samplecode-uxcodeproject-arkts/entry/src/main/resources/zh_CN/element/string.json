@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "uxcode"
+    },
+    {
+      "name":"kit_hwpay_desc",
+      "value":"华为支付"
+    },
+    {
+      "name":"kit_hwpay_checkout_confirm_pay",
+      "value":"确认支付"
+    },
+    {
+      "name":"kit_hwpay_change_other_pay_type",
+      "value":"使用其他银行卡"
+    }
+  ]
+}

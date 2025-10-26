@@ -1,0 +1,452 @@
+[2025-05-20T17:23:25.845] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-20T17:23:26.538] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: false,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-20T17:23:26.567] [DEBUG] debug-file - hvigorfile, resolving C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+[2025-05-20T17:23:28.814] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: appTasks], plugins: [] } }
+[2025-05-20T17:23:29.047] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2025-05-20T17:23:29.054] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2025-05-20T17:23:29.077] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2025-05-20T17:23:29.083] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2025-05-20T17:23:29.096] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2025-05-20T17:23:29.127] [DEBUG] debug-file - Sdk init in 57 ms 
+[2025-05-20T17:23:29.168] [DEBUG] debug-file - Project task initialization takes 38 ms 
+[2025-05-20T17:23:29.183] [DEBUG] debug-file - hvigorfile, resolving C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\entry\hvigorfile.ts
+[2025-05-20T17:23:29.209] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2025-05-20T17:23:29.220] [DEBUG] debug-file - Module entry task initialization takes 6 ms 
+[2025-05-20T17:23:29.232] [DEBUG] debug-file - hvigorfile, resolving C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_library\hvigorfile.ts
+[2025-05-20T17:23:29.296] [DEBUG] debug-file - Module har_library task initialization takes 2 ms 
+[2025-05-20T17:23:29.291] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_library, buildMode=debug
+[2025-05-20T17:23:29.307] [DEBUG] debug-file - hvigorfile, resolving C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_common\hvigorfile.ts
+[2025-05-20T17:23:29.320] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_common, buildMode=debug
+[2025-05-20T17:23:29.323] [DEBUG] debug-file - Module har_common task initialization takes 1 ms 
+[2025-05-20T17:23:29.368] [DEBUG] debug-file - Configuration task cost before running: 2 s 874 ms 
+[2025-05-20T17:23:29.327] [DEBUG] debug-file - project has submodules:entry,har_library,har_common
+[2025-05-20T17:23:29.376] [DEBUG] debug-file - entry : clean cost memory 0.5058517456054688
+[2025-05-20T17:23:29.372] [DEBUG] debug-file - Executing task :entry:clean
+[2025-05-20T17:23:29.381] [DEBUG] debug-file - Executing task :har_library:clean
+[2025-05-20T17:23:29.384] [DEBUG] debug-file - har_library : clean cost memory 0.2561187744140625
+[2025-05-20T17:23:29.387] [DEBUG] debug-file - Executing task :har_common:clean
+[2025-05-20T17:23:29.391] [DEBUG] debug-file - har_common : clean cost memory 0.49102783203125
+[2025-05-20T17:23:25.848] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-20T17:23:26.540] [DEBUG] debug-file - Since current hvigor version 5.16.2 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2025-05-20T17:23:29.447] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-20T17:23:29.411] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-20T17:23:28.815] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: appTasks]
+[2025-05-20T17:23:29.047] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2025-05-20T17:23:29.056] [DEBUG] debug-file - not found resModel json file in : C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\entry\src\ohosTest\module.json5
+[2025-05-20T17:23:29.168] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-20T17:23:29.192] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: hapTasks], plugins: [] } }
+[2025-05-20T17:23:29.210] [DEBUG] debug-file - Target 'default' config: {}
+[2025-05-20T17:23:29.220] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-20T17:23:29.238] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: harTasks], plugins: [] } }
+[2025-05-20T17:23:29.296] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-20T17:23:29.292] [DEBUG] debug-file - Target 'default' config: {}
+[2025-05-20T17:23:29.311] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: harTasks], plugins: [] } }
+[2025-05-20T17:23:29.320] [DEBUG] debug-file - Target 'default' config: {}
+[2025-05-20T17:23:29.323] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-20T17:23:29.327] [DEBUG] debug-file - module:har_library no need to execute packageHap
+[2025-05-20T17:23:29.376] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 882 ms 
+[2025-05-20T17:23:29.372] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-20T17:23:29.381] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-20T17:23:29.384] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 889 ms 
+[2025-05-20T17:23:29.387] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-20T17:23:29.391] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 896 ms 
+[2025-05-20T17:23:25.851] [DEBUG] debug-file - env: daemon=false
+[2025-05-20T17:23:26.541] [DEBUG] debug-file - Cache service initialization finished in 3 ms 
+[2025-05-20T17:23:29.449] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-20T17:23:29.416] [DEBUG] debug-file - Module 'entry' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2025-05-20T17:23:29.048] [DEBUG] debug-file - Product 'default' build option: {}
+[2025-05-20T17:23:29.064] [DEBUG] debug-file - not found resModel json file in : C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_library\src\ohosTest\module.json5
+[2025-05-20T17:23:29.168] [DEBUG] debug-file - hvigorfile, no custom plugins were found in C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+[2025-05-20T17:23:29.192] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: hapTasks]
+[2025-05-20T17:23:29.210] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2025-05-20T17:23:29.220] [DEBUG] debug-file - hvigorfile, no custom plugins were found in C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\entry\hvigorfile.ts
+[2025-05-20T17:23:29.238] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: harTasks]
+[2025-05-20T17:23:29.296] [DEBUG] debug-file - hvigorfile, no custom plugins were found in C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_library\hvigorfile.ts
+[2025-05-20T17:23:29.292] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2025-05-20T17:23:29.312] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: harTasks]
+[2025-05-20T17:23:29.320] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2025-05-20T17:23:29.323] [DEBUG] debug-file - hvigorfile, no custom plugins were found in C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_common\hvigorfile.ts
+[2025-05-20T17:23:29.327] [DEBUG] debug-file - module:har_common no need to execute packageHap
+[2025-05-20T17:23:29.378] [INFO] debug-file - Finished :entry:clean... after 5 ms 
+[2025-05-20T17:23:29.384] [INFO] debug-file - Finished :har_library:clean... after 3 ms 
+[2025-05-20T17:23:29.391] [INFO] debug-file - Finished :har_common:clean... after 5 ms 
+[2025-05-20T17:23:25.851] [DEBUG] debug-file - no-daemon, use the parent process.execArgv --max-old-space-size=8192,--expose-gc
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2025-05-20T17:23:29.422] [DEBUG] debug-file - Module 'har_library' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-20T17:23:29.048] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2025-05-20T17:23:29.066] [DEBUG] debug-file - not found resModel json file in : C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_common\src\ohosTest\module.json5
+[2025-05-20T17:23:29.168] [DEBUG] debug-file - hvigorfile, resolve finished C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+[2025-05-20T17:23:29.210] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2025-05-20T17:23:29.220] [DEBUG] debug-file - hvigorfile, resolve finished C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\entry\hvigorfile.ts
+[2025-05-20T17:23:29.296] [DEBUG] debug-file - hvigorfile, resolve finished C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_library\hvigorfile.ts
+[2025-05-20T17:23:29.292] [DEBUG] debug-file - Module 'har_library' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2025-05-20T17:23:29.320] [DEBUG] debug-file - Module 'har_common' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2025-05-20T17:23:29.323] [DEBUG] debug-file - hvigorfile, resolve finished C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_common\hvigorfile.ts
+[2025-05-20T17:23:29.329] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2025-05-20T17:23:29.391] [DEBUG] debug-file - Executing task ::clean
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Clear worker 0.
+[2025-05-20T17:23:29.427] [DEBUG] debug-file - Module 'har_common' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-20T17:23:29.069] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2025-05-20T17:23:29.210] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2025-05-20T17:23:29.292] [DEBUG] debug-file - Module 'har_library' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2025-05-20T17:23:29.320] [DEBUG] debug-file - Module 'har_common' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2025-05-20T17:23:29.335] [DEBUG] debug-file - load to the disk finished
+[2025-05-20T17:23:29.391] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Worker 0 has been cleared.
+[2025-05-20T17:23:29.443] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-20T17:23:29.210] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2025-05-20T17:23:29.292] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_library
+[2025-05-20T17:23:29.320] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_common
+[2025-05-20T17:23:29.336] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-20T17:23:29.392] [DEBUG] debug-file - HapAndHarDependHar : clean cost memory 0.03299713134765625
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-20T17:23:29.443] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-20T17:23:29.211] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-20T17:23:29.292] [DEBUG] debug-file - Module 'har_library' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-20T17:23:29.320] [DEBUG] debug-file - Module 'har_common' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-20T17:23:29.339] [DEBUG] debug-file - Module HapAndHarDependHar Collected Dependency: 
+[2025-05-20T17:23:29.392] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 897 ms 
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-20T17:23:29.339] [DEBUG] debug-file - Module HapAndHarDependHar's total dependency: 0
+[2025-05-20T17:23:29.392] [INFO] debug-file - Finished ::clean... after 1 ms 
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Clear worker 1.
+[2025-05-20T17:23:29.340] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-20T17:23:29.392] [DEBUG] debug-file - Executing task :entry:init
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Worker 1 has been cleared.
+[2025-05-20T17:23:29.349] [DEBUG] debug-file - Module entry Collected Dependency: C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_library,C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_common
+[2025-05-20T17:23:29.392] [DEBUG] debug-file - entry : init cost memory 0.01012420654296875
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-20T17:23:29.349] [DEBUG] debug-file - Module entry's total dependency: 2
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 898 ms 
+[2025-05-20T17:23:29.452] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-20T17:23:29.356] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-20T17:23:29.393] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2025-05-20T17:23:29.454] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-20T17:23:29.358] [DEBUG] debug-file - Module har_library Collected Dependency: C:\Users\fy\Desktop\newproject\5.15new10\BestPracticeSnippets\HapAndHarDependHar\har_common
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - Executing task :har_library:init
+[2025-05-20T17:23:29.459] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-20T17:23:29.358] [DEBUG] debug-file - Module har_library's total dependency: 1
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - har_library : init cost memory 0.00809478759765625
+[2025-05-20T17:23:29.460] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2025-05-20T17:23:29.361] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 898 ms 
+[2025-05-20T17:23:29.461] [DEBUG] debug-file - Current worker pool is terminated.
+[2025-05-20T17:23:29.362] [DEBUG] debug-file - Module har_common Collected Dependency: 
+[2025-05-20T17:23:29.393] [INFO] debug-file - Finished :har_library:init... after 1 ms 
+[2025-05-20T17:23:29.362] [DEBUG] debug-file - Module har_common's total dependency: 0
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - Executing task :har_common:init
+[2025-05-20T17:23:29.364] [DEBUG] debug-file - Configuration phase cost:2 s 813 ms 
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - har_common : init cost memory 0.0080108642578125
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 898 ms 
+[2025-05-20T17:23:29.393] [INFO] debug-file - Finished :har_common:init... after 1 ms 
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - Executing task ::init
+[2025-05-20T17:23:29.393] [DEBUG] debug-file - HapAndHarDependHar : init cost memory 0.00902557373046875
+[2025-05-20T17:23:29.394] [DEBUG] debug-file - runTaskFromQueue task cost before running: 2 s 899 ms 
+[2025-05-20T17:23:29.394] [INFO] debug-file - Finished ::init... after 1 ms 
+[2025-09-19T17:16:10.765] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-09-19T17:16:11.143] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: false,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' },
+  optimizationStrategy: 'memory',
+  hotCompile: undefined,
+  hotReloadBuild: undefined
+}
+[2025-09-19T17:16:12.600] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: appTasks], plugins: [] } }
+[2025-09-19T17:16:12.770] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2025-09-19T17:16:12.774] [DEBUG] debug-file - Obtain build option for product 'default'in this build.
+[2025-09-19T17:16:12.791] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2025-09-19T17:16:12.828] [DEBUG] debug-file - Project task initialization takes 5 ms 
+[2025-09-19T17:16:12.850] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2025-09-19T17:16:12.859] [DEBUG] debug-file - hvigorfile, resolving D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_library\hvigorfile.ts
+[2025-09-19T17:16:12.920] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-09-19T17:16:10.766] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-09-19T17:16:12.941] [DEBUG] debug-file - entry : clean cost memory 0.11110687255859375
+[2025-09-19T17:16:11.150] [DEBUG] debug-file - Since current hvigor version 6.0.5 differs from last hvigor version 
+      5.16.2, delete file-cache.json and task-cache.json.
+[2025-09-19T17:16:12.960] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-09-19T17:16:12.600] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: appTasks]
+[2025-09-19T17:16:12.770] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2025-09-19T17:16:12.775] [DEBUG] debug-file - not found resModel json file in : D:\toGit\BestPracticeSnippets\HapAndHarDependHar\entry\src\ohosTest\module.json5
+[2025-09-19T17:16:12.822] [DEBUG] debug-file - Sdk init in 38 ms 
+[2025-09-19T17:16:12.828] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-09-19T17:16:12.850] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.863] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: harTasks], plugins: [] } }
+[2025-09-19T17:16:12.927] [DEBUG] debug-file - Module entry Collected Dependency: D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_library,D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_common
+[2025-09-19T17:16:10.768] [DEBUG] debug-file - env: daemon=false
+[2025-09-19T17:16:11.151] [DEBUG] debug-file - Cache service initialization finished in 7 ms 
+[2025-09-19T17:16:12.941] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 804 ms 
+[2025-09-19T17:16:12.962] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-09-19T17:16:12.770] [DEBUG] debug-file - Product 'default' build option initialized
+[2025-09-19T17:16:12.781] [DEBUG] debug-file - not found resModel json file in : D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_library\src\ohosTest\module.json5
+[2025-09-19T17:16:12.828] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\toGit\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+[2025-09-19T17:16:12.851] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.927] [DEBUG] debug-file - Module entry's total dependency: 2
+[2025-09-19T17:16:10.768] [DEBUG] debug-file - no-daemon, use the parent process.execArgv --max-old-space-size=8192,--max-semi-space-size=16,--expose-gc
+[2025-09-19T17:16:12.964] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2025-09-19T17:16:12.863] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: harTasks]
+[2025-09-19T17:16:11.152] [DEBUG] debug-file - hvigorfile, resolving D:\toGit\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+[2025-09-19T17:16:12.942] [INFO] debug-file - Finished :entry:clean... after 2 ms 
+[2025-09-19T17:16:12.771] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2025-09-19T17:16:12.783] [DEBUG] debug-file - not found resModel json file in : D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_common\src\ohosTest\module.json5
+[2025-09-19T17:16:12.828] [DEBUG] debug-file - hvigorfile, resolve finished D:\toGit\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+[2025-09-19T17:16:12.851] [DEBUG] debug-file - Module 'entry' target 'default' build option initialized
+[2025-09-19T17:16:12.931] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Clear worker 0.
+[2025-09-19T17:16:12.864] [DEBUG] debug-file - failed to load cangjie to dynamically generate schemas: Error: Cannot find module '@ohos/cangjie-build-support/index'
+Require stack:
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js
+- D:\toGit\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\base\boot\index.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\cli\main\cli.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\bin\hvigor.js
+[2025-09-19T17:16:12.942] [DEBUG] debug-file - Executing task :har_library:clean
+[2025-09-19T17:16:12.784] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2025-09-19T17:16:12.851] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.829] [DEBUG] debug-file - hvigorfile, resolving D:\toGit\BestPracticeSnippets\HapAndHarDependHar\entry\hvigorfile.ts
+[2025-09-19T17:16:12.932] [DEBUG] debug-file - Module har_library Collected Dependency: D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_common
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Worker 0 has been cleared.
+[2025-09-19T17:16:12.895] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_library, buildMode=debug
+[2025-09-19T17:16:12.942] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-09-19T17:16:12.786] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2025-09-19T17:16:12.851] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2025-09-19T17:16:12.835] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: hapTasks], plugins: [] } }
+[2025-09-19T17:16:12.932] [DEBUG] debug-file - Module har_library's total dependency: 1
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-09-19T17:16:12.942] [DEBUG] debug-file - har_library : clean cost memory 0.0296478271484375
+[2025-09-19T17:16:12.895] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.788] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2025-09-19T17:16:12.851] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=release
+[2025-09-19T17:16:12.835] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: hapTasks]
+[2025-09-19T17:16:12.934] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-09-19T17:16:12.895] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.942] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 806 ms 
+[2025-09-19T17:16:12.851] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.835] [DEBUG] debug-file - failed to load cangjie to dynamically generate schemas: Error: Cannot find module '@ohos/cangjie-build-support/index'
+Require stack:
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js
+- D:\toGit\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\base\boot\index.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\cli\main\cli.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\bin\hvigor.js
+[2025-09-19T17:16:12.935] [DEBUG] debug-file - Module har_common Collected Dependency: 
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Clear worker 1.
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Module 'har_library' target 'default' build option initialized
+[2025-09-19T17:16:12.942] [INFO] debug-file - Finished :har_library:clean... after 1 ms 
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.935] [DEBUG] debug-file - Module har_common's total dependency: 0
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Worker 1 has been cleared.
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Module 'har_library' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - Executing task :har_common:clean
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Module 'entry' target 'default' build option initialized
+[2025-09-19T17:16:12.936] [DEBUG] debug-file - Configuration phase cost:1 s 785 ms 
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_library
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-09-19T17:16:12.939] [DEBUG] debug-file - Configuration task cost before running: 1 s 802 ms 
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_library, buildMode=release
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - har_common : clean cost memory 0.0295257568359375
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2025-09-19T17:16:12.965] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-09-19T17:16:12.939] [DEBUG] debug-file - Executing task :entry:clean
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 807 ms 
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2025-09-19T17:16:12.969] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-09-19T17:16:12.939] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.943] [INFO] debug-file - Finished :har_common:clean... after 1 ms 
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.970] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Module 'har_library' target 'default' build option initialized
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - Executing task ::clean
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.972] [DEBUG] debug-file - Current worker pool is terminated.
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Module 'har_library' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Module 'entry' target 'default' build option initialized
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_library
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - HapAndHarDependHar : clean cost memory 0.020111083984375
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_library, buildMode=debug
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 807 ms 
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.943] [INFO] debug-file - Finished ::clean... after 1 ms 
+[2025-09-19T17:16:12.852] [DEBUG] debug-file - Obtain build option for module 'entry' target 'default'in this build.
+[2025-09-19T17:16:12.896] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.943] [DEBUG] debug-file - Executing task :entry:init
+[2025-09-19T17:16:12.858] [DEBUG] debug-file - Module entry task initialization takes 5 ms 
+[2025-09-19T17:16:12.897] [DEBUG] debug-file - Module 'har_library' target 'default' build option initialized
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - entry : init cost memory 0.0130157470703125
+[2025-09-19T17:16:12.858] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-09-19T17:16:12.897] [DEBUG] debug-file - Module 'har_library' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 807 ms 
+[2025-09-19T17:16:12.858] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\toGit\BestPracticeSnippets\HapAndHarDependHar\entry\hvigorfile.ts
+[2025-09-19T17:16:12.897] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_library
+[2025-09-19T17:16:12.944] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2025-09-19T17:16:12.858] [DEBUG] debug-file - hvigorfile, resolve finished D:\toGit\BestPracticeSnippets\HapAndHarDependHar\entry\hvigorfile.ts
+[2025-09-19T17:16:12.897] [DEBUG] debug-file - Obtain build option for module 'har_library' target 'default'in this build.
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - Executing task :har_library:init
+[2025-09-19T17:16:12.898] [DEBUG] debug-file - Module har_library task initialization takes 2 ms 
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - har_library : init cost memory 0.01064300537109375
+[2025-09-19T17:16:12.898] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 808 ms 
+[2025-09-19T17:16:12.898] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_library\hvigorfile.ts
+[2025-09-19T17:16:12.944] [INFO] debug-file - Finished :har_library:init... after 1 ms 
+[2025-09-19T17:16:12.898] [DEBUG] debug-file - hvigorfile, resolve finished D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_library\hvigorfile.ts
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - Executing task :har_common:init
+[2025-09-19T17:16:12.899] [DEBUG] debug-file - hvigorfile, resolving D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_common\hvigorfile.ts
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - har_common : init cost memory 0.01055908203125
+[2025-09-19T17:16:12.902] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: harTasks], plugins: [] } }
+[2025-09-19T17:16:12.944] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 808 ms 
+[2025-09-19T17:16:12.902] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: harTasks]
+[2025-09-19T17:16:12.944] [INFO] debug-file - Finished :har_common:init... after 1 ms 
+[2025-09-19T17:16:12.903] [DEBUG] debug-file - failed to load cangjie to dynamically generate schemas: Error: Cannot find module '@ohos/cangjie-build-support/index'
+Require stack:
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\src\plugin\factory\plugin-factory.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor-ohos-plugin\index.js
+- D:\toGit\BestPracticeSnippets\HapAndHarDependHar\hvigorfile.ts
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\base\internal\lifecycle\configuration.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\base\boot\index.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\src\cli\main\cli.js
+- D:\Program Files\Huawei\DevEco Studio\tools\hvigor\hvigor\bin\hvigor.js
+[2025-09-19T17:16:12.945] [DEBUG] debug-file - Executing task ::init
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_common, buildMode=debug
+[2025-09-19T17:16:12.945] [DEBUG] debug-file - HapAndHarDependHar : init cost memory 0.0115966796875
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.945] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 808 ms 
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.945] [INFO] debug-file - Finished ::init... after 1 ms 
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - Module 'har_common' target 'default' build option initialized
+[2025-09-19T17:16:12.951] [DEBUG] debug-file - Obtain build option for module 'entry' target 'default'in this build.
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - Module 'har_common' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.951] [DEBUG] debug-file - Obtain build option for module 'entry' target 'ohosTest'in this build.
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_common
+[2025-09-19T17:16:12.952] [DEBUG] debug-file - Obtain build option for module 'har_library' target 'default'in this build.
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_common, buildMode=release
+[2025-09-19T17:16:12.952] [DEBUG] debug-file - Obtain build option for module 'har_library' target 'ohosTest'in this build.
+[2025-09-19T17:16:12.904] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.952] [DEBUG] debug-file - Obtain build option for module 'har_common' target 'default'in this build.
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.953] [DEBUG] debug-file - Obtain build option for module 'har_common' target 'ohosTest'in this build.
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Module 'har_common' target 'default' build option initialized
+[2025-09-19T17:16:12.958] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Module 'har_common' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.958] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_common
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=har_common, buildMode=debug
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Target 'default' config initialized
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Target 'ohosTest' config initialized
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Module 'har_common' target 'default' build option initialized
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Module 'har_common' target 'ohosTest' build option initialized
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - End initialize module-target build option map, moduleName=har_common
+[2025-09-19T17:16:12.907] [DEBUG] debug-file - Obtain build option for module 'har_common' target 'default'in this build.
+[2025-09-19T17:16:12.908] [DEBUG] debug-file - Module har_common task initialization takes 1 ms 
+[2025-09-19T17:16:12.908] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-09-19T17:16:12.908] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_common\hvigorfile.ts
+[2025-09-19T17:16:12.908] [DEBUG] debug-file - hvigorfile, resolve finished D:\toGit\BestPracticeSnippets\HapAndHarDependHar\har_common\hvigorfile.ts
+[2025-09-19T17:16:12.908] [DEBUG] debug-file - project has submodules:entry,har_library,har_common
+[2025-09-19T17:16:12.909] [DEBUG] debug-file - module:har_library no need to execute packageHap
+[2025-09-19T17:16:12.909] [DEBUG] debug-file - module:har_common no need to execute packageHap
+[2025-09-19T17:16:12.911] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2025-09-19T17:16:12.916] [DEBUG] debug-file - load to the disk finished
+[2025-09-19T17:16:12.917] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-09-19T17:16:12.919] [DEBUG] debug-file - Module HapAndHarDependHar Collected Dependency: 
+[2025-09-19T17:16:12.919] [DEBUG] debug-file - Module HapAndHarDependHar's total dependency: 0

@@ -1,0 +1,5 @@
+{
+  "libdemoso.so": {
+    "source": "src/mock/Libdemoso.mock.ets"
+  }
+}

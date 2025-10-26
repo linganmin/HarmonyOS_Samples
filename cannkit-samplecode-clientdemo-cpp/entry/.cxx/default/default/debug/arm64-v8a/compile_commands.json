@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/.cxx/default/default/debug/arm64-v8a",
+  "command": "D:\\DEVECO~1\\sdk\\default\\OPENHA~1\\native\\llvm\\bin\\CLANG_~1.EXE --target=aarch64-linux-ohos --gcc-toolchain=\"D:/DevEco Studio/sdk/default/openharmony/native/llvm\" --sysroot=\"D:/DevEco Studio/sdk/default/openharmony/native/sysroot\" -Dentry_EXPORTS -I\"D:/DevEco Studio/sdk/default/hms/native/sysroot/usr/include\" -ID:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/src/main/cpp -ID:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/src/main/cpp/include -I\"D:/DevEco Studio/sdk/default/hms/native/sysroot/usr/lib\" -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -D__MUSL__ -O0 -g -fno-limit-debug-info  -fPIC -o CMakeFiles\\entry.dir\\Classification.cpp.o -c D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp\\entry\\src\\main\\cpp\\Classification.cpp",
+  "file": "D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp\\entry\\src\\main\\cpp\\Classification.cpp",
+  "output": "CMakeFiles\\entry.dir\\Classification.cpp.o"
+},
+{
+  "directory": "D:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/.cxx/default/default/debug/arm64-v8a",
+  "command": "D:\\DEVECO~1\\sdk\\default\\OPENHA~1\\native\\llvm\\bin\\CLANG_~1.EXE --target=aarch64-linux-ohos --gcc-toolchain=\"D:/DevEco Studio/sdk/default/openharmony/native/llvm\" --sysroot=\"D:/DevEco Studio/sdk/default/openharmony/native/sysroot\" -Dentry_EXPORTS -I\"D:/DevEco Studio/sdk/default/hms/native/sysroot/usr/include\" -ID:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/src/main/cpp -ID:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/src/main/cpp/include -I\"D:/DevEco Studio/sdk/default/hms/native/sysroot/usr/lib\" -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -D__MUSL__ -O0 -g -fno-limit-debug-info  -fPIC -o CMakeFiles\\entry.dir\\HIAIModelManager.cpp.o -c D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp\\entry\\src\\main\\cpp\\HIAIModelManager.cpp",
+  "file": "D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp\\entry\\src\\main\\cpp\\HIAIModelManager.cpp",
+  "output": "CMakeFiles\\entry.dir\\HIAIModelManager.cpp.o"
+}
+]

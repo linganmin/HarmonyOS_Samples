@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "横竖屏切换"
+    },
+    {
+      "name": "comment_content1",
+      "value": "感觉很不错啊，下一款准备入手Mate X3了，很喜欢折叠屏的分屏功能，终于可以一边聊天一边看短视频了！"
+    },
+    {
+      "name": "comment_content2",
+      "value": "喜欢这张图，很惊艳！竟然是手机拍出来的，太给力了！"
+    },
+    {
+      "name": "comment_content3",
+      "value": "发布会要开始啦，好期待哦"
+    },
+    {
+      "name": "related_title1",
+      "value": "华为旗舰新品发布，不见不散"
+    },
+    {
+      "name": "related_title2",
+      "value": "华为公益之路，助力可持续发展"
+    },
+    {
+      "name": "related_title3",
+      "value": "华为全屋智能，住进未来家"
+    },
+    {
+      "name": "related_list",
+      "value": "相关列表"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "all_comment",
+      "value": "全部评论"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+// [Start innerWidth]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Responsive Font Size on Resize</title>
+  <style>
+    html {
+        font-size: 16px;
+    }
+    .content {
+        padding: 20px;
+    }
+    .content h1,
+    .content p {
+        margin: 0 0 1em;
+    }
+  </style>
+</head>
+<body>
+<div class="content">
+  <h1>Responsive Font Size Example</h1>
+  <p>Resize the window to see the font size change.</p>
+</div>
+</body>
+</html>
+<script>
+  const root = document.documentElement;
+  const initialScale = window.innerWidth / 1920;
+  root.style.fontSize = `${initialScale * 16}px`;
+  // Listen for window size change events
+  window.addEventListener('resize', () => {
+      const newScale = window.innerWidth / 1920;
+      root.style.fontSize = `${newScale * 16}px`;
+  });
+</script>
+// [End innerWidth]

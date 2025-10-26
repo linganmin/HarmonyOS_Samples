@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Native三方库集成"
+    },
+    {
+      "name": "main_title",
+      "value": "Native三方so库集成"
+    },
+    {
+      "name": "native_so_add",
+      "value": "计算 X + Y"
+    },
+    {
+      "name": "native_so_dlopen_sub",
+      "value": "计算 X - Y"
+    },
+    {
+      "name": "arkts_so_multiply",
+      "value": "计算 X * Y"
+    },
+    {
+      "name": "parameter_x",
+      "value": "参数 X"
+    },
+    {
+      "name": "parameter_x_input",
+      "value": "输入参数X..."
+    },
+    {
+      "name": "parameter_y",
+      "value": "参数 Y"
+    },
+    {
+      "name": "parameter_y_input",
+      "value": "输入参数Y..."
+    },
+    {
+      "name": "native_so_content",
+      "value": "在Native侧通过编译动态链接库引用三方库完成加法运算，结果为"
+    },
+    {
+      "name": "native_so_dlopen_content",
+      "value": "在Native侧通过调用dlopen的方式引用三方库完成减法运算，结果为"
+    },
+    {
+      "name": "arkts_so_content",
+      "value": "在ArkTS侧使用已经适配Native的三方库完成乘法运算，结果为"
+    },
+    {
+      "name": "input_alert",
+      "value": "请输入参数X和参数Y后点击重试！"
+    }
+  ]
+}

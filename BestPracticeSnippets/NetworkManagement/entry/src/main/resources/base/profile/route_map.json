@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "GetCurrentNetworkInfo",
+      "pageSourceFile": "src/main/ets/pages/GetCurrentNetworkInfo.ets",
+      "buildFunction": "GetCurrentNetworkInfoBuilder",
+      "data": {
+        "description": "this is GetCurrentNetworkInfo"
+      }
+    },
+    {
+      "name": "GetNetworkConnectionInfo",
+      "pageSourceFile": "src/main/ets/pages/GetNetworkConnectionInfo.ets",
+      "buildFunction": "GetNetworkConnectionInfoBuilder",
+      "data": {
+        "description": "this is GetNetworkConnectionInfo"
+      }
+    },
+    {
+      "name": "CellularNetworkQuery",
+      "pageSourceFile": "src/main/ets/pages/CellularNetworkQuery.ets",
+      "buildFunction": "CellularNetworkQueryBuilder",
+      "data": {
+        "description": "this is CellularNetworkQuery"
+      }
+    },
+    {
+      "name": "WiFiQuery",
+      "pageSourceFile": "src/main/ets/pages/WiFiQuery.ets",
+      "buildFunction": "WiFiQueryBuilder",
+      "data": {
+        "description": "this is WiFiQuery"
+      }
+    },
+    {
+      "name": "ListeningNetworkStatus",
+      "pageSourceFile": "src/main/ets/pages/ListeningNetworkStatus.ets",
+      "buildFunction": "ListeningNetworkStatusBuilder",
+      "data": {
+        "description": "this is ListeningNetworkStatus"
+      }
+    }
+  ]
+}

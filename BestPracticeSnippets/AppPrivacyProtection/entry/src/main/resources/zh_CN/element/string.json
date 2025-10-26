@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "应用隐私保护"
+    },
+    {
+      "name": "location_reason",
+      "value": "为了提供更准确的个性化服务，需要获取您的位置信息"
+    },
+    {
+      "name": "camera_reason",
+      "value": "扫码二维码功能需要使用相机权限扫描图片"
+    },
+    {
+      "name": "get_approximately_location",
+      "value": "使用模糊定位获取位置信息"
+    },
+    {
+      "name": "use_picker",
+      "value": "使用Picker访问文件"
+    },
+    {
+      "name": "apply_camera_permissions",
+      "value": "申请相机权限"
+    },
+    {
+      "name": "use_approximately_location",
+      "value": "使用模糊定位"
+    },
+    {
+      "name": "select_picture",
+      "value": "选择图片"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "base": "file:../../commons/base",
+    'adaptive_video_component': 'file:../../features/adaptive_video_component'
+  }
+}
+

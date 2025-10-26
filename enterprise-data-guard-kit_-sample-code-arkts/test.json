@@ -1,0 +1,102 @@
+{
+	"file_to_open":[
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/aaa.txt",
+		"/data/service/el2/100/../../bbb.txt",
+		"/data/service/el2/100/../../../service/el2/100/hmdfs/account/files/Docs/Documents/aaa.txt"
+	],
+	"kia_filelist":[
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/aaa.txt",
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/test_8.png",
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/test_1.docx",
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/bbb.docx",
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/ccc.docx",
+		"/data/app/el1/aaa.txt"
+	],
+	"kia_keyword":[
+		"txt",
+		"png",
+		"docx",
+		"docx2"
+	],
+	"kia_suffix":[],
+	"compress_suffix":	[".rar", ".zip"],
+	"add_kia_list": {
+		"kia_update_type": 1,
+		"kia_filelist": [
+			"/data/service/el2/100/hmdfs/account/files/Documents/bbb.txt"
+		],
+		"kia_keyword": [
+			"addkey1",
+			"addkey2",
+			"addkey3"
+		],
+		"kia_suffix": [
+			"addsuffix1",
+			"addsuffix2",
+			"addsuffix3"
+		]
+	},
+	"del_kia_list": {
+		"kia_update_type": 2,
+		"kia_filelist": [
+			"/data/service/el2/100/hmdfs/account/files/Docs/Documents/aaa.txt"
+		],
+		"kia_keyword": [
+			"key1",
+			"key2",
+			"key3"
+		],
+		"kia_suffix": [
+			"suffix1",
+			"suffix2",
+			"suffix3"
+		]
+	},
+	"set_kia_tag":[
+		{
+			"file":"/data/service/el2/100/hmdfs/account/files/Docs/Documents/aaa.txt",
+			"level": 1,
+			"tag": "this is a kia"
+		},
+		{
+			"file":"/data/service/el2/100/hmdfs/account/files/Docs/Documents/bbb.txt",
+			"level": 3,
+			"tag": "this is a kia too"
+		}
+	],
+	"query_kia_tag":[
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/aaa.txt",
+        "/data/service/el2/100/hmdfs/account/files/Docs/Documents/bbb.txt"
+	],
+	"file_to_delete":[
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/ccc.txt"
+	],
+	"update_policy":{
+		"net_intercept_toggle": 1,
+		"boundary":[
+			"0.0.0.0-100.0.0.0"
+		],
+		"netsegment_trustlist":[
+			"0.0.0.0-100.0.0.0"
+		],
+		"netsegment_blocklist":[
+			"0.0.0.0-100.0.0.0"
+		],
+		"default_policy":1
+	},
+	"add_net_policy":{
+		"net_intercept_toggle" : 1,
+		"boundary":[
+			"200.1.0.4-200.1.0.100"
+		],
+		"netsegment_trustlist":[
+			"201.1.0.4-201.1.0.100"
+		],
+		"netsegment_blocklist":[
+			"202.1.0.4-202.1.0.100"
+		]
+	},
+	"query_file_uri":[
+		"/data/service/el2/100/hmdfs/account/files/Docs/Documents/aaa.txt"
+	]
+}

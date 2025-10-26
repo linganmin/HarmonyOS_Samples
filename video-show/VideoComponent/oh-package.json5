@@ -1,0 +1,10 @@
+{
+  "license": "ISC",
+  "types": "",
+  "devDependencies": {},
+  "name": "@ohos/video-component",
+  "description": "a npm package which contains arkUI2.0 page",
+  "main": "index.ets",
+  "version": "1.0.5",
+  "dependencies": {}
+}

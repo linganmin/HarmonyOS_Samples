@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "列表项编辑"
+    },
+    {
+      "name": "edit",
+      "value": "编辑"
+    },
+    {
+      "name": "deleted",
+      "value": "删除成功"
+    },
+    {
+      "name": "incomplete",
+      "value": "功能待完善"
+    },
+    {
+      "name": "todo",
+      "value": "待办"
+    },
+    {
+      "name": "undo",
+      "value": "未完成"
+    },
+    {
+      "name": "done",
+      "value": "已完成"
+    }
+  ]
+}

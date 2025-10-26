@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "SafetyDetect"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "SafetyDetect"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SafetyDetect"
+    },
+    {
+      "name": "EntryAbility_head",
+      "value": "SafetyDetect"
+    }
+  ]
+}

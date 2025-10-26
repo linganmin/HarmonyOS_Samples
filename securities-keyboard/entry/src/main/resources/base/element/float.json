@@ -1,0 +1,68 @@
+{
+  "float": [
+    {
+      "name": "down_image_size",
+      "value": "36vp"
+    },
+    {
+      "name": "down_image_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "search_height",
+      "value": "40vp"
+    },
+    {
+      "name": "search_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "search_border_radius",
+      "value": "20vp"
+    },
+    {
+      "name": "comm_margin_two",
+      "value": "2vp"
+    },
+    {
+      "name": "comm_margin_three",
+      "value": "3vp"
+    },
+    {
+      "name": "comm_margin_five",
+      "value": "5vp"
+    },
+    {
+      "name": "comm_margin_six",
+      "value": "6vp"
+    },
+    {
+      "name": "comm_margin_ten",
+      "value": "10vp"
+    },
+    {
+      "name": "comm_margin_twelve",
+      "value": "12vp"
+    },
+    {
+      "name": "delete_image_size",
+      "value": "30vp"
+    },
+    {
+      "name": "shift_image_size",
+      "value": "30vp"
+    },
+    {
+      "name": "keyboard_height",
+      "value": "280vp"
+    },
+    {
+      "name": "comm_image_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "comm_text_size",
+      "value": "20vp"
+    }
+  ]
+}

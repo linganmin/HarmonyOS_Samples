@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "brightness_imagesize",
+      "value": "2%"
+    },
+    {
+      "name": "volume_imagesize",
+      "value": "9%"
+    },
+    {
+      "name": "avvolumepanel_width",
+      "value": "30%"
+    },
+    {
+      "name": "row_height",
+      "value": "100%"
+    },
+    {
+      "name": "column_size",
+      "value": "100%"
+    },
+    {
+      "name": "trackcolor",
+      "value": "#94fffefe"
+    },
+    {
+      "name": "video_width",
+      "value": "100%"
+    },
+    {
+      "name": "video_height",
+      "value": "100%"
+    },
+    {
+      "name": "plus",
+      "value": "+"
+    },
+    {
+      "name": "minus",
+      "value": "-"
+    },
+    {
+      "name": "selectedcolor",
+      "value": "#beffffff"
+    },
+    {
+      "name": "HarmonyOS_Sans",
+      "value": "Sans"
+    },
+    {
+      "name": "HarmonyOS_Condensed",
+      "value": "Condensed"
+    },
+    {
+      "name": "demo_title",
+      "value": "视频字幕编辑"
+    },
+    {
+      "name": "av_caption",
+      "value": "AVPlayer外挂字幕"
+    },
+    {
+      "name": "video_caption",
+      "value": "Video组件外挂字幕"
+    },
+    {
+      "name": "caption_title",
+      "value": "字幕设置"
+    },
+    {
+      "name": "caption_family",
+      "value": "字体"
+    },
+    {
+      "name": "caption_size",
+      "value": "字号"
+    },
+    {
+      "name": "caption_color",
+      "value": "颜色"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "视频字幕显示"
+    }
+  ]
+}

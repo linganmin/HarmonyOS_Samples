@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "GamePerformanceDemoForC"
+    },
+    {
+      "name": "title",
+      "value": "游戏场景感知C++"
+    },
+    {
+      "name": "init",
+      "value": "场景感知初始化"
+    },
+    {
+      "name": "registerThermalLevelChangedCallback",
+      "value": "注册温度变化事件回调"
+    },
+    {
+      "name": "unregisterThermalLevelChangedCallback",
+      "value": "取消注册指定温度变化回调"
+    },
+    {
+      "name": "unregisterAllThermalLevelChangedCallbacks",
+      "value": "取消注册所有温度变化回调"
+    },
+    {
+      "name": "updateSceneInfo",
+      "value": "更新游戏场景信息"
+    },
+    {
+      "name": "queryGpuInfo",
+      "value": "查询GPU信息"
+    },
+    {
+      "name": "queryThermalInfo",
+      "value": "查询温度信息"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "IconMainColor"
+    },
+    {
+      "name": "percent_100",
+      "value": "100%"
+    },
+    {
+      "name": "cloud_space",
+      "value": "云空间"
+    },
+    {
+      "name": "cloud_space_description",
+      "value": "云存储"
+    },
+    {
+      "name": "settings",
+      "value": "设置"
+    },
+    {
+      "name": "settings_description",
+      "value": "自定义设置"
+    },
+    {
+      "name": "phone",
+      "value": "电话"
+    },
+    {
+      "name": "phone_description",
+      "value": "通讯软件"
+    },
+    {
+      "name": "v_mall",
+      "value": "商城"
+    },
+    {
+      "name": "v_mall_description",
+      "value": "官方电商平台"
+    }
+  ]
+}

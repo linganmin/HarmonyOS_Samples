@@ -1,0 +1,1 @@
+export const predict: (a: number[], b: object) => Array<number>;

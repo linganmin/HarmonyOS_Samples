@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HapAndHarDependHar.iml" filepath="$PROJECT_DIR$/.idea/modules/HapAndHarDependHar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/entry.iml" filepath="$PROJECT_DIR$/.idea/modules/entry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/har_common.iml" filepath="$PROJECT_DIR$/.idea/modules/har_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/har_library.iml" filepath="$PROJECT_DIR$/.idea/modules/har_library.iml" />
+    </modules>
+  </component>
+</project>

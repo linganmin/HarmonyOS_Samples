@@ -1,0 +1,16 @@
+{
+	"CommonInfo":{
+		"project.ide.version":"5.0.13.100",
+		"current.select.product":"default",
+		"current.select.buildMode":"",
+		"crossplatform.projectType":""
+	},
+	"BuildOptions":{
+		"SELECT_BUILD_PRODUCT":"default",
+		"BUNDLE_NAME":"com.huawei.videoprocessbaseweb",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"C:\\Users\\lenovo\\Desktop\\14\\BestPracticeSnippets\\VideoProcessBaseWeb\\build\\outputs\\default"
+		},
+		"SELECT_BUILD_MODE":""
+	}
+}

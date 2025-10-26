@@ -1,0 +1,9 @@
+<!-- [Start details] -- >
+<!-- details.hml -->
+<div class="container">
+    <text class="title">
+        Details Page
+    </text>
+    <input class="btn" type="button" value="Back" onclick="clickAction"></input>
+</div>
+<!-- [End details] -->

@@ -1,0 +1,26 @@
+{
+  "module": {
+    "name": "Multiply",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "MultiplyAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "MultiplyAbility",
+        "srcEntry": "./ets/multiplyability/MultiplyAbility.ets",
+        "description": "$string:MultiplyAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:MultiplyAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

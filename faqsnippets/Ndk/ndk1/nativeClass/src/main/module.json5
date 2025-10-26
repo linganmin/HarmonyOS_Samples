@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "nativeClass",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "NativeClassAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "NativeClassAbility",
+        "srcEntry": "./ets/nativeclassability/NativeClassAbility.ets",
+        "description": "$string:NativeClassAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:NativeClassAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

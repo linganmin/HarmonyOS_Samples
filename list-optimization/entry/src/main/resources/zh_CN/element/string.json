@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "长列表性能对比"
+    },
+    {
+      "name": "foreach",
+      "value": "ForEach"
+    },
+    {
+      "name": "lazy_foreach",
+      "value": "LazyForEach"
+    },
+    {
+      "name": "reason_internet",
+      "value": "允许应用在获取列表信息时使用Internet网络"
+    }
+  ]
+}

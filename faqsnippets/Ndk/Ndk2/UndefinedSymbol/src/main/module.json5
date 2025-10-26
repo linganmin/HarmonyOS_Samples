@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "UndefinedSymbol",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "UndefinedSymbolAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "UndefinedSymbolAbility",
+        "srcEntry": "./ets/undefinedsymbolability/UndefinedSymbolAbility.ets",
+        "description": "$string:UndefinedSymbolAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:UndefinedSymbolAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

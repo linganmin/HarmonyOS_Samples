@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from npm package"
+    },
+    {
+      "name": "no_network_tips",
+      "value": "请连接网络"
+    },
+    {
+      "name": "download_files_title",
+      "value": "下载文件"
+    },
+    {
+      "name": "folder_empty",
+      "value": "空文件夹"
+    },
+    {
+      "name": "clear_folder",
+      "value": "清空文件夹"
+    },
+    {
+      "name": "media_internet_permission",
+      "value": "允许应用在上传下载场景中访问网络"
+    },
+    {
+      "name": "have_upload_task_tips",
+      "value": "当前存在前台上传任务，请稍后上传"
+    },
+    {
+      "name": "have_download_task_tips",
+      "value": "当前存在前台下载任务，请稍后下载"
+    }
+  ]
+}

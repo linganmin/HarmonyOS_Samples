@@ -1,0 +1,332 @@
+{
+  "strarray": [
+    {
+      "name": "memo_list",
+      "value": [
+        {
+          "value": "全部备忘"
+        },
+        {
+          "value": "收藏"
+        },
+        {
+          "value": "加锁"
+        },
+        {
+          "value": "最近删除"
+        }
+      ]
+    },
+    {
+      "name": "folder_list",
+      "value": [
+        {
+          "value": "默认"
+        },
+        {
+          "value": "个人"
+        },
+        {
+          "value": "工作"
+        },
+        {
+          "value": "旅游"
+        },
+        {
+          "value": "生活"
+        }
+      ]
+    },
+    {
+      "name": "week_message",
+      "value": [
+        {
+          "value": "日"
+        },
+        {
+          "value": "一"
+        },
+        {
+          "value": "二"
+        },
+        {
+          "value": "三"
+        },
+        {
+          "value": "四"
+        },
+        {
+          "value": "五"
+        },
+        {
+          "value": "六"
+        }
+      ]
+    },
+    {
+      "name": "trip_schedule_view",
+      "value": [
+        {
+          "value": "今天"
+        },
+        {
+          "value": "农历"
+        },
+        {
+          "value": "八月"
+        },
+        {
+          "value": "九月"
+        }
+      ]
+    },
+    {
+      "name": "calendar_side_bar_text",
+      "value": [
+        {
+          "value": "日历"
+        },
+        {
+          "value": "日历账户"
+        },
+        {
+          "value": "添加"
+        },
+        {
+          "value": "华为账号"
+        },
+        {
+          "value": "我的日历"
+        },
+        {
+          "value": "中国大陆节假日"
+        },
+        {
+          "value": "Welink"
+        },
+        {
+          "value": "0012345678..."
+        },
+        {
+          "value": "订阅服务"
+        },
+        {
+          "value": "管理"
+        },
+        {
+          "value": "黄历"
+        },
+        {
+          "value": "星座"
+        },
+        {
+          "value": "消息中心"
+        },
+        {
+          "value": "未读"
+        },
+        {
+          "value": "已读"
+        }
+      ]
+    },
+    {
+      "name": "entrances",
+      "value": [
+        {
+          "value": "一多商务办公入口"
+        },
+        {
+          "value": "一键进入，高效办公"
+        }
+      ]
+    },
+    {
+      "name": "title_list",
+      "value": [
+        {
+          "value": "备忘录"
+        },
+        {
+          "value": "日历"
+        }
+      ]
+    },
+    {
+      "name": "notes_list",
+      "value": [
+        {
+          "value": "全部备忘"
+        },
+        {
+          "value": "18条备忘"
+        },
+        {
+          "value": "搜索..."
+        },
+        {
+          "value": "今天"
+        },
+        {
+          "value": "上月"
+        }
+      ]
+    },
+    {
+      "name": "notes_content",
+      "value": [
+        {
+          "value": "默认"
+        },
+        {
+          "value": "今天 上午11:56"
+        },
+        {
+          "value": "熟悉的图像会自动给人一种平静和怀旧的感觉。熟悉的图像会自动给人一种平静和怀旧的感觉。熟悉的图像会自动给人一种平静和怀旧的感觉。"
+        },
+        {
+          "value": "分享"
+        },
+        {
+          "value": "收藏"
+        },
+        {
+          "value": "删除"
+        },
+        {
+          "value": "更多"
+        }
+      ]
+    },
+    {
+      "name": "notes_side_bar_text",
+      "value": [
+        {
+          "value": "备忘录"
+        },
+        {
+          "value": "备忘"
+        },
+        {
+          "value": "文件夹"
+        },
+        {
+          "value": "编辑"
+        },
+        {
+          "value": "添加文件夹"
+        }
+      ]
+    },
+    {
+      "name": "september",
+      "value": [
+        {
+          "value": "廿九"
+        },
+        {
+          "value": "三十"
+        },
+        {
+          "value": "八月"
+        },
+        {
+          "value": "初二"
+        },
+        {
+          "value": "初三"
+        },
+        {
+          "value": "初四"
+        },
+        {
+          "value": "白露"
+        },
+        {
+          "value": "初六"
+        },
+        {
+          "value": "初七"
+        },
+        {
+          "value": "初八"
+        },
+        {
+          "value": "初九"
+        },
+        {
+          "value": "初十"
+        },
+        {
+          "value": "十一"
+        },
+        {
+          "value": "十二"
+        },
+        {
+          "value": "十三"
+        },
+        {
+          "value": "十四"
+        },
+        {
+          "value": "中秋"
+        },
+        {
+          "value": "九一八"
+        },
+        {
+          "value": "十七"
+        },
+        {
+          "value": "十八"
+        },
+        {
+          "value": "十九"
+        },
+        {
+          "value": "秋分"
+        },
+        {
+          "value": "廿一"
+        },
+        {
+          "value": "廿二"
+        },
+        {
+          "value": "廿三"
+        },
+        {
+          "value": "廿四"
+        },
+        {
+          "value": "廿五"
+        },
+        {
+          "value": "廿六"
+        },
+        {
+          "value": "廿七"
+        },
+        {
+          "value": "廿八"
+        },
+        {
+          "value": "廿九"
+        },
+        {
+          "value": "三十"
+        },
+        {
+          "value": "九月"
+        },
+        {
+          "value": "初二"
+        },
+        {
+          "value": "初三"
+        }
+      ]
+    }
+  ]
+}

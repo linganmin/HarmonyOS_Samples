@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+    <style>
+        body {
+          font-family: Arial, Helvetica, sans-serif, sans-serif;
+          text-align: center;
+          background-color: #000000;
+          margin: 0;
+        }
+        #image {
+          display: none;
+          width: 100%;
+          height: auto;
+          padding-top: 50px;
+        }
+        #image_preview {
+          display: none;
+          margin-top: 15px;
+        }
+        .a-upload {
+          text-decoration:none;
+          padding: 10px 20px;
+          height: 20px;
+          line-height: 20px;
+          position: relative;
+          cursor: pointer;
+          color: #ffffff;
+          background-color: rgb(10, 89, 247);
+          border-radius: 20px;
+          overflow: hidden;
+          display: inline-block;
+          *display: inline;
+          *zoom: 1
+        }
+        .a-upload  input {
+            position: absolute;
+            font-size: 100px;
+            right: 0;
+            top: 0;
+            opacity: 0;
+            filter: alpha(opacity=0);
+            cursor: pointer
+            border-radius: 20px;
+            background: rgb(10, 89, 247);
+        }
+         .upload-button {
+             padding: 6px 25px;
+             background: #00bfff;
+             border-radius: 4px;
+             color: white;
+             cursor: pointer;
+             }
+    </style>
+</head>
+
+<body>
+<script>
+    function showPic() {
+      let event = this.event;
+      let tFile = event ? event.target.files : [];
+      if (tFile === 0) {
+        document.getElementById('image_preview').style.display = 'block';
+        document.getElementById('image_preview').innerHTML = "未选择图片";
+        return;
+      }
+      document.getElementById('image').setAttribute('src', URL.createObjectURL(tFile[0]));
+      document.getElementById('image_preview').style.display = 'block';
+      document.getElementById('image').style.display = 'block';
+    }
+</script>
+
+<a href="javascript:;" class="a-upload" id="a_upload">
+    <label class="input-file-button" for="upload">相机</label>
+    <input type="file" id="upload" name="upload" accept="image/*" capture="upload" onchange="showPic()"/>
+</a>
+<p id="image_preview"></p>
+<img id="image">
+</body>
+
+</html>

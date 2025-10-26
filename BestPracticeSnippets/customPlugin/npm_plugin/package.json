@@ -1,0 +1,14 @@
+{
+  "name": "npm_plugin",
+  "version": "1.0.0",
+  "description": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "1.0.0",
+  "license": "ISC",
+  "devDependencies": {
+    "@ohos/hvigor": "5.2.2"
+  }
+}

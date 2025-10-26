@@ -1,0 +1,40 @@
+{
+  "float": [
+    {
+      "name": "index_margin_bottom",
+      "value": "20"
+    },
+    {
+      "name": "index_margin_left",
+      "value": "12"
+    },
+    {
+      "name": "index_margin_right",
+      "value": "12"
+    },
+    {
+      "name": "index_margin_top",
+      "value": "16"
+    },
+    {
+      "name": "item_padding",
+      "value": "12"
+    },
+    {
+      "name": "item_height",
+      "value": "48"
+    },
+    {
+      "name": "title_font_size",
+      "value": "30"
+    },
+    {
+      "name": "input_height",
+      "value": "80"
+    },
+    {
+      "name": "button_width",
+      "value": "156"
+    }
+  ]
+}

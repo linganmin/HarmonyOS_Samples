@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "gestures_share_file",
+      "value": "gestures share file"
+    },
+    {
+      "name": "gestures_share_link",
+      "value": "gesture share link"
+    },
+    {
+      "name": "play_list",
+      "value": "play list"
+    }
+  ]
+}

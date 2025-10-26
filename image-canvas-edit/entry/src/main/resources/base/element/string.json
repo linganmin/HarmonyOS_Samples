@@ -1,0 +1,216 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ImageCanvasEdit"
+    },
+    {
+      "name": "index_title",
+      "value": "Image PixelMap Editing"
+    },
+    {
+      "name": "select_img",
+      "value": "Select image"
+    },
+    {
+      "name": "picture_preview",
+      "value": "Picture preview"
+    },
+    {
+      "name": "preview",
+      "value": "Preview"
+    },
+    {
+      "name": "picture_information",
+      "value": "Picture information"
+    },
+    {
+      "name": "reason",
+      "value": "For saving pictures"
+    },
+    {
+      "name": "image_edit",
+      "value": "Image edit"
+    },
+    {
+      "name": "none",
+      "value": "none"
+    },
+    {
+      "name": "grayscale",
+      "value": "grayscale"
+    },
+    {
+      "name": "brightness",
+      "value": "brightness"
+    },
+    {
+      "name": "invert",
+      "value": "invert"
+    },
+    {
+      "name": "blur",
+      "value": "blur"
+    },
+    {
+      "name": "customize",
+      "value": "customize"
+    },
+    {
+      "name": "horizontal",
+      "value": "horizontal"
+    },
+    {
+      "name": "vertical",
+      "value": "vertical"
+    },
+    {
+      "name": "crop",
+      "value": "crop"
+    },
+    {
+      "name": "mirror",
+      "value": "mirror"
+    },
+    {
+      "name": "filter",
+      "value": "filter"
+    },
+    {
+      "name": "translate",
+      "value": "translate"
+    },
+    {
+      "name": "zoom",
+      "value": "zoom"
+    },
+    {
+      "name": "rotate",
+      "value": "rotate"
+    },
+    {
+      "name": "adjust",
+      "value": "adjust"
+    },
+    {
+      "name": "light",
+      "value": "light"
+    },
+    {
+      "name": "transparency",
+      "value": "transparency"
+    },
+    {
+      "name": "saturation",
+      "value": "saturation"
+    },
+    {
+      "name": "save_image",
+      "value": "saveImage"
+    },
+    {
+      "name": "confirm_save",
+      "value": "are you sure to save image"
+    },
+    {
+      "name": "save",
+      "value": "save"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "exec_edit",
+      "value": "running exec edit."
+    },
+    {
+      "name": "save_crop",
+      "value": "Do you want to save the crop?"
+    },
+    {
+      "name": "watermark",
+      "value": "watermark Edit"
+    },
+    {
+      "name": "watermark_text",
+      "value": "watermark text"
+    },
+    {
+      "name": "watermark_position",
+      "value": "position"
+    },
+    {
+      "name": "watermark_opacity",
+      "value": "opacity"
+    },
+    {
+      "name": "watermark_size",
+      "value": "size"
+    },
+    {
+      "name": "watermark_color",
+      "value": "color"
+    },
+    {
+      "name": "position_top_left",
+      "value": "top left"
+    },
+    {
+      "name": "position_top_right",
+      "value": "top right"
+    },
+    {
+      "name": "position_bottom_left",
+      "value": "bottom left"
+    },
+    {
+      "name": "position_bottom_right",
+      "value": "bottom right"
+    },
+    {
+      "name": "position_center",
+      "value": "center"
+    },
+    {
+      "name": "add_watermark",
+      "value": "add watermark"
+    },
+    {
+      "name": "remove_watermark",
+      "value": "remove watermark"
+    },
+    {
+      "name": "watermark_rotation",
+      "value": "Rotation"
+    },
+    {
+      "name": "watermark_repeat",
+      "value": "Repeat Watermark"
+    },
+    {
+      "name": "saved_to_album",
+      "value": "Saved to album"
+    },
+    {
+      "name": "save_adjust",
+      "value": "Do you want to save the adjust?"
+    },
+    {
+      "name": "save_filter",
+      "value": "Do you want to save the filter?"
+    }
+  ]
+}

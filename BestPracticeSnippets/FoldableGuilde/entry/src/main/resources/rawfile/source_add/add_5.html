@@ -1,0 +1,69 @@
+// [Start add_5]
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <style>
+            #container {
+              width: 90vw;
+              height: auto;
+              margin: 0 auto;
+              font-size:0;
+            }
+
+            img {
+              width:100%;
+            }
+
+            .item {
+              margin-bottom: 10px;
+              display: inline-block;
+            }
+            /* Use the @media property to achieve adaptation */
+            @media only screen and (max-width: 499px){
+              .item {
+                width:49%;
+              }
+              .item:not(:nth-child(2n)) { /* Example: a way of left alignment and even layout */
+                margin-right: 2%;
+              }
+            }
+            /* Use the @media property to achieve adaptation */
+            @media only screen and (min-width: 500px){
+              .item {
+                width:32%;
+              }
+              .item:not(:nth-child(3n)) {
+                margin-right: 2%;
+              }
+            }
+
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <div class="item">
+                <img src="D:\XXX.jpg" />
+            </div>
+            <div class="item">
+                <img src="D:\XXX.jpg" />
+            </div>
+            <div class="item">
+                <img src="D:\XXX.jpg" />
+            </div>
+            <div class="item">
+                <img src="D:\XXX.jpg" />
+            </div>
+            <div class="item">
+                <img src="D:\XXX.jpg" />
+            </div>
+            <div class="item">
+                <img src="D:\XXX.jpg" />
+            </div>
+            <div class="item">
+                <img src="D:\XXX.jpg" />
+            </div>
+        </div>
+    </body>
+</html>
+// [End add_5]

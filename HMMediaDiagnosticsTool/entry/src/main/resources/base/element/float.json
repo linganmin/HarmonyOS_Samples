@@ -1,0 +1,12 @@
+{
+  "float": [
+    {
+      "name": "playlist_border_radius",
+      "value": "40vp"
+    },
+    {
+      "name": "border_width",
+      "value": "0.5"
+    }
+  ]
+}

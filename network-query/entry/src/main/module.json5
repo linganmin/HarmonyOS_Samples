@@ -1,0 +1,136 @@
+// [Start wifi_connect_permission]
+// [Start get_mac_permission]
+{
+  "module": {
+    // [StartExclude wifi_connect_permission]
+    // [StartExclude get_mac_permission]
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ]
+      }
+    ],
+    // [EndExclude wifi_connect_permission]
+    // [EndExclude get_mac_permission]
+    "requestPermissions": [
+      // [StartExclude get_mac_permission]
+      {
+        "name": "ohos.permission.INTERNET",
+        // [StartExclude wifi_connect_permission]
+        "reason": "$string:reason_access_internet",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+        // [EndExclude wifi_connect_permission]
+      },
+      {
+        "name": "ohos.permission.GET_NETWORK_INFO",
+        // [StartExclude wifi_connect_permission]
+        "reason": "$string:reason_get_network_info",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+        // [EndExclude wifi_connect_permission]
+      },
+      {
+        "name": "ohos.permission.SET_WIFI_INFO",
+        // [StartExclude wifi_connect_permission]
+        "reason": "$string:reason_set_wifi_info",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+        // [EndExclude wifi_connect_permission]
+      },
+      {
+        "name": "ohos.permission.GET_WIFI_INFO",
+        // [StartExclude wifi_connect_permission]
+        "reason": "$string:reason_get_wifi_info",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+        // [EndExclude wifi_connect_permission]
+      },
+      // [StartExclude wifi_connect_permission]
+      // [EndExclude get_mac_permission]
+      {
+        "name": "ohos.permission.LOCATION",
+        // [StartExclude get_mac_permission]
+        "reason": "$string:location_permission",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+        // [EndExclude get_mac_permission]
+      },
+      {
+        "name": "ohos.permission.APPROXIMATELY_LOCATION",
+        // [StartExclude get_mac_permission]
+        "reason": "$string:approx_location_permission",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "inuse"
+        }
+        // [EndExclude get_mac_permission]
+      }
+      // [EndExclude wifi_connect_permission]
+    ]
+  }
+}
+// [End wifi_connect_permission]
+// [End get_mac_permission]

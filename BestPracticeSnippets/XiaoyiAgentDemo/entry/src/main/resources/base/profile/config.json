@@ -1,0 +1,27 @@
+{
+  "app": {
+    "bundleName": "com.xiaoyi.aiagent.demo",
+    "vendor": "example",
+    "version": {
+      "code": 1,
+      "name": "1.0.0"
+    },
+    "apiVersion": {
+      "compatible": 9,
+      "target": 9,
+      "releaseType": "Release"
+    }
+  },
+  "deviceConfig": {},
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "abilities": [],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.USE_MEDIA",
+        "reason": "$string:media_permission_reason"
+      }
+    ]
+  }
+}

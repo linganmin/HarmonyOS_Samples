@@ -1,0 +1,17 @@
+# FAQ: CPP编译报错"A 'undefined symbol' error has occurred
+# [Start cmake_minimum_requiredNew]
+cmake_minimum_required(VERSION 3.10)
+project(MyProject)
+set(CMAKE_CXX_STANDARD 17)
+# Ensure the addition of the header file for the third-party library
+include_directories(${PATH_TO_EXTERNAL_LIBRARY}
+                    ${PATH_TO_EXTERNAL_LIBRARY}/include)
+# Add source files
+add_library(myProgram SHARED main.cpp myLibrary.cpp)
+# Link to third-party libraries
+target_link_libraries(myProgram PUBLIC /path/to/external/library)
+# [End cmake_minimum_requiredNew]
+
+# [Start cmake_verbose_makefile]
+set(CMAKE_VERBOSE_MAKEFILE ON)
+# [End cmake_verbose_makefile]

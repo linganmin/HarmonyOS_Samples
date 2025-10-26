@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Watermark"
+    },
+    {
+      "name": "title",
+      "value": "Adding Watermarks"
+    },
+    {
+      "name": "open_camera",
+      "value": "Open Camera"
+    },
+    {
+      "name": "image_reason",
+      "value": "Require write permission to generate watermark"
+    },
+    {
+      "name": "message_save_success",
+      "value": "Picture saved"
+    },
+    {
+      "name": "pdf_save_success",
+      "value": "PDF downloaded"
+    },
+    {
+      "name": "watermark_text",
+      "value": "Watermark"
+    },
+    {
+      "name": "watermark_screen_text",
+      "value": "watermark"
+    },
+    {
+      "name": "page_bg",
+      "value": "To page background"
+    },
+    {
+      "name": "photo",
+      "value": "Photo"
+    },
+    {
+      "name": "camera",
+      "value": "Camera"
+    },
+    {
+      "name": "file",
+      "value": "File"
+    },
+    {
+      "name": "use_stack",
+      "value": "Use stack to add watermark"
+    },
+    {
+      "name": "use_overlay",
+      "value": "Use overlay to add watermark"
+    },
+    {
+      "name": "save_photo",
+      "value": "Watermarking during photo saving"
+    },
+    {
+      "name": "take_camera",
+      "value": "Watermarking during photographing"
+    },
+    {
+      "name": "pdf_watermark",
+      "value": "Watermarking in PDF"
+    },
+    {
+      "name": "button_text_add_watermark",
+      "value": "Add watermark"
+    }
+  ]
+}

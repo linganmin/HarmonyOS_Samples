@@ -1,0 +1,58 @@
+// [Start entry_build_profile]
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "targetSdkVersion": "5.0.5(17)",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ],
+    // [StartExclude entry_build_profile]
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ],
+    // [EndExclude entry_build_profile]
+  },
+  // [StartExclude entry_build_profile]
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "harA",
+      "srcPath": "./harA"
+    },
+    {
+      "name": "harB",
+      "srcPath": "./harB"
+    },
+    {
+      "name": "RouterModule",
+      "srcPath": "./RouterModule"
+    },
+    {
+      "name": "harC",
+      "srcPath": "./harC"
+    }
+  ],
+  // [EndExclude entry_build_profile]
+}
+// [End entry_build_profile]

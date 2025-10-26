@@ -1,0 +1,1 @@
+export const ReadFile: (fd: number, fd2: number) => void;

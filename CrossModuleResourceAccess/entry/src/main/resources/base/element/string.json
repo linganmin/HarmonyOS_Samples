@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ResourceAccess"
+    },
+    {
+      "name": "string_in_hap",
+      "value": "String in hap"
+    },
+    {
+      "name": "jump_to_har1",
+      "value": "Jump to har1 page"
+    },
+    {
+      "name": "jump_to_hsp1",
+      "value": "Jump to hsp1 page"
+    },
+    {
+      "name": "access_resource_from_self",
+      "value": "Access resources for this module"
+    },
+    {
+      "name": "access_resource_har1",
+      "value": "Access resource in har1"
+    },
+    {
+      "name": "access_resource_hsp1",
+      "value": "Access resource in hsp1"
+    }
+  ]
+}

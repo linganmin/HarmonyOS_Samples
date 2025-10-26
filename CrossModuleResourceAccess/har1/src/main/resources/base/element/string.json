@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "string_in_har1",
+      "value": "String in har1"
+    },
+    {
+      "name": "access_resource_har2",
+      "value": "Access resource in har2"
+    },
+    {
+      "name": "access_resource_hsp2",
+      "value": "Access resource in hsp2"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "float": [
+    {
+      "name": "control_icon_height",
+      "value": "24vp"
+    },
+    {
+      "name": "singer_title_sm",
+      "value": "10fp"
+    },
+    {
+      "name": "font_fourteen",
+      "value": "14fp"
+    },
+    {
+      "name": "music_text_margin_top",
+      "value": "0vp"
+    },
+    {
+      "name": "music_info_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "slider_block",
+      "value": "1vp"
+    },
+    {
+      "name": "slider_height",
+      "value": "16vp"
+    },
+    {
+      "name": "slider_margin_top",
+      "value": "24vp"
+    },
+    {
+      "name": "control_padding",
+      "value": "36vp"
+    },
+    {
+      "name": "label_width_sm",
+      "value": "48vp"
+    },
+    {
+      "name": "label_border",
+      "value": "4vp"
+    },
+    {
+      "name": "label_margin_right",
+      "value": "10vp"
+    },
+    {
+      "name": "singer_margin_top",
+      "value": "2vp"
+    },
+    {
+      "name": "info_margin_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "likes_image",
+      "value": "34vp"
+    },
+    {
+      "name": "lyric_margin_top",
+      "value": "16vp"
+    },
+    {
+      "name": "lyric_margin_right_sm",
+      "value": "3vp"
+    },
+    {
+      "name": "control_lyric_margin",
+      "value": "35vp"
+    },
+    {
+      "name": "common_padding",
+      "value": "24vp"
+    },
+    {
+      "name": "music_component_top",
+      "value": "72vp"
+    },
+    {
+      "name": "music_component_bottom",
+      "value": "20vp"
+    },
+    {
+      "name": "title_font_play",
+      "value": "20vp"
+    },
+    {
+      "name": "margin_lyric",
+      "value": "8vp"
+    },
+    {
+      "name": "shadow_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "cover_radius_label",
+      "value": "8vp"
+    }
+  ]
+}

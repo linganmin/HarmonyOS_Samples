@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "common_background_2",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "common_background_3",
+      "value": "#E5E7E9"
+    },
+    {
+      "name": "function_default_color",
+      "value": "#CCCCCC"
+    }
+  ]
+}

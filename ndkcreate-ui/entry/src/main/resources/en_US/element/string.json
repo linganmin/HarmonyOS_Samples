@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NDKCreateUI"
+    },
+    {
+      "name": "integrating_with_arkts",
+      "value": "IntegratingWithArkts"
+    },
+    {
+      "name": "building_custom_components",
+      "value": "BuildingCustomComponents"
+    },
+    {
+      "name": "listening_for_component_events",
+      "value": "ListeningForComponentEvents"
+    },
+    {
+      "name": "list_with_lazy_loading",
+      "value": "ListWithLazyLoading"
+    },
+    {
+      "name": "list_item_group",
+      "value": "ListItemGroup"
+    },
+    {
+      "name": "embedding_arkts_components",
+      "value": "EmbeddingArkTSComponents"
+    },
+    {
+      "name": "building_dialog_box",
+      "value": "BuildingADialogBox"
+    },
+    {
+      "name": "using_property_animations",
+      "value": "UsingPropertyAnimations"
+    },
+    {
+      "name": "appearance_disappearance_transitions",
+      "value": "Appear./Disappear.Transitions"
+    },
+    {
+      "name": "gesture_events",
+      "value": "CombinedGestures"
+    },
+    {
+      "name": "sequential_recognition",
+      "value": "SequentialRecognition"
+    },
+    {
+      "name": "custom_gesture_judgment",
+      "value": "CustomGestureJudgment"
+    },
+    {
+      "name": "Navbar_title",
+      "value": "UsingNDKToBuildUIs"
+    }
+  ]
+}

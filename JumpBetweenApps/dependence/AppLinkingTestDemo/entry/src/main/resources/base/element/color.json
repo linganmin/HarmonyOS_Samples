@@ -1,0 +1,84 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "back_btn_font_color",
+      "value": "#66000000"
+    },
+    {
+      "name": "color1",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "color2",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "color3",
+      "value": "#66CF0A2C"
+    },
+    {
+      "name": "color4",
+      "value": "#FFC9C9"
+    },
+    {
+      "name": "color5",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "color6",
+      "value": "#66000000"
+    },
+    {
+      "name": "color7",
+      "value": "#0D000000"
+    },
+    {
+      "name": "color8",
+      "value": "#E64566"
+    },
+    {
+      "name": "color9",
+      "value": "#D0092D"
+    },
+    {
+      "name": "color10",
+      "value": "#1AE64566"
+    },
+    {
+      "name": "color11",
+      "value": "#E6000000"
+    },
+    {
+      "name": "color12",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "color13",
+      "value": "#99000000"
+    },
+    {
+      "name": "color14",
+      "value": "#C70A16"
+    },
+    {
+      "name": "color15",
+      "value": "#FAE8E0"
+    },
+    {
+      "name": "color16",
+      "value": "#FFC9C9"
+    },
+    {
+      "name": "color17",
+      "value": "#33000000"
+    },
+    {
+      "name": "color18",
+      "value": "#ff6354"
+    }
+  ]
+}

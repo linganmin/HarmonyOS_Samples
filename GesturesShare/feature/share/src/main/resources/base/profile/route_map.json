@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "FileSharePage",
+      "pageSourceFile": "src/main/ets/view/FileSharePageComponent.ets",
+      "buildFunction": "FileSharePageComponentBuilder",
+      "data": {
+        "description": "this is FileSharePageComponent"
+      }
+    },
+    {
+      "name": "LinkSharePage",
+      "pageSourceFile": "src/main/ets/view/LinkSharePageComponent.ets",
+      "buildFunction": "LinkSharePageComponentBuilder",
+      "data": {
+        "description": "this is LinkSharePageComponent"
+      }
+    }
+  ]
+}

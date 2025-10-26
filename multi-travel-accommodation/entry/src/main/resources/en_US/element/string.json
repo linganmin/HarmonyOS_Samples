@@ -1,0 +1,367 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiTravelAccommodation"
+    },
+    {
+      "name": "HotelDetailPage",
+      "value": "HotelDetailPage"
+    },
+    {
+      "name": "SearchTicketsPage",
+      "value": "SearchTicketsPage"
+    },
+    {
+      "name": "LowPriceCalendar",
+      "value": "Low Price Calendar"
+    },
+    {
+      "name": "January_2024",
+      "value": "January 2024"
+    },
+    {
+      "name": "February_2024",
+      "value": "February 2024"
+    },
+    {
+      "name": "Today",
+      "value": "Today"
+    },
+    {
+      "name": "LowPrice",
+      "value": "Low Price"
+    },
+    {
+      "name": "MoveInto",
+      "value": "move into"
+    },
+    {
+      "name": "leave",
+      "value": "leave"
+    },
+    {
+      "name": "BookingOffers",
+      "value": "Booking Offers"
+    },
+    {
+      "name": "Reduced30",
+      "value": "Reduced 30"
+    },
+    {
+      "name": "receive",
+      "value": "receive"
+    },
+    {
+      "name": "sift",
+      "value": "filter"
+    },
+    {
+      "name": "second_class_seating",
+      "value": "second-clas"
+    },
+    {
+      "name": "first_class_seating",
+      "value": "first-class"
+    },
+    {
+      "name": "Business_Seating",
+      "value": "Business"
+    },
+    {
+      "name": "select_train_number",
+      "value": "select train number"
+    },
+    {
+      "name": "calendar",
+      "value": "calendar"
+    },
+    {
+      "name": "Not_Cancelable",
+      "value": "Not Cancelable"
+    },
+    {
+      "name": "hotel_name",
+      "value": "******* Hotel"
+    },
+    {
+      "name": "hotel_message_one",
+      "value": "Shanghai Luxury Hotel List No.1 >"
+    },
+    {
+      "name": "hotel_message_two",
+      "value": "Opened in 2018|Hot Spring|SPA|Parent-child Hotel|Photo Release|Children's Paradise"
+    },
+    {
+      "name": "hotel_message_three",
+      "value": "'The hot springs are clear, so it's perfect for families!'"
+    },
+    {
+      "name": "hotel_message_four",
+      "value": "1.3km walk from Disney Metro Station"
+    },
+    {
+      "name": "hotel_message_five",
+      "value": "No. 998, ShenDi East Road, PuDong New Area"
+    },
+    {
+      "name": "hotel_message_six",
+      "value": "4.7"
+    },
+    {
+      "name": "hotel_message_seven",
+      "value": "Good"
+    },
+    {
+      "name": "hotel_message_eight",
+      "value": "1616 articles >"
+    },
+    {
+      "name": "hotel_message_nine",
+      "value": "map"
+    },
+    {
+      "name": "room_message_one",
+      "value": "Package Service"
+    },
+    {
+      "name": "room_message_two",
+      "value": "have"
+    },
+    {
+      "name": "room_message_three",
+      "value": "Buy Now"
+    },
+    {
+      "name": "breakfast_number",
+      "value": "breakfast"
+    },
+    {
+      "name": "at_least",
+      "value": "at least"
+    },
+    {
+      "name": "ticket_number",
+      "value": ""
+    },
+    {
+      "name": "journey",
+      "value": "Beijing < > Shanghai"
+    },
+    {
+      "name": "room_button_message_one",
+      "value": "1.22"
+    },
+    {
+      "name": "room_button_message_two",
+      "value": "Today"
+    },
+    {
+      "name": "room_button_message_three",
+      "value": "1 night"
+    },
+    {
+      "name": "room_button_message_four",
+      "value": "1.23"
+    },
+    {
+      "name": "room_button_message_five",
+      "value": "tomorrow"
+    },
+    {
+      "name": "room_button_message_six",
+      "value": "Low Price Calendar"
+    },
+    {
+      "name": "room_button_message_seven",
+      "value": "Single room for one"
+    },
+    {
+      "name": "room_button_message_eight",
+      "value": "package services"
+    },
+    {
+      "name": "room_button_message_nine",
+      "value": "with breakfast"
+    },
+    {
+      "name": "room_button_message_ten",
+      "value": "confirmation"
+    },
+    {
+      "name": "room_button_message_eleven",
+      "value": "cancellation"
+    },
+    {
+      "name": "room_information_one",
+      "value": "1.8m King Bed, 2 People, 25m², Sealed Windows"
+    },
+    {
+      "name": "room_information_two",
+      "value": "King Bed + 2 Singles, 2 People, 30m²"
+    },
+    {
+      "name": "room_information_three",
+      "value": "2m Super King Bed, 2 People, 81m²"
+    },
+    {
+      "name": "room_information_four",
+      "value": "2 Singles, 2 People, 30m²"
+    },    {
+      "name": "room_information_five",
+      "value": "2m King Bed, 2 People, 50-62m²"
+    },
+    {
+      "name": "room_type_one",
+      "value": "Japanese-style Mini King Room"
+    },
+    {
+      "name": "room_type_two",
+      "value": "Family Room for Parents & Kids"
+    },
+    {
+      "name": "room_type_three",
+      "value": "Superior City View Room"
+    },
+    {
+      "name": "room_type_four",
+      "value": "Twin-Bed Room"
+    },
+    {
+      "name": "room_type_five",
+      "value": "Deluxe View Room"
+    },
+    {
+      "name": "room_services",
+      "value": "2 Single Hot Spring Tickets + Children's... 3 Items Total"
+    },
+    {
+      "name": "filter",
+      "value": "filter"
+    },
+    {
+      "name": "shortest_time",
+      "value": "shortest time"
+    },
+    {
+      "name": "earliest_departure",
+      "value": "earliest departure"
+    },
+    {
+      "name": "the_cheapest",
+      "value": "the cheapest"
+    },
+    {
+      "name": "reservation_order",
+      "value": "reservation order"
+    },
+    {
+      "name": "Friday",
+      "value": "Fri."
+    },
+    {
+      "name": "Saturday",
+      "value": "Sat."
+    },
+    {
+      "name": "Sunday",
+      "value": "Sun."
+    },
+    {
+      "name": "Monday",
+      "value": "Mon."
+    },
+    {
+      "name": "Tuesday",
+      "value": "Tue."
+    },
+    {
+      "name": "Wednesday",
+      "value": "Wed."
+    },
+    {
+      "name": "Beijing_South",
+      "value": "Beijing South"
+    },
+    {
+      "name": "Beijing",
+      "value": "Beijing"
+    },
+    {
+      "name": "Shanghai",
+      "value": "Shanghai"
+    },
+    {
+      "name": "Shanghai_Hongqiao",
+      "value": "Hongqiao"
+    },
+    {
+      "name": "train",
+      "value": "train"
+    },
+    {
+      "name": "Railway",
+      "value": "Railway "
+    },
+    {
+      "name": "high_speed",
+      "value": "high-speed train"
+    },
+    {
+      "name": "direct",
+      "value": "direct"
+    },
+    {
+      "name": "Transfer",
+      "value": "Transfer"
+    },
+    {
+      "name": "only_railway",
+      "value": "only railway"
+    },
+    {
+      "name": "only_train",
+      "value": "only train"
+    },
+    {
+      "name": "view_available",
+      "value": "view available"
+    },
+    {
+      "name": "Calendar_Sunday",
+      "value": "Sun."
+    },
+    {
+      "name": "Calendar_Saturday",
+      "value": "Sat."
+    },
+    {
+      "name": "Calendar_Friday",
+      "value": "Fri."
+    },
+    {
+      "name": "Calendar_Thursday",
+      "value": "Thur."
+    },
+    {
+      "name": "Calendar_Wednesday",
+      "value": "Wed."
+    },
+    {
+      "name": "Calendar_Tuesday",
+      "value": "Tue."
+    },
+    {
+      "name": "Calendar_Monday",
+      "value": "Mon."
+    }
+  ]
+}

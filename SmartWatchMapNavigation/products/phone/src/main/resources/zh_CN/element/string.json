@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SmartWatchMapNavigation"
+    },
+    {
+      "name": "request_permission_reason",
+      "value": "申请定位权限以使用导航功能"
+    },
+    {
+      "name": "location_permission",
+      "value": "申请定位权限以使用导航功能"
+    },
+    {
+      "name": "DrawRoute",
+      "value": "绘制路线"
+    },
+    {
+      "name": "Start_navigating",
+      "value": "开启导航"
+    }
+  ]
+}

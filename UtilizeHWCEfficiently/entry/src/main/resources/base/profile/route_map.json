@@ -1,0 +1,52 @@
+{
+  "routerMap": [
+    {
+      "name": "normalVideo",
+      "pageSourceFile": "src/main/ets/pages/NormalVideo.ets",
+      "buildFunction": "NormalVideoBuilder",
+      "data": {
+        "description": "this is normalVideo"
+      }
+    },
+    {
+      "name": "normalWeb",
+      "pageSourceFile": "src/main/ets/pages/NormalWeb.ets",
+      "buildFunction": "NormalWebBuilder",
+      "data": {
+        "description": "this is normalWeb"
+      }
+    },
+    {
+      "name": "opaqueVideo",
+      "pageSourceFile": "src/main/ets/pages/OpaqueVideo.ets",
+      "buildFunction": "OpaqueVideoBuilder",
+      "data": {
+        "description": "this is opaqueVideo"
+      }
+    },
+    {
+      "name": "transparentVideo",
+      "pageSourceFile": "src/main/ets/pages/TransparentVideo.ets",
+      "buildFunction": "TransparentVideoBuilder",
+      "data": {
+        "description": "this is transparentVideo"
+      }
+    },
+    {
+      "name": "videoWithBlur",
+      "pageSourceFile": "src/main/ets/pages/VideoWithBlur.ets",
+      "buildFunction": "VideoWithBlurBuilder",
+      "data": {
+        "description": "this is videoWithBlur"
+      }
+    },
+    {
+      "name": "webWithBlur",
+      "pageSourceFile": "src/main/ets/pages/WebWithBlur.ets",
+      "buildFunction": "WebWithBlurBuilder",
+      "data": {
+        "description": "this is webWithBlur"
+      }
+    }
+  ]
+}

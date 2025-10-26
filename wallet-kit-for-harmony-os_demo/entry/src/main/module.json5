@@ -1,0 +1,47 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "srcEntry": "./ets/application/AbilityStage.ts",
+    "description": "$string:entry_desc",
+    "mainElement": "MainAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.INTERNET"
+      },
+      {
+        "name": "ohos.permission.GET_NETWORK_INFO"
+      }
+    ],
+    "abilities": [
+      {
+        "name": "MainAbility",
+        "srcEntry": "./ets/mainability/MainAbility.ts",
+        "description": "$string:MainAbility_desc",
+        "launchType": "singleton",
+        "icon": "$media:ic_doubleball",
+        "label": "$string:MainAbility_label",
+        "startWindowIcon": "$media:ic_doubleball",
+        "startWindowBackground": "$color:white",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "metadata": []
+  }
+}

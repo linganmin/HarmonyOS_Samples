@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "实现组件复用"
+    },
+    {
+      "name": "index_same_list",
+      "value": "同一列表内的组件复用"
+    },
+    {
+      "name": "index_diff_list",
+      "value": "多个列表间的组件复用"
+    },
+    {
+      "name": "index_same_list_one_type",
+      "value": "列表项结构类型相同"
+    },
+    {
+      "name": "index_same_list_multi_type",
+      "value": "列表项结构类型不同"
+    },
+    {
+      "name": "index_same_list_composable_type",
+      "value": "列表项内子组件可拆分组合"
+    }
+  ]
+}

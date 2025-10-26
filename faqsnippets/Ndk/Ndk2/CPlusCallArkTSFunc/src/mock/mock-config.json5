@@ -1,0 +1,5 @@
+{
+  "libcpluscallarktsfunc.so": {
+    "source": "src/mock/Libcpluscallarktsfunc.mock.ets"
+  }
+}

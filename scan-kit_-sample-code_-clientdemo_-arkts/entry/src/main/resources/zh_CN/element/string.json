@@ -1,0 +1,240 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "统一扫码示例"
+    },
+    {
+      "name": "Scan_light_to_off",
+      "value": "轻触关闭"
+    },
+    {
+      "name": "Scan_light_to_on",
+      "value": "轻触照亮"
+    },
+    {
+      "name": "Scan_diaLog_not_found",
+      "value": "未识别到二维码/条形码。"
+    },
+    {
+      "name": "Scan_diaLog_got_it",
+      "value": "知道了"
+    },
+    {
+      "name": "Scan_access_not_enabled",
+      "value": "未开启相机权限"
+    },
+    {
+      "name": "Scan_access_tips",
+      "value": "请在“设置”>“应用和元服务”>“统一扫码示例”>“权限”中开启“相机”权限。"
+    },
+    {
+      "name": "Scan_got_it",
+      "value": "取消"
+    },
+    {
+      "name": "Scan_settings",
+      "value": "前往设置"
+    },
+    {
+      "name": "Scan_barcode",
+      "value": "扫描二维码/条码"
+    },
+    {
+      "name": "Scan_barcode_tips",
+      "value": "对准二维码/条码，即可自动扫描"
+    },
+    {
+      "name": "demo_title",
+      "value": "HarmonyOS Scan Kit示例"
+    },
+    {
+      "name": "demo_subject",
+      "value": "统一扫码服务"
+    },
+    {
+      "name": "demo_detail",
+      "value": "软硬协同的系统级扫码服务和“扫码直达”服务，帮助您快速构建面向各种场景的码识别和生成能力。"
+    },
+    {
+      "name": "default_view_decode",
+      "value": "默认界面扫码能力"
+    },
+    {
+      "name": "customized_view_decode",
+      "value": "自定义界面扫码能力"
+    },
+    {
+      "name": "customized_view_decode_v2",
+      "value": "自定义界面扫码能力V2"
+    },
+    {
+      "name": "bitmap_api_decode",
+      "value": "图像识码能力"
+    },
+    {
+      "name": "bitmap_api_decode_image",
+      "value": "识别本地图片"
+    },
+    {
+      "name": "bitmap_api_decode_pixel",
+      "value": "识别图像数据"
+    },
+    {
+      "name": "generate_QR_code",
+      "value": "码图生成能力"
+    },
+    {
+      "name": "barcode_content",
+      "value": "码内容："
+    },
+    {
+      "name": "barcode_width",
+      "value": "码宽度："
+    },
+    {
+      "name": "barcode_height",
+      "value": "码高度："
+    },
+    {
+      "name": "barcode_type",
+      "value": "码类型："
+    },
+    {
+      "name": "barcode_margin",
+      "value": "边距："
+    },
+    {
+      "name": "barcode_color",
+      "value": "颜色："
+    },
+    {
+      "name": "barcode_background_color",
+      "value": "背景色："
+    },
+    {
+      "name": "barcode_error_level",
+      "value": "纠错水平: "
+    },
+    {
+      "name": "generate_barcode",
+      "value": "生成码"
+    },
+    {
+      "name": "generate_trip_barcode",
+      "value": "生成乘车码"
+    },
+    {
+      "name": "trip_barcode_tip",
+      "value": "乘车码是通过字节数组生成，请输入十六进制字符串表示的字节数组"
+    },
+    {
+      "name": "title_result",
+      "value": "结果"
+    },
+    {
+      "name": "code_format",
+      "value": "码类型"
+    },
+    {
+      "name": "code_rect",
+      "value": "码位置信息"
+    },
+    {
+      "name": "result_content",
+      "value": "码值"
+    },
+    {
+      "name": "permission_reason_camera",
+      "value": "用于扫码拍照"
+    },
+    {
+      "name": "decode_zoom_current",
+      "value": "缩放比例,当前比例: "
+    },
+    {
+      "name": "decode_zoom_enter",
+      "value": "输入缩放倍数"
+    },
+    {
+      "name": "Scan_gallery",
+      "value": "图库"
+    },
+    {
+      "name": "Scan_album_loading",
+      "value": "正在处理…"
+    },
+    {
+      "name": "Scan_barcode_tips_callback",
+      "value": "扫描到多个码，请选择一个打开"
+    },
+    {
+      "name": "scan_to_access",
+      "value": "扫码直达"
+    },
+    {
+      "name": "welcome_to_access",
+      "value": "欢迎接入“扫码直达”服务"
+    },
+    {
+      "name": "access_integration_process",
+      "value": "扫码直达接入流程"
+    },
+    {
+      "name": "access_detail_title",
+      "value": "扫码直达"
+    },
+    {
+      "name": "access_detail_info_f",
+      "value": "在日常生活中，人们会使用各种应用扫各式各样的码，而“扫码直达”服务则为用户带来一种全新的扫码体验。"
+    },
+    {
+      "name": "access_detail_info_t",
+      "value": "开发者将域名注册到“扫码直达”服务后，用户可通过控制中心等系统级的常驻入口，扫应用的二维码、条形码并跳转到应用对应服务页，实现一步直达服务的体验。"
+    },
+    {
+      "name": "access_detail_example",
+      "value": "开发示例："
+    },
+    {
+      "name": "access_detail_example_f",
+      "value": "1、开发者参考App Linking集成指导完成域名注册，并生成应用发行二维码。"
+    },
+    {
+      "name": "access_detail_example_t",
+      "value": "2、通过控制中心扫码入口，扫描该二维码。"
+    },
+    {
+      "name": "access_detail_procedure",
+      "value": "开发步骤："
+    },
+    {
+      "name": "access_detail_procedure1",
+      "value": "1、参考App Linking集成指导完成域名注册。"
+    },
+    {
+      "name": "access_detail_procedure2",
+      "value": "2、创建的包名，配置好的域名映射关系，应用签名配置到应用项目中（项目创建的名称和应用包名bundleName一致）。"
+    },
+    {
+      "name": "access_detail_procedure3",
+      "value": "3、打开HarmonyOS扫码入口（控制中心扫码入口），扫描应用发行的二维码（已注册域名生成的二维码）。"
+    },
+    {
+      "name": "access_detail_procedure4",
+      "value": "4、扫码拉起已安装的应用并直达目标服务页。"
+    },
+    {
+      "name": "access_detail_th",
+      "value": "扫码流程示例"
+    }
+  ]
+}

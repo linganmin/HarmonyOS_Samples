@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "ConnectPage",
+      "pageSourceFile": "src/main/ets/view/ConnectPageView.ets",
+      "buildFunction": "ConnectViewPageBuilder",
+      "data": {
+        "description" : "this is ConnectPage111"
+      }
+    },
+    {
+      "name": "SensorsPage",
+      "pageSourceFile": "src/main/ets/view/SensorsPageView.ets",
+      "buildFunction": "SensorsViewBuilder",
+      "data": {
+        "description" : "this is SensorsViewPage"
+      }
+    }
+  ]
+}

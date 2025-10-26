@@ -1,0 +1,43 @@
+// [Start demo_html]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<button type="button" onclick="htmlTest()"> Click Me!</button>
+<p id="demo"></p>
+<p id="webDemo"></p>
+<p id="asyncDemo"></p>
+</body>
+<script type="text/javascript">
+    async function htmlTest() {
+      document.getElementById("demo").innerHTML = '测试开始:' + new Date().getTime() + '\n';
+      const time1 = new Date().getTime();
+      objTestName.webString();
+      const time2 = new Date().getTime();
+      objAsyncName.asyncString();
+      const time3 = new Date().getTime();
+      objName.asyncTestBool();
+      const time4 = new Date().getTime();
+      objName.test();
+      const time5 = new Date().getTime();
+      objTestName.webTest();
+      const time6 = new Date().getTime();
+      objAsyncName.asyncTest();
+      const time7 = new Date().getTime();
+      const result = [
+        'objTestName.webString()耗时：'+ (time2 - time1),
+        'objAsyncName.asyncString()耗时：'+ (time3 - time2),
+        'objName.asyncTestBool()耗时：'+ (time4 - time3),
+        'objName.test()耗时：'+ (time5 - time4),
+        'objTestName.webTest()耗时：'+ (time6 - time5),
+        'objAsyncName.asyncTest()耗时：'+ (time7 - time6)
+      ]
+      document.getElementById("demo").innerHTML = document.getElementById("demo").innerHTML + '\n' + result.join('\n');
+    }
+</script>
+</html>
+// [End demo_html]

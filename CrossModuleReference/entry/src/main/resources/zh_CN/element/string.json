@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CrossModuleReference"
+    },
+    {
+      "name": "title",
+      "value": "Native跨HSP/HAR调用"
+    },
+    {
+      "name": "call_native_method",
+      "value": "调用Native方法"
+    },
+    {
+      "name": "call_har_native_method",
+      "value": "调用HarNative方法"
+    },
+    {
+      "name": "call_har_ArkTS_method",
+      "value": "通过Native方法调用HarArkTS方法"
+    },
+    {
+      "name": "call_hsp_native_method",
+      "value": "调用HspNative方法"
+    },
+    {
+      "name": "call_hsp_ArkTS_method",
+      "value": "通过Native方法调用HspArkTS方法"
+    }
+  ]
+}

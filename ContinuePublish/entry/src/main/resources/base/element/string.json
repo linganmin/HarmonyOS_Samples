@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Continue Publish"
+    },
+    {
+      "name": "richEditor_placeholder",
+      "value": "Click to enter text......"
+    },
+    {
+      "name": "text_posts",
+      "value": "App Continue(Content Publish)"
+    },
+    {
+      "name": "add_local",
+      "value": "Add Location"
+    },
+    {
+      "name": "topic",
+      "value": "Topic"
+    },
+    {
+      "name": "text_input_placeholder",
+      "value": "Add a title to be more likely to recommend (optional)"
+    },
+    {
+      "name": "add_high_img",
+      "value": "Add Image"
+    },
+    {
+      "name": "trigger_event",
+      "value": "Function to be developed."
+    },
+    {
+      "name": "add_picture_prompt",
+      "value": "The number of added pictures reaches the upper limit."
+    },
+    {
+      "name": "continue_add",
+      "value": "Continue Add"
+    },
+    {
+      "name": "image_add",
+      "value": "Upper Limit"
+    },
+    {
+      "name": "default_location",
+      "value": "Building %d, XX Road, Wuhan"
+    },
+    {
+      "name": "permission_location_in_background",
+      "value": "When loading a list of location information, Allows applications to obtain device location information while running in the background"
+    },
+    {
+      "name": "permission_location",
+      "value": "When loading a list of location information, Allows applications to obtain device location information"
+    },
+    {
+      "name": "permission_approximately_location",
+      "value": "When loading a list of location information, Allows applications to obtain fuzzy device location information"
+    },
+    {
+      "name": "permission_read_pasteboard",
+      "value": "Allow the app to read the clipboard"
+    },
+    {
+      "name": "permission_read_imagevideo",
+      "value": "Allow reading of image or video files in the user's public directory"
+    },
+    {
+      "name": "permission_distributed_datasync",
+      "value": "Allow data exchange between different devices"
+    },
+    {
+      "name": "copy",
+      "value": "Copy"
+    },
+    {
+      "name": "paste",
+      "value": "Paste"
+    },
+    {
+      "name": "primary_title",
+      "value": "Get Pictures"
+    },
+    {
+      "name": "local_device",
+      "value": "Local Devices"
+    },
+    {
+      "name": "remote_device",
+      "value": "Other Devices"
+    }
+  ]
+}

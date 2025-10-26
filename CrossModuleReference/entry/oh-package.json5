@@ -1,0 +1,17 @@
+// [Start entry_start]
+{
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libentry.so": "file:./src/main/cpp/types/libentry",
+    "static_module": "file:../staticModule",
+    // [StartExclude entry_start]
+    "shared_module": "file:../sharedModule",
+    // [EndExclude entry_start]
+  }
+}
+// [End entry_start]

@@ -1,0 +1,52 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "contact_font_color",
+      "value": "#182431"
+    },
+    {
+      "name": "index_font_color_selected",
+      "value": "#FF007DFF"
+    },
+    {
+      "name": "index_background_color_selected",
+      "value": "#1a007dff"
+    },
+    {
+      "name": "index_background_color_search",
+      "value": "#00000000"
+    },
+    {
+      "name": "list_background_color_search",
+      "value": "#33000000"
+    },
+    {
+      "name": "contact_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "chat_background",
+      "value": "#E6EE9C"
+    },
+    {
+      "name": "comment_background",
+      "value": "#80000000"
+    },
+    {
+      "name": "line_color",
+      "value": "#0D182431"
+    },
+    {
+      "name": "text_font_color",
+      "value": "#6F7780"
+    },
+    {
+      "name": "border_color",
+      "value": "#E8EBED"
+    }
+  ]
+}

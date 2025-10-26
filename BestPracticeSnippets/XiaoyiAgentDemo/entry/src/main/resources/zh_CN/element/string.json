@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "主入口Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "media_permission_reason",
+      "value": "用于播放预置音频"
+    },
+    {
+      "name": "InsightExecutor_label",
+      "value": "意图执行器"
+    },
+    {
+      "name": "entry_MainAbility",
+      "value": "小艺智能体Demo"
+    },
+    {
+      "name": "title",
+      "value": "此应用支持以下外部操作："
+    },
+    {
+      "name": "button",
+      "value": "跳转到第二页"
+    },
+    {
+      "name": "text1",
+      "value": "播放预存音频: 小艺Demo智能体指令'播放音乐'"
+    },
+    {
+      "name": "text2",
+      "value": "获取文本内容: 小艺Demo智能体指令'获取信息'"
+    },
+    {
+      "name": "text3",
+      "value": "跳转到第二页面: 小艺Demo智能体指令'跳转页面'"
+    },
+    {
+      "name": "load",
+      "value": "等待加载文本..."
+    },
+    {
+      "name": "show",
+      "value": "此处用来展示APP信息"
+    },
+    {
+      "name": "back",
+      "value": "返回"
+    },
+    {
+      "name": "play",
+      "value": "播放音乐"
+    },
+    {
+      "name": "acquire",
+      "value": "获取信息"
+    },
+    {
+      "name": "jump",
+      "value": "跳转页面"
+    },
+    {
+      "name": "hidden",
+      "value": "隐藏信息获取失败，"
+    },
+    {
+      "name": "deep_link",
+      "value": "此页面可以通过 deeplink 打开：demo://aiagentdemo.com/SecondPage"
+    }
+  ]
+}

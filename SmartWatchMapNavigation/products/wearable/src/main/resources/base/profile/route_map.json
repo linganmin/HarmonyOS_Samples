@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "NavigationPageView",
+      "pageSourceFile": "src/main/ets/view/NavigationPageView.ets",
+      "buildFunction": "NavigationPageViewBuilder",
+      "data": {
+        "description" : "this is NavigationPageView"
+      }
+    }
+  ]
+}

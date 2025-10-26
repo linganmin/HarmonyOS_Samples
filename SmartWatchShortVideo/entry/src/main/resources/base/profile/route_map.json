@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "VideoView",
+      "pageSourceFile": "src/main/ets/view/VideoView.ets",
+      "buildFunction": "videoViewBuilder",
+      "data": {
+        "description": "This is a page of video."
+      }
+    },
+    {
+      "name": "UpdateReminderView",
+      "pageSourceFile": "src/main/ets/view/UpdateReminderView.ets",
+      "buildFunction": "updateReminderViewBuilder",
+      "data": {
+        "description": "This is a page of reminder."
+      }
+    }
+  ]
+}

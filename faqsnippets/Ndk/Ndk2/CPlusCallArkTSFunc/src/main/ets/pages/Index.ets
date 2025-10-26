@@ -1,0 +1,46 @@
+/*
+ * Copyright (c) 2024 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+/**
+ * FAQ: 如何在C++调用从ArkTS传递过来的function
+ */
+
+// [Start c_plus_call_ark_ts_func_ets]
+// entry/src/main/ets/pages/Index.ets
+// Introduce native capabilities through import.
+import nativeModule from 'libentry.so'
+
+@Entry
+@Component
+struct Index {
+  @State message: string = 'Test Node-API nativeCallArkTS result: ';
+  build() {
+    Row() {
+      Column() {
+        // Call the nativeCallArkTS method, corresponding to the Native NativeCallArkTS, and call the ArkTS function in Native.
+        Text(this.message)
+          .fontSize(50)
+          .fontWeight(FontWeight.Bold)
+          .onClick(() => {
+            this.message += nativeModule.nativeCallArkTS((a: number)=> {
+              return a * 2;
+            });
+          })
+      }
+      .width('100%')
+    }
+    .height('100%')
+  }
+}
+// [End c_plus_call_ark_ts_func_ets]

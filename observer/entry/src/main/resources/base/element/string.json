@@ -1,0 +1,436 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "observer"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "Subscribe to monitor network status, signal status, call status, cellular data, SIM status, and other events"
+    },
+    {
+      "name": "network_permission",
+      "value": "Used for subscribing to network status scenarios to obtain network information."
+    },
+    {
+      "name": "read_call_permission",
+      "value": "Obtain call status permission"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "observer"
+    },
+    {
+      "name": "details",
+      "value": "View details"
+    },
+    {
+      "name": "network_state_change",
+      "value": "Network status change"
+    },
+    {
+      "name": "signal_info_change",
+      "value": "Signal status change"
+    },
+    {
+      "name": "callState_change",
+      "value": "Subscription call status change event"
+    },
+    {
+      "name": "cellular_data_connection_state_change",
+      "value": "Cellular data link connection"
+    },
+    {
+      "name": "cellular_data_flow_change",
+      "value": "Cellular data service data flow status"
+    },
+    {
+      "name": "sim_state_change",
+      "value": "SIM card status change"
+    },
+    {
+      "name": "detail",
+      "value": "detailed information"
+    },
+    {
+      "name": "network_registration_status",
+      "value": "Network registration status"
+    },
+    {
+      "name": "network_state_long_operator_name",
+      "value": "Register the long operator name for the network:"
+    },
+    {
+      "name": "network_state_short_operator_name",
+      "value": "Register the short operator name for the network:"
+    },
+    {
+      "name": "plmn_numeric",
+      "value": "Register the PLMN code for the network:"
+    },
+    {
+      "name": "is_roaming",
+      "value": "Is it in roaming mode:"
+    },
+    {
+      "name": "reg_state",
+      "value": "The network registration status of the device:"
+    },
+    {
+      "name": "cfg_tech",
+      "value": "Wireless access technology for devices:"
+    },
+    {
+      "name": "nsa_state",
+      "value": "NSA network registration status of the device:"
+    },
+    {
+      "name": "is_ca_active",
+      "value": "The status of CA:"
+    },
+    {
+      "name": "is_emergency",
+      "value": "Does this device only allow emergency calls to be made:"
+    },
+    {
+      "name": "signal_information",
+      "value": "Network signal strength"
+    },
+    {
+      "name": "signal_type",
+      "value": "Network signal strength type:"
+    },
+    {
+      "name": "signal_level",
+      "value": "Network signal strength level:"
+    },
+    {
+      "name": "call_state",
+      "value": "Call status"
+    },
+    {
+      "name": "call_state_code",
+      "value": "Call status code:"
+    },
+    {
+      "name": "phone_number",
+      "value": "Phone number::"
+    },
+    {
+      "name": "cellular_data",
+      "value": "Cellular data"
+    },
+    {
+      "name": "cellular_data_connection_state",
+      "value": "Cellular data link connection status:"
+    },
+    {
+      "name": "cellular_data_flow_type",
+      "value": "Cellular data stream type:"
+    },
+    {
+      "name": "sim_card_status",
+      "value": "SIM card status"
+    },
+    {
+      "name": "card_type",
+      "value": "SIM card type:"
+    },
+    {
+      "name": "sim_status",
+      "value": "SIM card status:"
+    },
+    {
+      "name": "lock_reason",
+      "value": "SIM card lock type:"
+    },
+    {
+      "name": "REG_STATE_NO_SERVICE",
+      "value": "The device cannot use any services"
+    },
+    {
+      "name": "REG_STATE_IN_SERVICE",
+      "value": "The device can be used normally for business purposes"
+    },
+    {
+      "name": "REG_STATE_EMERGENCY_CALL_ONLY",
+      "value": "The device can only use emergency call services"
+    },
+    {
+      "name": "REG_STATE_POWER_OFF",
+      "value": "Cellular radio has been turned off"
+    },
+    {
+      "name": "NA",
+      "value": "NA"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_UNKNOWN",
+      "value": "Unknown wireless access technology"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_GSM",
+      "value": "Wireless Access Technology GSM"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_1XRTT",
+      "value": "Wireless access technology 1XRTT"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_WCDMA",
+      "value": "Wireless Access Technology WCDMA"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_HSPA",
+      "value": "Wireless access technology HSPA"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_HSPAP",
+      "value": "Wireless Access Technology HSPAP"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_TD_SCDMA",
+      "value": "Wireless Access Technology TDSCDMA"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_EVDO",
+      "value": "Wireless Access Technology EVDO"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_EHRPD",
+      "value": "Wireless Access Technology EHRPD"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_LTE",
+      "value": "Wireless access technology LTE"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_LTE_CA",
+      "value": "Wireless Access Technology LTE-CA"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_IWLAN",
+      "value": "Wireless Access Technology IWLAN"
+    },
+    {
+      "name": "RADIO_TECHNOLOGY_NR",
+      "value": "Wireless Access Technology NR"
+    },
+    {
+      "name": "NSA_STATE_NOT_SUPPORT",
+      "value": "The device is idle or connected in LTE cells that do not support NSA"
+    },
+    {
+      "name": "NSA_STATE_NO_DETECT",
+      "value": "In LTE cells that support NSA but do not support NR coverage detection，and the device is in an idle state"
+    },
+    {
+      "name": "NSA_STATE_CONNECTED_DETECT",
+      "value": "Devices connected to LTE networks in LTE cells support NSA and NR coverage detection"
+    },
+    {
+      "name": "NSA_STATE_IDLE_DETECT",
+      "value": "Devices in LTE cells that support NSA and NR coverage detection are idle"
+    },
+    {
+      "name": "NSA_STATE_DUAL_CONNECTED",
+      "value": "The device is connected to an LTE + NR network in an LTE cell that supports NSA"
+    },
+    {
+      "name": "NSA_STATE_SA_ATTACHED",
+      "value": "The device is idle or connected to the NG-RAN cell when attached to 5GC"
+    },
+    {
+      "name": "NETWORK_TYPE_UNKNOWN",
+      "value": "Unknown network type"
+    },
+    {
+      "name": "NETWORK_TYPE_GSM",
+      "value": "The network type is GSM"
+    },
+    {
+      "name": "NETWORK_TYPE_CDMA",
+      "value": "The network type is CDMA"
+    },
+    {
+      "name": "NETWORK_TYPE_WCDMA",
+      "value": "The network type is WCDMA"
+    },
+    {
+      "name": "NETWORK_TYPE_TDSCDMA",
+      "value": "The network type is TDSCDMA"
+    },
+    {
+      "name": "NETWORK_TYPE_LTE",
+      "value": "The network type is LTE"
+    },
+    {
+      "name": "NETWORK_TYPE_NR",
+      "value": "The network type is 5G NR"
+    },
+    {
+      "name": "CALL_STATE_UNKNOWN",
+      "value": "invalid state"
+    },
+    {
+      "name": "CALL_STATE_IDLE",
+      "value": "There are no ongoing calls"
+    },
+    {
+      "name": "CALL_STATE_RINGING",
+      "value": "The call is ringing or waiting"
+    },
+    {
+      "name": "CALL_STATE_OFFHOOK",
+      "value": "At least one call is in dial-up, on call, or call hold status, and there are no new incoming calls ringing or waiting"
+    },
+    {
+      "name": "DATA_STATE_UNKNOWN",
+      "value": "Unknown cellular data link"
+    },
+    {
+      "name": "DATA_FLOW_TYPE_NONE",
+      "value": "No upstream or downstream data"
+    },
+    {
+      "name": "DATA_FLOW_TYPE_DOWN",
+      "value": "Only downlink data is available"
+    },
+    {
+      "name": "DATA_FLOW_TYPE_UP",
+      "value": "Only upstream data"
+    },
+    {
+      "name": "DATA_FLOW_TYPE_UP_DOWN",
+      "value": "There is up and down data available"
+    },
+    {
+      "name": "DATA_FLOW_TYPE_DORMANT",
+      "value": "There is no upstream or downstream data, and the underlying link is in sleep mode"
+    },
+    {
+      "name": "UNKNOWN_CARD",
+      "value": "unknown type"
+    },
+    {
+      "name": "SINGLE_MODE_SIM_CARD",
+      "value": "Single SIM card"
+    },
+    {
+      "name": "SINGLE_MODE_USIM_CARD",
+      "value": "Single USIM card"
+    },
+    {
+      "name": "SINGLE_MODE_RUIM_CARD",
+      "value": "Single RUIM card"
+    },
+    {
+      "name": "DUAL_MODE_CG_CARD",
+      "value": "Dual card mode C+G"
+    },
+    {
+      "name": "CT_NATIONAL_ROAMING_CARD",
+      "value": "China Telecom Internal Roaming Card"
+    },
+    {
+      "name": "CU_DUAL_MODE_CARD",
+      "value": "China Unicom dual-mode card"
+    },
+    {
+      "name": "DUAL_MODE_TELECOM_LTE_CARD",
+      "value": "Dual mode telecommunications LTE card"
+    },
+    {
+      "name": "DUAL_MODE_UG_CARD",
+      "value": "Dual mode UG card"
+    },
+    {
+      "name": "SINGLE_MODE_ISIM_CARD",
+      "value": "Single ISIM card type"
+    },
+    {
+      "name": "SIM_STATE_UNKNOWN",
+      "value": "SIM card status unknown"
+    },
+    {
+      "name": "SIM_STATE_NOT_PRESENT",
+      "value": "There is no SIM inserted into the card slot."
+    },
+    {
+      "name": "SIM_STATE_LOCKED",
+      "value": "SIM locked by PIN, PUK or network lock."
+    },
+    {
+      "name": "SIM_STATE_NOT_READY",
+      "value": "SIM in place but unable to function properly."
+    },
+    {
+      "name": "SIM_STATE_READY",
+      "value": "SIM in place and working properly."
+    },
+    {
+      "name": "SIM_STATE_LOADED",
+      "value": "SIM in place and all card files loaded."
+    },
+    {
+      "name": "SIM_NONE",
+      "value": "None Lock"
+    },
+    {
+      "name": "SIM_PIN",
+      "value": "PIN"
+    },
+    {
+      "name": "SIM_PUK",
+      "value": "Network PUK"
+    },
+    {
+      "name": "SIM_PN_PIN",
+      "value": "Network PIN"
+    },
+    {
+      "name": "SIM_PN_PUK",
+      "value": "Network PUK lock"
+    },
+    {
+      "name": "SIM_PU_PIN",
+      "value": "Subnet PIN"
+    },
+    {
+      "name": "SIM_PU_PUK",
+      "value": "Subnet PUK"
+    },
+    {
+      "name": "SIM_PP_PIN",
+      "value": "Service provider PIN"
+    },
+    {
+      "name": "SIM_PP_PUK",
+      "value": "Service provider PUK"
+    },
+    {
+      "name": "SIM_PC_PIN",
+      "value": "PC PIN"
+    },
+    {
+      "name": "SIM_PC_PUK",
+      "value": "PC PUK"
+    },
+    {
+      "name": "SIM_SIM_PIN",
+      "value": "SIM PIN"
+    },
+    {
+      "name": "SIM_SIM_PUK",
+      "value": "SIM PUK"
+    },
+    {
+      "name": "yes",
+      "value": "Yes"
+    },
+    {
+      "name": "no",
+      "value": "No"
+    }
+  ]
+}

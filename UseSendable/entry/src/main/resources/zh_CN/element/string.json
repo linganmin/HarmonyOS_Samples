@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UseSendable"
+    },
+    {
+      "name": "use_sendable",
+      "value": "Sendable的使用案例"
+    },
+    {
+      "name": "sendable_thread_share",
+      "value": "Sendable的线程间共享"
+    },
+    {
+      "name": "producer_consumer_model",
+      "value": "生产者/消费者模式"
+    },
+    {
+      "name": "start",
+      "value": "启动"
+    },
+    {
+      "name": "complete",
+      "value": "完成"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "continue",
+      "value": "继续"
+    },
+    {
+      "name": "button_one",
+      "value": "主线程生产一条日志"
+    },
+    {
+      "name": "button_two",
+      "value": "十个子线程生产十条日志"
+    },
+    {
+      "name": "button_three",
+      "value": "长时生产日志"
+    },
+    {
+      "name": "button_four",
+      "value": "停止长时生产日志"
+    },
+    {
+      "name": "button_five",
+      "value": "一个消费者线程消费"
+    },
+    {
+      "name": "button_six",
+      "value": "两个消费者线程消费"
+    },
+    {
+      "name": "button_seven",
+      "value": "停止消费者线程"
+    },
+    {
+      "name": "spring_story",
+      "value": "春天的故事"
+    },
+    {
+      "name": "summer_story",
+      "value": "夏天的故事"
+    },
+    {
+      "name": "autumn_story",
+      "value": "秋天的故事"
+    },
+    {
+      "name": "winter_story",
+      "value": "冬天的故事"
+    },
+    {
+      "name": "file_download_list",
+      "value": "文件下载列表"
+    }
+  ]
+}

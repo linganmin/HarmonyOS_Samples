@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "ImperativeViewComponent",
+      "pageSourceFile": "src/main/ets/view/ImperativeView.ets",
+      "buildFunction": "ImperativeViewComponentBuilder",
+      "data": {
+        "description": "This is ImperativeViewComponent"
+      }
+    },
+    {
+      "name": "MainPage",
+      "pageSourceFile": "src/main/ets/pages/MainPage.ets",
+      "buildFunction": "MainPageBuilder",
+      "data": {
+        "description": "This is MainPage"
+      }
+    }
+  ]
+}

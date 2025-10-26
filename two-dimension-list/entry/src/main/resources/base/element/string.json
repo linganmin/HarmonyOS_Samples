@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TwoDimensionList"
+    },
+    {
+      "name": "title",
+      "value": "TwoDimensionList"
+    },
+    {
+      "name": "type_phone",
+      "value": "phone"
+    },
+    {
+      "name": "type_computer",
+      "value": "computer"
+    },
+    {
+      "name": "type_watch",
+      "value": "watch"
+    },
+    {
+      "name": "type_earphone",
+      "value": "earphone"
+    },
+    {
+      "name": "name_title",
+      "value": "Name"
+    },
+    {
+      "name": "price",
+      "value": "Price"
+    },
+    {
+      "name": "type",
+      "value": "Type"
+    },
+    {
+      "name": "standards",
+      "value": "Standard"
+    },
+    {
+      "name": "image",
+      "value": "Image"
+    }
+  ]
+}

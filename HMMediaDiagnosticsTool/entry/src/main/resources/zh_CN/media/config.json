@@ -1,0 +1,850 @@
+[
+  {
+    "index": 0,
+    "required": true,
+    "scene": "background test",
+    "sceneName": "音频后台播放场景（必选）",
+    "pageIcon": 6,
+    "sceneText": "",
+    "isInteractive": false,
+    "sceneDescription": "音频后台播放场景，此场景为必选场景",
+    "checkPoint": [
+      "被检测应用切换到后台，音频是否可以持续正常播放（大于15秒）"
+    ],
+    "bestExperience": [
+      "被检测应用切换到后台后，音频可以持续正常播放"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "应用实现后台播放需要接入AVSession并申请后台长时任务",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/avsession-access-scene-V5",
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/continuous-task-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "打开被检测应用并开始播放",
+        "dialogContent": "请确认被检测应用已置于后台并开始播放，并保持播放时长大于15秒",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用音频在后台正常播放"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用音频在后台未播放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "required": true,
+    "scene": "dial",
+    "sceneName": "来电接听场景（必选）",
+    "pageIcon": 4,
+    "sceneText": "",
+    "isInteractive": false,
+    "sceneDescription": "来电接听场景，此场景为必选场景",
+    "checkPoint": [
+      "来电响铃时被检测应用音频是否暂停，通话结束后音频是否继续播放，UX状态是否正常刷新"
+    ],
+    "bestExperience": [
+      "来电响铃时被检测应用音频暂停，通话结束后音频继续播放，被检测应用UX状态可以同步刷新"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置焦点模式，并处理打断事件",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "确保SIM卡已插入",
+      "打开被检测应用并开始播放",
+      "呼叫手机"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "dialService",
+        "dialogTitle": "",
+        "dialogContent": "",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "来电响铃时被检测应用音频暂停，通话结束后音频继续播放，UX状态同步正确"
+          },
+          {
+            "index": 1,
+            "text": "来电响铃时被检测应用音频暂停，通话结束后音频继续播放，但是UX状态同步异常"
+          },
+          {
+            "index": 2,
+            "text": "来电响铃时被检测应用音频暂停或通话结束后音频未继续播放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "required": true,
+    "scene": "alarm clock",
+    "audioType": "STREAM_USAGE_ALARM",
+    "sceneName": "闹钟场景（必选）",
+    "pageIcon": 5,
+    "sceneText": "",
+    "isInteractive": true,
+    "sceneDescription": "闹钟场景，此场景为必选场景",
+    "checkPoint": [
+      "闹钟响起时被检测应用音频是否暂停，结束后音频是否继续播放，UX状态是否正常刷新"
+    ],
+    "bestExperience": [
+      "闹钟响起时被检测应用音频暂停，结束后音频继续播放，被检测应用UX状态可以同步刷新"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置焦点模式，并处理打断事件",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "触发模拟闹钟音频流"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "触发模拟闹钟音频流",
+        "dialogContent": "请确认被检测应用已置于后台并开始播放，点击“确认”将触发模拟闹钟音频流",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "闹钟响起时被检测应用音频暂停，结束后音频继续播放，UX状态同步正确"
+          },
+          {
+            "index": 1,
+            "text": "闹钟响起时被检测应用音频暂停，结束后音频继续播放，但是UX状态同步异常"
+          },
+          {
+            "index": 2,
+            "text": "闹钟响起时被检测应用音频未暂停或闹钟结束后音频未继续播放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "required": false,
+    "scene": "play control",
+    "sceneName": "播控中心音频控制场景",
+    "pageIcon": 6,
+    "sceneText": "",
+    "isInteractive": false,
+    "sceneDescription": "播控中心音频控制场景，此场景为非必选场景",
+    "checkPoint": [
+      "通过播控中心是否可以正常控制音频（播放、暂停、上一首、下一首、进度条拖动、循环播放、收藏），被检测应用UX是否能正常刷新"
+    ],
+    "bestExperience": [
+      "播控中心集成正确，功能完全，被检测应用UX可以同步刷新"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 1,
+    "optimization": "使用播控中心需要接入AVSession",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/local-avsession-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [],
+    "steps": [
+      {
+        "text": "点击播控中心播放",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "播控中心控制音频播放",
+        "dialogContent": "请确认被检测应用已置于后台并开始播放",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用音频正常播放，应用内UX状态同步更新为播放"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用音频正常播放，应用内UX状态未同步"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用音频未正常播放"
+          }
+        ]
+      },
+      {
+        "text": "点击播控中心暂停",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "播控中心控制音频暂停",
+        "dialogContent": "请确认已点击被检测应用播控中心暂停",
+        "dialogConfirm": "next",
+
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用音频暂停，应用内UX状态同步更新为暂停"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用音频暂停，应用内UX状态未同步"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用音频未暂停播放"
+          }
+        ]
+      },
+      {
+        "text": "点击播控中心上一首",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "播控中心控制歌曲切换上一首",
+        "dialogContent": "请确认已点击被检测应用上一首",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用成功播放上一首，应用内UX同步更新为上一首的信息"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用成功播放上一首，应用内UX未同步"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用未正常播放上一首"
+          }
+        ]
+      },
+      {
+        "text": "点击播控中心下一首",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "播控中心控制歌曲切换下一首",
+        "dialogContent": "请确认已点击被检测应用下一首",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用成功播放下一首，应用内UX同步更新为下一首的信息"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用成功播放下一首，应用内UX未同步"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用未正常播放下一首"
+          }
+        ]
+      },
+      {
+        "text": "拖动进度条",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "播控中心控制歌曲进度",
+        "dialogContent": "请确认已拖动被检测应用音频进度条",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用音频从拖动结束后的时间继续播放，应用内UX同步更新播放进度"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用音频从拖动结束后的时间继续播放，应用内UX未同步更新"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用未正常按照拖动后的时间播放"
+          }
+        ]
+      },
+      {
+        "text": "切换播放模式",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "播控中心切换播放模式",
+        "dialogContent": "请确认已切换被检测应用播放模式",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用音频播放模式可以正常切换，应用内UX同步更新"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用音频播放模式可以正常切换，应用内UX未同步更新"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用音频播放模式未正常切换，或者无法处理不支持的播放模式"
+          }
+        ]
+      },
+      {
+        "text": "收藏",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "播控中心收藏歌曲",
+        "dialogContent": "请确认收藏被检测应用的音频",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用的音频收藏功能可以正常响应，应用内UX同步更新"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用的音频收藏功能可以正常响应，应用内UX未同步更新"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用的音频收藏功能无效或者功能异常"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "required": false,
+    "scene": "VoIP communication",
+    "sceneName": "VoIP通话场景",
+    "pageIcon": 6,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_VOICE_COMMUNICATION",
+    "sceneDescription": "VoIP通话场景，此场景为非必选场景",
+    "checkPoint": [
+      "VoIP响铃时被检测应用音频是否暂停，通话结束后音频是否继续播放，UX状态是否正常刷新"
+    ],
+    "bestExperience": [
+      "VoIP响铃时被检测应用音频暂停，通话结束后音频继续播放，被检测应用UX状态可以同步刷新"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置焦点模式，并处理打断事件",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "触发模拟VoIP接听"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "触发模拟VoIP接听",
+        "dialogContent": "请确认被检测应用已置于后台并开始播放，点击“确认”将触发模拟VoIP接听",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "VoIP响铃时被检测应用音频暂停，通话结束后音频继续播放，UX状态同步正确"
+          },
+          {
+            "index": 1,
+            "text": "VoIP响铃时被检测应用音频暂停，通话结束后音频继续播放，但是UX状态同步异常"
+          },
+          {
+            "index": 2,
+            "text": "VoIP响铃时被检测应用音频未暂停或者通话结束后音频未继续播放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "required": false,
+    "scene": "navigation",
+    "sceneName": "导航场景",
+    "pageIcon": 3,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_NAVIGATION",
+    "sceneDescription": "导航场景，此场景为非必选场景",
+    "checkPoint": [
+      "导航语音播报时，被检测应用音量是否可以压低，导航语音结束后，音量是否可以恢复"
+    ],
+    "bestExperience": [
+      "导航语音播报时，被检测应用音量压低，导航语音结束后，音量可以恢复"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置焦点模式，并处理打断事件",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "触发模拟导航语音"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "触发模拟导航语音",
+        "dialogContent": "请确认被检测应用已置于后台并开始播放，点击“确认”将触发模拟导航语音",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "导航语音播放时被检测应用音量变低，导航语音结束后音量恢复"
+          },
+          {
+            "index": 2,
+            "text": "导航语音播放时被检测应用音量不变或者导航语音结束后音量未恢复"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "required": false,
+    "scene": "voice assistant",
+    "sceneName": "语音助手播报场景",
+    "pageIcon": 2,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_VOICE_ASSISTANT",
+    "sceneDescription": "语音助手播报场景，此场景为非必选场景",
+    "checkPoint": [
+      "语音助手播报时（VOICE_ASSISTANT类型），被检测时应用音量是否可以压低，语音播报结束后，音量是否可以恢复"
+    ],
+    "bestExperience": [
+      "语音助手播报时，被检测时应用音量压低，语音播报结束后，音量可以恢复"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置焦点模式，并处理打断事件",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "触发模拟语音助手"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "触发模拟语音助手播报",
+        "dialogContent": "请确认被检测音频已置于后台并开始播放，点击“确认”将触发模拟语音助手播报",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "语音助手播报时被检测应用音量变低，语音播报结束后音量恢复"
+          },
+          {
+            "index": 2,
+            "text": "语音助手播报时被检测应用音量不变或者语音播报结束后音量未恢复"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "required": false,
+    "scene": "mute video",
+    "sceneName": "静音播放场景",
+    "pageIcon": 6,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_MUSIC",
+    "sceneDescription": "静音播放场景，此场景为非必选场景",
+    "checkPoint": [
+      "被检测应用长音频静音播放，是否影响其它应用的音频播放"
+    ],
+    "bestExperience": [
+      "被检测应用可以静音播放，检测工具音频播放不受影响"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置静音并发播放模式",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-references-V5/js-apis-audio-V5#setsilentmodeandmixwithothers12",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "检测工具播放音频",
+      "打开被检测应用静音播放"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "被检测应用静音播放",
+        "dialogContent": "点击“确认”后检测工具将播放音频，检测工具音频播放开始后请打开被检测应用静音播放长音频",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "检测工具音频正常播放，被检测应用音频正常静音播放"
+          },
+          {
+            "index": 1,
+            "text": "检测工具音频被打断或者被检测应用音频未正常播放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "required": false,
+    "scene": "normal video",
+    "sceneName": "非静音播放场景",
+    "pageIcon": 6,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_MUSIC",
+    "sceneDescription": "非静音播放场景，此场景为非必选场景",
+    "checkPoint": [
+      "检测工具长音频非静音播放，被检测应用音频是否停止，是否会恢复，UX状态是否正常刷新"
+    ],
+    "bestExperience": [
+      "检测工具长音频播放后，被检测应用音频停止，且不再恢复，UX状态可以同步刷新"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置焦点模式，并处理打断事件",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "检测工具播放长音频"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "检测工具播放长音频",
+        "dialogContent": "请确认被检测音频已置于后台并开始播放，点击“确认”后检测工具将播放长音频",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "被检测应用音频停止播放，且不再恢复，UX状态同步正确"
+          },
+          {
+            "index": 1,
+            "text": "被检测应用音频停止播放，且不再恢复，但是UX状态未同步更新"
+          },
+          {
+            "index": 2,
+            "text": "被检测应用音频未停止或者停止后恢复播放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "required": false,
+    "scene": "sound recording",
+    "sceneName": "普通录音场景",
+    "pageIcon": 8,
+    "isInteractive": true,
+    "audioType": "recording",
+    "sceneDescription": "普通录音场景，此场景为非必选场景",
+    "checkPoint": [
+      "普通录音（SOURCE_TYPE_MIC）开始时，被检测应用音频是否停止，是否会恢复，UX状态是否正常刷新"
+    ],
+    "bestExperience": [
+      "录音开始时，被检测应用音频停止，且不再恢复，UX状态可以同步刷新"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "应用需要正确设置焦点模式，并处理打断事件",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "检查工具开始录音"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "开始录音",
+        "dialogContent": "请确认被检测音频已置于后台并开始播放，点击“确认”后检测工具将开始录音",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "录音时被检测应用音频停止播放，且不再恢复，UX状态同步正确"
+          },
+          {
+            "index": 1,
+            "text": "录音时被检测应用音频停止播放，且不再恢复，但是UX状态同步异常"
+          },
+          {
+            "index": 2,
+            "text": "录音时被检测应用音频未停止或者停止后恢复播放"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "required": false,
+    "scene": "earphone",
+    "sceneName": "耳机控制音频场景",
+    "pageIcon": 1,
+    "isInteractive": false,
+    "sceneDescription": "耳机控制音频场景，此场景为非必选场景",
+    "checkPoint": [
+      "通过蓝牙耳机/线控耳机是否可以正常控制音频（播放、暂停、上一首、下一首），被检测应用UX是否能正常刷新"
+    ],
+    "bestExperience": [
+      "通过蓝牙耳机/线控耳机可以正常控制音频（播放、暂停、上一首、下一首），被检测应用UX可以同步刷新"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 3,
+    "optimization": "耳机音频控制需要接入AVSession",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/using-avsession-developer-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [],
+    "steps": [
+      {
+        "text": "使用耳机播放",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "耳机控制音频播放",
+        "dialogContent": "请确认被检测音频已置于后台并开始播放",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "播放功能正常，被检测应用内UX状态同步更新为播放"
+          },
+          {
+            "index": 1,
+            "text": "播放功能正常，被检测应用内UX状态未同步"
+          },
+          {
+            "index": 2,
+            "text": "音频未正常播放"
+          }
+        ]
+      },
+      {
+        "text": "使用耳机暂停",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "耳机控制音频暂停",
+        "dialogContent": "请确认已通过耳机控制音频暂停",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "音频暂停，被检测应用内UX状态同步更新为暂停"
+          },
+          {
+            "index": 1,
+            "text": "音频暂停，被检测应用内UX状态未同步"
+          },
+          {
+            "index": 2,
+            "text": "音频未暂停"
+          }
+        ]
+      },
+      {
+        "text": "使用耳机切换上一首",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "耳机控制歌曲切换上一首",
+        "dialogContent": "请确认已点击耳机切换上一首",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "播放上一首，被检测应用内UX信息同步更新为上一首信息"
+          },
+          {
+            "index": 1,
+            "text": "播放上一首，被检测应用内UX状态未同步"
+          },
+          {
+            "index": 2,
+            "text": "音频未正常切换"
+          }
+        ]
+      },
+      {
+        "text": "使用耳机切换下一首",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "耳机控制歌曲切换下一首",
+        "dialogContent": "请确认已点击耳机切换下一首",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "播放下一首，被检测应用内UX信息同步更新为下一首信息"
+          },
+          {
+            "index": 1,
+            "text": "播放下一首，被检测应用内UX状态未同步"
+          },
+          {
+            "index": 2,
+            "text": "音频未正常切换"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "required": false,
+    "scene": "earphone off",
+    "sceneName": "耳机断开场景",
+    "pageIcon": 1,
+    "isInteractive": false,
+    "sceneDescription": "耳机断开场景，此场景为非必选场景",
+    "checkPoint": [
+      "蓝牙耳机、线控耳机断开连接后，被检测应用音频是否暂停播放，UX能否正常刷新"
+    ],
+    "bestExperience": [
+      "耳机断开连接后，被检测应用音频暂停播放，UX状态可以同步刷新"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "应用需要监听音频流输出设备变化，确保应用在设备发生变更时的用户体验",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-output-device-change-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "断开耳机连接"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "断开耳机连接",
+        "dialogContent": "请确认被检测音频已置于后台并开始播放，并确认已将耳机断开连接",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "耳机断连时，被检测应用音频暂停，UX状态正常同步"
+          },
+          {
+            "index": 1,
+            "text": "耳机断连时，被检测应用音频暂停，但是UX状态未正常同步"
+          },
+          {
+            "index": 2,
+            "text": "耳机断连时，被检测应用音频未暂停"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "required": false,
+    "scene": "switch bluetooth",
+    "sceneName": "蓝牙设备切换场景",
+    "pageIcon": 0,
+    "isInteractive": false,
+    "sceneDescription": "蓝牙设备切换场景，此场景为非必选场景",
+    "checkPoint": [
+      "单设备接入多蓝牙设备，切换蓝牙设备，被检测应用能否感知设备切换"
+    ],
+    "bestExperience": [
+      "切换蓝牙时，被检测应用能感知设备切换，UX状态可以同步刷新"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "应用需要监听音频流输出设备变化，确保应用在设备发生变更时的用户体验",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/cn/doc/harmonyos-guides-V5/audio-output-device-change-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "打开被检测应用并开始播放",
+      "切换蓝牙设备"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "切换到新的蓝牙设备",
+        "dialogContent": "请确认被检测音频已置于后台并开始播放，并确认已切换到新的蓝牙设备",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "蓝牙耳机切换时，被检测应用UX有提示或状态正确同步"
+          },
+          {
+            "index": 2,
+            "text": "蓝牙耳机切换时，被检测应用UX状态同步异常"
+          }
+        ]
+      }
+    ]
+  }
+]

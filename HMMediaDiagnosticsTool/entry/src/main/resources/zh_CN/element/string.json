@@ -1,0 +1,264 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "音频检测"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "reason_background",
+      "value": "用于音频播放和录音场景，使音频保持在后台播放和录音在后台运行"
+    },
+    {
+      "name": "reason_microphone",
+      "value": "申请麦克风录音，用于录音场景"
+    },
+    {
+      "name": "common_previous",
+      "value": "上一步"
+    },
+    {
+      "name": "common_next",
+      "value": "下一步"
+    },
+    {
+      "name": "common_select",
+      "value": "请选择"
+    },
+    {
+      "name": "common_skip",
+      "value": "跳过"
+    },
+    {
+      "name": "common_start",
+      "value": "开始"
+    },
+    {
+      "name": "common_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "common_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "common_retry",
+      "value": "重试"
+    },
+    {
+      "name": "common_continue",
+      "value": "继续"
+    },
+    {
+      "name": "common_hint",
+      "value": "提示"
+    },
+    {
+      "name": "detection_title",
+      "value": "音频能力检测"
+    },
+    {
+      "name": "detection_description",
+      "value": "音频类应用共需要检测13个场景，其中3个场景为必选场景，如果跳过则该场景分数被全部扣除；剩余10个场景为非必选场景，如果跳过则该场景不得分且总分也不包含该场景分数"
+    },
+    {
+      "name": "select_app",
+      "value": "选择应用："
+    },
+    {
+      "name": "audio_app",
+      "value": "音频应用"
+    },
+    {
+      "name": "home_title_1",
+      "value": "检查内容："
+    },
+    {
+      "name": "home_title_2",
+      "value": "最佳体验："
+    },
+    {
+      "name": "home_title_3",
+      "value": "步骤提示："
+    },
+    {
+      "name": "skip_dialog_title",
+      "value": "确认跳过该检测项？"
+    },
+    {
+      "name": "skip_dialog_content",
+      "value": "跳过检测后该项将不会进行评分"
+    },
+    {
+      "name": "sound_recording_progress",
+      "value": "正在录音"
+    },
+    {
+      "name": "sound_recording_stop",
+      "value": "停止录音"
+    },
+    {
+      "name": "sound_recording_forbidden_tips",
+      "value": "该功能需要开始麦克风权限后才能使用，请再次点击“确定”按钮，拉起权限弹窗，允许该权限后检测"
+    },
+    {
+      "name": "optimization_guide",
+      "value": "优化指南"
+    },
+    {
+      "name": "optimization_schemes",
+      "value": "优化方案"
+    },
+    {
+      "name": "optimization_reference",
+      "value": "参考指南、最佳实践、Sample："
+    },
+    {
+      "name": "confirm_service_dial_ok_title",
+      "value": "请呼叫手机"
+    },
+    {
+      "name": "confirm_service_dial_ok_content",
+      "value": "1.请确认被检测应用已置于后台并开始播放；2.请确认是否已呼叫本机号码'"
+    },
+    {
+      "name": "confirm_service_dial_wrong_title",
+      "value": "请插入SIM卡"
+    },
+    {
+      "name": "confirm_service_dial_wrong_content",
+      "value": "请插入SIM卡后继续测试"
+    },
+    {
+      "name": "score_congratulations",
+      "value": "恭喜完成！总分"
+    },
+    {
+      "name": "score_required_scene",
+      "value": "必选场景"
+    },
+    {
+      "name": "score_recommended_scene",
+      "value": "推荐场景"
+    },
+    {
+      "name": "score_comma",
+      "value": "，"
+    },
+    {
+      "name": "score_advice",
+      "value": "优化建议"
+    },
+    {
+      "name": "export_report",
+      "value": "导出报告"
+    },
+    {
+      "name": "export_log_guide",
+      "value": "导出日志指导"
+    },
+    {
+      "name": "export_csv_hint",
+      "value": "导出文件会生成CSV文件，需要使用WPS打开或者导出到PC上打开"
+    },
+    {
+      "name": "export_cancel",
+      "value": "取消导出"
+    },
+    {
+      "name": "export_log_guide_title",
+      "value": "可以通过以下方式将日志导出"
+    },
+    {
+      "name": "export_log_guide_1",
+      "value": "一、通过hdc导出hilog日志到当前目录"
+    },
+    {
+      "name": "export_log_guide_1_1",
+      "value": "1、hdc file recv data/log/hilog/ \"当前目录\"；"
+    },
+    {
+      "name": "export_log_guide_1_2",
+      "value": "2、在本地hilog下有\"hilog.xxx.yyyyMMDD-ss.gz\"等文件（yyyyMMDD-ss为时间），找到和操作时间相近的压缩文件即可。"
+    },
+    {
+      "name": "export_log_guide_2",
+      "value": "二、通过DevEco Studio导出hilog日志到当前目录"
+    },
+    {
+      "name": "export_log_guide_2_1",
+      "value": "1、打开DevEco Studio，点击右下角Device File Browser；"
+    },
+    {
+      "name": "export_log_guide_2_2",
+      "value": "2、按照路径\"data/log/hilog\"，打开hilog目录；"
+    },
+    {
+      "name": "export_log_guide_2_3",
+      "value": "3、在hilog目录下有\"hilog.xxx.yyyyMMDD-ss.gz\"等文件（yyyyMMDD-ss为时间），找到和操作时间相近的压缩文件即可。"
+    },
+    {
+      "name": "scene",
+      "value": "场景"
+    },
+    {
+      "name": "operation",
+      "value": "操作"
+    },
+    {
+      "name": "sub_scene",
+      "value": "子场景"
+    },
+    {
+      "name": "recommended_performance",
+      "value": "推荐表现"
+    },
+    {
+      "name": "actual_performance",
+      "value": "实际表现"
+    },
+    {
+      "name": "optimization_suggestions",
+      "value": "优化建议"
+    },
+    {
+      "name": "csv_generate_skiped",
+      "value": "跳过"
+    },
+    {
+      "name": "csv_generate_completed",
+      "value": "完成检测"
+    },
+    {
+      "name": "csv_generate_none",
+      "value": "无"
+    },
+    {
+      "name": "csv_generate_reference_guide",
+      "value": "参考指南、最佳实践、Sample："
+    },
+    {
+      "name": "csv_generate_semicolon",
+      "value": "；"
+    },
+    {
+      "name": "dons",
+      "value": "、"
+    }
+  ]
+}

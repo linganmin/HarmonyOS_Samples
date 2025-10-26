@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "VideoPlay"
+    },
+    {
+      "name": "internet_reason",
+      "value": "Request network data"
+    },
+    {
+      "name": "reason_background",
+      "value": "keep video background running"
+    },
+    {
+      "name": "share",
+      "value": "share"
+    },
+    {
+      "name": "comment",
+      "value": "comment"
+    },
+    {
+      "name": "recommends",
+      "value": "recommends"
+    },
+    {
+      "name": "user_followers",
+      "value": "13k followers, 5 videos"
+    },
+    {
+      "name": "user_follow",
+      "value": "follow"
+    },
+    {
+      "name": "play_count",
+      "value": "120k"
+    },
+    {
+      "name": "favor_count",
+      "value": "70k"
+    },
+    {
+      "name": "last_history",
+      "value": "last viewed %s"
+    },
+    {
+      "name": "send_barrage",
+      "value": "barrage"
+    },
+    {
+      "name": "video_name0",
+      "value": "@Cat"
+    },
+    {
+      "name": "video_name1",
+      "value": "@Mountaineer"
+    },
+    {
+      "name": "video_name2",
+      "value": "@Nice To Meet You"
+    },
+    {
+      "name": "video_name3",
+      "value": "@Tick"
+    },
+    {
+      "name": "video_name4",
+      "value": "@Faery"
+    },
+    {
+      "name": "video_description0",
+      "value": "#1 #Local video #Colorful world, life is not only the immediate existence, but also poetry and distance"
+    },
+    {
+      "name": "video_description1",
+      "value": "#2 #Online video #Dream"
+    },
+    {
+      "name": "video_description2",
+      "value": "#3 #Local video #Life is not only the immediate existence, but also poetry and distance, mountains and sunrise"
+    },
+    {
+      "name": "video_description3",
+      "value": "#4 #Online video #Colorful world, life is not only the immediate existence, but also poetry and distance"
+    },
+    {
+      "name": "video_description4",
+      "value": "#5 #Online video #Colorful world, life is not only the immediate existence, but also poetry and distance"
+    }
+  ]
+}

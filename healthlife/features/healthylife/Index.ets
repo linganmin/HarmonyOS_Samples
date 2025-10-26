@@ -1,0 +1,1 @@
+export { HealthyLifePage } from './src/main/ets/pages/HealthyLifePage';

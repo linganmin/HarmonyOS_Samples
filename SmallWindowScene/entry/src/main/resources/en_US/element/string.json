@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "small window scene"
+    },
+    {
+      "name": "short_video",
+      "value": "Short video"
+    },
+    {
+      "name": "detail_page",
+      "value": "Detail page"
+    },
+    {
+      "name": "waterFlow_page",
+      "value": "WaterFlow page"
+    },
+    {
+      "name": "another_scene",
+      "value": "Another scene"
+    },
+    {
+      "name": "index",
+      "value": "index"
+    },
+    {
+      "name": "friend",
+      "value": "friend"
+    },
+    {
+      "name": "message",
+      "value": "message"
+    },
+    {
+      "name": "mine",
+      "value": "mine"
+    },
+    {
+      "name": "recommended",
+      "value": "recommended"
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    },
+    {
+      "name": "city",
+      "value": "city"
+    },
+    {
+      "name": "selected",
+      "value": "selected"
+    },
+    {
+      "name": "mall",
+      "value": "mall"
+    },
+    {
+      "name": "live",
+      "value": "live"
+    },
+    {
+      "name": "society",
+      "value": "society"
+    },
+    {
+      "name": "food",
+      "value": "food"
+    },
+    {
+      "name": "user_name_1",
+      "value": "small fish"
+    },
+    {
+      "name": "user_name_2",
+      "value": "panda sama"
+    },
+    {
+      "name": "user_name_3",
+      "value": "fly diary"
+    },
+    {
+      "name": "user_type_1",
+      "value": "environment field author"
+    },
+    {
+      "name": "user_type_2",
+      "value": "pet field author"
+    },
+    {
+      "name": "user_type_3",
+      "value": "technology field author"
+    },
+    {
+      "name": "blog_content_1",
+      "value": "Getting close to the sea, understanding the sea, and experiencing the voice of the sea, the sea naturally resonates with you. There is no need to deliberately force or search for it. The sea will always greet you with the sound of the tide and accompany you comfortably with its sea color."
+    },
+    {
+      "name": "blog_content_2",
+      "value": "Wild animals and pet animals, cute animals are loved by everyone."
+    },
+    {
+      "name": "blog_content_3",
+      "value": "Birds, like musical notes flying from the heart of the earth, soar from the fields like a whirlwind. The bird has a pair of small black gemstone like eyes embedded on both sides of its head, a long mouth, and a small nose on top."
+    },
+    {
+      "name": "tab_name",
+      "value": "tab"
+    },
+    {
+      "name": "follow_button",
+      "value": "+follow"
+    },
+    {
+      "name": "share_button",
+      "value": "click to share"
+    },
+    {
+      "name": "app_title",
+      "value": "SMALL WINDOW SCENES"
+    },
+    {
+      "name": "video_title",
+      "value": "Exploring the Source of Life"
+    },
+    {
+      "name": "video_time",
+      "value": "·two hours ago"
+    },
+    {
+      "name": "video_content",
+      "value": "Millions of years ago, landforms formed"
+    },
+    {
+      "name": "video_music",
+      "value": "user's music"
+    }
+  ]
+}

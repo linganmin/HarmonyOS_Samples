@@ -1,0 +1,11 @@
+{
+  "name": "demoso",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libdemoso.so": "file:./src/main/cpp/types/libdemoso"
+  }
+}

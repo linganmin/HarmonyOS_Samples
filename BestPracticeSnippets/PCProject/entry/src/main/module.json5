@@ -1,0 +1,118 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    // [Start abilities]
+    // [Start abilities_metadata]
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "supportWindowMode": [
+          "fullscreen"
+        ],
+        // [StartExclude abilities]
+        "metadata": [
+          {
+            "name": "ohos.ability.window.height",
+            "value": "600"
+          },
+          {
+            "name": "ohos.ability.window.width",
+            "value": "600"
+          },
+          {
+            "name": "ohos.ability.window.left",
+            "value": "left"
+          },
+          {
+            "name": "ohos.ability.window.top",
+            "value": "top"
+          }
+        ],
+        // [EndExclude abilities]
+        // [StartExclude abilities_metadata]
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+        // [EndExclude abilities_metadata]
+      },
+      // [StartExclude abilities_metadata]
+      {
+        "name": "SubEntryAbility",
+        "srcEntry": "./ets/entryability/SubEntryAbility.ets",
+        "supportWindowMode": [
+          "fullscreen",
+          "floating"
+        ],
+        "launchType": "specified",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+      // [EndExclude abilities_metadata]
+    ],
+    // [End abilities_metadata]
+    // [End abilities]
+    "extensionAbilities": [
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ]
+      }
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.SYSTEM_FLOAT_WINDOW",
+        "reason": "$string:System_Float_Window_Reason",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      }
+    ]
+  }
+}

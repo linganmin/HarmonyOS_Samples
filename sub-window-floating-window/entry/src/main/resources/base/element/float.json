@@ -1,0 +1,36 @@
+{
+  "float": [
+    {
+      "name": "common_image",
+      "value": "48vp"
+    },
+    {
+      "name": "common_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "common_font",
+      "value": "24vp"
+    },
+    {
+      "name": "x_component_height",
+      "value": "400vp"
+    },
+    {
+      "name": "common_lr_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "common_button_font",
+      "value": "16vp"
+    },
+    {
+      "name": "back_image",
+      "value": "24vp"
+    },
+    {
+      "name": "common_radius",
+      "value": "16vp"
+    }
+  ]
+}

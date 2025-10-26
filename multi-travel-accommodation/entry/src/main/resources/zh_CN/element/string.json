@@ -1,0 +1,367 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一多旅行住宿关键场景实现"
+    },
+    {
+      "name": "HotelDetailPage",
+      "value": "酒店详情页及低价日历页"
+    },
+    {
+      "name": "SearchTicketsPage",
+      "value": "查询车票页"
+    },
+    {
+      "name": "LowPriceCalendar",
+      "value": "低价日历"
+    },
+    {
+      "name": "January_2024",
+      "value": "2024年1月"
+    },
+    {
+      "name": "February_2024",
+      "value": "2024年2月"
+    },
+    {
+      "name": "Today",
+      "value": "今天"
+    },
+    {
+      "name": "LowPrice",
+      "value": "低价"
+    },
+    {
+      "name": "MoveInto",
+      "value": "入住"
+    },
+    {
+      "name": "leave",
+      "value": "离店"
+    },
+    {
+      "name": "BookingOffers",
+      "value": "订房优惠"
+    },
+    {
+      "name": "Reduced30",
+      "value": "立减30"
+    },
+    {
+      "name": "receive",
+      "value": "领取"
+    },
+    {
+      "name": "sift",
+      "value": "筛选"
+    },
+    {
+      "name": "second_class_seating",
+      "value": "二等"
+    },
+    {
+      "name": "first_class_seating",
+      "value": "一等"
+    },
+    {
+      "name": "Business_Seating",
+      "value": "商务"
+    },
+    {
+      "name": "select_train_number",
+      "value": "请选择车次"
+    },
+    {
+      "name": "calendar",
+      "value": "日历"
+    },
+    {
+      "name": "Not_Cancelable",
+      "value": "不可取消"
+    },
+    {
+      "name": "hotel_name",
+      "value": "*******酒店"
+    },
+    {
+      "name": "hotel_message_one",
+      "value": "上海奢华酒店榜No.1 >"
+    },
+    {
+      "name": "hotel_message_two",
+      "value": "2018年开业｜温泉｜SPA｜亲子酒店｜拍照出片｜儿童乐园"
+    },
+    {
+      "name": "hotel_message_three",
+      "value": "'汤池温泉清澈，很适合家庭出游!'"
+    },
+    {
+      "name": "hotel_message_four",
+      "value": "距迪士尼地铁站步行1.3公里"
+    },
+    {
+      "name": "hotel_message_five",
+      "value": "浦东新区神帝东路998号"
+    },
+    {
+      "name": "hotel_message_six",
+      "value": "4.7"
+    },
+    {
+      "name": "hotel_message_seven",
+      "value": "很好"
+    },
+    {
+      "name": "hotel_message_eight",
+      "value": "1616条 >"
+    },
+    {
+      "name": "hotel_message_nine",
+      "value": "地图"
+    },
+    {
+      "name": "room_message_one",
+      "value": "套餐"
+    },
+    {
+      "name": "room_message_two",
+      "value": "享"
+    },
+    {
+      "name": "room_message_three",
+      "value": "立即抢购"
+    },
+    {
+      "name": "breakfast_number",
+      "value": "份早餐"
+    },
+    {
+      "name": "at_least",
+      "value": "起"
+    },
+    {
+      "name": "ticket_number",
+      "value": "张"
+    },
+    {
+      "name": "journey",
+      "value": "北京 < > 上海"
+    },
+    {
+      "name": "room_button_message_one",
+      "value": "1月22日"
+    },
+    {
+      "name": "room_button_message_two",
+      "value": "今天"
+    },
+    {
+      "name": "room_button_message_three",
+      "value": "1 晚"
+    },
+    {
+      "name": "room_button_message_four",
+      "value": "1月23日"
+    },
+    {
+      "name": "room_button_message_five",
+      "value": "明天"
+    },
+    {
+      "name": "room_button_message_six",
+      "value": "低价日历"
+    },
+    {
+      "name": "room_button_message_seven",
+      "value": "单人单间"
+    },
+    {
+      "name": "room_button_message_eight",
+      "value": "酒店套餐"
+    },
+    {
+      "name": "room_button_message_nine",
+      "value": "含早餐"
+    },
+    {
+      "name": "room_button_message_ten",
+      "value": "立即确认"
+    },
+    {
+      "name": "room_button_message_eleven",
+      "value": "免费取消"
+    },
+    {
+      "name": "room_information_one",
+      "value": "1张1.8米大床  2人入住  25m²  封闭窗"
+    },
+    {
+      "name": "room_information_two",
+      "value": "1张大床 及 两张单人床 2人入住 30m²"
+    },
+    {
+      "name": "room_information_three",
+      "value": "1张2米特大床 2人入住 81m²"
+    },
+    {
+      "name": "room_information_four",
+      "value": "两张单人床 2人入住 30m²"
+    },    {
+      "name": "room_information_five",
+      "value": "1张2米特大床 2人入住 50-62m²"
+    },
+    {
+      "name": "room_type_one",
+      "value": "日式特惠迷你大床房"
+    },
+    {
+      "name": "room_type_two",
+      "value": "亲子雅致家庭双床房"
+    },
+    {
+      "name": "room_type_three",
+      "value": "高级城市景观房"
+    },
+    {
+      "name": "room_type_four",
+      "value": "套房双床房"
+    },
+    {
+      "name": "room_type_five",
+      "value": "豪华景观房"
+    },
+    {
+      "name": "room_services",
+      "value": "单人温泉馆门票2份+儿童温泉…共3项"
+    },
+    {
+      "name": "filter",
+      "value": "筛选"
+    },
+    {
+      "name": "shortest_time",
+      "value": "用时最短"
+    },
+    {
+      "name": "earliest_departure",
+      "value": "发时最早"
+    },
+    {
+      "name": "the_cheapest",
+      "value": "价格最低"
+    },
+    {
+      "name": "reservation_order",
+      "value": "候补下单"
+    },
+    {
+      "name": "Friday",
+      "value": "周五"
+    },
+    {
+      "name": "Saturday",
+      "value": "周六"
+    },
+    {
+      "name": "Sunday",
+      "value": "周日"
+    },
+    {
+      "name": "Monday",
+      "value": "周一"
+    },
+    {
+      "name": "Tuesday",
+      "value": "周二"
+    },
+    {
+      "name": "Wednesday",
+      "value": "周三"
+    },
+    {
+      "name": "Beijing_South",
+      "value": "北京南"
+    },
+    {
+      "name": "Beijing",
+      "value": "北京"
+    },
+    {
+      "name": "Shanghai",
+      "value": "上海"
+    },
+    {
+      "name": "Shanghai_Hongqiao",
+      "value": "上海虹桥"
+    },
+    {
+      "name": "train",
+      "value": "火车"
+    },
+    {
+      "name": "Railway",
+      "value": "动车"
+    },
+    {
+      "name": "high_speed",
+      "value": "高铁"
+    },
+    {
+      "name": "direct",
+      "value": "直达"
+    },
+    {
+      "name": "Transfer",
+      "value": "中转"
+    },
+    {
+      "name": "only_railway",
+      "value": "只看动车/高铁"
+    },
+    {
+      "name": "only_train",
+      "value": "只看普通车"
+    },
+    {
+      "name": "view_available",
+      "value": "只看有票"
+    },
+    {
+      "name": "Calendar_Sunday",
+      "value": "日"
+    },
+    {
+      "name": "Calendar_Saturday",
+      "value": "六"
+    },
+    {
+      "name": "Calendar_Friday",
+      "value": "五"
+    },
+    {
+      "name": "Calendar_Thursday",
+      "value": "四"
+    },
+    {
+      "name": "Calendar_Wednesday",
+      "value": "三"
+    },
+    {
+      "name": "Calendar_Tuesday",
+      "value": "二"
+    },
+    {
+      "name": "Calendar_Monday",
+      "value": "一"
+    }
+  ]
+}

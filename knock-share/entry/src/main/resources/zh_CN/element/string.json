@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "KnockShare"
+    },
+    {
+      "name": "title",
+      "value": "视频列表"
+    },
+    {
+      "name": "local_video",
+      "value": "本地视频"
+    },
+    {
+      "name": "local_video_describe",
+      "value": "来源于本地的mp4格式视频"
+    },
+    {
+      "name": "play_list",
+      "value": "选集"
+    }
+  ]
+}

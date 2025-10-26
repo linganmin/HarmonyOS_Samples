@@ -1,0 +1,80 @@
+{
+  "float": [
+    {
+      "name": "action_button_margin_right",
+      "value": "4vp"
+    },
+    {
+      "name": "small_text_size",
+      "value": "12fp"
+    },
+    {
+      "name": "action_button_width",
+      "value": "56vp"
+    },
+    {
+      "name": "small_padding",
+      "value": "8vp"
+    },
+    {
+      "name": "header_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "md_padding_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "lg_padding_margin",
+      "value": "24vp"
+    },
+    {
+      "name": "top_navigation_height",
+      "value": "56vp"
+    },
+    {
+      "name": "md_font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "xs_padding_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "sm_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "view_count_icon_width",
+      "value": "36vp"
+    },
+    {
+      "name": "like_icon_width",
+      "value": "22vp"
+    },
+    {
+      "name": "star_icon_width",
+      "value": "16vp"
+    },
+    {
+      "name": "article_card_image_height",
+      "value": "64vp"
+    },
+    {
+      "name": "article_card_image_width",
+      "value": "108vp"
+    },
+    {
+      "name": "md_border_radius",
+      "value": "12vp"
+    },
+    {
+      "name": "lg_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "article_card_height",
+      "value": "102vp"
+    }
+  ]
+}

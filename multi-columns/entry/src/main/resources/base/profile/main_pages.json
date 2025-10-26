@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "application/PhotoAlbum",
+    "application/MailBox",
+    "application/Settings"
+  ]
+}

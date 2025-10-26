@@ -1,0 +1,23 @@
+/*
+* FAQ:手机网络正常，但是调用connection.hasDefaultNet()接口失败
+*/
+
+// [Start NetModule]
+{
+  "module": {
+    // ...
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.GET_NETWORK_INFO",
+        "reason": "$string:reason",
+        "usedScene": {
+          "abilities": [
+            "FormAbility"
+          ],
+          "when": "inuse"
+        }
+      }
+    ]
+  }
+}
+// [End NetModule]

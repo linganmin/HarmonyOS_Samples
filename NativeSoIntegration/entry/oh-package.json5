@@ -1,0 +1,19 @@
+// [Start SoPath]
+{
+  // [StartExclude SoPath]
+  "name": "entry",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  // [EndExclude SoPath]
+  "dependencies": {
+    // [StartExclude SoPath]
+    "libentry.so": "file:./src/main/cpp/types/libentry",
+    // [EndExclude SoPath]
+    // The declared dependency name should match the name of the referenced SO library
+    "libmultiply.so": "file:./src/main/cpp/types/libmultiply"
+  }
+}
+// [End SoPath]

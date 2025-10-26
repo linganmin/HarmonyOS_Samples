@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkUI component encapsulation scenario"
+    },
+    {
+      "name": "scenario",
+      "value": "ArkUI component encapsulation scenario"
+    },
+    {
+      "name": "common",
+      "value": "Custom component encapsulation"
+    },
+    {
+      "name": "dialog",
+      "value": "Popup component encapsulation"
+    },
+    {
+      "name": "factory",
+      "value": "Component factory class encapsulation"
+    },
+    {
+      "name": "tips",
+      "value": "tips"
+    },
+    {
+      "name": "content",
+      "value": "Have read and agree to the content"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "radio",
+      "value": "Radio"
+    },
+    {
+      "name": "checkbox",
+      "value": "CheckBox"
+    },
+    {
+      "name": "common_style_extract",
+      "value": "Common style encapsulation"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "float": [
+    {
+      "name": "padding",
+      "value": "16vp"
+    },
+    {
+      "name": "font_size_l",
+      "value": "16fp"
+    },
+    {
+      "name": "font_size_m",
+      "value": "14fp"
+    },
+    {
+      "name": "padding_l",
+      "value": "18vp"
+    },
+    {
+      "name": "border_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "margin_right",
+      "value": "12vp"
+    },
+    {
+      "name": "dialog_width",
+      "value": "328vp"
+    },
+    {
+      "name": "margin_top",
+      "value": "56vp"
+    },
+    {
+      "name": "page_text_font_size",
+      "value": "50fp"
+    }
+  ]
+}

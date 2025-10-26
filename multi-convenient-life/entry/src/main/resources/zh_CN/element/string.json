@@ -1,0 +1,356 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一多(便捷生活)"
+    },
+    {
+      "name": "food_list",
+      "value": "FoodList"
+    },
+    {
+      "name": "graphic_text",
+      "value": "GraphicText"
+    },
+    {
+      "name": "living_page",
+      "value": "Living"
+    },
+    {
+      "name": "shop_amounts",
+      "value": "¥0"
+    },
+    {
+      "name": "estimated_delivery",
+      "value": "预估配送费 ¥0"
+    },
+    {
+      "name": "send_from",
+      "value": "¥30元起送"
+    },
+    {
+      "name": "product_evaluation",
+      "value": "商品评价"
+    },
+    {
+      "name": "reviews_string",
+      "value": "81 条评价"
+    },
+    {
+      "name": "view_all_reviews",
+      "value": "查看全部评论"
+    },
+    {
+      "name": "detailing",
+      "value": "详情"
+    },
+    {
+      "name": "delicious_fried",
+      "value": "美味炸鸡整只套餐（1人份）"
+    },
+    {
+      "name": "collections_text",
+      "value": "收藏"
+    },
+    {
+      "name": "monthly_sales",
+      "value": "月售100+"
+    },
+    {
+      "name": "currency_symbol",
+      "value": "￥"
+    },
+    {
+      "name": "pay_price",
+      "value": "45.89"
+    },
+    {
+      "name": "original_price",
+      "value": "￥60"
+    },
+    {
+      "name": "add_cart",
+      "value": "选规格"
+    },
+    {
+      "name": "booked_text",
+      "value": "订"
+    },
+    {
+      "name": "takeaway_text",
+      "value": "外卖"
+    },
+    {
+      "name": "preference_flag",
+      "value": "惠"
+    },
+    {
+      "name": "food_name",
+      "value": "辣椒炒鸡"
+    },
+    {
+      "name": "free_parking",
+      "value": "免费停车"
+    },
+    {
+      "name": "recent_orders",
+      "value": "近期500+人下单"
+    },
+    {
+      "name": "positive_feedback",
+      "value": "好评率98%"
+    },
+    {
+      "name": "seabird_park",
+      "value": "深圳海鸟公园"
+    },
+    {
+      "name": "address_text",
+      "value": "广东省深圳市东山区长海路118号"
+    },
+    {
+      "name": "price_text",
+      "value": "45.89"
+    },
+    {
+      "name": "tickets_are",
+      "value": "门票 ¥ 60"
+    },
+    {
+      "name": "attraction_details",
+      "value": "景点详情"
+    },
+    {
+      "name": "introduction_pictures",
+      "value": "图文介绍"
+    },
+    {
+      "name": "opening_hours",
+      "value": "开放时间"
+    },
+    {
+      "name": "last_admission",
+      "value": "'周一至周日 08:30-16:00，18:00 停止入场'"
+    },
+    {
+      "name": "sanger",
+      "value": "Sanger"
+    },
+    {
+      "name": "nice_comment",
+      "value": "非常不错的一个公园，周末带着家人来看海鸟，很适合拍照"
+    },
+    {
+      "name": "two_number",
+      "value": "2"
+    },
+    {
+      "name": "seagulls",
+      "value": "#海鸥"
+    },
+    {
+      "name": "bay_seagull",
+      "value": "#深圳湾海鸥"
+    },
+    {
+      "name": "seabird_park_symbol",
+      "value": "#深圳海鸟公园"
+    },
+    {
+      "name": "plants_language",
+      "value": "植物的语言｜一分钟教你玩转摄影拍大片"
+    },
+    {
+      "name": "metro_station",
+      "value": "景区 深圳湾地铁站 2km"
+    },
+    {
+      "name": "city_park",
+      "value": "城市公园·TOP1"
+    },
+    {
+      "name": "people_number",
+      "value": "1.8万"
+    },
+    {
+      "name": "data_text",
+      "value": "12月6日 深圳"
+    },
+    {
+      "name": "total_reviews",
+      "value": "共 1593 条评论"
+    },
+    {
+      "name": "candy_pocket",
+      "value": "口袋里有糖"
+    },
+    {
+      "name": "seagull_much",
+      "value": "你好，请问现在海鸥多吗，想从广州过去，怕白跑一趟"
+    },
+    {
+      "name": "lee_look",
+      "value": "Leelook"
+    },
+    {
+      "name": "follows",
+      "value": "关注"
+    },
+    {
+      "name": "viewers_online",
+      "value": "1208 人在线观看"
+    },
+    {
+      "name": "fallout",
+      "value": "落尘"
+    },
+    {
+      "name": "quiet_years",
+      "value": "岁月静好"
+    },
+    {
+      "name": "write_review",
+      "value": "写评论"
+    },
+    {
+      "name": "hardcore_powder",
+      "value": "铁杆粉"
+    },
+    {
+      "name": "following_people",
+      "value": "86人关注"
+    },
+    {
+      "name": "select_specification",
+      "value": "选规格"
+    },
+    {
+      "name": "add_symbol",
+      "value": "+"
+    },
+    {
+      "name": "count",
+      "value": "数量"
+    },
+    {
+      "name": "minuses",
+      "value": "-"
+    },
+    {
+      "name": "tastes",
+      "value": "口味"
+    },
+    {
+      "name": "not_spicy",
+      "value": "不辣"
+    },
+    {
+      "name": "chosen",
+      "value": "选好了"
+    },
+    {
+      "name": "detail_text",
+      "value": "￥0"
+    },
+    {
+      "name": "delivery_fee",
+      "value": "预估配送费 ￥0"
+    },
+    {
+      "name": "tickets_key",
+      "value": "门票信息"
+    },
+    {
+      "name": "tickets_value",
+      "value": "当日有效"
+    },
+    {
+      "name": "policy_key",
+      "value": "优待政策"
+    },
+    {
+      "name": "policy_value",
+      "value": "免费停车"
+    },
+    {
+      "name": "tel_key",
+      "value": "景区热线"
+    },
+    {
+      "name": "tel_value",
+      "value": "0755-87399999"
+    },
+    {
+      "name": "tab_one",
+      "value": "附近1km"
+    },
+    {
+      "name": "tab_two",
+      "value": "品质餐厅"
+    },
+    {
+      "name": "tab_three",
+      "value": "咖啡奶茶"
+    },
+    {
+      "name": "tab_four",
+      "value": "多人聚餐"
+    },
+    {
+      "name": "tab_five",
+      "value": "当地人推荐"
+    },
+    {
+      "name": "tab_six",
+      "value": "营业中"
+    },
+    {
+      "name": "tab_seven",
+      "value": "优惠套餐"
+    },
+    {
+      "name": "tab_eight",
+      "value": "团购优惠"
+    },
+    {
+      "name": "shop_profile",
+      "value": "配送约40分钟 月售1000+"
+    },
+    {
+      "name": "shop_tag_one",
+      "value": "配送费免费"
+    },
+    {
+      "name": "shop_tag_two",
+      "value": "特价商品"
+    },
+    {
+      "name": "shop_tag_three",
+      "value": "折扣商品"
+    },
+    {
+      "name": "order",
+      "value": "点餐"
+    },
+    {
+      "name": "appraise",
+      "value": "评价"
+    },
+    {
+      "name": "preferential",
+      "value": "优惠"
+    },
+    {
+      "name": "business",
+      "value": "商家"
+    }
+  ]
+}

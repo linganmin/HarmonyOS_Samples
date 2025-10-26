@@ -1,0 +1,374 @@
+{
+  "ohos-module-entry": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\src\\main",
+        "RESOURCES_PATH": [
+          "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\cache\\default\\default@CompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\cache\\default\\default@CompileJS\\jsbundle",
+          "WORKER_LOADER": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      },
+      "ohosTest": {
+        "SOURCE_ROOT": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\src\\ohosTest",
+        "RESOURCES_PATH": [
+          "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\src\\ohosTest\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\outputs\\ohosTest",
+          "INTERMEDIA_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\loader_out\\ohosTest",
+          "JS_LITE_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\loader_out_lite\\ohosTest",
+          "RES_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\res\\ohosTest",
+          "RES_PROFILE_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\res\\ohosTest\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileJS\\jsbundle",
+          "WORKER_LOADER": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\loader\\ohosTest\\loader.json",
+          "MANIFEST_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\manifest\\ohosTest",
+          "OUTPUT_METADATA_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\hap_metadata\\ohosTest\\output_metadata.json",
+          "SOURCE_MAP_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry\\build\\default\\intermediates\\source_map\\ohosTest"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default",
+        "name": "debug"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "buildOption": {},
+      "buildOptionSet": [
+        {
+          "name": "release",
+          "arkOptions": {
+            "obfuscation": {
+              "ruleOptions": {
+                "enable": true,
+                "files": [
+                  "./obfuscation-rules.txt"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "name": "default"
+        },
+        {
+          "name": "debug"
+        }
+      ],
+      "targets": [
+        {
+          "name": "default"
+        },
+        {
+          "name": "ohosTest"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-module-har_library": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\src\\main",
+        "RESOURCES_PATH": [
+          "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\cache\\default\\default@HarCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\cache\\default\\default@HarCompileJS\\jsbundle",
+          "WORKER_LOADER": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      },
+      "ohosTest": {
+        "SOURCE_ROOT": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\src\\ohosTest",
+        "RESOURCES_PATH": [
+          "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\src\\ohosTest\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\outputs\\ohosTest",
+          "INTERMEDIA_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\loader_out\\ohosTest",
+          "JS_LITE_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\loader_out_lite\\ohosTest",
+          "RES_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\res\\ohosTest",
+          "RES_PROFILE_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\res\\ohosTest\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileJS\\jsbundle",
+          "WORKER_LOADER": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\loader\\ohosTest\\loader.json",
+          "MANIFEST_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\manifest\\ohosTest",
+          "OUTPUT_METADATA_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\hap_metadata\\ohosTest\\output_metadata.json",
+          "SOURCE_MAP_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library\\build\\default\\intermediates\\source_map\\ohosTest"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default",
+        "name": "debug"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "buildOption": {},
+      "buildOptionSet": [
+        {
+          "name": "release",
+          "arkOptions": {
+            "obfuscation": {
+              "ruleOptions": {
+                "enable": true,
+                "files": [
+                  "./obfuscation-rules.txt"
+                ]
+              },
+              "consumerFiles": [
+                "./consumer-rules.txt"
+              ]
+            }
+          }
+        },
+        {
+          "name": "default"
+        },
+        {
+          "name": "debug"
+        }
+      ],
+      "targets": [
+        {
+          "name": "default"
+        },
+        {
+          "name": "ohosTest"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-module-har_common": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\src\\main",
+        "RESOURCES_PATH": [
+          "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\cache\\default\\default@HarCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\cache\\default\\default@HarCompileJS\\jsbundle",
+          "WORKER_LOADER": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      },
+      "ohosTest": {
+        "SOURCE_ROOT": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\src\\ohosTest",
+        "RESOURCES_PATH": [
+          "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\src\\ohosTest\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\outputs\\ohosTest",
+          "INTERMEDIA_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\loader_out\\ohosTest",
+          "JS_LITE_ASSETS_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\loader_out_lite\\ohosTest",
+          "RES_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\res\\ohosTest",
+          "RES_PROFILE_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\res\\ohosTest\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileJS\\jsbundle",
+          "WORKER_LOADER": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\loader\\ohosTest\\loader.json",
+          "MANIFEST_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\manifest\\ohosTest",
+          "OUTPUT_METADATA_JSON": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\hap_metadata\\ohosTest\\output_metadata.json",
+          "SOURCE_MAP_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common\\build\\default\\intermediates\\source_map\\ohosTest"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default",
+        "name": "debug"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "buildOption": {},
+      "buildOptionSet": [
+        {
+          "name": "release",
+          "arkOptions": {
+            "obfuscation": {
+              "ruleOptions": {
+                "enable": true,
+                "files": [
+                  "./obfuscation-rules.txt"
+                ]
+              },
+              "consumerFiles": [
+                "./consumer-rules.txt"
+              ]
+            }
+          }
+        },
+        {
+          "name": "default"
+        },
+        {
+          "name": "debug"
+        }
+      ],
+      "targets": [
+        {
+          "name": "default"
+        },
+        {
+          "name": "ohosTest"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-project": {
+    "SELECT_PRODUCT_NAME": "default",
+    "MODULE_BUILD_DIR": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\build",
+    "BUNDLE_NAME": "com.example.coldstart",
+    "BUILD_PATH": {
+      "OUTPUT_PATH": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\build\\outputs\\default"
+    },
+    "MODULES": [
+      {
+        "name": "entry",
+        "srcPath": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\entry",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ],
+        "belongProjectPath": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar"
+      },
+      {
+        "name": "har_library",
+        "srcPath": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_library",
+        "belongProjectPath": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar"
+      },
+      {
+        "name": "har_common",
+        "srcPath": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar\\har_common",
+        "belongProjectPath": "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar"
+      }
+    ],
+    "PROFILE_OPT": {
+      "app": {
+        "signingConfigs": [],
+        "products": [
+          {
+            "name": "default",
+            "signingConfig": "default",
+            "compatibleSdkVersion": "5.0.5(17)",
+            "targetSdkVersion": "5.0.5(17)",
+            "runtimeOS": "HarmonyOS"
+          }
+        ],
+        "buildModeSet": [
+          {
+            "name": "debug"
+          },
+          {
+            "name": "release"
+          }
+        ]
+      },
+      "modules": [
+        {
+          "name": "entry",
+          "srcPath": "./entry",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "har_library",
+          "srcPath": "./har_library"
+        },
+        {
+          "name": "har_common",
+          "srcPath": "./har_common"
+        }
+      ]
+    },
+    "CONFIG_PROPERTIES": {
+      "enableSignTask": true,
+      "skipNativeIncremental": false,
+      "hvigor.keepDependency": true
+    },
+    "OVERALL_PROJECT_PATHS": [
+      "D:\\toGit\\BestPracticeSnippets\\HapAndHarDependHar"
+    ],
+    "BUILD_CACHE_DIR": ""
+  },
+  "version": 1
+}

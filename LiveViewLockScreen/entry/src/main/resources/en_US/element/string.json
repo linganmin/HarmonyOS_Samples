@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "LiveViewLockScreen"
+    },
+    {
+      "name": "reason_background",
+      "value": "Background operation to update the live view"
+    },
+    {
+      "name": "traffic_info_meter",
+      "value": "800 meters"
+    },
+    {
+      "name": "traffic_info_smmd_first",
+      "value": "Turn right"
+    },
+    {
+      "name": "traffic_info_smmd_second",
+      "value": "after 800m"
+    },
+    {
+      "name": "traffic_info_first",
+      "value": "1 hour 24 minutes"
+    },
+    {
+      "name": "traffic_info_second",
+      "value": "72.6km·09:32·"
+    },
+    {
+      "name": "traffic_info_third",
+      "value": "3"
+    },
+    {
+      "name": "live_view_title",
+      "value": "In navigation"
+    },
+    {
+      "name": "live_view_background",
+      "value": "#ff0959F8"
+    },
+    {
+      "name": "live_view_content",
+      "value": "content"
+    },
+    {
+      "name": "meter",
+      "value": " meters"
+    },
+    {
+      "name": "live_view_primary_title_first",
+      "value": "Turn right after "
+    },
+    {
+      "name": "live_view_primary_title_second",
+      "value": " m"
+    },
+    {
+      "name": "road_name",
+      "value": "Cuihu East Road"
+    },
+    {
+      "name": "then",
+      "value": "Then"
+    },
+    {
+      "name": "Continue",
+      "value": "Continue"
+    },
+    {
+      "name": "Finish",
+      "value": "Finish"
+    },
+    {
+      "name": "tip",
+      "value": "Tip"
+    },
+    {
+      "name": "tip_text",
+      "value": "Permission is required to experience the lock screen immersive live window"
+    },
+    {
+      "name": "tip_get",
+      "value": "I get"
+    },
+    {
+      "name": "toast",
+      "value": "Just a functional prototype—you’ll need to implement the business logic yourself."
+    }
+  ]
+}

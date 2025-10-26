@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SmartWatchRideNavigation"
+    },
+    {
+      "name": "search_result_one",
+      "value": "XXX subway entrance A"
+    },
+    {
+      "name": "search_result_two",
+      "value": "XXX subway entrance B"
+    },
+    {
+      "name": "search_result_three",
+      "value": "XXX subway entrance C"
+    },
+    {
+      "name": "search_result_four",
+      "value": "XXX subway entrance D"
+    },
+    {
+      "name": "search_result_five",
+      "value": "XXX subway entrance E"
+    },
+    {
+      "name": "search_result_six",
+      "value": "XXX subway entrance F"
+    },
+    {
+      "name": "search_result_seven",
+      "value": "XXX subway entrance G"
+    },
+    {
+      "name": "search_result_eight",
+      "value": "XXX subway entrance H"
+    },
+    {
+      "name": "search_result_nine",
+      "value": "XXX subway entrance I"
+    },
+    {
+      "name": "search_result_ten",
+      "value": "XXX subway entrance J"
+    },
+    {
+      "name": "route_information_duration",
+      "value": "27 minus"
+    },
+    {
+      "name": "route_information_distance",
+      "value": "1.9 km"
+    },
+    {
+      "name": "route_information_description",
+      "value": "Short distance with few red lights"
+    },
+    {
+      "name": "QRCode_message",
+      "value": "Ride Navigation APP"
+    },
+    {
+      "name": "scan_QRCode_login",
+      "value": "Scan QRCode to login"
+    },
+    {
+      "name": "please_scan_QRCode_login",
+      "value": "Please Scan QRCode to login"
+    },
+    {
+      "name": "ride_navigation",
+      "value": "Ride Navigation"
+    },
+    {
+      "name": "navigation_message_one",
+      "value": "After 250 meters, please continue heading east."
+    },
+    {
+      "name": "navigation_message_two",
+      "value": "After going straight for 500 meters, cross the traffic lights."
+    },
+    {
+      "name": "stop_navigation",
+      "value": "Stop Navigation"
+    },
+    {
+      "name": "result",
+      "value": "Result"
+    },
+    {
+      "name": "ride",
+      "value": "Ride"
+    },
+    {
+      "name": "walk",
+      "value": "Walk"
+    },
+    {
+      "name": "voice_search",
+      "value": "Voice Search"
+    }
+  ]
+}

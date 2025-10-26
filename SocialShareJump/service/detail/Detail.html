@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="css/detail.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Detail</title>
+	</head>
+	<body>
+		<div id="container">
+			<Button id="download-button" onclick="toAppgallery()">下载</Button>
+			<img id="cover" src="imgs/detail.png" alt="" />
+			<div id="user-info">
+				<img id="user-avatar" src="imgs/avatar1.jpg" alt="" />
+				<span class="article-text-title" id="user-name">Lee</span>
+				<button id="btn-follow">关注</button>
+			</div>
+
+			<span class="article-text-title" id="article-title">看风景</span>
+
+			<div id="detail-text">
+				随着终端设备形态日益多样化，应用设计需要考虑界面能适配不同的屏幕尺寸、屏幕方向和设备类型。同时还需要保持多设备体验的连续性，改善多端独立的设计、尽可能降低开发者的工作量和维护成本。基于此 Harmony OS
+				为设计师提供了面向多设备的设计指南，让设计师在进行多端设计时有一套科学的方法，最大程度减少设计的工作量，保障多端设计在一定程度的一致性。同时 Harmony OS
+				也提供了对应的技术能力，帮助开发者快速地进行多端应用设计。
+			</div>
+		</div>
+		<div id="app-info">
+			<img id="app-icon" src="imgs/startIcon.png" alt="" />
+			<div id="app-text">
+				<span id="app-name">应用名称</span>
+				<span id="app-description">应用介绍</span>
+			</div>
+			<Button id="bottom-button" onclick="openLink()">打开</Button>
+		</div>
+		<script src="./js/language.js"></script>
+		<script src="./js/detail.js"></script>
+	</body>
+</html>

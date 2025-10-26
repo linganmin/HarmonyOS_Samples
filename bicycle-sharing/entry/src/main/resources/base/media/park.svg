@@ -1,0 +1,25 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_18_3543_dd" x="0.000000" y="0.000000" width="40.000000" height="40.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="16.6667"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<clipPath id="clip18_3548">
+			<rect id="efea0baf-7941-47a9-8db6-3466e590cf39" width="40.000000" height="40.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip18_3548)">
+		<g opacity="0.600000" filter="url(#filter_18_3543_dd)">
+			<circle id="circle" cx="20.000000" cy="20.000000" r="20.000000" fill="#FFFFFF" fill-opacity="0"/>
+			<circle id="circle" cx="20.000000" cy="20.000000" r="20.000000" stroke="#000000" stroke-opacity="0" stroke-width="1.000000"/>
+		</g>
+		<ellipse id="ellipse" cx="20.000000" cy="27.557007" rx="8.250000" ry="3.194000" fill="#6294FA" fill-opacity="0.400000"/>
+		<ellipse id="ellipse" cx="20.000000" cy="27.557007" rx="8.250000" ry="3.194000" stroke="#000000" stroke-opacity="0" stroke-width="1.000000"/>
+		<path id="path" d="M20 9.11C23.99 9.11 27.22 12.36 27.22 16.36C27.22 17.39 26.8 18.67 26.07 20.12L25.92 20.41L25.77 20.7L25.51 21.16L25.24 21.62L25.09 21.86L24.8 22.3L24.65 22.53L24.35 22.97L24.19 23.19L23.88 23.61L23.58 24C22.24 25.67 21.08 26.66 20 26.66C19.04 26.66 18.05 25.91 16.91 24.6L16.73 24.38L16.56 24.18L16.25 23.79L16.09 23.59L15.93 23.38L15.63 22.95L15.32 22.51L15.03 22.06L14.75 21.61L14.6 21.37L14.33 20.91L14.08 20.44L13.85 19.98C13.16 18.59 12.77 17.36 12.77 16.36C12.77 12.36 16 9.11 20 9.11ZM20 14.1C18.76 14.1 17.76 15.1 17.76 16.33C17.76 17.57 18.76 18.57 20 18.57C21.23 18.57 22.23 17.57 22.23 16.33C22.23 15.1 21.23 14.1 20 14.1Z" fill="#0A59F7" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

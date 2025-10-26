@@ -1,0 +1,20 @@
+{
+  "src": [
+    "pages/Index",
+    "views/RedundantOperation",
+    "views/NoRedundantOperation",
+    "views/NegativeOfGrid",
+    "views/PositiveOfGrid",
+    "views/NegativeOfLazyForEach",
+    "views/PositiveOfLazyForEach",
+    "views/NegativeOfProperty",
+    "views/PositiveOfProperty",
+    "views/GetStrOfResource",
+    "views/GetStrOfId",
+    "views/UseAsync",
+    "views/UseTaskPool",
+    "views/NegativeOfOnScroll",
+    "views/PositiveOfOnScroll",
+    "views/ConditionalRendering"
+  ]
+}

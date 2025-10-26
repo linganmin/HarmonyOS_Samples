@@ -1,0 +1,6 @@
+{
+  "src": [
+    "liveview/LockScreenPage",
+    "pages/Index"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "module": {
+    "name": "Communication",
+    "type": "har",
+    "deviceTypes": [
+      "default",
+      "wearable"
+    ]
+  }
+}

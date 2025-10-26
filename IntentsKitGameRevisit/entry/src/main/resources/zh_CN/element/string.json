@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "意图游戏复访"
+    },
+    {
+      "name": "Navbar_title",
+      "value": "意图推荐-游戏复访"
+    },
+    {
+      "name": "List_title",
+      "value": "休闲游戏"
+    },
+    {
+      "name": "game_card_title_first",
+      "value": "小游戏1"
+    },
+    {
+      "name": "game_card_desc_first",
+      "value": "这是小游戏1的描述信息"
+    },
+    {
+      "name": "game_card_title_second",
+      "value": "小游戏2"
+    },
+    {
+      "name": "game_card_desc_second",
+      "value": "这是小游戏2的描述信息"
+    }
+  ]
+}

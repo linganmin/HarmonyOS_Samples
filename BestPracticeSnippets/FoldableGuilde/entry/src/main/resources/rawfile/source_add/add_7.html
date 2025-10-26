@@ -1,0 +1,79 @@
+// [Start add_7]
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style>
+            #par {
+              width: 90vw;
+              height: auto;
+              overflow: hidden;
+              font-size: 0;
+              margin: 0 auto;
+            }
+            #container {
+              width: 100%;
+              display: inline-block;
+              white-space: nowrap;
+            }
+            .item {
+              width: 100%;
+            }
+            /* Example of 0.5+1+0.5 layout in expanded state */
+            @media only screen and (min-width: 500px) {
+              #container {
+                margin-left: 25%;
+              }
+              .item {
+                width: 50%;
+                border-right: 10px solid transparent;
+              }
+            }
+        </style>
+    </head>
+    <body>
+        <div id="par">
+            <div id="container" style="transform: translateX(0)">
+                <img class="item" src="./images.jpg" />
+                <img class="item" src="./images3.jpg" />
+                <img class="item" src="./images.jpg" />
+                <img class="item" src="./images3.jpg" />
+                <img class="item" src="./images.jpg" />
+                <img class="item" src="./images3.jpg" />
+            </div>
+        </div>
+        <script>
+            let par = document.getElementById("par");
+            let container = document.getElementById("container");
+            let itemWidth = document.getElementsByClassName("item")[0].offsetWidth;
+            let itemNum = document.getElementsByClassName("item").length;
+            let initialX = 0;
+            let distanceX = 0;
+            let imgFlag = 0;
+            par.addEventListener("touchstart", function (event) {
+              initialX = event.touches[0].clientX;
+            });
+            par.addEventListener("touchmove", function (event) {
+              event.preventDefault();
+              distanceX = event.touches[0].clientX - initialX;
+              transform = -(imgFlag * itemWidth) + distanceX;
+              container.style.transform = "translateX(" + transform + "px)";
+            });
+            par.addEventListener("touchend", function (event) {
+              if (distanceX < -30) {
+                imgFlag = imgFlag < itemNum - 1 ? imgFlag + 1 : 0;
+              } else if (distanceX > 30) {
+                imgFlag = imgFlag > 0 ? imgFlag - 1 : itemNum - 1;
+              }
+              container.style.transform =
+                "translateX(" + -(imgFlag * itemWidth) + "px)";
+            });
+            // Maintain the display continuity of the folded and expanded content
+            window.addEventListener("resize", function () {
+              itemWidth = document.getElementsByClassName("item")[0].offsetWidth;
+              container.style.transform =
+                "translateX(" + -(imgFlag * itemWidth) + "px)";
+            });
+        </script>
+    </body>
+</html>
+// [End add_7]

@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "default_all_tabs_file",
+      "value": "default_all_tabs.json"
+    },
+    {
+      "name": "default_content_items_file",
+      "value": "default_content_items.json"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "请输入搜索内容"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name":"out_bar_text_home",
+      "value": "首页"
+    },
+    {
+      "name":"out_bar_text_discover",
+      "value": "发现"
+    },
+    {
+      "name":"out_bar_text_messages",
+      "value": "消息"
+    },
+    {
+      "name":"out_bar_text_profile",
+      "value": "我的"
+    },
+    {
+      "name":"bind_sheet_title",
+      "value": "选择页签"
+    }
+  ]
+}

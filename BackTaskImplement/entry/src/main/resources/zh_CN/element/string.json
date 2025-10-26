@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "基于后台任务实现应用流畅体验"
+    },
+    {
+      "name": "permission_location_desc",
+      "value": "用于长时任务页面，允许应用获取设备位置信息"
+    },
+    {
+      "name": "permission_location_background_desc",
+      "value": "用于长时任务页面，允许应用在后台运行时获取设备位置信息"
+    },
+    {
+      "name": "permission_approximately_location_desc",
+      "value": "用于长时任务页面，允许应用获取设备模糊位置信息"
+    },
+    {
+      "name": "permission_keep_background_running_desc",
+      "value": "用于长/短时任务退后台，允许Service Ability在后台持续运行"
+    },
+    {
+      "name": "short_time_task",
+      "value": "后台申请短时任务"
+    },
+    {
+      "name": "long_time_task",
+      "value": "后台申请长时任务"
+    },
+    {
+      "name": "get_remaining_time",
+      "value": "获取应用程序进入挂起状态前的剩余时间"
+    },
+    {
+      "name": "cancel_short_task",
+      "value": "取消短时任务"
+    },
+    {
+      "name": "enabling_location_services",
+      "value": "开启定位服务"
+    },
+    {
+      "name": "turn_off_location_services",
+      "value": "关闭定位服务"
+    },
+    {
+      "name": "remaining_time",
+      "value": "应用程序进入挂起状态前的剩余时间：%d"
+    },
+    {
+      "name": "cancel_short_success",
+      "value": "取消短时任务：成功"
+    },
+    {
+      "name": "cancel_short_failed",
+      "value": "取消短时任务：失败"
+    },
+    {
+      "name": "remain_time_fail",
+      "value": "获取剩余时间失败，请先将应用置于后台，随后再次返回此页面，重新点击该按钮"
+    }
+  ]
+}

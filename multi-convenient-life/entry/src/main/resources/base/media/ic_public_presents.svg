@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  - Copyright (c) 2024 Huawei Device Co., Ltd.
+  - Licensed under the Apache License, Version 2.0 (the "License");
+  - you may not use this file except in compliance with the License.
+  - You may obtain a copy of the License at
+  -
+  -     http://www.apache.org/licenses/LICENSE-2.0
+  -
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -->
+
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>礼物</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFD3D3" offset="0%"></stop>
+            <stop stop-color="#FC7C7C" offset="33.9712021%"></stop>
+            <stop stop-color="#FF3636" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFD3D3" offset="0%"></stop>
+            <stop stop-color="#FC7C7C" offset="28.435822%"></stop>
+            <stop stop-color="#FF3636" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="69.9905396%" x2="100%" y2="69.9905396%" id="linearGradient-3">
+            <stop stop-color="#E4E4E4" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="8.35482724%"></stop>
+            <stop stop-color="#FFFFFF" offset="91.904092%"></stop>
+            <stop stop-color="#DDDDDD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="69.9905396%" x2="100%" y2="69.9905396%" id="linearGradient-4">
+            <stop stop-color="#EAEAEA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="8.35482724%"></stop>
+            <stop stop-color="#FFFFFF" offset="91.904092%"></stop>
+            <stop stop-color="#DEDEDE" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="0" y="4.07407407" width="21" height="8.14814815" rx="2.4"></rect>
+        <filter x="-16.7%" y="-30.7%" width="133.3%" height="185.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.135595362 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0.128387238%" x2="50%" y2="100%" id="linearGradient-7">
+            <stop stop-color="#FF8282" offset="0%"></stop>
+            <stop stop-color="#FF5D5D" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-8" x="7.26923077" y="4.07407407" width="6.46153846" height="17.9259259"></rect>
+        <filter x="-31.0%" y="-11.2%" width="161.9%" height="122.3%" filterUnits="objectBoundingBox" id="filter-9">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="2" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机_直播间" transform="translate(-308.000000, -707.000000)">
+            <g id="方案一" transform="translate(0.000000, 695.000000)">
+                <g id="SearchBar/WhiteBG/normal" transform="translate(16.000000, 9.000000)">
+                    <g id="礼物" transform="translate(292.000000, 3.000000)">
+                        <circle id="椭圆形" fill="#FFFFFF" opacity="0.1" cx="18" cy="18" r="18"></circle>
+                        <g id="编组" transform="translate(8.000000, 7.000000)">
+                            <g transform="translate(3.877088, 0.000000)" id="矩形">
+                                <path d="M9.22136938,0.382440375 L9.27752157,0.382686873 C10.3752294,0.387505608 11.263904,1.27618019 11.2687227,2.37388806 L11.2832143,5.67505448 C11.2880631,6.77961334 10.3965719,7.67896595 9.29201308,7.68381476 C9.28616007,7.68384045 9.28030699,7.68384045 9.27445398,7.68381476 L9.2183018,7.68356826 C8.12059394,7.67874953 7.23191935,6.79007494 7.22710062,5.69236708 L7.21260911,2.39120065 C7.2077603,1.28664179 8.09925143,0.387289185 9.20381029,0.382440375 C9.20966329,0.382414681 9.21551638,0.382414681 9.22136938,0.382440375 Z" fill="url(#linearGradient-1)" transform="translate(9.247912, 4.033128) rotate(45.000000) translate(-9.247912, -4.033128) "></path>
+                                <path d="M3.97133066,0.382456558 L4.02748284,0.382703056 C5.1251907,0.387521791 6.01386528,1.27619637 6.01868402,2.37390424 L6.03317553,5.67507067 C6.03802434,6.77962952 5.14653321,7.67898213 4.04197435,7.68383094 C4.03612135,7.68385664 4.03026826,7.68385664 4.02441526,7.68383094 L3.96826307,7.68358444 C2.87055521,7.67876571 1.98188063,6.79009113 1.97706189,5.69238326 L1.96257038,2.39121683 C1.95772157,1.28665798 2.8492127,0.387305368 3.95377156,0.382456558 C3.95962456,0.382430865 3.96547765,0.382430865 3.97133066,0.382456558 Z" fill="url(#linearGradient-2)" transform="translate(3.997873, 4.033144) scale(-1, 1) rotate(45.000000) translate(-3.997873, -4.033144) "></path>
+                            </g>
+                            <path d="M2.42307692,4.07407407 L18.5769231,4.07407407 L18.5769231,19.5555556 C18.5769231,20.9055849 17.4920745,22 16.1538462,22 L4.84615385,22 C3.50792545,22 2.42307692,20.9055849 2.42307692,19.5555556 L2.42307692,4.07407407 L2.42307692,4.07407407 Z" id="路径" fill="url(#linearGradient-3)"></path>
+                            <g id="矩形">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="url(#linearGradient-4)" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                            <g id="矩形">
+                                <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

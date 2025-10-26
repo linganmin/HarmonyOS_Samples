@@ -1,0 +1,5 @@
+{
+  "liblogredirect.so": {
+    "source": "src/mock/Liblogredirect.mock.ets"
+  }
+}

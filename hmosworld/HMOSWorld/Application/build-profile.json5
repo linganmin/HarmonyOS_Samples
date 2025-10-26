@@ -1,0 +1,79 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+        "compatibleSdkVersion": "5.0.0(12)",
+        "runtimeOS": "HarmonyOS"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "phone",
+      "srcPath": "./products/phone",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "discover",
+      "srcPath": "./features/discover"
+    },
+    {
+      "name": "learning",
+      "srcPath": "./features/learning"
+    },
+    {
+      "name": "topic",
+      "srcPath": "./features/topic"
+    },
+    {
+      "name": "login",
+      "srcPath": "./features/login"
+    },
+    {
+      "name": "challenge",
+      "srcPath": "./features/challenge"
+    },
+    {
+      "name": "mine",
+      "srcPath": "./features/mine"
+    },
+    {
+      "name": "conference",
+      "srcPath": "./features/conference"
+    },
+    {
+      "name": "uicomponents",
+      "srcPath": "./commons/uicomponents"
+    },
+    {
+      "name": "utils",
+      "srcPath": "./commons/utils"
+    },
+    {
+      "name": "network",
+      "srcPath": "./commons/network"
+    },
+    {
+      "name": "datastore",
+      "srcPath": "./commons/datastore"
+    },
+    {
+      "name": "audioplayer",
+      "srcPath": "./commons/audioplayer"
+    },
+    {
+      "name": "aspect",
+      "srcPath": "./commons/aspect",
+    }
+  ]
+}

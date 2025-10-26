@@ -1,0 +1,68 @@
+{
+  "routerMap": [
+    {
+      "name": "EncryptionAndDecryption",
+      "pageSourceFile": "src/main/ets/pages/EncryptionAndDecryption.ets",
+      "buildFunction": "EncryptionAndDecryptionBuilder",
+      "data": {
+        "description": "this is EncryptionAndDecryption"
+      }
+    },
+    {
+      "name": "SignatureVerification",
+      "pageSourceFile": "src/main/ets/pages/SignatureVerification.ets",
+      "buildFunction": "SignatureVerificationBuilder",
+      "data": {
+        "description": "this is SignatureVerification"
+      }
+    },
+    {
+      "name": "MessageSummary",
+      "pageSourceFile": "src/main/ets/pages/MessageSummary.ets",
+      "buildFunction": "MessageSummaryBuilder",
+      "data": {
+        "description": "this is MessageSummary"
+      }
+    },
+    {
+      "name": "MessageAuthenticationCode",
+      "pageSourceFile": "src/main/ets/pages/MessageAuthenticationCode.ets",
+      "buildFunction": "MessageAuthenticationCodeBuilder",
+      "data": {
+        "description": "this is MessageAuthenticationCode"
+      }
+    },
+    {
+      "name": "CryptoDetail",
+      "pageSourceFile": "src/main/ets/view/CryptoDetail.ets",
+      "buildFunction": "CryptoDetailBuilder",
+      "data": {
+        "description": "this is CryptoDetail"
+      }
+    },
+    {
+      "name": "SignatureDetail",
+      "pageSourceFile": "src/main/ets/view/SignatureDetail.ets",
+      "buildFunction": "SignatureDetailBuilder",
+      "data": {
+        "description": "this is SignatureDetail"
+      }
+    },
+    {
+      "name": "SummaryDetail",
+      "pageSourceFile": "src/main/ets/view/SummaryDetail.ets",
+      "buildFunction": "SummaryDetailBuilder",
+      "data": {
+        "description": "this is SummaryDetail"
+      }
+    },
+    {
+      "name": "AuthCodeDetail",
+      "pageSourceFile": "src/main/ets/view/AuthCodeDetail.ets",
+      "buildFunction": "AuthCodeDetailBuilder",
+      "data": {
+        "description": "this is AuthCodeDetail"
+      }
+    }
+  ]
+}

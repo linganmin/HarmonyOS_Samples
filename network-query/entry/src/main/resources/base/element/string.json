@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetworkQuery"
+    },
+    {
+      "name": "reason_access_internet",
+      "value": "Access internet"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "Get network info"
+    },
+    {
+      "name": "reason_set_wifi_info",
+      "value": "Used for users to connect wifi in the app"
+    },
+    {
+      "name": "reason_get_wifi_info",
+      "value": "Used to get wifi information"
+    },
+    {
+      "name": "location_permission",
+      "value": "Allow the app to obtain location information during location scenarios"
+    },
+    {
+      "name": "approx_location_permission",
+      "value": "Allow the app to obtain fuzzy device location information during location scenarios"
+    },
+    {
+      "name": "title_network_query",
+      "value": "Common network information query"
+    },
+    {
+      "name": "title_connect_specified_network",
+      "value": "Connect to specified network"
+    },
+    {
+      "name": "title_network_aware",
+      "value": "Network state aware scenarios"
+    },
+    {
+      "name": "title_wlan_positioning",
+      "value": "WLAN positioning scenario"
+    },
+    {
+      "name": "title_network_troubleshooting",
+      "value": "Network troubleshooting"
+    },
+    {
+      "name": "current_cellular_tips",
+      "value": "It is currently a cellular network"
+    },
+    {
+      "name": "no_network_tips",
+      "value": "No network connection, check if the device is connected to the Internet"
+    },
+    {
+      "name": "go_on_play",
+      "value": "Go on play"
+    },
+    {
+      "name": "network_bad_tips",
+      "value": "The network is currently poor"
+    },
+    {
+      "name": "btn_get_mac",
+      "value": "Get the MAC address"
+    },
+    {
+      "name": "mac_address",
+      "value": "mac address"
+    },
+    {
+      "name": "no_location_permission_tips",
+      "value": "This function requires the location permission. Go to the settings page to authorize the permission"
+    },
+    {
+      "name": "turn_on_wlan_tips",
+      "value": "Please turn on the WLAN switch first"
+    },
+    {
+      "name": "wifi_not_connect_tips",
+      "value": "If the wifi is not connected, please connect to the wifi first"
+    },
+    {
+      "name": "re_query_network_info",
+      "value": "Re-query the network information."
+    },
+    {
+      "name": "result_network_not_connect",
+      "value": "The network is not connected"
+    },
+    {
+      "name": "result_is_checking",
+      "value": "Network detection......"
+    },
+    {
+      "name": "result_network_unavailable",
+      "value": "Network is not available"
+    },
+    {
+      "name": "result_network_available",
+      "value": "Network is available"
+    },
+    {
+      "name": "result_network_normal",
+      "value": "Network normal"
+    },
+    {
+      "name": "title_check_result",
+      "value": "Check result"
+    },
+    {
+      "name": "title_network_type",
+      "value": "Test results"
+    },
+    {
+      "name": "title_proxy_info",
+      "value": "Network agent information"
+    },
+    {
+      "name": "title_router_info",
+      "value": "Routing information"
+    },
+    {
+      "name": "title_ip_address_info",
+      "value": "The IP address of the current network"
+    },
+    {
+      "name": "title_dns_server",
+      "value": "DNS servers for the current network"
+    },
+    {
+      "name": "title_wifi_signal",
+      "value": "Current wifi signal strength"
+    },
+    {
+      "name": "title_wifi_mac_address",
+      "value": "Current WiFi MAC address"
+    },
+    {
+      "name": "title_cellular_type",
+      "value": "Cellular network standards"
+    },
+    {
+      "name": "title_is_radio_on",
+      "value": "Whether the radio on the cellular main card is turned on"
+    },
+    {
+      "name": "title_operator_name",
+      "value": "Operator name"
+    },
+    {
+      "name": "title_is_roaming",
+      "value": "Whether the cellular network is roaming"
+    },
+    {
+      "name": "title_cellular_signal_rssi",
+      "value": "Cellular network signal strength"
+    },
+    {
+      "name": "wlan_is_connected",
+      "value": "WiFi connected"
+    },
+    {
+      "name": "wlan_is_disconnected",
+      "value": "The wifi is disconnected"
+    },
+    {
+      "name": "network_is_not_wifi",
+      "value": "The current network is not WIFI"
+    },
+    {
+      "name": "connected_to_spec_wifi",
+      "value": "Connected to the specified WIFI"
+    },
+    {
+      "name": "network_need_auth",
+      "value": "Login verification is required for the current network"
+    },
+    {
+      "name": "not_connected_spec_wifi",
+      "value": "Not connected to the specified WIFI"
+    },
+    {
+      "name": "btn_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "btn_confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "placeholder_input_password",
+      "value": "Please enter the wifi password"
+    },
+    {
+      "name": "wifi_stated_connected",
+      "value": "connected"
+    },
+    {
+      "name": "wifi_stated_encrypt",
+      "value": "encrypt"
+    },
+    {
+      "name": "btn_get_scan_wifi",
+      "value": "Get system scan wifi"
+    },
+    {
+      "name": "btn_is_connected_target",
+      "value": "Whether connected to wifi-%1$s"
+    },
+    {
+      "name": "network_disconnect_tips",
+      "value": "network has disconnected"
+    }
+  ]
+}

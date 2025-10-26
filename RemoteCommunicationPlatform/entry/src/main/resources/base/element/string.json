@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "远程通信平台"
+    },
+    {
+      "name": "reason",
+      "value": "Used to introduce the network request capability of RCP using the Internet network."
+    },
+    {
+      "name": "title",
+      "value": "基于RCP的网络请求能力"
+    },
+    {
+      "name": "base_request",
+      "value": "基础请求"
+    },
+    {
+      "name": "multipart_form",
+      "value": "多表单提交"
+    },
+    {
+      "name": "request_response",
+      "value": "请求与响应拦截"
+    },
+    {
+      "name": "dns_setting",
+      "value": "DNS设置"
+    },
+    {
+      "name": "tracing_point",
+      "value": "捕获有关HTTP请求/响应流的详细信息"
+    },
+    {
+      "name": "patch_request",
+      "value": "发起PATCH请求"
+    },
+    {
+      "name": "patch_request_param",
+      "value": "PATCH请求相关参数如下："
+    },
+    {
+      "name": "set_baseAddress",
+      "value": "设置会话中URL的基地址"
+    },
+    {
+      "name": "set_baseAddress_success",
+      "value": "baseAddress为："
+    },
+    {
+      "name": "form_title",
+      "value": "表单:"
+    },
+    {
+      "name": "input_name",
+      "value": "请输入你的姓名："
+    },
+    {
+      "name": "form_one",
+      "value": "表单一"
+    },
+    {
+      "name": "choose_hobbies",
+      "value": "请选择兴趣爱好："
+    },
+    {
+      "name": "choose_all",
+      "value": "选择所有"
+    },
+    {
+      "name": "basketball",
+      "value": "篮球"
+    },
+    {
+      "name": "football",
+      "value": "足球"
+    },
+    {
+      "name": "badminton",
+      "value": "羽毛球"
+    },
+    {
+      "name": "form_two",
+      "value": "表单二"
+    },
+    {
+      "name": "submit",
+      "value": "提交"
+    },
+    {
+      "name": "submit_data",
+      "value": "多表单提交数据为："
+    },
+    {
+      "name": "custom_dns",
+      "value": "自定义DNS服务器"
+    },
+    {
+      "name": "set_custom_dns",
+      "value": "自定义DNS服务器为："
+    },
+    {
+      "name": "static_dns",
+      "value": "自定义静态DNS"
+    },
+    {
+      "name": "set_static_dns",
+      "value": "自定义静态DNS为："
+    },
+    {
+      "name": "dns_over_http",
+      "value": "配置HTTP上的DNS"
+    },
+    {
+      "name": "set_dns_over_http",
+      "value": "HTTP上的DNS为："
+    },
+    {
+      "name": "get_image",
+      "value": "获取图片"
+    },
+    {
+      "name": "image_url",
+      "value": "图片请求地址："
+    },
+    {
+      "name": "enable_request_caching",
+      "value": "开启请求缓存"
+    },
+    {
+      "name": "configuration_information",
+      "value": "配置详细信息收集"
+    },
+    {
+      "name": "information",
+      "value": "详细信息收集配置如下："
+    }
+  ]
+}

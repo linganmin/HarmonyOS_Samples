@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Native文件访问"
+    },
+    {
+      "name": "file_content_sandbox",
+      "value": "NATIVE侧已通过传入的沙箱路径访问文件。"
+    },
+    {
+      "name": "file_content_splice",
+      "value": "NATIVE侧已通过拼接路径访问文件。"
+    },
+    {
+      "name": "file_content_resource",
+      "value": "NATIVE侧已通过传入的资源管理对象访问文件。"
+    },
+    {
+      "name": "file_content_picker",
+      "value": "NATIVE侧已通过picker传入的fd访问文件。"
+    },
+    {
+      "name": "button_sandbox",
+      "value": "传递沙箱路径访问文件"
+    },
+    {
+      "name": "button_splice",
+      "value": "拼接路径访问文件"
+    },
+    {
+      "name": "button_resMgr",
+      "value": "传递资源管理器访问文件"
+    },
+    {
+      "name": "button_create",
+      "value": "调用picker创建文件"
+    },
+    {
+      "name": "button_write",
+      "value": "调用picker选择文件写入内容"
+    },
+    {
+      "name": "button_read",
+      "value": "调用picker选择文件读取内容"
+    }
+  ]
+}

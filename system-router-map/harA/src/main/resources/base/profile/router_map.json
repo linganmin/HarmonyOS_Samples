@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "HarAPageOne",
+      "pageSourceFile": "src/main/ets/pages/HarAPageOne.ets",
+      "buildFunction": "HarAPageOneBuilder",
+      "data": {
+        "description": "this is pageOne"
+      }
+    },
+    {
+      "name": "HarAPageTwo",
+      "pageSourceFile": "src/main/ets/pages/HarAPageTwo.ets",
+      "buildFunction": "HarAPageTwoBuilder",
+      "data": {
+        "description": "this is pageTwo"
+      }
+    }
+  ]
+}

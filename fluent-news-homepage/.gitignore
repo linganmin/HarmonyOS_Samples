@@ -1,0 +1,10 @@
+/oh_modules
+/build
+/.hvigor/cache
+/.hvigor/dependencyMap
+/.hvigor/outputs
+/.hvigor/report
+/entry/build
+.idea
+.clang-format
+oh-package-lock.json5

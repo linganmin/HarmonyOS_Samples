@@ -1,0 +1,3 @@
+D:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/.cxx/default/default/debug/arm64-v8a/CMakeFiles/entry.dir
+D:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/.cxx/default/default/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/test/CANNkit-Codelab-Clientdemo-cpp0/CANNkit-Codelab-Clientdemo-cpp/CANNkit-Codelab-Clientdemo-cpp/entry/.cxx/default/default/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir

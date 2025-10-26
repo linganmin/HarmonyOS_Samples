@@ -1,0 +1,8 @@
+<!-- [Start style_4] -- >
+<!-- index.hml -->
+<div class="container">
+    <text class="title" style="font-size: {{fontSize}}; color: {{fontColor}};">
+        Hello World
+    </text>
+</div>
+<!-- [End style_4] -- >

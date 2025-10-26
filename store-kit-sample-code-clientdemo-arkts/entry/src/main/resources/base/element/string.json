@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "load_product",
+      "value": "Load Product"
+    },
+    {
+      "name": "load_install",
+      "value": "Load Install"
+    },
+    {
+      "name": "load_service",
+      "value": "Load Service"
+    },
+    {
+      "name": "getAdsVerificationVersion",
+      "value": "getAdsVerificationVersion"
+    },
+    {
+      "name": "getSelfSceneCode",
+      "value": "getSelfSceneCode"
+    },
+    {
+      "name": "attribution_manager",
+      "value": "Attribution Manager"
+    },
+    {
+      "name": "check_update",
+      "value": "Check update"
+    },
+    {
+      "name": "getAppPrivacyMgmtInfo",
+      "value": "getAppPrivacyMgmtInfo"
+    },
+    {
+      "name": "getAppPrivacyResult",
+      "value": "getAppPrivacyResult"
+    },
+    {
+      "name": "disableService",
+      "value": "disableService"
+    },
+    {
+      "name": "addShortcutToDesktop",
+      "value": "addShortcutToDesktop"
+    }
+  ]
+}

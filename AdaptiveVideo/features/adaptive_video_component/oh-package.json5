@@ -1,0 +1,12 @@
+{
+  "name": "adaptive_video_component",
+  "version": "1.0.0",
+  "description": "基于adaptive_video的使用",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "base": "file:../../commons/base",
+    "@hadss/adaptive_video": "^1.0.0-rc.2"
+  }
+}

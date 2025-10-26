@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "audioScenePage",
+      "pageSourceFile": "src/main/ets/audioscene/AudioScene.ets",
+      "buildFunction": "AudioScenePageBuilder",
+      "data": {
+        "description": "this is audio scene page."
+      }
+    },
+    {
+      "name": "videoScenePage",
+      "pageSourceFile": "src/main/ets/videoscene/VideoScene.ets",
+      "buildFunction": "VideoScenePageBuilder",
+      "data": {
+        "description": "this is video scene page."
+      }
+    },
+    {
+      "name": "voIPScenePage",
+      "pageSourceFile": "src/main/ets/voipscene/VoIPScene.ets",
+      "buildFunction": "VoIPScenePageBuilder",
+      "data": {
+        "description": "this is voip chart page."
+      }
+    }
+  ]
+}

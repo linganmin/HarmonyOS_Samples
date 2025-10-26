@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "count_down_background",
+      "value": "#33000000"
+    },
+    {
+      "name": "splash_text_font_color",
+      "value": "#1A1A1A"
+    }
+  ]
+}

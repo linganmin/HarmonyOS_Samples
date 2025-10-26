@@ -1,0 +1,34 @@
+// [Start setHtmlFontSize]
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <style>
+            span {
+                font-size: 1rem;
+            }
+        </style>
+
+        <script>
+            /* Sample code, set the font size according to the screen width */
+            function setHtmlFontSize() {
+              var baseFontSize = 16;
+              var baseScreenWidth = 375;
+              var screenWidth = window.innerWidth;
+              var screenHeight = window.innerHeight;
+              /* Sample code: controlling the variation range of font size */
+              var fontSize = (Math.min (screenWidth, 400) / baseScreenWidth) * baseFontSize;
+              /* var fontSize = (screenWidth / baseScreenWidth) * baseFontSize; */
+              document.documentElement.style.fontSize = fontSize + "px";
+            }
+
+            window.addEventListener("load", setHtmlFontSize);
+            window.addEventListener("resize", setHtmlFontSize);
+        </script>
+    </head>
+    <body>
+        <div>
+            <span>xxxxxxxxxxxxxxxxxxxxxxx</span>
+        </div>
+    </body>
+</html>
+// [End setHtmlFontSize]

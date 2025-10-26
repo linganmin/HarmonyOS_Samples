@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "AttributionAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AttributionAbility_label",
+      "value": "Attribution"
+    },
+    {
+      "name": "register_source",
+      "value": "Register Source"
+    },
+    {
+      "name": "register_trigger",
+      "value": "Register Trigger"
+    },
+    {
+      "name": "validate_source",
+      "value": "Validate Source"
+    },
+    {
+      "name": "set_postback",
+      "value": "Set Postback"
+    },
+    {
+      "name": "flush_postbacks",
+      "value": "Flush Postbacks"
+    },
+    {
+      "name": "gen_sign_failed",
+      "value": "Failed to generate the signature."
+    },
+    {
+      "name": "register_source_success",
+      "value": "registerSource success."
+    },
+    {
+      "name": "register_source_failed",
+      "value": "registerSource failed."
+    },
+    {
+      "name": "register_trigger_success",
+      "value": "registerTrigger success."
+    },
+    {
+      "name": "register_trigger_failed",
+      "value": "registerTrigger failed."
+    },
+    {
+      "name": "validate_source_success",
+      "value": "validateSource success."
+    },
+    {
+      "name": "validate_source_failed",
+      "value": "validateSource failed."
+    },
+    {
+      "name": "set_postback_success",
+      "value": "setPostback success."
+    },
+    {
+      "name": "set_postback_failed",
+      "value": "setPostback failed."
+    },
+    {
+      "name": "flush_postbacks_success",
+      "value": "flushPostbacks success."
+    },
+    {
+      "name": "flush_postbacks_failed",
+      "value": "flushPostbacks failed."
+    }
+  ]
+}

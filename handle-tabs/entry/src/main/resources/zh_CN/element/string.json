@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "增删Tab页签"
+    },
+    {
+      "name": "HandleTabs",
+      "value": "增删页签"
+    },
+    {
+      "name": "HandleTabsDesc",
+      "value": "本示例介绍使用了实现自定义增删Tab页签的功能。该场景多用于浏览器等场景。"
+    },
+    {
+      "name": "newSheet",
+      "value": "新建标签"
+    }
+  ]
+}

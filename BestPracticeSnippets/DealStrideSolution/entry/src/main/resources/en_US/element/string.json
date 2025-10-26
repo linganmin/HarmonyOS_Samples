@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DealStrideSolution"
+    },
+    {
+      "name": "camera_reason",
+      "value": "This permission is required for using the camera"
+    },
+    {
+      "name": "only_show_for_ux",
+      "value": "only show for ux"
+    },
+    {
+      "name": "title_one",
+      "value": "DealStrideOne"
+    },
+    {
+      "name": "title_two",
+      "value": "DealStrideTwo"
+    },
+    {
+      "name": "title_three",
+      "value": "NoDealStride"
+    },
+    {
+      "name": "total_title",
+      "value": "Camera preview flower screen solution"
+    },
+    {
+      "name": "btn_one",
+      "value": "Dealing with stride: Option One"
+    },
+    {
+      "name": "btn_two",
+      "value": "Dealing with stride: Option two"
+    },
+    {
+      "name": "btn_three",
+      "value": "Counter example: stride not processed"
+    }
+  ]
+}

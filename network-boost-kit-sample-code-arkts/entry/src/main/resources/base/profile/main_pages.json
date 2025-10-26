@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/NetworkQos",
+    "pages/NetworkScene",
+    "pages/ReportQoe",
+    "pages/NetworkHandover",
+    "pages/SetHandoverMode"
+  ]
+}

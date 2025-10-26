@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PicturePreview"
+    },
+    {
+      "name": "text_share",
+      "value": "Share"
+    },
+    {
+      "name": "text_collect",
+      "value": "Collect"
+    },
+    {
+      "name": "text_edit",
+      "value": "Edit"
+    },
+    {
+      "name": "text_delete",
+      "value": "Delete"
+    },
+    {
+      "name": "text_title",
+      "value": "PicturePreview"
+    }
+  ]
+}

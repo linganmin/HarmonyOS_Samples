@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Main entrance Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "media_permission_reason",
+      "value": "Used for playing preset audio"
+    },
+    {
+      "name": "InsightExecutor_label",
+      "value": "Intention executor"
+    },
+    {
+      "name": "entry_MainAbility",
+      "value": "CeliaDemo"
+    },
+    {
+      "name": "title",
+      "value": "This application supports the following external operations:"
+    },
+    {
+      "name": "button",
+      "value": "Jump to the second page"
+    },
+    {
+      "name": "text1",
+      "value": "Play pre stored audio: Celia Demo intelligent agent command 'Play music'"
+    },
+    {
+      "name": "text2",
+      "value": "Retrieve text content: Celia Demo intelligent agent instruction 'Acquiring Information'"
+    },
+    {
+      "name": "text3",
+      "value": "Jump to the second page: Celia Demo intelligent agent command 'Jump page'"
+    },
+    {
+      "name": "load",
+      "value": "Waiting for text to load .."
+    },
+    {
+      "name": "show",
+      "value": "This is used to display APP information"
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
+      "name": "play",
+      "value": "Play music"
+    },
+    {
+      "name": "acquire",
+      "value": "Acquiring Information"
+    },
+    {
+      "name": "jump",
+      "value": "Jump page"
+    },
+    {
+      "name": "hidden",
+      "value": "Failed to retrieve hidden information,"
+    },
+    {
+      "name": "deep_link",
+      "value": "This page can be accessed through Deeplink: demo://aiagentdemo.com/SecondPage"
+    }
+  ]
+}

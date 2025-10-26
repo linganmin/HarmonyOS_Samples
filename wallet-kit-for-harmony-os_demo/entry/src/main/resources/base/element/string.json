@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "WalletKitDemo"
+    },
+    {
+      "name": "Prerequisites",
+      "value": "Prerequisites"
+    },
+    {
+      "name": "Initialize",
+      "value": "Initialize"
+    },
+    {
+      "name": "Public_Card_Operation",
+      "value": "Public Card Operation"
+    },
+    {
+      "name": "Result",
+      "value": "Result:"
+    },
+    {
+      "name": "Enter_JWE",
+      "value": "Enter jwe"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "integer": [
+    {
+      "name": "common_margin_right",
+      "value": 16
+    },
+    {
+      "name": "image_height",
+      "value": 180
+    },
+    {
+      "name": "common_radius",
+      "value": 10
+    },
+    {
+      "name": "font_size",
+      "value": 14
+    },
+    {
+      "name": "common_margin_bottom",
+      "value": 12
+    },
+    {
+      "name": "title_font_size",
+      "value": 12
+    },
+    {
+      "name": "border_width",
+      "value": 1
+    },
+    {
+      "name": "card_margin_bottom",
+      "value": 16
+    },
+    {
+      "name": "common_padding",
+      "value": 12
+    },
+    {
+      "name": "card_common_padding",
+      "value": 16
+    }
+  ]
+}

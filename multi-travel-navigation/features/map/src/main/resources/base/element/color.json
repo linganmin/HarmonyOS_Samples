@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "tab_font_selected_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "tab_font_unselected",
+      "value": "#848586"
+    },
+    {
+      "name": "acetate",
+      "value": "#00FFFFFF"
+    },
+    {
+      "name": "divider_bar",
+      "value": "#33000000"
+    },
+    {
+      "name": "back_button",
+      "value": "#F3F3F3"
+    }
+  ]
+}

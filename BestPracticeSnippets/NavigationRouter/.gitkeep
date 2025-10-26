@@ -1,0 +1,41 @@
+// [Start git_keep_1]
+// Copy the files to be sent to the tmp directory
+hdc file send test.txt /data/local/tmp/test.txt    
+hdc shell
+// Start ftp service to connect sandbox directory
+aa process -b com.example.XXX -a EntryAbility -p "/system/bin/bftpd -D -p 9029" -S
+// Copy the target file in the tmp directory to the absolute path of the sandbox
+ftpget -p 9029 -P guest -u anonymous localhost -s /data/local/tmp/test.txt /data/storage/el2/base/test.txt  
+// [End git_keep_1]
+
+// [Start git_keep_2]
+hdc file recv /data/app/el2/100/base/com.example.myapplication/haps/entry/files/test.txt "D:\recv"
+// [End git_keep_2]
+
+// [Start git_keep_3]
+hdc file recv /data/app/el2/100/database/com.example.myapplication/entry/rdb/customDir/subCustomDir "D:\abc"
+// [End git_keep_3]
+
+// [Start git_keep_4]
+hdc file recv /data/app/el2/100/database/com.example.myapplication/entry/kvdb/2c77515efb1c9f5f9b5fdc9d2f78edae26e57c53dd63b19a9b0728f71f2aa42f/single_ver/main "D:\abc"
+// [End git_keep_4]
+
+// [Start git_keep_5]
+hdc file recv /data/app/el2/100/base/com.example.myapplication/haps/entry/preferences/myStore "D:\abc"
+// [End git_keep_5]
+
+// [Start git_keep_6]
+"requestPermissions": [
+    {
+        "name": "ohos.permission.INTERNET"
+    }
+]
+// [End git_keep_6]
+
+// [Start git_keep_7]
+$ aa process -b {bundleName} -a {abilityName} -p "/system/bin/bftpd -D -p {port}"  -S
+start native process successfully.
+$ ps -ef | grep bftpd
+20020143     12254   613 0 11:52:53 ?     00:00:00 bftpd -D -p 9021   // 对应端口号的bftpd服务启动成功
+shell        13035 11901 10 11:54:44 ?    00:00:00 grep bftpd
+// [End git_keep_7]

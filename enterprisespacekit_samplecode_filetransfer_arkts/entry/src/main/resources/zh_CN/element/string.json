@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "Demo_title_fileTransfer",
+      "value": "空间互传Sample"
+    },
+    {
+      "name": "getAuditInfo",
+      "value": "1.获取审计信息"
+    },
+    {
+      "name": "setAuditInfo",
+      "value": "2.设置审计信息"
+    }
+  ]
+}

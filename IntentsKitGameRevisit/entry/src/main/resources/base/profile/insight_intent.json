@@ -1,0 +1,16 @@
+{
+  "insightIntents": [
+    {
+      "intentName": "PlayGame",
+      "domain": "GamesDomain",
+      "intentVersion": "1.0.1",
+      "srcEntry": "./ets/insightintents/IntentExecutorImpl.ets",
+      "uiAbility": {
+        "ability": "EntryAbility",
+        "executeMode": [
+          "foreground"
+        ]
+      }
+    }
+  ]
+}

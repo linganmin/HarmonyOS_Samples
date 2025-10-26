@@ -1,0 +1,15 @@
+// FAQ:如何跨Hap模块调用C++ API
+{
+  "name": "modulea",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  // [Start native_lib]
+  "dependencies": {
+    "libmodulea.so": "file:./src/main/cpp/types/libmodulea",
+    "moduleb": "file:../Moduleb"
+  },
+  // [End native_lib]
+}

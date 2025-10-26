@@ -1,0 +1,36 @@
+{
+  "comments": [
+    {
+      "id": "0",
+      "avatar": "app.media.ic_comm_pic1",
+      "userName": "为谁煮过茶",
+      "comment": "感觉很不错，下一款准备入手MateX3了，很喜欢折叠屏的分屏功能，终于可以一边聊天一边看短视频了！",
+      "image": "app.media.ic_comm_pic1",
+      "date": "12月11日"
+    },
+    {
+      "id": "1",
+      "avatar": "app.media.ic_comm_pic2",
+      "userName": "有风掠过",
+      "comment": "喜欢这张图，很惊艳！！！竟然是手机拍出来的，太给力了",
+      "image": "app.media.ic_comm_pic2",
+      "date": "12月11日"
+    },
+    {
+      "id": "2",
+      "avatar": "app.media.ic_comm_pic3",
+      "userName": "烽烟四起",
+      "comment": "慨商女不知兴度",
+      "image": "app.media.ic_comm_pic3",
+      "date": "12月11日"
+    },
+    {
+      "id": "3",
+      "avatar": "app.media.ic_comm_pic4",
+      "userName": "末爱世纪",
+      "comment": "看父老袅花，苦遮去辙，儿童骑行，争问归期",
+      "image": "app.media.ic_comm_pic4",
+      "date": "12月11日"
+    }
+  ]
+}

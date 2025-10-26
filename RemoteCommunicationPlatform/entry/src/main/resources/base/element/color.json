@@ -1,0 +1,24 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "text_border_color",
+      "value": "#D3D3D3"
+    },
+    {
+      "name": "selected_color",
+      "value": "#007DFF"
+    },
+    {
+      "name": "font_color",
+      "value": "#182431"
+    },
+    {
+      "name": "gray_background",
+      "value": "#EFEFEF"
+    }
+  ]
+}

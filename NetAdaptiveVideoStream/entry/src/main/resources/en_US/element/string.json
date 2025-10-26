@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetAdaptiveVideoStream"
+    },
+    {
+      "name": "resolution_changing",
+      "value": "Changing the resolution"
+    },
+    {
+      "name": "resolution_changed",
+      "value": "Resolution change finished"
+    },
+    {
+      "name": "resolution_auto_reducing",
+      "value": "Current network is poor, the resolution will be automatically changed"
+    },
+    {
+      "name": "resolution_auto_increasing",
+      "value": "Current network is normal, the resolution will be automatically increased"
+    },
+    {
+      "name": "auto_resolution",
+      "value": "Auto"
+    },
+    {
+      "name": "path_type",
+      "value": "PathType%s"
+    },
+    {
+      "name": "down_band_width",
+      "value": "DownBandWidth%s"
+    },
+    {
+      "name": "down_rate",
+      "value": "DownRate%s"
+    },
+    {
+      "name": "rtt_ms",
+      "value": "RttMs%s"
+    },
+    {
+      "name": "scene",
+      "value": "Scene%s"
+    },
+    {
+      "name": "recommended_action",
+      "value": "RecommendAction%s"
+    },
+    {
+      "name": "video_avg_down_rate",
+      "value": "VideoAvgDownloadRate%s"
+    },
+    {
+      "name": "video_down_rate",
+      "value": "VideoDownloadRate%s"
+    },
+    {
+      "name": "video_buffer_info_type",
+      "value": "BufferInfoType%s"
+    },
+    {
+      "name": "video_buffer_info_value",
+      "value": "BufferInfoValue%s"
+    },
+    {
+      "name": "error_info",
+      "value": "Player state is abnormal, the playback will be stopped"
+    },
+    {
+      "name": "weak_net",
+      "value": "The network is weak, change to minimal bitrate"
+    },
+    {
+      "name": "manual_bitrate",
+      "value": "Resolution Changing"
+    },
+    {
+      "name": "weak_net_lowest_bitrate",
+      "value": "The network is weak, current bitrate is already the lowest"
+    },
+    {
+      "name": "full_screen_playback",
+      "value": "Full-screen Playback"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Pasteboard"
+    },
+    {
+      "name": "title",
+      "value": "Pasteboard"
+    },
+    {
+      "name": "input_tip",
+      "value": "Enter text"
+    },
+    {
+      "name": "result_tip",
+      "value": "Result"
+    },
+    {
+      "name": "copy",
+      "value": "Copy"
+    },
+    {
+      "name": "reason_paste",
+      "value": "Allows applications to obtain links in the system clipboard for page redirection."
+    },
+    {
+      "name": "reason_router",
+      "value": "About to read clipboard link and jump"
+    },
+    {
+      "name": "jumping",
+      "value": "Jumping"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "button_jump",
+      "value": "Paste share direct"
+    },
+    {
+      "name": "button_mixed",
+      "value": "Mixing and pasting multiple data"
+    },
+    {
+      "name": "button_progress",
+      "value": "Progress bar access"
+    },
+    {
+      "name": "button_copy_uri",
+      "value": "One-click copy sharing link"
+    },
+    {
+      "name": "paste_progress",
+      "value": "Paste Progress"
+    },
+    {
+      "name": "paste_image_text",
+      "value": "Paste the mixed text and image data."
+    },
+    {
+      "name": "paste_text",
+      "value": "Paste plain text data."
+    },
+    {
+      "name": "paste_image",
+      "value": "Paste image data."
+    },
+    {
+      "name": "paste_complete",
+      "value": "Paste complete."
+    },
+    {
+      "name": "copy_complete",
+      "value": "Copy complete."
+    }
+  ]
+}

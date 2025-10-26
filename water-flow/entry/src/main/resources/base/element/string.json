@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WaterFlow"
+    },
+    {
+      "name": "title",
+      "value": "WaterFlow Instance"
+    },
+    {
+      "name": "loading",
+      "value": "Loading"
+    },
+    {
+      "name": "distance",
+      "value": "Distance"
+    },
+    {
+      "name": "less_1km",
+      "value": "<1km"
+    },
+    {
+      "name": "less_5km",
+      "value": "<5km"
+    },
+    {
+      "name": "more_5km",
+      "value": ">5km"
+    },
+    {
+      "name": "classify",
+      "value": "Classify"
+    },
+    {
+      "name": "food",
+      "value": "Food"
+    },
+    {
+      "name": "leisure",
+      "value": "Leisure"
+    },
+    {
+      "name": "entertainment",
+      "value": "Fun"
+    },
+    {
+      "name": "sort",
+      "value": "Sort"
+    },
+    {
+      "name": "one",
+      "value": "1"
+    },
+    {
+      "name": "two",
+      "value": "2"
+    },
+    {
+      "name": "three",
+      "value": "3"
+    },
+    {
+      "name": "sticky_tab_all",
+      "value": "All"
+    },
+    {
+      "name": "sticky_tab_merchant",
+      "value": "Merchant"
+    },
+    {
+      "name": "sticky_tab_note",
+      "value": "Note"
+    },
+    {
+      "name": "sticky_tab_group_buy",
+      "value": "GroupBuy"
+    },
+    {
+      "name": "sticky_tab_user",
+      "value": "User"
+    },
+    {
+      "name": "sticky_tab_other",
+      "value": "Other"
+    },
+    {
+      "name": "scenario1",
+      "value": "Scenario 1"
+    },
+    {
+      "name": "scenario2",
+      "value": "Scenario 2"
+    },
+    {
+      "name": "scenario_sections",
+      "value": "Use sections to layout"
+    },
+    {
+      "name": "scenario_sticky",
+      "value": "Swipe for ceiling"
+    },
+    {
+      "name": "internet_reason",
+      "value": "Used for accessing the Internet to retrieve waterfall feed card data"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    }
+  ]
+}

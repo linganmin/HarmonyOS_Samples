@@ -1,0 +1,60 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_background_2",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "common_background_3",
+      "value": "#E5E7E9"
+    },
+    {
+      "name": "function_default_color",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "slider_selected",
+      "value": "#007DFF"
+    },
+    {
+      "name": "speed_dialog",
+      "value": "#33bab4b4"
+    },
+    {
+      "name": "video_play",
+      "value": "#333333"
+    },
+    {
+      "name": "video_play_selected",
+      "value": "#5c5c5c"
+    },
+    {
+      "name": "common_bg",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "price_red",
+      "value": "#E92F4F"
+    },
+    {
+      "name": "item_title_font",
+      "value": "#E6000000"
+    },
+    {
+      "name": "desc_font",
+      "value": "#99000000"
+    },
+    {
+      "name": "button_start",
+      "value": "#F64D43"
+    },
+    {
+      "name": "button_end",
+      "value": "#EB344D"
+    }
+  ]
+}

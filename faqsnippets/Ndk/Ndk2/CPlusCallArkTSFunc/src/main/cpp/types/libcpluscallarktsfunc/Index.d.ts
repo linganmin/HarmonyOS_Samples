@@ -1,0 +1,1 @@
+export const nativeCallArkTS: (a: (b: number) => {}) => string;

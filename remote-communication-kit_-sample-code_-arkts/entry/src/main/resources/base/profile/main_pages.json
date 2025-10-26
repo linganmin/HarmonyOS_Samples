@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/BaseAddress",
+    "pages/TimeOut",
+    "pages/TransferRange",
+    "pages/Interceptor",
+    "pages/UploadFile",
+    "pages/Certificate"
+  ]
+}

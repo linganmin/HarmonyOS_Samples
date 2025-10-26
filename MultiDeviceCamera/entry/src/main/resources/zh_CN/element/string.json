@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "多设备相机应用"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "多设备相机"
+    },
+    {
+      "name": "reason_camera",
+      "value": "访问相机权限"
+    },
+    {
+      "name": "reason_write_image_video",
+      "value": "写入图库权限"
+    },
+    {
+      "name": "reason_read_image_video",
+      "value": "读取图库权限"
+    },
+    {
+      "name": "flashlight",
+      "value": "闪光灯"
+    },
+    {
+      "name": "filter",
+      "value": "滤镜"
+    },
+    {
+      "name": "setting",
+      "value": "设置"
+    },
+    {
+      "name": "photo",
+      "value": "照片"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    },
+    {
+      "name": "choose_music",
+      "value": "选择音乐"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "CSideOpenFile",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "CSideOpenFileAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "CSideOpenFileAbility",
+        "srcEntry": "./ets/csideopenfileability/CSideOpenFileAbility.ets",
+        "description": "$string:CSideOpenFileAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:CSideOpenFileAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

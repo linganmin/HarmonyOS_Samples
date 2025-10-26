@@ -1,0 +1,84 @@
+{
+  "routerMap": [
+    {
+      "name": "MultiModalPage",
+      "pageSourceFile": "src/main/ets/feature/MultiModalTransition/HalfModalWindow.ets",
+      "buildFunction": "MultiModalPageBuilder"
+    },
+    {
+      "name": "SearchLongTakeTransitionPageOne",
+      "pageSourceFile": "src/main/ets/feature/SearchLongTakeTransition/SearchLongTakeTransitionPageOne.ets",
+      "buildFunction": "SearchLongTakeTransitionPageOneBuilder"
+    },
+    {
+      "name": "SearchLongTakeTransitionPageTwo",
+      "pageSourceFile": "src/main/ets/feature/SearchLongTakeTransition/SearchLongTakeTransitionPageTwo.ets",
+      "buildFunction": "SearchLongTakeTransitionPageTwoBuilder"
+    },
+    {
+      "name": "CardLongTakeTransitionPageOne",
+      "pageSourceFile": "src/main/ets/feature/CardLongTakeTransition/CardLongTakeTransitionPageOne.ets",
+      "buildFunction": "CardLongTakeTransitionPageOneBuilder"
+    },
+    {
+      "name": "CardLongTakeTransitionPageTwo",
+      "pageSourceFile": "src/main/ets/feature/CardLongTakeTransition/CardLongTakeTransitionPageTwo.ets",
+      "buildFunction": "CardLongTakeTransitionPageTwoBuilder"
+    },
+    {
+      "name": "PinchToShareImagePageOne",
+      "pageSourceFile": "src/main/ets/feature/ImageLongTakeTransition/PinchToShareImage/PinchToShareImagePageOne.ets",
+      "buildFunction": "PinchToShareImagePageOneBuilder"
+    },
+    {
+      "name": "PinchToShareImagePageTwo",
+      "pageSourceFile": "src/main/ets/feature/ImageLongTakeTransition/PinchToShareImage/PinchToShareImagePageTwo.ets",
+      "buildFunction": "PinchToShareImagePageTwoBuilder"
+    },
+    {
+      "name": "ShowLargeImageWithGesturePageOne",
+      "pageSourceFile": "src/main/ets/feature/ImageLongTakeTransition/ShowLargeImageWithGesture/ShowLargeImageWithGesturePageOne.ets",
+      "buildFunction": "ShowLargeImageWithGesturePageOneBuilder"
+    },
+    {
+      "name": "ShowLargeImageWithGesturePageTwo",
+      "pageSourceFile": "src/main/ets/feature/ImageLongTakeTransition/ShowLargeImageWithGesture/ShowLargeImageWithGesturePageTwo.ets",
+      "buildFunction": "ShowLargeImageWithGesturePageTwoBuilder"
+    },
+    {
+      "name": "SemiModalImage",
+      "pageSourceFile": "src/main/ets/feature/ImageLongTakeTransition/SemiModalImage/Index.ets",
+      "buildFunction": "SemiModalImageBuilder"
+    },
+    {
+      "name": "VideoLongTakeTransitionWithCustomNavigationPageOne",
+      "pageSourceFile": "src/main/ets/feature/VideoLongTakeTransition/CustomNavigation/CustomNavigationPageOne.ets",
+      "buildFunction": "CustomNavigationPageOneBuilder"
+    },
+    {
+      "name": "VideoLongTakeTransitionWithCustomNavigationPageTwo",
+      "pageSourceFile": "src/main/ets/feature/VideoLongTakeTransition/CustomNavigation/CustomNavigationPageTwo.ets",
+      "buildFunction": "CustomNavigationPageTwoBuilder"
+    },
+    {
+      "name": "ListLongTakeTransitionPageOne",
+      "pageSourceFile": "src/main/ets/feature/ListLongTakeTransition/ListLongTakeTransitionPageOne.ets",
+      "buildFunction": "ListLongTakeTransitionPageOneBuilder"
+    },
+    {
+      "name": "ListLongTakeTransitionPageTwo",
+      "pageSourceFile": "src/main/ets/feature/ListLongTakeTransition/ListLongTakeTransitionPageTwo.ets",
+      "buildFunction": "ListLongTakeTransitionPageTwoBuilder"
+    },
+    {
+      "name": "BookFlipLongTakeTransitionPageOne",
+      "pageSourceFile": "src/main/ets/feature/BookFlipLongTakeTransition/BookFlipLongTakeTransitionPageOne.ets",
+      "buildFunction": "BookFlipLongTakeTransitionPageOneBuilder"
+    },
+    {
+      "name": "BookFlipLongTakeTransitionPageTwo",
+      "pageSourceFile": "src/main/ets/feature/BookFlipLongTakeTransition/BookFlipLongTakeTransitionPageTwo.ets",
+      "buildFunction": "BookFlipLongTakeTransitionPageTwoBuilder"
+    }
+  ]
+}

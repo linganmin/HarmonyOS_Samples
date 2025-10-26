@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一多分级导航栏"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_moments",
+      "value": "动态"
+    },
+    {
+      "name": "tab_shopping",
+      "value": "会员购"
+    },
+    {
+      "name": "tab_me",
+      "value": "我的"
+    },
+    {
+      "name": "selected",
+      "value": "精选"
+    },
+    {
+      "name": "video",
+      "value": "视频"
+    },
+    {
+      "name": "community",
+      "value": "社区"
+    },
+    {
+      "name": "news",
+      "value": "新闻"
+    }
+  ]
+}

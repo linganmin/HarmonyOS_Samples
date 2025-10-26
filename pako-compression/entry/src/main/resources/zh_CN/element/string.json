@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Pako压缩与解压"
+    },
+    {
+      "name": "Compression",
+      "value": "压缩字符串并保存"
+    },
+    {
+      "name": "Decompression",
+      "value": "解压文件并读取"
+    },
+    {
+      "name": "input_content",
+      "value": "请输入字符串"
+    },
+    {
+      "name": "can_not_compress",
+      "value": "输入为空，无法完成压缩操作！"
+    }
+  ]
+}

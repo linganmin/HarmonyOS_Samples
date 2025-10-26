@@ -1,0 +1,40 @@
+{
+  "float": [
+    {
+      "name": "font_size",
+      "value": "14fp"
+    },
+    {
+      "name": "input_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "list_image_size",
+      "value": "40vp"
+    },
+    {
+      "name": "list_desc_font_size",
+      "value": "12vp"
+    },
+    {
+      "name": "list_desc_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "search_image_width",
+      "value": "15vp"
+    },
+    {
+      "name": "image_text_space",
+      "value": "10vp"
+    },
+    {
+      "name": "input_border_radius",
+      "value": "22vp"
+    },
+    {
+      "name": "input_height",
+      "value": "44vp"
+    }
+  ]
+}

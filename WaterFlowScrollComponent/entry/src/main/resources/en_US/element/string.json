@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "scrollComponentSample"
+    },
+    {
+      "name": "title",
+      "value": "ScrollComponents"
+    },
+    {
+      "name": "scenario1",
+      "value": "Scene One"
+    },
+    {
+      "name": "scenario_waterFlow",
+      "value": "WaterFlow Same Item Reuse"
+    },
+    {
+      "name": "scenario2",
+      "value": "Scene Two"
+    },
+    {
+      "name": "scenario_waterFlow2",
+      "value": "WaterFlow Combination Item Reuse"
+    },
+    {
+      "name": "scenario3",
+      "value": "Scene Three"
+    },
+    {
+      "name": "scenario_waterFlow3",
+      "value": "WaterFlow Cross-Page Reuse"
+    },
+    {
+      "name": "scenario4",
+      "value": "Scene Four"
+    },
+    {
+      "name": "scenario_waterFlow4",
+      "value": "WaterFlow Sliding Ceiling"
+    },
+    {
+      "name": "want_to_eat",
+      "value": "Craving List"
+    },
+    {
+      "name": "distance",
+      "value": "Location Distance"
+    },
+    {
+      "name": "less_1km",
+      "value": "<1km"
+    },
+    {
+      "name": "less_5km",
+      "value": "<5km"
+    },
+    {
+      "name": "more_5km",
+      "value": ">5km"
+    },
+    {
+      "name": "classify",
+      "value": "Classify"
+    },
+    {
+      "name": "food",
+      "value": "Food"
+    },
+    {
+      "name": "leisure",
+      "value": "Leisure"
+    },
+    {
+      "name": "entertainment",
+      "value": "Entertainment"
+    },
+    {
+      "name": "sort",
+      "value": "Sort"
+    },
+    {
+      "name": "one",
+      "value": "1"
+    },
+    {
+      "name": "two",
+      "value": "2"
+    },
+    {
+      "name": "three",
+      "value": "3"
+    },
+    {
+      "name": "not_interested_button_text",
+      "value": "Not Interested"
+    },
+    {
+      "name": "loading",
+      "value": "loading..."
+    },
+    {
+      "name": "load_done",
+      "value": "That's it..."
+    },
+    {
+      "name": "page_one",
+      "value": "page 1"
+    },
+    {
+      "name": "page_two",
+      "value": "page 2"
+    }
+  ]
+}

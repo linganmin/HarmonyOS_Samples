@@ -1,0 +1,41 @@
+
+/*
+* FAQ:Worker线程内存如何共享
+*/
+{
+  "apiType": "stageMode",
+
+  // [Start ShareWorkerThreadMemory2]
+  "buildOption": {
+    "sourceOption": {
+      "workers": [
+        "./src/main/ets/pages/ThreadWorkerSharedArrayBuffer/WorkerProducer.ets",
+        "./src/main/ets/pages/ThreadWorkerSharedArrayBuffer/WorkerConsumer.ets"
+      ]
+    }
+  },
+  // [End ShareWorkerThreadMemory2]
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

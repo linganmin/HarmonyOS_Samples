@@ -1,0 +1,109 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "base_blue",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "reuse_example_backgroundColor",
+      "value": "#FFF1F3F5"
+    },
+    {
+      "name": "base_red",
+      "value": "#f24b49"
+    },
+    {
+      "name": "item_text_color",
+      "value": "#e6000000"
+    },
+    {
+      "name": "item_button_background",
+      "value": "#0d000000"
+    },
+    {
+      "name": "item_group_divider_color",
+      "value": "#FFCCCCCC"
+    },
+    {
+      "name": "custom_sample_shadow_color",
+      "value": "#29000000"
+    },
+    {
+      "name": "mask_automatically_close_dialog_maskColor",
+      "value": "#b8484848"
+    },
+    {
+      "name": "snackbar_builder_background",
+      "value": "#ccffffff"
+    },
+    {
+      "name": "snackbar_builder_input_placeholderColor",
+      "value": "#99000000"
+    },
+    {
+      "name": "image_popup_shadow_color",
+      "value": "#26000000"
+    },
+    {
+      "name": "auto_dismiss_content_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "active_close_content_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "page_bg_color",
+      "value": "#FFF1F3F5"
+    },
+    {
+      "name": "index_page_bg_color",
+      "value": "#FFF1F3F5"
+    },
+    {
+      "name": "now_dialogs_font_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "toast_template_shadow_color",
+      "value": "#29000000"
+    },
+    {
+      "name": "InputCallbackBuilderFontColor",
+      "value": "#E6000000"
+    },
+    {
+      "name": "InputCallbackBuilderBgColor",
+      "value": "#FFFFFFFF"
+    },
+    {
+      "name": "ProgressBuilderFontColor",
+      "value": "#E6000000"
+    },
+    {
+      "name": "ProgressBuilderBgColor",
+      "value": "#FFFFFFFF"
+    }
+  ,
+    {
+      "name": "SkipBuilderFontColor",
+      "value": "#E6000000"
+    },
+    {
+      "name": "SkipBuilderSpanColor",
+      "value": "#99000000"
+    },
+    {
+      "name": "RouterSkipBgColor",
+      "value": "#FFF1F3F5"
+    },
+    {
+      "name": "SkipActionBgColor",
+      "value": "#FFF1F3F5"
+    }
+  ]
+}

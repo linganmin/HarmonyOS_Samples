@@ -1,0 +1,57 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Permission Request"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Camera"
+    },
+    {
+      "name": "Photo",
+      "value": "Photo"
+    },
+
+    {
+      "name": "Video",
+      "value": "Video"
+    },
+    {
+      "name": "reason_camera",
+      "value": "Used for third-party camera development scenarios"
+    },
+    {
+      "name": "reason_microphone",
+      "value": "For third-party camera recording scenarios"
+    },
+    {
+      "name": "reason_media_location",
+      "value": "For third-party camera to access media information scenarios"
+    },
+    {
+      "name": "reason_write_imagevideo",
+      "value": "For third-party camera to save media files"
+    },
+    {
+      "name": "reason_read_imagevideo",
+      "value": "For third-party camera to read media files"
+    },
+    {
+      "name": "enable_burst_capture",
+      "value": "Enable burst capture"
+    },
+    {
+      "name": "burst_capture_count",
+      "value": "Burst capture count"
+    },
+    {
+      "name": "shot_count",
+      "value": "%s shots"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+/*
+ * Copyright (c) 2025 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+  animation: all 0.5s ease;
+}
+
+.custom-dialog {
+  background: white;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  width: 328px;
+  height: 344px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+
+.close-button {
+  position: absolute;
+  right: 12px;
+  top: 12px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.dialog-content {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+// [Start custom_dialog1]
+@media (320px<=width<600px) {
+  .custom-dialog {
+    width: 328px;
+    height: 344px;
+  }
+}
+// [End custom_dialog1]
+// [Start custom_dialog2]
+@media (600px<=width<800px) {
+  .custom-dialog {
+    width: 360px;
+    height: 378px;
+  }
+}
+// [End custom_dialog2]
+// [Start custom_dialog3]
+@media (800px<=width) {
+  .custom-dialog {
+    width: 393px;
+    height: 412px;
+  }
+}
+// [End custom_dialog3]

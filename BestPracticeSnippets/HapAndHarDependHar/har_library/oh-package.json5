@@ -1,0 +1,11 @@
+{
+  "name": "har_library",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "har_common": "file:../har_common"
+  }
+}

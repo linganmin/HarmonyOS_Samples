@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ServerSocket"
+    },
+    {
+      "name": "text_input_placeholder",
+      "value": "input your word..."
+    },
+    {
+      "name": "app_title",
+      "value": "Servers"
+    },
+    {
+      "name": "show_message",
+      "value": "Received Message"
+    },
+    {
+      "name": "show_address",
+      "value": "Bound IP addres"
+    },
+    {
+      "name": "show_family",
+      "value": "Network protocol type"
+    },
+    {
+      "name": "show_port",
+      "value": "Port number"
+    },
+    {
+      "name": "show_size",
+      "value": "Message Length"
+    },
+    {
+      "name": "connection_button",
+      "value": "Connect Init"
+    },
+    {
+      "name": "tcp_server_listen_tips",
+      "value": "Initialized successfully, Waiting for client access."
+    },
+    {
+      "name": "tcp_server_connect_tips",
+      "value": "Tcp socket server connect success."
+    },
+    {
+      "name": "message_send_tips",
+      "value": "Message send successfully"
+    },
+    {
+      "name": "message_not_send_tips",
+      "value": "Please enter the message to be sent"
+    },
+    {
+      "name": "server_init_tips",
+      "value": "Please click the initialization button first"
+    },
+    {
+      "name": "server_client_tips",
+      "value": "Please open the client and connect to the server."
+    },
+    {
+      "name": "connected_tips",
+      "value": "Connected"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "Used for cross process communication using the Internet network."
+    }
+  ]
+}

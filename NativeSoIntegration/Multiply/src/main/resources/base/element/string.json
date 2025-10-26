@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "MultiplyAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MultiplyAbility_label",
+      "value": "label"
+    }
+  ]
+}

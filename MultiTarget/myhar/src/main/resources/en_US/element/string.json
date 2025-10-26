@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "button_describe",
+      "value": "Jump To The Calculator Page"
+    },
+    {
+      "name": "default_describe",
+      "value": "This function is not supported in the default version."
+    },
+    {
+      "name": "default_add",
+      "value": "Add"
+    },
+    {
+      "name": "default_sub",
+      "value": "Sub"
+    },
+    {
+      "name": "test_describe",
+      "value": "The test version will be replaced by the resource with the same name in resources_test."
+    }
+  ]
+}

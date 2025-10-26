@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "意图视频接续"
+    },
+    {
+      "name": "Navbar_title",
+      "value": "意图推荐-视频接续"
+    },
+    {
+      "name": "List_title",
+      "value": "演示视频"
+    },
+    {
+      "name": "List_card_first_title",
+      "value": "演示视频1"
+    },
+    {
+      "name": "List_card_first_desc",
+      "value": "这是视频1的描述信息"
+    },
+    {
+      "name": "List_card_second_title",
+      "value": "演示视频2"
+    },
+    {
+      "name": "List_card_second_desc",
+      "value": "这是视频2的描述信息"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "jsx": "react-jsx", 
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "strict": true,
+      "module": "esnext",
+      "target": "es5",
+      "baseUrl": ".",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": true
+    },
+    "include": ["src"]
+  }

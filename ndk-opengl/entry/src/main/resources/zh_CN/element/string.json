@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "OpenGL 三棱锥"
+    },
+    {
+      "name": "x_shaft_rotation",
+      "value": "X轴旋转:"
+    },
+    {
+      "name": "y_shaft_rotation",
+      "value": "Y轴旋转:"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "三棱锥"
+    },
+    {
+      "name": "btn_auto_rotation",
+      "value": "自动旋转"
+    },
+    {
+      "name": "btn_stop_rotation",
+      "value": "停止旋转"
+    },
+    {
+      "name": "btn_damping_rotation",
+      "value": "阻尼旋转"
+    }
+  ]
+}

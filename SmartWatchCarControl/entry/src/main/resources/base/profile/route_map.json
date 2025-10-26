@@ -1,0 +1,37 @@
+{
+  "routerMap": [
+    {
+      "name": "SafeCodePage",
+      "pageSourceFile": "src/main/ets/view/SafeCodePageView.ets",
+      "buildFunction": "safeCodePageBuilder",
+      "data": {
+        "description" : "this is SafeCodePage"
+      }
+    },
+    {
+      "name": "TrunkPage",
+      "pageSourceFile": "src/main/ets/view/TrunkPageView.ets",
+      "buildFunction": "trunkPageBuilder",
+      "data": {
+        "description" : "this is TrunkPage"
+      }
+    },
+    {
+      "name": "ConditionerPage",
+      "pageSourceFile": "src/main/ets/view/ConditionerPageView.ets",
+      "buildFunction": "conditionerPageBuilder",
+      "data": {
+        "description" : "this is ConditionerPage"
+      }
+    },
+    {
+      "name": "FindCarPage",
+      "pageSourceFile": "src/main/ets/view/FindCarPageView.ets",
+      "buildFunction": "findCarPageBuilder",
+      "data": {
+        "description" : "this is FindCarPage"
+      }
+    }
+
+  ]
+}

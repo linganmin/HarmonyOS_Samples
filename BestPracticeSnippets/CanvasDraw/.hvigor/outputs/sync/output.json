@@ -1,0 +1,164 @@
+{
+  "ohos-module-entry": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build",
+    "DEPENDENCY_INFO": {},
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\src\\main",
+        "RESOURCES_PATH": [
+          "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\src\\main\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\outputs\\default",
+          "INTERMEDIA_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\loader_out\\default",
+          "JS_LITE_ASSETS_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\loader_out_lite\\default",
+          "RES_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\res\\default",
+          "RES_PROFILE_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\res\\default\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\cache\\default\\default@CompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\cache\\default\\default@CompileJS\\jsbundle",
+          "WORKER_LOADER": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\loader\\default\\loader.json",
+          "MANIFEST_JSON": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\manifest\\default",
+          "OUTPUT_METADATA_JSON": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\hap_metadata\\default\\output_metadata.json",
+          "SOURCE_MAP_DIR": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\source_map\\default"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      },
+      "ohosTest": {
+        "SOURCE_ROOT": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\src\\ohosTest",
+        "RESOURCES_PATH": [
+          "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\src\\ohosTest\\resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\outputs\\ohosTest",
+          "INTERMEDIA_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates",
+          "JS_ASSETS_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\loader_out\\ohosTest",
+          "JS_LITE_ASSETS_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\loader_out_lite\\ohosTest",
+          "RES_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\res\\ohosTest",
+          "RES_PROFILE_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\res\\ohosTest\\resources\\base\\profile",
+          "ETS_SUPER_VISUAL_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileArkTS\\esmodule",
+          "JS_SUPER_VISUAL_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\cache\\ohosTest\\ohosTest@OhosTestCompileJS\\jsbundle",
+          "WORKER_LOADER": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\loader\\ohosTest\\loader.json",
+          "MANIFEST_JSON": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\manifest\\ohosTest",
+          "OUTPUT_METADATA_JSON": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\hap_metadata\\ohosTest\\output_metadata.json",
+          "SOURCE_MAP_DIR": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry\\build\\default\\intermediates\\source_map\\ohosTest"
+        },
+        "BUILD_OPTION": {
+          "debuggable": true
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": true,
+        "copyFrom": "default",
+        "name": "debug"
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "buildOption": {},
+      "buildOptionSet": [
+        {
+          "name": "release",
+          "arkOptions": {
+            "obfuscation": {
+              "ruleOptions": {
+                "enable": true,
+                "files": [
+                  "./obfuscation-rules.txt"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "name": "default"
+        },
+        {
+          "name": "debug"
+        }
+      ],
+      "targets": [
+        {
+          "name": "default"
+        },
+        {
+          "name": "ohosTest"
+        }
+      ]
+    },
+    "BUILD_CACHE_DIR": ""
+  },
+  "ohos-project": {
+    "SELECT_PRODUCT_NAME": "default",
+    "MODULE_BUILD_DIR": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\build",
+    "BUNDLE_NAME": "com.example.canvasdraw",
+    "BUILD_PATH": {
+      "OUTPUT_PATH": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\build\\outputs\\default"
+    },
+    "MODULES": [
+      {
+        "name": "entry",
+        "srcPath": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw\\entry",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ],
+        "belongProjectPath": "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw"
+      }
+    ],
+    "PROFILE_OPT": {
+      "app": {
+        "signingConfigs": [],
+        "products": [
+          {
+            "name": "default",
+            "signingConfig": "default",
+            "compatibleSdkVersion": "5.0.0(12)",
+            "runtimeOS": "HarmonyOS"
+          }
+        ],
+        "buildModeSet": [
+          {
+            "name": "debug"
+          },
+          {
+            "name": "release"
+          }
+        ]
+      },
+      "modules": [
+        {
+          "name": "entry",
+          "srcPath": "./entry",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "CONFIG_PROPERTIES": {
+      "enableSignTask": true,
+      "skipNativeIncremental": false,
+      "hvigor.keepDependency": true
+    },
+    "OVERALL_PROJECT_PATHS": [
+      "C:\\Users\\fy\\Desktop\\noproject\\BestPracticeSnippets\\CanvasDraw"
+    ],
+    "BUILD_CACHE_DIR": ""
+  },
+  "version": 1
+}

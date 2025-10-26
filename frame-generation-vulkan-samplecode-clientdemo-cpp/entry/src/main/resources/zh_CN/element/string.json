@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "VulkanFG"
+    },
+    {
+      "name": "FrameGeneration_enabled",
+      "value": "超帧开启"
+    },
+    {
+      "name": "FrameGeneration_disabled",
+      "value": "超帧关闭"
+    }
+  ]
+}

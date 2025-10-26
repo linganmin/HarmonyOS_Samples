@@ -1,0 +1,168 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "reason",
+      "value": "getUserLocation"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_locate",
+      "value": "附近"
+    },
+    {
+      "name": "tab_taxi",
+      "value": "打车"
+    },
+    {
+      "name": "tab_my",
+      "value": "我的"
+    },
+    {
+      "name": "drive",
+      "value": "驾车"
+    },
+    {
+      "name": "metro",
+      "value": "公交地铁"
+    },
+    {
+      "name": "taxi",
+      "value": "打车"
+    },
+    {
+      "name": "bus",
+      "value": "实时公交"
+    },
+    {
+      "name": "hotel",
+      "value": "订酒店"
+    },
+    {
+      "name": "attractions",
+      "value": "景点"
+    },
+    {
+      "name": "buy",
+      "value": "优惠团购"
+    },
+    {
+      "name": "download",
+      "value": "离线地图"
+    },
+    {
+      "name": "drive2",
+      "value": "叫代驾"
+    },
+    {
+      "name": "more",
+      "value": "更多工具"
+    },
+    {
+      "name": "textInput_holder",
+      "value": "搜索地点、地址、公交"
+    },
+    {
+      "name": "frequent_locations",
+      "value": "常去地点"
+    },
+    {
+      "name": "all",
+      "value": "全部"
+    },
+    {
+      "name": "add_home",
+      "value": "添加家"
+    },
+    {
+      "name": "add_comp",
+      "value": "添加公司/学校"
+    },
+    {
+      "name": "add_address",
+      "value": "添加常去地址"
+    },
+    {
+      "name": "recommend_location",
+      "value": "推荐地点"
+    },
+    {
+      "name": "recommend",
+      "value": "江汉路步行街"
+    },
+    {
+      "name": "direction_desc",
+      "value": "距你直线距离<364米"
+    },
+    {
+      "name": "goto",
+      "value": "去看看"
+    },
+    {
+      "name": "discount_attraction",
+      "value": "优惠景点"
+    },
+    {
+      "name": "attraction1",
+      "value": "黄鹤楼"
+    },
+    {
+      "name": "attraction2",
+      "value": "汉口江滩"
+    },
+    {
+      "name": "attraction3",
+      "value": "江汉路"
+    },
+    {
+      "name": "attraction4",
+      "value": "昙华林"
+    },
+    {
+      "name": "have_more",
+      "value": "查看更多"
+    },
+    {
+      "name": "voice_navigation",
+      "value": "语音导航"
+    },
+    {
+      "name": "location_distance",
+      "value": "位置距离"
+    },
+    {
+      "name": "rank_recommendation",
+      "value": "排序推荐"
+    },
+    {
+      "name": "favor",
+      "value": "收藏"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "start_navigate",
+      "value": "开始导航"
+    },
+    {
+      "name": "navigate",
+      "value": "导航"
+    },
+    {
+      "name": "route",
+      "value": "路线"
+    },
+    {
+      "name": "location_name_width",
+      "value": "70%"
+    }
+  ]
+}

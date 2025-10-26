@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "background_color",
+      "value": "#F0F0F0"
+    },
+    {
+      "name": "title_background_color",
+      "value": "#0D9FFB"
+    }
+  ]
+}

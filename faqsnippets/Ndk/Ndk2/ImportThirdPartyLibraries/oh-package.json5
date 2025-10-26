@@ -1,0 +1,17 @@
+/**
+ * FAQ: 如何在ArkTS侧引用其他三方so库
+ */
+{
+  "name": "importthirdpartylibraries",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  // [Start import_third_party_libraries_json]
+  "dependencies": {
+    "libimportthirdpartylibraries.so": "file:./src/main/cpp/types/libimportthirdpartylibraries",
+    "libapplication.so": "file:./src/main/cpp/types/libapplication"
+  },
+  // [End import_third_party_libraries_json]
+}

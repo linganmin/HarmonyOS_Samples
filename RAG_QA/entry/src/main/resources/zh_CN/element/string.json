@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "RAG问答助手"
+    },
+    {
+      "name": "confirm_add_to_db",
+      "value": "确认添加至数据库"
+    },
+    {
+      "name": "cancel_word",
+      "value": "取消"
+    },
+    {
+      "name": "confirm_word",
+      "value": "确认"
+    },
+    {
+      "name": "add_email",
+      "value": "添加邮件信息"
+    },
+    {
+      "name": "add_to_database",
+      "value": "添加数据"
+    },
+    {
+      "name": "close_dialog",
+      "value": "关闭弹窗"
+    },
+    {
+      "name": "clear_all_chat_history",
+      "value": "删除问答历史记录"
+    },
+    {
+      "name": "clear_history",
+      "value": "清空历史记录"
+    },
+    {
+      "name": "enter_word",
+      "value": "请输入"
+    }
+  ]
+}

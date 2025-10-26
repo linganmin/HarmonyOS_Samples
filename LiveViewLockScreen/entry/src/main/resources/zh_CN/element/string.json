@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "锁屏沉浸实况窗"
+    },
+    {
+      "name": "reason_background",
+      "value": "后台更新实况窗数据"
+    },
+    {
+      "name": "traffic_info_meter",
+      "value": "800米"
+    },
+    {
+      "name": "traffic_info_smmd_first",
+      "value": "800米"
+    },
+    {
+      "name": "traffic_info_smmd_second",
+      "value": "后右转"
+    },
+    {
+      "name": "traffic_info_first",
+      "value": "1 小时 24 分钟"
+    },
+    {
+      "name": "traffic_info_second",
+      "value": "72.6公里·09:32·"
+    },
+    {
+      "name": "traffic_info_third",
+      "value": "3"
+    },
+    {
+      "name": "live_view_title",
+      "value": "导航中"
+    },
+    {
+      "name": "live_view_background",
+      "value": "#ff0959F8"
+    },
+    {
+      "name": "live_view_content",
+      "value": "content"
+    },
+    {
+      "name": "meter",
+      "value": "米"
+    },
+    {
+      "name": "live_view_primary_title_first",
+      "value": ""
+    },
+    {
+      "name": "live_view_primary_title_second",
+      "value": "米后右转"
+    },
+    {
+      "name": "road_name",
+      "value": "翠湖东路"
+    },
+    {
+      "name": "then",
+      "value": "然后"
+    },
+    {
+      "name": "Continue",
+      "value": "继续导航"
+    },
+    {
+      "name": "Finish",
+      "value": "停止导航"
+    },
+    {
+      "name": "tip",
+      "value": "提示"
+    },
+    {
+      "name": "tip_text",
+      "value": "    本案例已完成Pura X内外屏适配和实况窗功能开发，因涉及权限申请，仅做UI展示，具体开发请参考示例代码。"
+    },
+    {
+      "name": "tip_get",
+      "value": "知道了"
+    },
+    {
+      "name": "toast",
+      "value": "仅做功能原型展示，具体业务需自行实现。"
+    }
+  ]
+}

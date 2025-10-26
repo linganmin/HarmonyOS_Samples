@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TextEffects"
+    },
+    {
+      "name": "text_content",
+      "value": "This is a text example."
+    },
+    {
+      "name": "text_content_long",
+      "value": "This is a text example. This is a text example. This is a text example."
+    },
+    {
+      "name": "ninety_percent",
+      "value": "90%"
+    },
+    {
+      "name": "text_gradient",
+      "value": "Text gradient effect."
+    },
+    {
+      "name": "text_scrolling",
+      "value": "Lyrics scrolling effect."
+    },
+    {
+      "name": "text_reflection",
+      "value": "Text reflection effect."
+    },
+    {
+      "name": "text_marquee",
+      "value": "The scrolling light gradient effect."
+    },
+    {
+      "name": "title",
+      "value": "Text Effect Collection"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "rules": {
+    "@typescript-eslint/naming-convention": [
+      "error",
+      {
+        // The selector attribute is required, configure the syntax to be checked, and the class configured here represents checking custom component names
+        "selector": "class",
+        // The format attribute is required, configure the expected naming style, support enumeration values, and the PascalCase configured here represents the camel hump style
+        "format": ["PascalCase"],
+        // Optional custom attribute, configure user-defined naming style
+        "custom": {
+          // Regux attribute is required, configure specific regularization
+          "regex": "^[a-zA-Z]+$",
+          // The match attribute is mandatory, configured as true to indicate an error when a regular miss occurs; Set to false to indicate a regular hit report error
+          "match": true
+        }
+      }
+    ]
+  },
+}

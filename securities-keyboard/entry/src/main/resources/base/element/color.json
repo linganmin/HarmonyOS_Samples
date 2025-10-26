@@ -1,0 +1,48 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "state_styles_pressed",
+      "value": "#868B95"
+    },
+    {
+      "name": "state_styles_normal",
+      "value": "#B5B7BF"
+    },
+    {
+      "name": "delete_key_background",
+      "value": "#A8ABB7"
+    },
+    {
+      "name": "delete_key_shadow",
+      "value": "#76787C"
+    },
+    {
+      "name": "search_background_normal",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "font_background_white",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "keyboard_background_color",
+      "value": "#DADFE6"
+    },
+    {
+      "name": "search_background_color",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "search_font_color",
+      "value": "#000000"
+    },
+    {
+      "name": "font_color",
+      "value": "#222222"
+    }
+  ]
+}

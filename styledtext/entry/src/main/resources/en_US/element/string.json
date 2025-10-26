@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Rich text display"
+    },
+    {
+      "name": "styled_text_layout_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "styled_text_font_size_default",
+      "value": "14"
+    },
+    {
+      "name": "title_desc",
+      "value": "Rich Text Display"
+    },
+    {
+      "name": "title_link",
+      "value": "Highlighted hyperlink text"
+    },
+    {
+      "name": "customize_emoji",
+      "value": "Customize image emoticons"
+    },
+    {
+      "name": "video_link",
+      "value": "Combination element of icon and text"
+    },
+    {
+      "name": "image_text",
+      "value": "Customized graphic and textual elements"
+    }
+  ]
+}

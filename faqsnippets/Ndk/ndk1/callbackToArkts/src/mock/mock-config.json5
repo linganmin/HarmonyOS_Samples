@@ -1,0 +1,5 @@
+{
+  "libcallbacktoarkts.so": {
+    "source": "src/mock/Libcallbacktoarkts.mock.ets"
+  }
+}

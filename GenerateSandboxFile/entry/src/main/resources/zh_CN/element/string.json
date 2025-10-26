@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "生成沙箱文件"
+    },
+    {
+      "name": "tab1",
+      "value": "本地文件与数据调试"
+    },
+    {
+      "name": "tab2",
+      "value": "生成文件"
+    },
+    {
+      "name": "tab3",
+      "value": "文件列表"
+    },
+    {
+      "name": "txt1",
+      "value": "沙箱文件名："
+    },
+    {
+      "name": "txt2",
+      "value": "首选项实例名："
+    },
+    {
+      "name": "txt3",
+      "value": "关系型数据库名："
+    },
+    {
+      "name": "txt4",
+      "value": "键值型数据库名："
+    },
+    {
+      "name": "message",
+      "value": "生成成功"
+    },
+    {
+      "name": "reason",
+      "value": "用于ftp服务的网络端口传输"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WebVideoDownload"
+    },
+    {
+      "name": "downloading",
+      "value": "Downloading"
+    },
+    {
+      "name": "completed",
+      "value": "Completed"
+    },
+    {
+      "name": "cancel_download",
+      "value": "Cancel download"
+    },
+    {
+      "name": "interrupted",
+      "value": "Interrupted"
+    },
+    {
+      "name": "waiting_to_start",
+      "value": "Waiting to start"
+    },
+    {
+      "name": "download_paused",
+      "value": "Download paused"
+    },
+    {
+      "name": "unknown_status",
+      "value": "Unknown status"
+    },
+    {
+      "name": "download_file",
+      "value": "Download file"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "continue_download",
+      "value": "Continue download"
+    },
+    {
+      "name": "confirm_cancel",
+      "value": "Confirm cancel"
+    },
+    {
+      "name": "confirm_task_cancel",
+      "value": "Do you want to cancel this task?"
+    },
+    {
+      "name": "resume_download",
+      "value": "Resume download"
+    },
+    {
+      "name": "copy_video_link",
+      "value": "Copy video link"
+    },
+    {
+      "name": "open_video_in_browser",
+      "value": "Open video in browser"
+    },
+    {
+      "name": "download_video_to_gallery",
+      "value": "Download video"
+    },
+    {
+      "name": "copy_success",
+      "value": "Copy successful"
+    },
+    {
+      "name": "task_already_downloading",
+      "value": "The task is currently downloading. Please do not add a duplicate download task"
+    },
+    {
+      "name": "file_cached_direct_copy",
+      "value": "File already cached, copying directly"
+    },
+    {
+      "name": "download_failed_retry",
+      "value": "Download failed. Please try again later"
+    },
+    {
+      "name": "not_exist",
+      "value": "Does not exist"
+    },
+    {
+      "name": "user_cancelled_authorization",
+      "value": "User cancelled authorization"
+    },
+    {
+      "name": "saved_to_album",
+      "value": "Saved to album"
+    },
+    {
+      "name": "network_permissions",
+      "value": "Get network permissions to access web pages"
+    },
+    {
+      "name": "download_success",
+      "value": "Successful download"
+    }
+  ]
+}

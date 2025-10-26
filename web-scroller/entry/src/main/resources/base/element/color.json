@@ -1,0 +1,20 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "phone_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "font_color_black",
+      "value": "#000000"
+    },
+    {
+      "name": "font_color_black2",
+      "value": "#99000000"
+    }
+  ]
+}

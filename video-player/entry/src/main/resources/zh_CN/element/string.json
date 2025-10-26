@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "视频播放"
+    },
+    {
+      "name": "internet_reason",
+      "value": "请求网络数据"
+    },
+    {
+      "name": "reason_background",
+      "value": "保持视频在后台运行"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "comment",
+      "value": "评论"
+    },
+    {
+      "name": "recommends",
+      "value": "相关推荐"
+    },
+    {
+      "name": "user_followers",
+      "value": "1.3万粉丝  5视频"
+    },
+    {
+      "name": "user_follow",
+      "value": "关注"
+    },
+    {
+      "name": "play_count",
+      "value": "12万"
+    },
+    {
+      "name": "favor_count",
+      "value": "7万"
+    },
+    {
+      "name": "last_history",
+      "value": "上次看到%s"
+    },
+    {
+      "name": "send_barrage",
+      "value": "发弹幕"
+    },
+    {
+      "name": "video_name0",
+      "value": "@山猫"
+    },
+    {
+      "name": "video_name1",
+      "value": "@登山爱好家"
+    },
+    {
+      "name": "video_name2",
+      "value": "@萍水相逢"
+    },
+    {
+      "name": "video_name3",
+      "value": "@滴答"
+    },
+    {
+      "name": "video_name4",
+      "value": "@仙子"
+    },
+    {
+      "name": "video_description0",
+      "value": "#1 #本地视频 #花花世界，生活不止眼前的苟且，还有诗和远方"
+    },
+    {
+      "name": "video_description1",
+      "value": "#2 #网络视频 #梦幻"
+    },
+    {
+      "name": "video_description2",
+      "value": "#3 #本地视频 #生活不止眼前的苟且，还有诗和远方，高山和日出"
+    },
+    {
+      "name": "video_description3",
+      "value": "#4 #网络视频 #花花世界，生活不止眼前的苟且，还有诗和远方"
+    },
+    {
+      "name": "video_description4",
+      "value": "#5 #网络视频 #花花世界，生活不止眼前的苟且，还有诗和远方"
+    }
+  ]
+}

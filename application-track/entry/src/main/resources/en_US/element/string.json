@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ApplicationTrack"
+    },
+    {
+      "name": "click_tracing_point",
+      "value": "Click Tracing Point"
+    },
+    {
+      "name": "click_tracing_point_single_component",
+      "value": "Click Tracing Point - Single Component"
+    },
+    {
+      "name": "click_tracing_point_composite_component",
+      "value": "Click Tracing Point - Composite Component"
+    },
+    {
+      "name": "exposure_embedment_point",
+      "value": "Exposure embedment point"
+    },
+    {
+      "name": "page_tracing_point",
+      "value": "Page Tracing Point"
+    },
+    {
+      "name": "navigation_route",
+      "value": "Navigation Route"
+    },
+    {
+      "name": "router_route",
+      "value": "Router Route"
+    },
+    {
+      "name": "application_tracing_point_example",
+      "value": "Application Tracing Point Example"
+    },
+    {
+      "name": "back",
+      "value": "back"
+    },
+    {
+      "name": "click_tracing_point_detail",
+      "value": "Tracing point when a component is clicked"
+    },
+    {
+      "name": "exposure_embedment_point_detail",
+      "value": "Component exposure display tracing point"
+    }
+  ]
+}

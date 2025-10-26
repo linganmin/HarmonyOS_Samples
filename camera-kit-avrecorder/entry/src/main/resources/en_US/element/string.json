@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CameraKitAVRecorder"
+    },
+    {
+      "name": "reason",
+      "value": "Used for recording videos."
+    },
+    {
+      "name": "reason2",
+      "value": "Used for reading recorded videos."
+    },
+    {
+      "name": "button_text",
+      "value": "Record Video"
+    },
+    {
+      "name": "show_toast_message",
+      "value": "There are unactivated permissions. Please go to \"Settings ->Apps&Services ->CameraKitAVRecorder\" to open all restricted permissions"
+    }
+  ]
+}

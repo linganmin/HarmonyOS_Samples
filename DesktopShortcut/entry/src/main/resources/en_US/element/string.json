@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Desktop shortcuts"
+    },
+    {
+      "name": "Go_to_company",
+      "value": "Go to company"
+    },
+    {
+      "name": "Go_to_house",
+      "value": "Go to house"
+    },
+    {
+      "name": "ui_displayed",
+      "value": "Displayed only as a UI"
+    },
+    {
+      "name": "placeholder",
+      "value": "Search place, address, bus"
+    },
+    {
+      "name": "driving",
+      "value": "Driving"
+    },
+    {
+      "name": "bus_and_subway",
+      "value": "Bus and subway"
+    },
+    {
+      "name": "take_a_taxi",
+      "value": "Take a taxi"
+    },
+    {
+      "name": "real_time_bus",
+      "value": "Real-time bus"
+    },
+    {
+      "name": "book_a_hotel",
+      "value": "Book a hotel"
+    },
+    {
+      "name": "add_home",
+      "value": "Add home"
+    },
+    {
+      "name": "add_company_school",
+      "value": "Add company/school"
+    },
+    {
+      "name": "add_frequent_address",
+      "value": "Add frequent address"
+    },
+    {
+      "name": "home_page",
+      "value": "Home page"
+    },
+    {
+      "name": "near",
+      "value": "Near"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    },
+    {
+      "name": "my_position",
+      "value": "My position"
+    },
+    {
+      "name": "my_home",
+      "value": "My home"
+    },
+    {
+      "name": "collection",
+      "value": "Collection"
+    },
+    {
+      "name": "share",
+      "value": "Share"
+    },
+    {
+      "name": "start_navigating",
+      "value": "Start navigating"
+    },
+    {
+      "name": "good_road",
+      "value": "Good road"
+    },
+    {
+      "name": "10_minutes",
+      "value": "10 minutes"
+    },
+    {
+      "name": "23_km",
+      "value": "2.3 km"
+    },
+    {
+      "name": "option_2",
+      "value": "Option 2"
+    },
+    {
+      "name": "26_km",
+      "value": "2.6 km"
+    },
+    {
+      "name": "12_minutes",
+      "value": "12 minutes"
+    },
+    {
+      "name": "short_distance",
+      "value": "Short distance"
+    },
+    {
+      "name": "8_minutes",
+      "value": "8 minutes"
+    },
+    {
+      "name": "21_km",
+      "value": "2.1 km"
+    },
+    {
+      "name": "my_company",
+      "value": "My company"
+    },
+    {
+      "name": "take_a_taxi_now",
+      "value": "Take a taxi now"
+    },
+    {
+      "name": "intelligent_recommendation",
+      "value": "Intelligent"
+    },
+    {
+      "name": "estimate",
+      "value": "Estimate"
+    },
+    {
+      "name": "money",
+      "value": "10-11"
+    },
+    {
+      "name": "yuan",
+      "value": "Yuan"
+    },
+    {
+      "name": "21_models_selected",
+      "value": "21 models selected"
+    },
+    {
+      "name": "last_memory",
+      "value": "Last memory"
+    },
+    {
+      "name": "5_models_in_total",
+      "value": "5 models in total"
+    },
+    {
+      "name": "ride",
+      "value": "Ride"
+    },
+    {
+      "name": "taxi",
+      "value": "Taxi"
+    },
+    {
+      "name": "walking",
+      "value": "Walking"
+    },
+    {
+      "name": "substitute_driver",
+      "value": "Sub"
+    },
+    {
+      "name": "train",
+      "value": "Train"
+    },
+    {
+      "name": "coach",
+      "value": "Coach"
+    }
+  ]
+}

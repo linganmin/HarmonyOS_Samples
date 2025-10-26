@@ -1,0 +1,268 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SwipePlayer"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "Used for downloading online videos"
+    },
+    {
+      "name": "ADVERT_TITLE",
+      "value": "You have a limited-time benefit for the newbie"
+    },
+    {
+      "name": "ADVERT_TEXT_PUBLICIZE",
+      "value": "Huawei's official flagship store brings you great benefits"
+    },
+    {
+      "name": "ADVERT_PUBLICIZE_IMAGE_INTRO_TEXT",
+      "value": "HUAWEI Mate 60 12GB+1TB YaDan Black (Official Standard)"
+    },
+    {
+      "name": "ADVERT_PUBLICIZE_IMAGE_INTRO_TEXT_OFFICIAL",
+      "value": "(Official Standard)"
+    },
+    {
+      "name": "ADVERT_BOTTOM_TEXT_STORE",
+      "value": "Huawei's official flagship store"
+    },
+    {
+      "name": "ADVERT_BOTTOM_TEXT_MORE",
+      "value": "More"
+    },
+    {
+      "name": "BUTTON_NO_INTEREST_TEXT",
+      "value": "Not interested"
+    },
+    {
+      "name": "BUTTON_LOOK_DETAIL_TEXT",
+      "value": "Find out more"
+    },
+    {
+      "name": "TOP_TAB_CONCERN",
+      "value": "Concern"
+    },
+    {
+      "name": "TOP_TAB_RECOMMEND",
+      "value": "Recommend"
+    },
+    {
+      "name": "TAB_HOME",
+      "value": "Home"
+    },
+    {
+      "name": "TAB_FRIENDS",
+      "value": "Friends"
+    },
+    {
+      "name": "TAB_PUBLISH",
+      "value": "Publish"
+    },
+    {
+      "name": "TAB_MESSAGE",
+      "value": "Message"
+    },
+    {
+      "name": "TAB_MINE",
+      "value": "Mine"
+    },
+    {
+      "name": "REQUEST_FULL_SCREEN",
+      "value": "Watch in full screen"
+    },
+    {
+      "name": "FULL_SCREEN_MESSAGE",
+      "value": "Short video full screen"
+    },
+    {
+      "name": "LIVE_COMMENTS_TEXT",
+      "value": "23 comments"
+    },
+    {
+      "name": "LIVE_COMMENTS_TEXT_INPUT_PLACEHOLDER",
+      "value": "Please enter..."
+    },
+    {
+      "name": "VIDEO_FAST_SPEED_TOAST_TURN",
+      "value": "Turned on"
+    },
+    {
+      "name": "VIDEO_FAST_SPEED_TOAST_XSpeed",
+      "value": "x speed"
+    },
+    {
+      "name": "FAST_SPEED_TOP_TEXT",
+      "value": "Video playback speed"
+    },
+    {
+      "name": "FOLD_FAST_SPEED_BOTTOM_BUTTON_TEXT",
+      "value": "Confirm your selection"
+    },
+    {
+      "name": "FAST_SPEED_TEXT",
+      "value": "Video speed"
+    },
+    {
+      "name": "REPORT_TEXT",
+      "value": "Report the user"
+    },
+    {
+      "name": "RELEASE_REFRESH",
+      "value": "Release refresh"
+    },
+    {
+      "name": "REFRESH",
+      "value": "Pull down refresh"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_1",
+      "value": "黄河"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_2",
+      "value": "落尘"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_3",
+      "value": "岁月静好"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_4",
+      "value": "菲拉"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_5",
+      "value": "平安健康"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_6",
+      "value": "森林"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_7",
+      "value": "宇宙奥秘"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_8",
+      "value": "地里风光"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_9",
+      "value": "雪中小镇"
+    },
+    {
+      "name": "LIVE_COMMENTS_USERNAME_10",
+      "value": "平安健康"
+    },
+    {
+      "name": "LIVE_COMMENTS_CONTENT_1",
+      "value": "君不见黄河之水天上来"
+    },
+    {
+      "name": "LIVE_COMMENTS_CONTENT_2",
+      "value": "感谢分享，拿走啦"
+    },
+    {
+      "name": "LIVE_COMMENTS_FROM_1",
+      "value": "北京"
+    },
+    {
+      "name": "LIVE_COMMENTS_FROM_2",
+      "value": "云南"
+    },
+    {
+      "name": "LIVE_COMMENTS_FROM_3",
+      "value": "上海"
+    },
+    {
+      "name": "LIVE_COMMENTS_FROM_4",
+      "value": "黑龙江"
+    },
+    {
+      "name": "LIVE_COMMENTS_FROM_5",
+      "value": "重庆"
+    },
+    {
+      "name": "LIVE_COMMENTS_DATE_1",
+      "value": "10-22·"
+    },
+    {
+      "name": "LIVE_COMMENTS_DATE_2",
+      "value": "10-23·"
+    },
+    {
+      "name": "LIVE_COMMENTS_REPLY_NUM",
+      "value": "123 回复"
+    },
+    {
+      "name": "LIVE_COMMENTS_REPLY",
+      "value": "回复"
+    },
+    {
+      "name": "LIVE_COMMENTS_REPLY_TEXT_1",
+      "value": "长江: 对了//@落尘: 是奔流到海不复回"
+    },
+    {
+      "name": "LIVE_COMMENTS_REPLY_TEXT_2",
+      "value": "查看全部回复"
+    },
+    {
+      "name": "PUBLISHER_NAME_1",
+      "value": "@HUAWEI Pocket 2"
+    },
+    {
+      "name": "PUBLISHER_NAME_2",
+      "value": "@HUAWEI Mate 70"
+    },
+    {
+      "name": "PUBLISHER_NAME_3",
+      "value": "@HUAWEI Pura 70 Ultra"
+    },
+    {
+      "name": "PUBLISHER_NAME_4",
+      "value": "@HUAWEI nova 13 Pro"
+    },
+    {
+      "name": "MEDIA_INFO_1",
+      "value": "珍珠双环，对称美学，高贵优雅。流线设计，润泽细腻。腰线更纤细，边框、转轴、后盖通体一色。开合间，一展优雅风范。"
+    },
+    {
+      "name": "MEDIA_INFO_2",
+      "value": "寰宇星轨，跃展折叠新篇无畏前行，穿越未知宇宙洪流，突破边界，探索足迹汇聚成轨。耀眼星辉，启幕折叠新篇。"
+    },
+    {
+      "name": "MEDIA_INFO_3",
+      "value": "Pura，是一次新生，源自纯粹，生而独特。以大胆想象，探索未见之美;以先锋视角，打开全新视界;以独创风格,引领时尚风向。HUAWEI Pura 追逐本心，锐意向前。"
+    },
+    {
+      "name": "MEDIA_INFO_4",
+      "value": "光影交织，格纹变奏，尽释不拘一格的态度。引力悬浮设计，饰以超级星耀环，出场即为瞩目焦点。"
+    },
+    {
+      "name": "url1",
+      "value": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/plp/new-phones/video/pocket-series.mp4"
+    },
+    {
+      "name": "url2",
+      "value": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/launch/241126/plp/phones/mate-series/mate70-pro-plus.mp4"
+    },
+    {
+      "name": "url3",
+      "value": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/plp/new-phones/video/pura-series.mp4"
+    },
+    {
+      "name": "url4",
+      "value": "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/plp/new-phones/video/nova-series.mp4"
+    }
+  ]
+}

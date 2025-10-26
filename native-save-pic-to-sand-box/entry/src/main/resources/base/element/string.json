@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NativeSavePicture"
+    },
+    {
+      "name": "rawfile_write_fail",
+      "value": "Rawfile image writing failed"
+    },
+    {
+      "name": "tbn_RawFilePicture",
+      "value": "Save Rawfile image"
+    },
+    {
+      "name": "txt_sandBox_path",
+      "value": "sandbox path :"
+    },
+    {
+      "name": "internet_file_write_fail",
+      "value": "Network picture writing failed"
+    },
+    {
+      "name": "tbn_InternetPicture",
+      "value": "Save web pictures"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used to save network image scenes using the Internet network."
+    }
+  ]
+}

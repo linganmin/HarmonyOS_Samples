@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "entryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "entryAbility_label",
+      "value": "AVPlayerBasicControl"
+    },
+    {
+      "name": "video_res_1",
+      "value": "test1.mp4"
+    },
+    {
+      "name": "video_res_2",
+      "value": "test2.mp4"
+    },
+    {
+      "name": "video_res_3",
+      "value": "network.mp4"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "video_warn",
+      "value": "Please check if the network is connected or available!"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "Playback speed"
+    },
+    {
+      "name": "playing",
+      "value": "playing"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used for accessing the Internet during video playback"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "Used for retrieving network information during video playback"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "FIT"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "FIT_CROP"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "window scale mode"
+    },
+    {
+      "name": "local_video",
+      "value": "Local video"
+    },
+    {
+      "name": "Chinese",
+      "value": "Chinese"
+    },
+    {
+      "name": "English",
+      "value": "English"
+    },
+    {
+      "name": "language_switch",
+      "value": "Language switch"
+    }
+  ]
+}

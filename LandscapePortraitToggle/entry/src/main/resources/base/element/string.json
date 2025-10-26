@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "LandscapePortraitToggle"
+    },
+    {
+      "name": "comment_content1",
+      "value": "Comments comments"
+    },
+    {
+      "name": "comment_content2",
+      "value": "Comments comments"
+    },
+    {
+      "name": "comment_content3",
+      "value": "Comments comments"
+    },
+    {
+      "name": "related_title1",
+      "value": "Video1"
+    },
+    {
+      "name": "related_title2",
+      "value": "Video2"
+    },
+    {
+      "name": "related_title3",
+      "value": "Video3"
+    },
+    {
+      "name": "related_list",
+      "value": "Related"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "all_comment",
+      "value": "Comments"
+    }
+  ]
+}

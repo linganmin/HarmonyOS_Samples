@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  - Copyright (c) 2024 Huawei Device Co., Ltd.
+  - Licensed under the Apache License, Version 2.0 (the "License");
+  - you may not use this file except in compliance with the License.
+  - You may obtain a copy of the License at
+  -
+  -     http://www.apache.org/licenses/LICENSE-2.0
+  -
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -->
+
+<svg width="10px" height="8.88888889px" viewBox="0 0 10 8.88888889" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>路径</title>
+    <defs>
+        <linearGradient x1="20.5499268%" y1="10.4938272%" x2="50%" y2="89.5061728%" id="linearGradient-1">
+            <stop stop-color="#FF999F" offset="0%"></stop>
+            <stop stop-color="#DC4049" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.9">
+        <g id="平板_直播间" transform="translate(-945.000000, -170.000000)" fill="url(#linearGradient-1)">
+            <g id="编组-14" transform="translate(828.000000, 108.000000)">
+                <g id="编组-12" transform="translate(0.000000, 48.000000)">
+                    <g id="编组-10" transform="translate(110.000000, 10.000000)">
+                        <path d="M7.83484722,4.90307631 C8.94803684,3.77603708 10.7086084,3.70390656 11.9046629,4.68668478 L11.9999383,4.7684114 L12.0405398,4.73279281 C13.2370669,3.70193685 15.0348372,3.75869801 16.1651528,4.90307631 C17.2958664,6.0478576 17.2468938,7.83251869 16.2065468,9.23690578 C15.91305,9.6331035 15.4758797,10.1194986 14.9194578,10.6714063 L14.7569422,10.8311127 C14.4875423,11.0924078 14.0446713,11.488877 13.4265138,12.0223243 L13.1698979,12.243013 L12.7261405,12.6216553 C12.3061456,12.9785222 11.6935084,12.9779007 11.2742207,12.6201825 L10.7465582,12.1679832 C10.0466062,11.565084 9.54864521,11.1223019 9.2503713,10.8373683 L9.09989342,10.6905782 C8.53412668,10.1306308 8.09032391,9.637658 7.79345322,9.23690578 C6.75310625,7.83251869 6.70413356,6.0478576 7.83484722,4.90307631 Z" id="路径"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

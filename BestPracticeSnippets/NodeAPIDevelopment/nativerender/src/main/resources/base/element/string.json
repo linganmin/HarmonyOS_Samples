@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "NativerenderAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "NativerenderAbility_label",
+      "value": "label"
+    }
+  ]
+}

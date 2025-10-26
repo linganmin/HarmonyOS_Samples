@@ -1,0 +1,220 @@
+/*
+ * Copyright (c) 2022-2023 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+import utils from '../module/Utils';
+import consts from '../module/Consts';
+import mainFeature from '../feature/MainFeature';
+import { router } from '@kit.ArkUI';
+import Logger from '../module/Logger';
+import { commonEventManager, systemDateTime, BusinessError } from '@kit.BasicServicesKit';
+
+@Entry
+@Component
+struct Main {
+  @State btnSrc: Resource = $r('app.media.start');
+  @State btnState: boolean = false;
+  @State startTime: number = 0;
+  @State totalTimeInString: string = '';
+  @State totalEvents: number = 0;
+  @State totalEventsInString: string = '';
+  @State recTimesArray: Array<number> = [0, 0, 0, 0, 0, 0];
+  @State recEventsArray: Array<string> = [];
+  @State currentEvent: string = '';
+  @State detailState: Visibility = Visibility.None;
+  @State currentState: Visibility = Visibility.None;
+  private validEventsSubscriber: commonEventManager.CommonEventSubscriber | null = null; // this subscriber subscribe system defined ordinary events
+  private feature: mainFeature = new mainFeature();
+
+  async onPageShow() {
+    Logger.info("enter onPageShow");
+    await this.feature.init();
+  }
+
+  async onPageHide() {
+    Logger.info("enter onPageHide");
+    this.feature.reset();
+  }
+
+  private getMsg(event: string): Resource {
+    let msg: Resource = $r('app.string.no_interrupt_tips');
+    switch (event) {
+      case commonEventManager.Support.COMMON_EVENT_SCREEN_ON:
+        msg = $r('app.string.screen_on_tips');
+        break;
+      case commonEventManager.Support.COMMON_EVENT_SCREEN_OFF:
+        msg = $r('app.string.screen_off_tips');
+        break;
+      case commonEventManager.Support.COMMON_EVENT_WIFI_POWER_STATE:
+        msg = $r('app.string.wifi_tips');
+        break;
+      case commonEventManager.Support.COMMON_EVENT_SCREEN_LOCKED:
+        msg = $r('app.string.screen_lock_tips');
+        break;
+      case commonEventManager.Support.COMMON_EVENT_SCREEN_UNLOCKED:
+        msg = $r('app.string.screen_unlock_tips');
+        break;
+      default:
+        break;
+    }
+    return msg;
+  }
+
+  private systemEventCallback = (error: BusinessError, event: commonEventManager.CommonEventData) => {
+    let index = this.feature.getCurrentValidEvents().indexOf(event.event);
+    this.recTimesArray[index]++;
+    this.recEventsArray[index] = event.event + ' : ' + this.recTimesArray[index].toString();
+    this.totalEvents++;
+    this.currentEvent = event.event;
+  }
+  private handleStart = () => {
+    this.btnState = true;
+    this.btnSrc = $r('app.media.stop');
+    this.detailState = Visibility.None;
+    this.currentState = Visibility.Visible;
+    this.totalEventsInString = '';
+    this.totalEvents = 0;
+    this.totalTimeInString = '';
+    try {
+      this.startTime = systemDateTime.getTime();
+      // start subscribe
+      let subscriberInfo: commonEventManager.CommonEventSubscribeInfo = {
+        events: this.feature.getCurrentValidEvents()
+      };
+      if (subscriberInfo['events'].length === 0) {
+        return;
+      }
+      commonEventManager.createSubscriber(subscriberInfo, (error, subscriber) => {
+        this.validEventsSubscriber = subscriber;
+        commonEventManager.subscribe(subscriber, this.systemEventCallback);
+      });
+    } catch(e) {
+      let error = e as BusinessError;
+      Logger.info(`Failed to get time. message: ${error.message}, code: ${error.code}`);
+    }
+  }
+  private handleStop = () => {
+    this.btnState = false;
+    this.btnSrc = $r('app.media.start');
+    this.detailState = Visibility.Visible;
+    this.currentState = Visibility.None;
+    this.totalEventsInString = this.totalEvents.toString();
+    // refresh time
+    try {
+      let curTime = systemDateTime.getTime();
+      this.totalTimeInString = utils.convertTimeToFormatString(curTime - this.startTime);
+      // unsubscribe
+      commonEventManager.unsubscribe(this.validEventsSubscriber, () => {
+        Logger.info("unsubscribe called");
+      })
+      let options: commonEventManager.CommonEventPublishData = {
+        isOrdered: true,
+        parameters: {
+          'startTime': utils.getLocaleTime(this.startTime),
+          'endTime': utils.getLocaleTime(curTime),
+          'totalTime': this.totalTimeInString,
+          'totalEvents': this.totalEventsInString,
+        }
+      };
+      commonEventManager.publish(consts.COMMON_EVENT_FINISH_MEDITATION, options, () => {
+        Logger.info("success to publish COMMON_EVENT_FINISH_MEDITATION");
+      });
+    } catch(e) {
+      let error = e as BusinessError;
+      Logger.info(`Failed to get time. message: ${error.message}, code: ${error.code}`);
+    }
+
+  }
+  private executeCallBack = () => {
+    if (!this.btnState) {
+      this.handleStart();
+    } else {
+      this.handleStop();
+    }
+  }
+
+  build() {
+    Stack({ alignContent: Alignment.TopStart }) {
+      Flex({ direction: FlexDirection.Column, justifyContent: FlexAlign.Center, alignItems: ItemAlign.Center }) {
+        Image(this.btnSrc)
+          .id('startMonitor')
+          .objectFit(ImageFit.Contain)
+          .size({ width: 320, height: 150 })
+          .onClick(this.executeCallBack)
+        Column() {
+          Text($r('app.string.current_listen_tips')).size({ width: '80%', height: '50%' })
+            .fontSize(20)
+            .fontColor(0xCCCCCC)
+            .visibility(this.currentState)
+          Text(this.getMsg(this.currentEvent)).size({ width: '80%', height: '50%' })
+            .fontSize(20)
+            .fontColor(0xCCCCCC)
+            .visibility(this.currentState)
+          Row() {
+            Text($r('app.string.total_time_tips')).size({ width: '50%', height: '100%' })
+              .fontSize(20)
+              .fontColor(0xCCCCCC)
+              .offset({ x: '10%', y: '0%' })
+            Text(this.totalTimeInString).size({ width: '30%', height: '100%' })
+              .fontSize(20)
+              .fontColor(0xCCCCCC)
+          }.size({ width: '80%', height: '50%' })
+          .offset({ x: '0%', y: '5%' })
+          .visibility(this.detailState)
+
+          Row() {
+            Text($r('app.string.total_interrupt_tips')).size({ width: '70%', height: '100%' })
+              .fontSize(20)
+              .fontColor(0xCCCCCC)
+              .offset({ x: '10%', y: '0%' })
+            Text(this.totalEventsInString).size({ width: '10%', height: '100%' })
+              .fontSize(20)
+              .fontColor(0xCCCCCC)
+          }.size({ width: '80%', height: '50%' })
+          .offset({ x: '0%', y: '5%' })
+          .visibility(this.detailState)
+        }
+        .size({ width: '90%', height: '20%' })
+        .backgroundColor(0xfbfafb)
+        .opacity(0.8)
+        .offset({ x: '0%', y: '5%' })
+        .borderRadius(10)
+      }.size({ width: '100%', height: '100%' })
+      .offset({ x: '0%', y: '-15%' })
+
+      Image($r('app.media.nextDetail'))
+        .id('nextDetail')
+        .size({ width: 160, height: 50 })
+        .objectFit(ImageFit.Contain)
+        .position({ x: '60%', y: '85%' })
+        .visibility(this.detailState)
+        .onClick(() => {
+          let validRecEvents: Array<string> = [];
+          this.recEventsArray.forEach((element: string) => {
+            if (element != '') {
+              validRecEvents.push(element);
+            }
+          });
+          this.getUIContext().getRouter().pushUrl({
+            url: 'pages/Detail',
+            params: {
+              'recEvents': validRecEvents,
+              'onceEvents': this.feature.getOnceEvents()
+            }
+          });
+        })
+    }.size({ width: '100%', height: '100%' })
+    .backgroundImage($r('app.media.vbg720'))
+    .backgroundImageSize(ImageSize.Contain)
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "float": [
+    {
+      "name": "main_page_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "main_page_textInput_height",
+      "value": "37vp"
+    },
+    {
+      "name": "main_page_image_height",
+      "value": "209vp"
+    },
+    {
+      "name": "main_page_margin_top",
+      "value": "15vp"
+    },
+    {
+      "name": "keyboard_padding",
+      "value": "7vp"
+    },
+    {
+      "name": "keyboard_padding_top",
+      "value": "12vp"
+    },
+    {
+      "name": "keyboard_margin_top",
+      "value": "10vp"
+    },
+    {
+      "name": "keyboard_total_height",
+      "value": "283vp"
+    },
+    {
+      "name": "number_keyboard_grid_gap",
+      "value": "6vp"
+    },
+    {
+      "name": "english_keyboard_padding_top",
+      "value": "11vp"
+    },
+    {
+      "name": "english_keyboard_padding_left",
+      "value": "18vp"
+    },
+    {
+      "name": "english_keyboard_padding_right",
+      "value": "18vp"
+    },
+    {
+      "name": "tabview_height",
+      "value": "54vp"
+    },
+    {
+      "name": "tabview_button_height",
+      "value": "35vp"
+    },
+    {
+      "name": "tabview_button_width",
+      "value": "114vp"
+    },
+    {
+      "name": "keyboard_total_height_portrait",
+      "value": "283vp"
+    },
+    {
+      "name": "keyboard_total_height_landscape",
+      "value": "240vp"
+    }
+  ]
+}

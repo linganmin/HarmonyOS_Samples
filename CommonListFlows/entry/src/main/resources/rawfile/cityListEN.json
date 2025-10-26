@@ -1,0 +1,358 @@
+{
+  "current": [
+    "Beijing"
+  ],
+  "hot": [
+    "Guangzhou",
+    "Shanghai",
+    "Wuhan",
+    "Nanjing",
+    "Chengdu"
+  ],
+  "cityList": {
+    "A": [
+      {
+        "code": 1,
+        "city": "Alashanmeng"
+      },
+      {
+        "code": 2,
+        "city": "Anshan"
+      },
+      {
+        "code": 3,
+        "city": "Anqing"
+      }
+    ],
+    "B": [
+      {
+        "code": 4,
+        "city": "Beijing"
+      },
+      {
+        "code": 5,
+        "city": "Baoding"
+      },
+      {
+        "code": 6,
+        "city": "Baotou"
+      }
+    ],
+    "C": [
+      {
+        "code": 7,
+        "city": "Chengde"
+      },
+      {
+        "code": 8,
+        "city": "Cangzhou"
+      },
+      {
+        "code": 9,
+        "city": "Changzhi"
+      }
+    ],
+    "D": [
+      {
+        "code": 10,
+        "city": "Datong"
+      },
+      {
+        "code": 11,
+        "city": "Dalian"
+      },
+      {
+        "code": 12,
+        "city": "Dandong"
+      }
+    ],
+    "E": [
+      {
+        "code": 13,
+        "city": "Eerduosi"
+      },
+      {
+        "code": 14,
+        "city": "Ezhou"
+      }
+    ],
+    "F": [
+      {
+        "code": 15,
+        "city": "Fushun"
+      },
+      {
+        "code": 16,
+        "city": "Fuxin"
+      },
+      {
+        "code": 17,
+        "city": "Fuyang"
+      }
+    ],
+    "G": [
+      {
+        "code": 18,
+        "city": "Ganzhou"
+      },
+      {
+        "code": 19,
+        "city": "Guangzhou"
+      },
+      {
+        "code": 20,
+        "city": "Guilin"
+      }
+    ],
+    "H": [
+      {
+        "code": 21,
+        "city": "Handan"
+      },
+      {
+        "code": 22,
+        "city": "Hengshui"
+      },
+      {
+        "code": 23,
+        "city": "Huhehaote"
+      }
+    ],
+    "J": [
+      {
+        "code": 24,
+        "city": "Jincheng"
+      },
+      {
+        "code": 25,
+        "city": "Jinzhong"
+      },
+      {
+        "code": 26,
+        "city": "Jinzhou"
+      }
+    ],
+    "K": [
+      {
+        "code": 27,
+        "city": "Kaifeng"
+      },
+      {
+        "code": 28,
+        "city": "Kunming"
+      }
+    ],
+    "L": [
+      {
+        "code": 29,
+        "city": "Langfang"
+      },
+      {
+        "code": 30,
+        "city": "Luohe"
+      },
+      {
+        "code": 31,
+        "city": "Linfen"
+      }
+    ],
+    "M": [
+      {
+        "code": 32,
+        "city": "Mudanjiang"
+      },
+      {
+        "code": 33,
+        "city": "Maanshan"
+      },
+      {
+        "code": 34,
+        "city": "Maoming"
+      }
+    ],
+    "N": [
+      {
+        "code": 35,
+        "city": "Nanjing"
+      },
+      {
+        "code": 36,
+        "city": "Nanchong"
+      }
+    ],
+    "P": [
+      {
+        "code": 37,
+        "city": "Panjin"
+      },
+      {
+        "code": 38,
+        "city": "Putian"
+      },
+      {
+        "code": 39,
+        "city": "Puyang"
+      }
+    ],
+    "Q": [
+      {
+        "code": 40,
+        "city": "Qinhuangdao"
+      },
+      {
+        "code": 41,
+        "city": "Qiqihaer"
+      },
+      {
+        "code": 42,
+        "city": "Qitaihe"
+      }
+    ],
+    "R": [
+      {
+        "code": 43,
+        "city": "Rizhao"
+      },
+      {
+        "code": 44,
+        "city": "Rikaze"
+      }
+    ],
+    "S": [
+      {
+        "code": 45,
+        "city": "Shijiazhuang"
+      },
+      {
+        "code": 46,
+        "city": "Shuozhou"
+      }
+    ],
+    "T": [
+      {
+        "code": 47,
+        "city": "Tianjin"
+      },
+      {
+        "code": 48,
+        "city": "Tangshan"
+      },
+      {
+        "code": 49,
+        "city": "Taiyuan"
+      }
+    ],
+    "W": [
+      {
+        "code": 50,
+        "city": "Wuhai"
+      },
+      {
+        "code": 51,
+        "city": "Wulanchabu"
+      }
+    ],
+    "X": [
+      {
+        "code": 52,
+        "city": "Xingtai"
+      },
+      {
+        "code": 53,
+        "city": "Xinzhou"
+      },
+      {
+        "code": 54,
+        "city": "Xuzhou"
+      }
+    ],
+    "Y": [
+      {
+        "code": 55,
+        "city": "Yangquan"
+      },
+      {
+        "code": 56,
+        "city": "Yuncheng"
+      },
+      {
+        "code": 57,
+        "city": "Yingkou"
+      }
+    ],
+    "Z": [
+      {
+        "code": 58,
+        "city": "Zhangjiakou"
+      },
+      {
+        "code": 59,
+        "city": "Zhenjiang"
+      },
+      {
+        "code": 60,
+        "city": "Zhoushan"
+      },
+      {
+        "code": 61,
+        "city": "Zhangzhou"
+      },
+      {
+        "code": 62,
+        "city": "Zibo"
+      },
+      {
+        "code": 63,
+        "city": "Zaozhuang"
+      },
+      {
+        "code": 64,
+        "city": "Zhengzhou"
+      },
+      {
+        "code": 65,
+        "city": "Zhoukou"
+      },
+      {
+        "code": 66,
+        "city": "Zhuzhou"
+      },
+      {
+        "code": 67,
+        "city": "Zhangjiajie"
+      },
+      {
+        "code": 68,
+        "city": "Zigong"
+      },
+      {
+        "code": 69,
+        "city": "Zhangye"
+      },
+      {
+        "code": 70,
+        "city": "Zhaoqing"
+      },
+      {
+        "code": 71,
+        "city": "Zhaotong"
+      },
+      {
+        "code": 72,
+        "city": "Zunyi"
+      },
+      {
+        "code": 73,
+        "city": "Ziyang"
+      },
+      {
+        "code": 74,
+        "city": "Zhumadian"
+      },
+      {
+        "code": 75,
+        "city": "Zhongshan"
+      }
+    ]
+  }
+}

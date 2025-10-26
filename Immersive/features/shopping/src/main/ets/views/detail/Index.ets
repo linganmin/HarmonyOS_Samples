@@ -1,0 +1,51 @@
+/*
+ * Copyright (c) 2024 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 ("the License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+import { Banner } from './Banner';
+import { Faq } from './Faq';
+import { Discount } from './Discount';
+import { Footer } from './Footer';
+import { Information } from './Information';
+import { Toolbar } from './Toolbar';
+
+@Component
+export struct ProductDetail {
+  build() {
+    NavDestination() {
+      Column() {
+        Stack({ alignContent: Alignment.Top }) {
+          Scroll() {
+            Column() {
+              Banner()
+              Column() {
+                Discount()
+                Information()
+                Faq()
+              }
+              .padding(12)
+              .backgroundColor('#F1F3F5')
+            }
+          }
+          .clip(false)
+          .scrollBar(BarState.Off)
+          Toolbar()
+        }
+        .layoutWeight(1)
+        Footer()
+      }
+    }
+    .hideTitleBar(true)
+  }
+}

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  - Copyright (c) 2024 Huawei Device Co., Ltd.
+  - Licensed under the Apache License, Version 2.0 (the "License");
+  - you may not use this file except in compliance with the License.
+  - You may obtain a copy of the License at
+  -
+  -     http://www.apache.org/licenses/LICENSE-2.0
+  -
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -->
+
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>商品</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA9A9" offset="0%"></stop>
+            <stop stop-color="#FF6565" offset="82.4932499%"></stop>
+            <stop stop-color="#FF3D3D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M10.9876502,6.02437485 C10.7955964,7.23449997 9.70230145,8.14749343 8.39494845,8.14749343 C7.09174167,8.14749343 5.99791171,7.23315598 5.80310832,6.02345963 C5.72824221,5.55855366 5.29067049,5.24236388 4.82576451,5.31722998 C4.36085854,5.39209609 4.04466876,5.82966782 4.11953487,6.29457379 C4.44851412,8.33747972 6.26125321,9.85275659 8.39494845,9.85275659 C10.5331107,9.85275659 12.3470794,8.33793978 12.6718351,6.29166464 C12.7456451,5.82658984 12.4284624,5.38973736 11.9633876,5.31592732 C11.4983127,5.24211728 11.0614603,5.55930005 10.9876502,6.02437485 Z" id="path-2"></path>
+        <filter x="-40.8%" y="-55.0%" width="181.6%" height="253.9%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.297863513 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-32.1%" y="-38.5%" width="164.1%" height="220.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="0.25" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.282622651 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机_直播间" transform="translate(-264.000000, -707.000000)" fill-rule="nonzero">
+            <g id="方案一" transform="translate(0.000000, 695.000000)">
+                <g id="SearchBar/WhiteBG/normal" transform="translate(16.000000, 9.000000)">
+                    <g id="商品" transform="translate(248.000000, 3.000000)">
+                        <circle id="椭圆形" fill="#FFFFFF" opacity="0.1" cx="18" cy="18" r="18"></circle>
+                        <g id="编组" transform="translate(9.596630, 9.405316)">
+                            <g id="uxs-a-link" transform="translate(0.000000, 2.744684)" fill="url(#linearGradient-1)">
+                                <path d="M16.1586,0 L16.835572,12.3091332 C16.8930522,13.3539876 16.0926273,14.2476064 15.047773,14.3050866 C15.0131133,14.3069933 14.9784079,14.3079472 14.9436958,14.3079472 L1.89473685,14.3079472 C0.84830258,14.3079472 0,13.4596446 0,12.4132104 C0,12.3784983 0.0009539001,12.3437929 0.0028606185,12.3091332 L0.679500002,0 L16.1586,0 Z" id="uxs-a"></path>
+                            </g>
+                            <g id="uxs-b-link" transform="translate(0.679475, 0.000000)" fill="#FF7F7F">
+                                <path d="M12.6378955,0 C14.1468906,0 15.3928214,1.17927269 15.4757098,2.68598955 L15.4791,2.7441 L0,2.7441 L0.003772701,2.68598955 C0.086661198,1.17927269 1.33259194,0 2.84158704,0 L12.6378955,0 Z" id="uxs-b"></path>
+                            </g>
+                            <g id="uxs-a-path">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-2"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

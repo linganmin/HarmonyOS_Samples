@@ -1,0 +1,1 @@
+export const fetch_exec_time: (isParallel: boolean) => number;

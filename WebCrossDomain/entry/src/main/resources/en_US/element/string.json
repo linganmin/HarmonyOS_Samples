@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web Cross-Domain"
+    },
+    {
+      "name": "internet_reason",
+      "value": "You need to obtain your network permission to obtain network resource display data."
+    },
+    {
+      "name": "project_name",
+      "value": "Web Cross-Domain Scenario Case"
+    },
+    {
+      "name": "router_back",
+      "value": "Back"
+    },
+    {
+      "name": "scene_name1",
+      "value": "Local resource cross-domain"
+    },
+    {
+      "name": "scene_name2",
+      "value": "Remote request cross-domain"
+    },
+    {
+      "name": "scene_name3",
+      "value": "Cross-Domain Cookies Settings"
+    },
+    {
+      "name": "scene_name4",
+      "value": "User-defined protocol cross-domain"
+    },
+    {
+      "name": "CustomProtocol_toast",
+      "value": "Custom protocol has been intercepted"
+    },
+    {
+      "name": "CookiesSettings_button",
+      "value": "Click the button to pass the cookie"
+    }
+  ]
+}

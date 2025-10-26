@@ -1,0 +1,24 @@
+{
+  "routerMap": [
+    {
+      "name": "MoreConnections",
+      "pageSourceFile": "src/main/ets/moreconnections/MoreConnectionsItem.ets",
+      "buildFunction": "MoreConnectionsBuilder"
+    },
+    {
+      "name": "Nfc",
+      "pageSourceFile": "src/main/ets/moreconnections/Nfc.ets",
+      "buildFunction": "NfcBuilder"
+    },
+    {
+      "name": "WlanSetting",
+      "pageSourceFile": "src/main/ets/wlan/WlanSettingItem.ets",
+      "buildFunction": "WlanSettingBuilder"
+    },
+    {
+      "name": "WlanMoreSetting",
+      "pageSourceFile": "src/main/ets/wlan/WlanMoreSetting.ets",
+      "buildFunction": "WlanMoreSettingBuilder"
+    }
+  ]
+}

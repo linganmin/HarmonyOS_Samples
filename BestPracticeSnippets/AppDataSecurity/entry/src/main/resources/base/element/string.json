@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AppDataSecurity"
+    },
+    {
+      "name": "file_path",
+      "value": "file path:"
+    },
+    {
+      "name": "get_file_path",
+      "value": "Obtaining the common file path"
+    },
+    {
+      "name": "get_el1_file_path",
+      "value": "Obtaining the EL1 file path"
+    },
+    {
+      "name": "encrypted",
+      "value": "encrypted"
+    },
+    {
+      "name": "decrypted",
+      "value": "decrypted"
+    }
+  ]
+}

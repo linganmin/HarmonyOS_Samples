@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SocialShareJump"
+    },
+    {
+      "name": "title_recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "edit_comment",
+      "value": "写评论"
+    },
+    {
+      "name": "shared_from_friend",
+      "value": "来自好友分享"
+    },
+    {
+      "name": "article_detail",
+      "value": "随着终端设备形态日益多样化，应用设计需要考虑界面能适配不同的屏幕尺寸、屏幕方向和设备类型。同时还需要保持多设备体验的连续性，改善多端独立的设计、尽可能降低开发者的工作量和维护成本。基于此 Harmony OS 为设计师提供了面向多设备的设计指南，让设计师在进行多端设计时有一套科学的方法，最大程度减少设计的工作量，保障多端设计在一定程度的一致性。同时 Harmony OS 也提供了对应的技术能力，帮助开发者快速地进行多端应用设计。"
+    },
+    {
+      "name": "article_title1",
+      "value": "节日出行"
+    },
+    {
+      "name": "article_title2",
+      "value": "看风景"
+    },
+    {
+      "name": "article_title3",
+      "value": "生活小技巧"
+    },
+    {
+      "name": "article_title4",
+      "value": "旅行计划"
+    },
+    {
+      "name": "article_title5",
+      "value": "HarmonyOS学习"
+    },
+    {
+      "name": "article_title6",
+      "value": "从入门到精通"
+    }
+  ]
+}

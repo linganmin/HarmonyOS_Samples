@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "ConnectViewPage",
+      "pageSourceFile": "src/main/ets/view/ConnectView.ets",
+      "buildFunction": "ConnectViewBuilder",
+      "data": {
+        "description" : "this is ConnectViewPage"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "scrollComponentSample"
+    },
+    {
+      "name": "title",
+      "value": "ScrollComponents"
+    },
+    {
+      "name": "scenario1",
+      "value": "场景一"
+    },
+    {
+      "name": "scenario_waterFlow",
+      "value": "瀑布流相同Item复用"
+    },
+    {
+      "name": "scenario2",
+      "value": "场景二"
+    },
+    {
+      "name": "scenario_waterFlow2",
+      "value": "瀑布流组合Item复用"
+    },
+    {
+      "name": "scenario3",
+      "value": "场景三"
+    },
+    {
+      "name": "scenario_waterFlow3",
+      "value": "瀑布流跨页面复用"
+    },
+    {
+      "name": "scenario4",
+      "value": "场景四"
+    },
+    {
+      "name": "scenario_waterFlow4",
+      "value": "瀑布流滑动吸顶"
+    },
+    {
+      "name": "want_to_eat",
+      "value": "想吃榜"
+    },
+    {
+      "name": "distance",
+      "value": "位置距离"
+    },
+    {
+      "name": "less_1km",
+      "value": "<1km"
+    },
+    {
+      "name": "less_5km",
+      "value": "<5km"
+    },
+    {
+      "name": "more_5km",
+      "value": ">5km"
+    },
+    {
+      "name": "classify",
+      "value": "分类"
+    },
+    {
+      "name": "food",
+      "value": "餐饮"
+    },
+    {
+      "name": "leisure",
+      "value": "休闲"
+    },
+    {
+      "name": "entertainment",
+      "value": "娱乐"
+    },
+    {
+      "name": "sort",
+      "value": "排序"
+    },
+    {
+      "name": "one",
+      "value": "1"
+    },
+    {
+      "name": "two",
+      "value": "2"
+    },
+    {
+      "name": "three",
+      "value": "3"
+    },
+    {
+      "name": "not_interested_button_text",
+      "value": "不感兴趣"
+    },
+    {
+      "name": "loading",
+      "value": "加载中..."
+    },
+    {
+      "name": "load_done",
+      "value": "到底啦..."
+    },
+    {
+      "name": "page_one",
+      "value": "页面1"
+    },
+    {
+      "name": "page_two",
+      "value": "页面2"
+    }
+  ]
+}

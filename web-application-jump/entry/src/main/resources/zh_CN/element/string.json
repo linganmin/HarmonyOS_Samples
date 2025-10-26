@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web应用拉起"
+    },
+    {
+      "name": "back_to_web_page",
+      "value": "跳转回Web页面"
+    },
+    {
+      "name": "distributed_permission",
+      "value": "用于拉起其他设备上的应用"
+    },
+    {
+      "name": "original_page",
+      "value": "原生页面"
+    },
+    {
+      "name": "not_found_toast",
+      "value": "未发现周边设备，请检查后重试！"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "IconMainColor"
+    },
+    {
+      "name": "percent_100",
+      "value": "100%"
+    },
+    {
+      "name": "cloud_space",
+      "value": "Cloud Space"
+    },
+    {
+      "name": "cloud_space_description",
+      "value": "Cloud Storage"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "settings_description",
+      "value": "Custom settings"
+    },
+    {
+      "name": "phone",
+      "value": "Phone"
+    },
+    {
+      "name": "phone_description",
+      "value": "Communication software"
+    },
+    {
+      "name": "v_mall",
+      "value": "VMALL"
+    },
+    {
+      "name": "v_mall_description",
+      "value": "Official e-commerce platform"
+    }
+  ]
+}

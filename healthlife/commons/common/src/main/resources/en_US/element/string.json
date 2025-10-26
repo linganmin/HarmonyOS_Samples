@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Healthy life"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "There are always new ways to play sports"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Healthy life"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "Used to access the network to obtain map data."
+    },
+    {
+      "name": "healthy_life",
+      "value": "Healthy life"
+    },
+    {
+      "name": "target_progress",
+      "value": "Target progress"
+    },
+    {
+      "name": "task_list",
+      "value": "Task list"
+    },
+    {
+      "name": "week_shorthand_mon",
+      "value": "Mon"
+    },
+    {
+      "name": "week_shorthand_tue",
+      "value": "Tue"
+    },
+    {
+      "name": "week_shorthand_wed",
+      "value": "Wed"
+    },
+    {
+      "name": "week_shorthand_thu",
+      "value": "Thu"
+    },
+    {
+      "name": "week_shorthand_fri",
+      "value": "Fri"
+    },
+    {
+      "name": "week_shorthand_sat",
+      "value": "Sat"
+    },
+    {
+      "name": "week_shorthand_sun",
+      "value": "Sun"
+    },
+    {
+      "name": "no_task",
+      "value": "There are no tasks, please add tasks"
+    },
+    {
+      "name": "task_getup",
+      "value": "Early riser"
+    },
+    {
+      "name": "task_drink",
+      "value": "Drink"
+    },
+    {
+      "name": "task_apple",
+      "value": "Eat apples"
+    },
+    {
+      "name": "task_smile",
+      "value": "Smile every day"
+    },
+    {
+      "name": "task_brush",
+      "value": "Brush your teeth daily"
+    },
+    {
+      "name": "task_sleep",
+      "value": "Go to bed early"
+    },
+    {
+      "name": "clock_in",
+      "value": "Clock"
+    },
+    {
+      "name": "got_it",
+      "value": "Got it"
+    },
+    {
+      "name": "was_done",
+      "value": "Was done"
+    },
+    {
+      "name": "my_achievement",
+      "value": "My achievement"
+    },
+    {
+      "name": "achievement_level",
+      "value": "Achieved for %s consecutive day"
+    },
+    {
+      "name": "mine_personal_data",
+      "value": "Personal data"
+    },
+    {
+      "name": "mine_check_updates",
+      "value": "Check updates"
+    },
+    {
+      "name": "mine_about",
+      "value": "About"
+    },
+    {
+      "name": "add_task",
+      "value": "Add task"
+    },
+    {
+      "name": "edit_task",
+      "value": "Edit task"
+    },
+    {
+      "name": "task_opened",
+      "value": "Opened"
+    },
+    {
+      "name": "target_setting",
+      "value": "Target setting"
+    },
+    {
+      "name": "complete",
+      "value": "Complete"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_achievement",
+      "value": "Achievement"
+    },
+    {
+      "name": "tab_mine",
+      "value": "Mine"
+    },
+    {
+      "name": "skip_ads",
+      "value": "Skip ads %d s"
+    },
+    {
+      "name": "confirm",
+      "value": "Sure"
+    },
+    {
+      "name": "exit",
+      "value": "Exit"
+    },
+    {
+      "name": "privacy_title",
+      "value": "Please enable the \"XX\" permission in the \"Healthy Life\" permission management"
+    },
+    {
+      "name": "privacy_desc",
+      "value": "The function supports XX... (Function introduction)"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "user_name",
+      "value": "Jolin"
+    },
+    {
+      "name": "user_level",
+      "value": "LV.7"
+    },
+    {
+      "name": "user_signature",
+      "value": "This is a short personal signature"
+    },
+    {
+      "name": "unit_liter",
+      "value": "L"
+    },
+    {
+      "name": "unit_number",
+      "value": "number"
+    },
+    {
+      "name": "unit_times",
+      "value": "times"
+    },
+    {
+      "name": "unit_pre_day",
+      "value": "/ day"
+    }
+  ]
+}

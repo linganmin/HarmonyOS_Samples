@@ -1,0 +1,212 @@
+{
+  "float": [
+    {
+      "name": "set_image_width",
+      "value": "24vp"
+    },
+    {
+      "name": "set_image_height",
+      "value": "24vp"
+    },
+    {
+      "name": "set_button_width",
+      "value": "40vp"
+    },
+    {
+      "name": "set_button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "set_button_margin_right",
+      "value": "16vp"
+    },
+    {
+      "name": "set_row_height",
+      "value": "40vp"
+    },
+    {
+      "name": "set_row_margin_top",
+      "value": "8vp"
+    },
+    {
+      "name": "window_margin_top",
+      "value": "150vp"
+    },
+    {
+      "name": "index_button_width",
+      "value": "288vp"
+    },
+    {
+      "name": "index_button_height",
+      "value": "40vp"
+    },
+    {
+      "name": "button_margin_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "last_button_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "index_column_height",
+      "value": "200vp"
+    },
+    {
+      "name": "recorder_time_margin_bottom",
+      "value": "500vp"
+    },
+    {
+      "name": "recorder_image_width",
+      "value": "60vp"
+    },
+    {
+      "name": "recorder_image_height",
+      "value": "60vp"
+    },
+    {
+      "name": "recorder_image_margin_top",
+      "value": "550vp"
+    },
+    {
+      "name": "audio_width",
+      "value": "72vp"
+    },
+    {
+      "name": "audio_margin_top",
+      "value": "36vp"
+    },
+    {
+      "name": "audio_border_raduis",
+      "value": "32vp"
+    },
+    {
+      "name": "audio_size",
+      "value": "16fp"
+    },
+    {
+      "name": "small_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "audio_button_width",
+      "value": "162vp"
+    },
+    {
+      "name": "audio_button_height",
+      "value": "188vp"
+    },
+    {
+      "name": "border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "common_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "record_width",
+      "value": "56vp"
+    },
+    {
+      "name": "common_title",
+      "value": "56vp"
+    },
+    {
+      "name": "time_size",
+      "value": "21fp"
+    },
+    {
+      "name": "time_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "start_height",
+      "value": "66vp"
+    },
+    {
+      "name": "start_position",
+      "value": "30"
+    },
+    {
+      "name": "start_record_position",
+      "value": "60"
+    },
+    {
+      "name": "common_image",
+      "value": "24vp"
+    },
+    {
+      "name": "small_size",
+      "value": "12fp"
+    },
+    {
+      "name": "pause_margin_top",
+      "value": "2vp"
+    },
+    {
+      "name": "common_font",
+      "value": "16fp"
+    },
+    {
+      "name": "small_padding",
+      "value": "12fp"
+    },
+    {
+      "name": "result_size",
+      "value": "14fp"
+    },
+    {
+      "name": "result_height",
+      "value": "19vp"
+    },
+    {
+      "name": "common_height",
+      "value": "24vp"
+    },
+    {
+      "name": "time_margin_top",
+      "value": "4vp"
+    },
+    {
+      "name": "play_margin_top",
+      "value": "9.5vp"
+    },
+    {
+      "name": "row_height",
+      "value": "116vp"
+    },
+    {
+      "name": "main_title_margin_top",
+      "value": "56vp"
+    },
+    {
+      "name": "main_title_margin_horizontal",
+      "value": "16vp"
+    },
+    {
+      "name": "main_title_padding_vertical",
+      "value": "8vp"
+    },
+    {
+      "name": "button_container_margin_bottom",
+      "value": "44vp"
+    },
+    {
+      "name": "button_container_margin_horizontal",
+      "value": "16vp"
+    },
+    {
+      "name": "button_container_margin_from_bottom_bar",
+      "value": "16vp"
+    },
+    {
+      "name": "record_button_radius",
+      "value": "56vp"
+    },
+    {
+      "name": "record_button_margin_bottom",
+      "value": "26vp"
+    }
+  ]
+}

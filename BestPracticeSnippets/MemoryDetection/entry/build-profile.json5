@@ -1,0 +1,38 @@
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    "externalNativeOptions": {
+      /**
+      * 最佳实践：使用HWAsan检测内存错误
+      * 场景三：配置HWASan-DevEco Studio场景
+      */
+      // [Start set_arguments]
+      "arguments": "-DOHOS_ENABLE_HWASAN=ON",
+      "abiFilters": ["x86_64", "arm64-v8a"]
+      // [End set_arguments]
+    }
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ]
+}

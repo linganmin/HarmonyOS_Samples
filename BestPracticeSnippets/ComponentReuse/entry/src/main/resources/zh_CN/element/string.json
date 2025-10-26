@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "组件复用"
+    },
+    {
+      "name": "nav_destination_item0",
+      "value": "减少组件复用的嵌套层级"
+    },
+    {
+      "name": "nav_destination_item1",
+      "value": "精准控制组件刷新范围"
+    },
+    {
+      "name": "nav_destination_item2",
+      "value": "使用reuseId标记不同结构的组件"
+    },
+    {
+      "name": "nav_destination_item3",
+      "value": "复用组件创建时的@State变量入参"
+    },
+    {
+      "name": "update_component_title",
+      "value": "标题%d"
+    },
+    {
+      "name": "with_func_title",
+      "value": "列表%d"
+    },
+    {
+      "name": "jump_text_one",
+      "value": "这是第%d条消息 !"
+    },
+    {
+      "name": "two_days_ago",
+      "value": "2天前"
+    },
+    {
+      "name": "jump_to_history",
+      "value": "跳转到上次浏览历史"
+    },
+    {
+      "name": "near_people",
+      "value": "附近的人"
+    },
+    {
+      "name": "update_component_internal_text",
+      "value": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
+    },
+    {
+      "name": "text_list",
+      "value": "文字列表"
+    },
+    {
+      "name": "net_name_message",
+      "value": "网名列表"
+    },
+    {
+      "name": "pic_text_list",
+      "value": "图文列表"
+    },
+    {
+      "name": "userName",
+      "value": "用户名称_%d"
+    }
+  ]
+}

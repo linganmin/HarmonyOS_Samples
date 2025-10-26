@@ -1,0 +1,26 @@
+{
+  "cloudDBZoneName": "News",
+  "objectTypeName": "News",
+  "objects": [
+    {
+      "newsId": 1,
+      "title": "新闻一",
+      "content": "我是新闻一的内容",
+      "newsType": "体育",
+      "pubUserName": "新闻频道",
+      "pubUserAvatar": "string1",
+      "pubDate": 1752737926206,
+      "viewCount": 10
+    },
+    {
+      "newsId": 2,
+      "title": "新闻二",
+      "content": "我是新闻二的内容",
+      "newsType": "财经",
+      "pubUserName": "新闻频道",
+      "pubUserAvatar": "string2",
+      "pubDate": 1752737926206,
+      "viewCount": 20
+    }
+  ]
+}

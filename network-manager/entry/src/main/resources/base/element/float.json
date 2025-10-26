@@ -1,0 +1,76 @@
+{
+  "float": [
+    {
+      "name": "sm_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "lg_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "title_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "xxl_padding_margin",
+      "value": "32vp"
+    },
+    {
+      "name": "xl_padding_margin",
+      "value": "28vp"
+    },
+    {
+      "name": "lg_padding_margin",
+      "value": "16vp"
+    },
+    {
+      "name": "md_padding_margin",
+      "value": "12vp"
+    },
+    {
+      "name": "sm_padding_margin",
+      "value": "8vp"
+    },
+    {
+      "name": "xs_padding_margin",
+      "value": "4vp"
+    },
+    {
+      "name": "lg_border_radius",
+      "value": "16vp"
+    },
+    {
+      "name": "md_border_radius",
+      "value": "24vp"
+    },
+    {
+      "name": "sm_border_radius",
+      "value": "8vp"
+    },
+    {
+      "name": "xs_border_radius",
+      "value": "4vp"
+    },
+    {
+      "name": "area_height",
+      "value": "40vp"
+    },
+    {
+      "name": "button_height",
+      "value": "56vp"
+    },
+    {
+      "name": "area_width",
+      "value": "36vp"
+    },
+    {
+      "name": "opacity",
+      "value": "0.6"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "卡片更新"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "widget_desc",
+      "value": "推荐内容列表示例"
+    },
+    {
+      "name": "widget_display_name",
+      "value": "卡片示例一"
+    },
+    {
+      "name": "card_list_title",
+      "value": "卡片更新"
+    },
+    {
+      "name": "card_list_content",
+      "value": "Introduction"
+    },
+    {
+      "name": "router",
+      "value": "router事件"
+    },
+    {
+      "name": "call",
+      "value": "call事件"
+    },
+    {
+      "name": "message",
+      "value": "message事件"
+    },
+    {
+      "name": "title1",
+      "value": "ArkTS卡片的优势"
+    },
+    {
+      "name": "content1",
+      "value": "统一开发范式，提升开发体验和开发效率。增强了卡片的能力，如动效的能力、自定义绘制的能力等，使卡片更加万能。"
+    },
+    {
+      "name": "title2",
+      "value": "ArkTS卡片的约束"
+    },
+    {
+      "name": "content2",
+      "value": "当导入模块时，仅支持导入标识“支持在ArkTS卡片中使用”的模块。不支持导入共享包。不支持使用native语言开发。"
+    },
+    {
+      "name": "title3",
+      "value": "卡片扩展模块"
+    },
+    {
+      "name": "content3",
+      "value": "FormExtensionAbility：卡片扩展模块，提供卡片创建、销毁、刷新等生命周期回调。"
+    },
+    {
+      "name": "title4",
+      "value": "卡片配置"
+    },
+    {
+      "name": "content4",
+      "value": "在module.json5配置文件中的extensionAbilities标签下，配置FormExtensionAbility相关信息。"
+    },
+    {
+      "name": "title5",
+      "value": "创建一个ArkTS卡片"
+    },
+    {
+      "name": "content5",
+      "value": "创建卡片当前有两种入口：创建工程时，选择Application，默认不带卡片，可以在创建工程后右键新建卡片。或选择Atomic Service，也可以在创建工程后右键新建卡片。"
+    },
+    {
+      "name": "title6",
+      "value": "配置卡片的配置文件"
+    },
+    {
+      "name": "content6",
+      "value": "卡片相关的配置文件主要包含FormExtensionAbility的配置和卡片的配置两部分。"
+    },
+    {
+      "name": "title7",
+      "value": "卡片生命周期管理"
+    },
+    {
+      "name": "content7",
+      "value": "创建ArkTS卡片，需实现FormExtensionAbility生命周期接口。"
+    },
+    {
+      "name": "title8",
+      "value": "开发卡片页面"
+    },
+    {
+      "name": "content8",
+      "value": "开发者可以使用声明式范式开发ArkTS卡片页面。卡片页面也可以由DevEco Studio模板自动生成，开发者可以根据自身的业务场景进行调整。"
+    },
+    {
+      "name": "title9",
+      "value": "卡片使用动效能力"
+    },
+    {
+      "name": "content9",
+      "value": "ArkTS卡片开放了使用动画效果的能力，支持显式动画、属性动画、组件内转场能力。"
+    },
+    {
+      "name": "title10",
+      "value": "卡片使用自定义绘制能力"
+    },
+    {
+      "name": "content10",
+      "value": "ArkTS卡片开放了自定义绘制的能力，在卡片上可以通过Canvas组件创建一块画布，然后通过CanvasRenderingContext2D对象在画布上进行自定义图形的绘制。"
+    },
+    {
+      "name": "title11",
+      "value": "卡片事件能力"
+    },
+    {
+      "name": "content11",
+      "value": "针对动态卡片，ArkTS卡片中提供了postCardAction接口用于卡片内部和提供方应用间的交互，当前支持router、message和call三种类型的事件，仅在卡片中可以调用。"
+    },
+    {
+      "name": "title12",
+      "value": "卡片数据交互说明"
+    },
+    {
+      "name": "content12",
+      "value": "ArkTS卡片框架提供了updateForm接口和requestForm接口主动触发卡片的页面刷新，通过LocalStorageProp确认需要刷新的卡片数据。"
+    },
+    {
+      "name": "reason_keep_background_running",
+      "value": "允许应用在卡片更新场景中后台运行"
+    },
+    {
+      "name": "widget1_desc",
+      "value": "推荐内容示例"
+    },
+    {
+      "name": "widget1_display_name",
+      "value": "卡片示例二"
+    }
+  ]
+}

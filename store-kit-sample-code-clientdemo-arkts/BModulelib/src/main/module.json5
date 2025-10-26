@@ -1,0 +1,14 @@
+{
+  "module": {
+    "name": "BModulelib",
+    "type": "shared",
+    "description": "$string:shared_desc",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": false,
+    "pages": "$profile:main_pages"
+  }
+}

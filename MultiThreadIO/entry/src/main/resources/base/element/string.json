@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiThreadIO"
+    },
+    {
+      "name": "title",
+      "value": "Multi threaded operation intensive relational database and file read/write"
+    },
+    {
+      "name": "button_name_1",
+      "value": "TaskPool File-Write"
+    },
+    {
+      "name": "button_name_2",
+      "value": "TaskPool File-Read"
+    },
+    {
+      "name": "button_name_3",
+      "value": "@Sendable File-Write"
+    },
+    {
+      "name": "button_name_4",
+      "value": "@Sendable File-Read"
+    },
+    {
+      "name": "button_name_5",
+      "value": "TaskPool DataBase-Write"
+    },
+    {
+      "name": "button_name_6",
+      "value": "TaskPool DataBase-Read"
+    },
+    {
+      "name": "button_name_7",
+      "value": "@Sendable DataBase-Write"
+    },
+    {
+      "name": "button_name_8",
+      "value": "@Sendable DataBase-Read"
+    },
+    {
+      "name": "remind",
+      "value": "Please wait while executing the task."
+    },
+    {
+      "name": "success_remind",
+      "value": "success"
+    },
+    {
+      "name": "empty_remind",
+      "value": "Read content is empty, please write."
+    }
+  ]
+}

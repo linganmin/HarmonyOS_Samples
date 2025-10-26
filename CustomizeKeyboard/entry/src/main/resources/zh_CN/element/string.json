@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CustomKeyboard"
+    },
+    {
+      "name": "main_page_title",
+      "value": "自定义键盘"
+    },
+    {
+      "name": "textInput_placeholder_custom",
+      "value": "绑定自定义键盘"
+    },
+    {
+      "name": "tabButton_number_text",
+      "value": "123"
+    },
+    {
+      "name": "tabButton_english_text",
+      "value": "ABC"
+    },
+    {
+      "name": "tabButton_system_text",
+      "value": "中文"
+    },
+    {
+      "name": "keyboardButton_delete",
+      "value": "删除"
+    },
+    {
+      "name": "keyboardButton_clear",
+      "value": "清空"
+    },
+    {
+      "name": "keyboardButton_finish",
+      "value": "确认"
+    },
+    {
+      "name": "keyboardButton_space",
+      "value": "空格"
+    },
+    {
+      "name": "keyboardButton_uppercase",
+      "value": "大写"
+    },
+    {
+      "name": "keyboardButton_lowercase",
+      "value": "小写"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [ "phone" ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "routerMap": "$profile:router_map",
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      },
+      {
+        "name": "CameraAbility",
+        "srcEntry": "./ets/entryability/CameraAbility.ets",
+        "description": "$string:CameraAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:CameraAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "launchType": "singleton",
+        "startWindowBackground": "$color:start_window_background",
+        "removeMissionAfterTerminate": true,
+        "exported": true,
+        "skills": []
+      },
+      {
+        "name": "VideoFileAbility",
+        "srcEntry": "./ets/entryability/VideoFileAbility.ets",
+        "description": "$string:VideoFileAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:VideoFileAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "launchType": "singleton",
+        "startWindowBackground": "$color:start_window_background",
+        "removeMissionAfterTerminate": true,
+        "exported": true,
+        "skills": []
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      }
+    ],
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.CAMERA",
+        "reason": "$string:app_name",
+        "usedScene": {
+          "abilities": ["FormAbility"],
+          "when": "inuse"
+        }
+      },{
+        "name": "ohos.permission.MICROPHONE",
+        "reason": "$string:app_name",
+        "usedScene": {
+          "abilities": ["FormAbility"],
+          "when": "inuse"
+        }
+      }
+    ]
+  }
+}

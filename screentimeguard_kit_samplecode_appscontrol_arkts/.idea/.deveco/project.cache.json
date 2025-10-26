@@ -1,0 +1,16 @@
+{
+	"CommonInfo":{
+		"project.ide.version":"6.0.0.810",
+		"current.select.product":"default",
+		"current.select.buildMode":"",
+		"crossplatform.projectType":""
+	},
+	"BuildOptions":{
+		"SELECT_BUILD_PRODUCT":"default",
+		"BUNDLE_NAME":"com.huawei.parentcontrol.demo",
+		"BUILD_PATH":{
+			"OUTPUT_PATH":"D:\\demo_hap\\0908\\ScreenTimeGuardKit-Codelab-AppsControl-ClientDemo-ArkTS\\ScreenTimeGuardKit-Codelab-AppsControl-ClientDemo-ArkTS\\build\\outputs\\default"
+		},
+		"SELECT_BUILD_MODE":""
+	}
+}

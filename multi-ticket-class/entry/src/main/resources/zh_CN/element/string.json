@@ -1,0 +1,352 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一多股票类应用"
+    },
+    {
+      "name": "regular_way",
+      "value": "普通交易"
+    },
+    {
+      "name": "self_selected_settings",
+      "value": "自选设置"
+    },
+    {
+      "name": "stock_pk",
+      "value": "股票PK"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "go_trade",
+      "value": "去交易"
+    },
+    {
+      "name": "transaction_details",
+      "value": "成交明细"
+    },
+    {
+      "name": "market_conditions",
+      "value": "千档行情"
+    },
+    {
+      "name": "information",
+      "value": "最新资讯"
+    },
+    {
+      "name": "announcement",
+      "value": "某某科技：xxxx公告"
+    },
+    {
+      "name": "closed_day",
+      "value": "已收盘 10-19 15:03:03"
+    },
+    {
+      "name": "some_company_technology",
+      "value": "某某科技(60**19)"
+    },
+    {
+      "name": "deep",
+      "value": "深"
+    },
+    {
+      "name": "confirm_purchase",
+      "value": "确认买入"
+    },
+    {
+      "name": "order_quantity",
+      "value": "委托数量"
+    },
+    {
+      "name": "commissioned_price",
+      "value": "委托价格"
+    },
+    {
+      "name": "shareholder_account",
+      "value": "股东账户：500****5"
+    },
+    {
+      "name": "buy",
+      "value": "买入"
+    },
+    {
+      "name": "Stock_name_code",
+      "value": "某某科技 3****3"
+    },
+    {
+      "name": "quantity",
+      "value": "数量"
+    },
+    {
+      "name": "price",
+      "value": "价格"
+    },
+    {
+      "name": "limit_down",
+      "value": "跌停  "
+    },
+    {
+      "name": "raising_limit",
+      "value": "  涨停  "
+    },
+    {
+      "name": "already_held",
+      "value": "已持有"
+    },
+    {
+      "name": "stock",
+      "value": "股"
+    },
+    {
+      "name": "buy_able",
+      "value": "可买"
+    },
+    {
+      "name": "stock_name",
+      "value": "股票名称"
+    },
+    {
+      "name": "stock_number",
+      "value": "股票编号"
+    },
+    {
+      "name": "latest_price",
+      "value": "最新价"
+    },
+    {
+      "name": "highs_and_lows",
+      "value": "涨跌"
+    },
+    {
+      "name": "price_limit",
+      "value": "涨跌幅"
+    },
+    {
+      "name": "gross",
+      "value": "总量"
+    },
+    {
+      "name": "impressions",
+      "value": "现量"
+    },
+    {
+      "name": "volume_transaction",
+      "value": "成交额"
+    },
+    {
+      "name": "amplitude",
+      "value": "振幅"
+    },
+    {
+      "name": "change_hands",
+      "value": "换手"
+    },
+    {
+      "name": "PEG",
+      "value": "市盈率"
+    },
+    {
+      "name": "PB",
+      "value": "市净率"
+    },
+    {
+      "name": "somebody_technology",
+      "value": "某某科技"
+    },
+    {
+      "name": "certain_estate_company",
+      "value": "某某地产"
+    },
+    {
+      "name": "certain_pharmaceutical_company",
+      "value": "某某药业"
+    },
+    {
+      "name": "billion",
+      "value": "亿"
+    },
+    {
+      "name": "growth_enterprise_market",
+      "value": "创"
+    },
+    {
+      "name": "securities_margin_trading",
+      "value": "融"
+    },
+    {
+      "name": "certain_index",
+      "value": "某某指数"
+    },
+    {
+      "name": "deep_number",
+      "value": "深某某数"
+    },
+    {
+      "name": "science_technology",
+      "value": "科创某某"
+    },
+    {
+      "name": "self_select_stock",
+      "value": "自选股"
+    },
+    {
+      "name": "all",
+      "value": "全部"
+    },
+    {
+      "name": "add_custom_options",
+      "value": "添加自选"
+    },
+    {
+      "name": "optional",
+      "value": "自选"
+    },
+    {
+      "name": "market",
+      "value": "行情"
+    },
+    {
+      "name": "stock_company",
+      "value": "券某某股"
+    },
+    {
+      "name": "stock_text_start",
+      "value": "本期这些股"
+    },
+    {
+      "name": "stock_text_end",
+      "value": "票最被看好"
+    },
+    {
+      "name": "stock_names",
+      "value": "股票名称"
+    },
+    {
+      "name": "home_page",
+      "value": "首页"
+    },
+    {
+      "name": "time_share",
+      "value": "分时"
+    },
+    {
+      "name": "five_days",
+      "value": "五日"
+    },
+    {
+      "name": "daily_k",
+      "value": "日K"
+    },
+    {
+      "name": "week_k",
+      "value": "周K"
+    },
+    {
+      "name": "month_k",
+      "value": "月K"
+    },
+    {
+      "name": "season_k",
+      "value": "季K"
+    },
+    {
+      "name": "half_year_k",
+      "value": "半年K"
+    },
+    {
+      "name": "year_k",
+      "value": "年K"
+    },
+    {
+      "name": "discussion",
+      "value": "讨论"
+    },
+    {
+      "name": "must_read",
+      "value": "必读"
+    },
+    {
+      "name": "capital",
+      "value": "资金"
+    },
+    {
+      "name": "datum",
+      "value": "资料"
+    },
+    {
+      "name": "announcements",
+      "value": "公告"
+    },
+    {
+      "name": "finance",
+      "value": "财务"
+    },
+    {
+      "name": "research_report",
+      "value": "研报"
+    },
+    {
+      "name": "related_fund",
+      "value": "关联基金"
+    },
+    {
+      "name": "now_begins",
+      "value": "今开"
+    },
+    {
+      "name": "yesterday_close",
+      "value": "昨收"
+    },
+    {
+      "name": "turnover_rate",
+      "value": "换手率"
+    },
+    {
+      "name": "tallest",
+      "value": "最高"
+    },
+    {
+      "name": "lowest",
+      "value": "最低"
+    },
+    {
+      "name": "turnover",
+      "value": "成交量"
+    },
+    {
+      "name": "total_value",
+      "value": "总市值"
+    },
+    {
+      "name": "text_hands",
+      "value": "4570手"
+    },
+    {
+      "name": "text_billion",
+      "value": "26.10亿"
+    },
+    {
+      "name": "turnover_value",
+      "value": "910.5万"
+    },
+    {
+      "name": "sell",
+      "value": "卖"
+    },
+    {
+      "name": "text_buy",
+      "value": "买"
+    }
+  ]
+}

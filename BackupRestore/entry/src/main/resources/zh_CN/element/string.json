@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BackupRestore"
+    },
+    {
+      "name": "xml_data",
+      "value": "XML数据"
+    },
+    {
+      "name": "file_list",
+      "value": "文件列表"
+    },
+    {
+      "name": "database_data",
+      "value": "数据库数据"
+    },
+    {
+      "name": "database_show",
+      "value": "数据库"
+    },
+    {
+      "name": "file_show",
+      "value": "文件"
+    },
+    {
+      "name": "xml_show",
+      "value": "XML数据"
+    },
+    {
+      "name": "backup_recover",
+      "value": "备份恢复"
+    }
+  ]
+}

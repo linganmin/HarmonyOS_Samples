@@ -1,0 +1,79 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "图像分割合成"
+    },
+    {
+      "name": "home_btn_text",
+      "value": "图像合成"
+    },
+    {
+      "name": "home_text_generate_tips",
+      "value": "建议使用 1:1 尺寸的人物图像以保证最佳合成效果"
+    },
+    {
+      "name": "home_navbar_title",
+      "value": "图像分割"
+    },
+    {
+      "name": "image_page_navbar_title",
+      "value": "图像合成"
+    },
+    {
+      "name": "segment_btn_text_first",
+      "value": "原图"
+    },
+    {
+      "name":"segment_btn_text_second",
+      "value": "合成"
+    },
+    {
+      "name": "generate_tips",
+      "value": "图像合成中！请勿切换背景"
+    },
+    {
+      "name": "preview_img_list_001",
+      "value": "默认"
+    },
+    {
+      "name": "preview_img_list_002",
+      "value": "蓝色"
+    },
+    {
+      "name": "preview_img_list_003",
+      "value": "红色"
+    },
+    {
+      "name": "preview_img_list_004",
+      "value": "背景1"
+    },
+    {
+      "name": "preview_img_list_005",
+      "value": "背景2"
+    },
+    {
+      "name": "preview_img_list_006",
+      "value": "背景3"
+    },
+    {
+      "name": "preview_img_list_007",
+      "value": "背景4"
+    },
+    {
+      "name": "preview_img_list_008",
+      "value": "背景5"
+    },
+    {
+      "name": "preview_img_list_009",
+      "value": "背景6"
+    }]
+}

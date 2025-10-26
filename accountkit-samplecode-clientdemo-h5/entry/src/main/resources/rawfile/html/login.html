@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+    <link rel="stylesheet" href="../css/login.css">
+</head>
+
+<body>
+    <div class="page-box">
+        <div class="topper">
+            <img class="back-press" src="../img/hwid_next_ic_appback.svg" alt="">
+            <img class="app-market" src="../img/appmarket.png" alt="">
+            <div class="phone">
+                <p id="quick-login-anonymous-phone">180******00</p>
+                <p class="phone-lable">华为账号绑定号码</p>
+            </div>
+        </div>
+        <div class="bottommer">
+            <div class="button-box">
+                <embed class="login-button" type="native/login" />
+                <button class="login-button other-login-button">其他登录方式</button>
+            </div>
+            <div class="preview-box">
+                <input type="checkbox" class="checkbox" id="privacy-checkbox" name="privacy">
+                <div class="preview-text">
+                    <span class="text">已阅读并同意</span><span class="link-text">《购物用户协议》</span><span
+                        class="link-text">《购物隐私政策》</span><span class="text">和</span><span class="link-text"
+                        data-url="https://privacy.consumer.huawei.com/legal/id/authentication-terms.htm?code=CN&language=CN">《华为账号用户认证协议》</span><span
+                        class="text">。</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="toast-model hide">
+        <div class="toast-content">
+            <div class="toast-title">
+                <span>用户协议与隐私条款</span>
+            </div>
+            <div class="preview-text">
+                <span class="text">已阅读并同意</span><span class="link-text">《购物用户协议》</span><span
+                    class="link-text">《购物隐私政策》</span><span class="text">和</span><span class="link-text"
+                    data-url="https://privacy.consumer.huawei.com/legal/id/authentication-terms.htm?code=CN&language=CN">《华为账号用户认证协议》</span><span
+                    class="text">。</span>
+            </div>
+            <div class="toast-button-box">
+                <button class="button cancel-button" onclick="hiddenToast()">取消</button>
+                <button class="button agree-button" onclick="agreeLogin()">同意并登录</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="../js/login.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AVScreenCaptureScreenRecord"
+    },
+    {
+      "name": "MicroPhonePermissions_desc",
+      "value": "microphone permissions"
+    },
+    {
+      "name": "BackRunningPermissions_desc",
+      "value": "run in the background permissions"
+    },
+    {
+      "name": "Title_desc",
+      "value": "The Screen Recording Function Has Been Implemented"
+    },
+    {
+      "name": "Subtitle1_desc",
+      "value": "Record The Screen To A File Using The ArkTS Method"
+    },
+    {
+      "name": "Subtitle2_desc",
+      "value": "Record The Screen To A File Using The C/C++ Method"
+    },
+    {
+      "name": "Subtitle3_desc",
+      "value": "Record The Screen And Transcode It Into A Stream Using The C/C++ Method"
+    },
+    {
+      "name": "Toast_message",
+      "value": "Screen recording is in progress via another method. Access is temporarily unavailable"
+    },
+    {
+      "name": "Play_button",
+      "value": "Play"
+    },
+    {
+      "name": "Text_desc",
+      "value": "Screen recording file"
+    },
+    {
+      "name": "Initial_text_desc",
+      "value": "Please record the video first"
+    }
+  ]
+}

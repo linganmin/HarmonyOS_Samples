@@ -1,0 +1,40 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_background",
+      "value": "#007DFF"
+    },
+    {
+      "name": "search_background_color",
+      "value": "#F1F3F5"
+    }
+  ,
+    {
+      "name": "noChick_divider_color",
+      "value": "#d9d4d4"
+    }  ,
+    {
+      "name": "isChick_divider_color",
+      "value": "#007DFF"
+    }
+  ,
+    {
+      "name": "isChick_title_color",
+      "value": "#007DFF"
+    }
+  ,
+    {
+      "name": "noChick_title_color",
+      "value": "#182431"
+    }
+    ,
+    {
+      "name": "main_page_color",
+      "value": "#F1F3F5"
+    }
+  ]
+}

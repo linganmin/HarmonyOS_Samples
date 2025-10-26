@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Smartwatch Feature Collection"
+    },
+    {
+      "name": "interconnection_communication",
+      "value": "interconnection communication"
+    },
+    {
+      "name": "Watch_sensor",
+      "value": "Watch sensor"
+    },
+    {
+      "name": "Watch_sensor_toast",
+      "value": "Go to the app on your watch to check the sensor function."
+    },
+    {
+      "name": "sendMessage",
+      "value": "Send Message"
+    },
+    {
+      "name": "message_input",
+      "value": "lease enter a message to send to your watch"
+    }
+  ]
+}

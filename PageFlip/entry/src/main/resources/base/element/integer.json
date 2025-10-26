@@ -1,0 +1,36 @@
+{
+  "integer": [
+    {
+      "name": "flip_page_padding_middle_two",
+      "value": 6
+    },
+    {
+      "name": "flip_page_margin_small",
+      "value": 8
+    },
+    {
+      "name": "flip_page_text_font_size",
+      "value": 16
+    },
+    {
+      "name": "flip_page_margin_middle",
+      "value": 20
+    },
+    {
+      "name": "flip_page_margin_middle_up",
+      "value": 26
+    },
+    {
+      "name": "flip_page_text_line_height",
+      "value": 28
+    },
+    {
+      "name": "flip_page_padding_large",
+      "value": 40
+    },
+    {
+      "name": "stack_padding_top",
+      "value": 40
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NDK构建UI界面"
+    },
+    {
+      "name": "integrating_with_arkts",
+      "value": "接入arkts页面"
+    },
+    {
+      "name": "building_custom_components",
+      "value": "构建自定义组件"
+    },
+    {
+      "name": "listening_for_component_events",
+      "value": "监听组件事件"
+    },
+    {
+      "name": "list_with_lazy_loading",
+      "value": "懒加载列表"
+    },
+    {
+      "name": "list_item_group",
+      "value": "分组列表"
+    },
+    {
+      "name": "embedding_arkts_components",
+      "value": "嵌入ArkTS组件"
+    },
+    {
+      "name": "building_dialog_box",
+      "value": "构建弹窗"
+    },
+    {
+      "name": "using_property_animations",
+      "value": "使用属性动画"
+    },
+    {
+      "name": "appearance_disappearance_transitions",
+      "value": "组件出现/消失转场"
+    },
+    {
+      "name": "gesture_events",
+      "value": "组合手势"
+    },
+    {
+      "name": "sequential_recognition",
+      "value": "组合手势-顺序识别"
+    },
+    {
+      "name": "custom_gesture_judgment",
+      "value": "组合手势-自定义手势判定"
+    },
+    {
+      "name": "Navbar_title",
+      "value": "使用NDK构建UI"
+    }
+  ]
+}

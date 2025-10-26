@@ -1,0 +1,604 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AnimationCollection"
+    },
+    {
+      "name": "animation_collection",
+      "value": "Animation Collection"
+    },
+    {
+      "name": "common_bar_chart_height",
+      "value": "30%"
+    },
+    {
+      "name": "common_text_height",
+      "value": "30%"
+    },
+    {
+      "name": "common_text_width",
+      "value": "35%"
+    },
+    {
+      "name": "divider_height",
+      "value": "26%"
+    },
+    {
+      "name": "common_stack_height",
+      "value": "50%"
+    },
+    {
+      "name": "common_stack_width",
+      "value": "100%"
+    },
+    {
+      "name": "common_navigation_height",
+      "value": "60%"
+    },
+    {
+      "name": "common_navigation_width",
+      "value": "90%"
+    },
+    {
+      "name": "search_placeholder",
+      "value": "Please enter your search..."
+    },
+    {
+      "name": "memo_counts",
+      "value": "8 notes"
+    },
+    {
+      "name": "memo_title",
+      "value": "All notes"
+    },
+    {
+      "name": "shared_desc",
+      "value": "Swipe the list to the last browsing history"
+    },
+    {
+      "name": "near_message",
+      "value": "People Nearby"
+    },
+    {
+      "name": "friendMomentsPage_share",
+      "value": "Share"
+    },
+    {
+      "name": "friends_circle_likes",
+      "value": "Like"
+    },
+    {
+      "name": "friendMomentsPage_message",
+      "value": "Review"
+    },
+    {
+      "name": "jump_to_history",
+      "value": "Jump to a location you haven't seen yet"
+    },
+    {
+      "name": "jump_to_top",
+      "value": "Jump To Top"
+    },
+    {
+      "name": "jump_text_one",
+      "value": "This is message number %d��"
+    },
+    {
+      "name": "text_welcome",
+      "value": "welcome!!!"
+    },
+    {
+      "name": "text_new_user_registration",
+      "value": "new users enjoy a special gift package!"
+    },
+    {
+      "name": "text_load",
+      "value": "sign in / sign up"
+    },
+    {
+      "name": "text_shopping",
+      "value": "shopping area"
+    },
+    {
+      "name": "text_happy",
+      "value": "entertainment District"
+    },
+    {
+      "name": "text_relaxation",
+      "value": "recreation Area"
+    },
+    {
+      "name": "text_mine",
+      "value": "mine"
+    },
+    {
+      "name": "sound_hound",
+      "value": "Identify song"
+    },
+    {
+      "name": "is_listening",
+      "value": "Listening..."
+    },
+    {
+      "name": "click_to_listen",
+      "value": "Click to start identifying songs"
+    },
+    {
+      "name": "width_ninety_percent",
+      "value": "90%"
+    },
+    {
+      "name": "width_full",
+      "value": "100%"
+    },
+    {
+      "name": "name_page_one",
+      "value": "Carpool"
+    },
+    {
+      "name": "name_page_two",
+      "value": "Taxi"
+    },
+    {
+      "name": "name_page_three",
+      "value": "Make hay"
+    },
+    {
+      "name": "name_page_four",
+      "value": "Bus"
+    },
+    {
+      "name": "first_prompt",
+      "value": "6折起"
+    },
+    {
+      "name": "sec_prompt",
+      "value": "8折起"
+    },
+    {
+      "name": "five_fr",
+      "value": "1fr 1fr 1fr 1fr 1fr"
+    },
+    {
+      "name": "two_fr",
+      "value": "1fr 1fr"
+    },
+    {
+      "name": "function_tool_bar",
+      "value": "Control bar"
+    },
+    {
+      "name": "search_background_color",
+      "value": "#E7E9E8"
+    },
+    {
+      "name": "main_page_top_borderRadius",
+      "value": "8"
+    },
+    {
+      "name": "search_height",
+      "value": "40"
+    },
+    {
+      "name": "search_history",
+      "value": "Search History"
+    },
+    {
+      "name": "search_history_font_size2",
+      "value": "16"
+    },
+    {
+      "name": "search_history_delete_size",
+      "value": "20"
+    },
+    {
+      "name": "search_delete_title",
+      "value": " Confirm Delete All History"
+    },
+    {
+      "name": "delete_back",
+      "value": "cancel"
+    },
+    {
+      "name": "button_text_color",
+      "value": "#0000FF"
+    },
+    {
+      "name": "delete_ok",
+      "value": "confirm"
+    },
+    {
+      "name": "search_history_text_padding_margin1",
+      "value": "16"
+    },
+    {
+      "name": "search_divider_height",
+      "value": "1"
+    },
+    {
+      "name": "search_history_font_size3",
+      "value": "14"
+    },
+    {
+      "name": "search_list_text_color",
+      "value": "#F5F6F8"
+    },
+    {
+      "name": "search_history_text_padding_margin3",
+      "value": "6"
+    },
+    {
+      "name": "search_back_size_margin",
+      "value": "20"
+    },
+    {
+      "name": "search_history_text_padding_margin4",
+      "value": "10"
+    },
+    {
+      "name": "search_history_text_padding_margin2",
+      "value": "12"
+    },
+    {
+      "name": "search_list_image_width",
+      "value": "16"
+    },
+    {
+      "name": "main_page_padding",
+      "value": "12"
+    },
+    {
+      "name": "main_page_padding_top",
+      "value": "40"
+    },
+    {
+      "name": "swiper_stack_width",
+      "value": "310"
+    },
+    {
+      "name": "swiper_stack_height1",
+      "value": "130"
+    },
+    {
+      "name": "swiper_stack_height2",
+      "value": "180"
+    },
+    {
+      "name": "main_page_swiper_height",
+      "value": "200"
+    },
+    {
+      "name": "main_page_padding2",
+      "value": "12"
+    },
+    {
+      "name": "main_page_padding5",
+      "value": "8"
+    },
+    {
+      "name": "bottom_title_height",
+      "value": "36"
+    },
+    {
+      "name": "digital_scroll_animation_ticket",
+      "value": "Pull down the train ticket"
+    },
+    {
+      "name": "digital_scroll_animation_today",
+      "value": "Today is"
+    },
+    {
+      "name": "digital_scroll_animation_get_ticket",
+      "value": "persons provide ticket grabbing services."
+    },
+    {
+      "name": "digital_scroll_animation_comma",
+      "value": ","
+    },
+    {
+      "name": "max_size",
+      "value": "100%"
+    },
+    {
+      "name": "card_swiper_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "card_swiper_photo_preview_width",
+      "value": "90%"
+    },
+    {
+      "name": "card_swiper_tablet_preview_width",
+      "value": "45%"
+    },
+    {
+      "name": "voting_component_voting_theme_image_text",
+      "value": "Do you like to wake up early or late in winter?"
+    },
+    {
+      "name": "voting_component_mid_text_left",
+      "value": "P"
+    },
+    {
+      "name": "voting_component_mid_text_right",
+      "value": "K"
+    },
+    {
+      "name": "voting_component_first_stack_width",
+      "value": "80%"
+    },
+    {
+      "name": "voting_component_parent_column_height",
+      "value": "100%"
+    },
+    {
+      "name": "voting_component_parent_column_width",
+      "value": "100%"
+    },
+    {
+      "name": "voting_component_bottom_text_suffix",
+      "value": "People are involved"
+    },
+    {
+      "name": "voting_component_mid_gap_mark_anchor",
+      "value": "50vp"
+    },
+    {
+      "name": "voting_notice",
+      "value": "Click the button above and select your point of view"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_info",
+      "value": "What are you doing"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_one",
+      "value": "a lot of people together"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_two",
+      "value": "Do you have time"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_thr",
+      "value": "What are you doing"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message_four",
+      "value": "self-driving tour"
+    },
+    {
+      "name": "page_turning_animation",
+      "value": "page turning animation"
+    },
+    {
+      "name": "page_expand_title",
+      "value": "page expand title"
+    },
+    {
+      "name": "page_status_bar_change",
+      "value": "page status bar change"
+    },
+    {
+      "name": "page_list_slide_to_history",
+      "value": "page list slide to history"
+    },
+    {
+      "name": "page_water_ripples",
+      "value": "page water ripples"
+    },
+    {
+      "name": "page_marquee_view",
+      "value": "page marquee view"
+    },
+    {
+      "name": "swiper_smooth_variation",
+      "value": "swiper smooth variation"
+    },
+    {
+      "name": "side_bar_animation",
+      "value": "sideBar_animation"
+    },
+    {
+      "name": "page_vibrate_effect",
+      "value": "page vibrate effect"
+    },
+    {
+      "name": "page_paint_component",
+      "value": "page paint component"
+    },
+    {
+      "name": "digital_scroll_example",
+      "value": "digital scroll example"
+    },
+    {
+      "name": "page_cards_swiper",
+      "value": "page cards swiper"
+    },
+    {
+      "name": "voting_component",
+      "value": "voting component"
+    },
+    {
+      "name": "voice_record_dynamic",
+      "value": "voice record dynamic"
+    },
+    {
+      "name": "marquee_title",
+      "value": "marquee case"
+    },
+    {
+      "name": "marquee_content",
+      "value": "When the text width is too wide, a marquee effect is achieved(the text scrolls in a loop, and after each loop it will pause for a while before scrolling again)"
+    },
+    {
+      "name": "my_trip",
+      "value": "My trip"
+    },
+    {
+      "name": "time_difference_data_1",
+      "value": "50m from departure"
+    },
+    {
+      "name": "origin_data",
+      "value": "beijing"
+    },
+    {
+      "name": "destinatiojn_data_1",
+      "value": "shanghai"
+    },
+    {
+      "name": "ticket_entrance_data_1",
+      "value": "Waiting location: Waiting Room No. 7"
+    },
+    {
+      "name": "vehicle_model_data_1",
+      "value": "Ordi"
+    },
+    {
+      "name": "whole_course_data_1",
+      "value": "2h8m/100km"
+    },
+    {
+      "name": "time_difference_data_2",
+      "value": "14h50m from departure"
+    },
+    {
+      "name": "destination_data_2",
+      "value": "luoyang"
+    },
+    {
+      "name": "ticket_entrance_data_2",
+      "value": "Gate 15A"
+    },
+    {
+      "name": "vehicle_model_data_2",
+      "value": "H-S"
+    },
+    {
+      "name": "ticket_entrance",
+      "value": "ticket entrance:"
+    },
+    {
+      "name": "plan_text",
+      "value": "on plan"
+    },
+    {
+      "name": "vehicle_model",
+      "value": "Vehicle:"
+    },
+    {
+      "name": "title_name",
+      "value": "Current progress"
+    },
+    {
+      "name": "left_option",
+      "value": "Early"
+    },
+    {
+      "name": "right_option",
+      "value": "Selected"
+    },
+    {
+      "name": "bottom_text_suffix",
+      "value": "People Participation"
+    },
+    {
+      "name": "result_notice",
+      "value": "Selected"
+    },
+    {
+      "name": "voice_record_dynamic_effect_friend",
+      "value": "Group"
+    },
+    {
+      "name": "voice_record_dynamic_effect_send_message",
+      "value": "Release to send"
+    },
+    {
+      "name": "voice_record_dynamic_effect_talk_message",
+      "value": "???"
+    },
+    {
+      "name": "voice_record_dynamic_effect_button",
+      "value": "Press and hold to speak"
+    },
+    {
+      "name": "destination_data_1",
+      "value": "shanghai"
+    },
+    {
+      "name": "group_name",
+      "value": "Sidebar fades in and out of the animation case group"
+    },
+    {
+      "name": "case_description",
+      "value": "This example is mainly used in tablet or PC/2in1 scenarios, such as the group chat sidebar displays group members, which is different from the effect on mobile phones. Implement the fade in and out of the SideBarContainer sidebar by explicitly animating it (this effect is not available on mobile phones).\n 1. Click on the triangle on the right to show or hide the sidebar\n 2. Place the mouse on the edge of the sidebar, wait for the mouse to change the two-way arrow style, press and hold the left mouse button and drag left and right to change the sidebar size"
+    },
+    {
+      "name": "other_login_methods",
+      "value": "Other number login/enroll"
+    },
+    {
+      "name": "login_in",
+      "value": "Login with your local number"
+    },
+    {
+      "name": "read_and_check",
+      "value": "Please read and tick the agreement"
+    },
+    {
+      "name": "read_and_agreed",
+      "value": "I have read and agreed"
+    },
+    {
+      "name": "services_and_policies",
+      "value": "「**Account Services & Privacy Policy」"
+    },
+    {
+      "name": "service_agreement",
+      "value": "「Service Agreement」"
+    },
+    {
+      "name": "privacy_policy",
+      "value": "「Privacy Policy」"
+    },
+    {
+      "name": "and",
+      "value": "AND"
+    },
+    {
+      "name": "phone_number",
+      "value": "188******88"
+    },
+    {
+      "name": "reason",
+      "value": "get vibrate permission"
+    },
+    {
+      "name": "login_text",
+      "value": "Login successful, demo only"
+    },
+    {
+      "name": "voice_record_dynamic_effect_app_name",
+      "value": "Allow the use of microphones in cloud recording and sound animation scenarios."
+    },
+    {
+      "name": "memo_info_title_1",
+      "value": "Learning HarmonyOS"
+    },
+    {
+      "name": "memo_info_content_1",
+      "value": "Learning HarmonyOS"
+    }
+  ]
+}

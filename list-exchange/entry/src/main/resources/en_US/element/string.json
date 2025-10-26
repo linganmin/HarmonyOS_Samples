@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ListExchange"
+    },
+    {
+      "name": "list_exchange_deduction_sort",
+      "value": "Deduction Sorting"
+    },
+    {
+      "name": "list_exchange_custom_sort",
+      "value": "Custom Sorting"
+    },
+    {
+      "name": "list_exchange_operation_text",
+      "value": "Long Press to Drag / Swipe Left to Delete"
+    },
+    {
+      "name": "bank_card_NO1",
+      "value": "Account Balance"
+    },
+    {
+      "name": "bank_card_NO2",
+      "value": "Savings Card of XX Bank (1234)"
+    },
+    {
+      "name": "bank_card_NO3",
+      "value": "Savings Card of XX Bank (1238)"
+    },
+    {
+      "name": "bank_card_NO4",
+      "value": "Savings Card of XX Bank (1236)"
+    }
+  ]
+}

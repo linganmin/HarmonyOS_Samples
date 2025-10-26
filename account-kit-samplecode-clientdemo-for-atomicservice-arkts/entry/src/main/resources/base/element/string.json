@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HuaweiIDSample"
+    },
+    {
+      "name": "avatar",
+      "value": "Profile picture"
+    },
+    {
+      "name": "phone",
+      "value": "Mobile number"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "No Internet connection. Check your network settings. "
+    },
+    {
+      "name": "hwid_text_button_known",
+      "value": "OK"
+    },
+    {
+      "name": "shippingAddress",
+      "value": "Shipping address"
+    },
+    {
+      "name": "openMinorProtection",
+      "value": "Youth Mode is on"
+    },
+    {
+      "name": "closeMinorProtection",
+      "value": "Youth Mode is off"
+    },
+    {
+      "name": "invoiceTitle",
+      "value": "Invoice header"
+    },
+    {
+      "name": "minorProtection",
+      "value": "Youth Mode"
+    },
+    {
+      "name": "availableTime",
+      "value": "Available duration"
+    },
+    {
+      "name": "closeMinorsTitle",
+      "value": "Youth mode has been enabled for the current app. If you turn it off, the age-appropriate content and available duration will not be displayed based on your age."
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "close",
+      "value": "Close"
+    },
+    {
+      "name": "get",
+      "value": "Get"
+    },
+    {
+      "name": "hwUser",
+      "value": "Huawei user"
+    },
+    {
+      "name": "disassociate",
+      "value": "Disassociate"
+    },
+    {
+      "name": "shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "my",
+      "value": "My"
+    },
+    {
+      "name": "ageAppropriateContent",
+      "value": "Age-appropriate content"
+    },
+    {
+      "name": "age",
+      "value": "%1$d ~ %2$d years old"
+    }
+  ]
+}

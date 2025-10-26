@@ -1,0 +1,544 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "app_page_background",
+      "value": "#EEEEEE"
+    },
+    {
+      "name": "common_background_1",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "common_background_2",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "common_background_3",
+      "value": "#0D000000"
+    },
+    {
+      "name": "common_background_4",
+      "value": "#FFE7E4E4"
+    },
+    {
+      "name": "common_border_color_1",
+      "value": "#33000000"
+    },
+    {
+      "name": "common_border_color_2",
+      "value": "#0D000000"
+    },
+    {
+      "name": "common_border_color_3",
+      "value": "#66000000"
+    },
+    {
+      "name": "common_border_color_4",
+      "value": "#1A000000"
+    },
+    {
+      "name": "common_divider_color",
+      "value": "#0D000000"
+    },
+    {
+      "name": "living_background",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "living_border_color",
+      "value": "#1A000000"
+    },
+    {
+      "name": "swiper_indicator_background",
+      "value": "#66000000"
+    },
+    {
+      "name": "divider_color",
+      "value": "#19000000"
+    },
+    {
+      "name": "config_tip_background",
+      "value": "#05000000"
+    },
+    {
+      "name": "util_button_1",
+      "value": "#0D000000"
+    },
+    {
+      "name": "util_button_2",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "user_comments_tag_background",
+      "value": "#0D000000"
+    },
+    {
+      "name": "service_card_font",
+      "value": "#66000000"
+    },
+    {
+      "name": "service_font_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "message_user_background",
+      "value": "#1AE64566"
+    },
+    {
+      "name": "price_tag_border_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "store_background_color",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "shop_price_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "shop_tab_text_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "shop_tab_text_color_current",
+      "value": "#000000"
+    },
+    {
+      "name": "preferential_scheme_background_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "bag_item_remark_font_color",
+      "value": "#66000000"
+    },
+    {
+      "name": "bag_item_discounts_font_color",
+      "value": "#D0092D"
+    },
+    {
+      "name": "bag_item_discounts_border_color",
+      "value": "#66CF0A2C"
+    },
+    {
+      "name": "bag_item_price_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "tab_sel_color",
+      "value": "#D0092D"
+    },
+    {
+      "name": "tab_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "normal_font_color",
+      "value": "#182431"
+    },
+    {
+      "name": "button_color",
+      "value": "#E64566"
+    },
+    {
+      "name": "home_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "section_feature_border_color",
+      "value": "#66D0092D"
+    },
+    {
+      "name": "section_text",
+      "value": "#D0092D"
+    },
+    {
+      "name": "section_tip_background",
+      "value": "#EA1559"
+    },
+    {
+      "name": "original_price_color",
+      "value": "#66000000"
+    },
+    {
+      "name": "classify_indicator_color",
+      "value": "#1A000000"
+    },
+    {
+      "name": "classify_indicator_selected_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "classify_navigation_font_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "classify_navigation_selected_font_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "classify_navigation_divider_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "classify_navigation_content_color_sm",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "classify_navigation_content_color",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "classify_header_input_placeholder",
+      "value": "#000000"
+    },
+    {
+      "name": "classify_header_input_background",
+      "value": "#0D000000"
+    },
+    {
+      "name": "categories_divider_color_selected",
+      "value": "#1A000000"
+    },
+    {
+      "name": "categories_divider_color",
+      "value": "#D0092D"
+    },
+    {
+      "name": "bag_discount_background",
+      "value": "#F2FAFAFA"
+    },
+    {
+      "name": "shop_card_foot_button",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "shop_card_font_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "shop_card_gray_color",
+      "value": "#808080"
+    },
+    {
+      "name": "shop_card_type_font",
+      "value": "#99000000"
+    },
+    {
+      "name": "add_button_border",
+      "value": "#333333"
+    },
+    {
+      "name": "card_gift_font",
+      "value": "#E6000000"
+    },
+    {
+      "name": "button_tabs_font_color_selected",
+      "value": "#E84026"
+    },
+    {
+      "name": "button_tabs_font_color",
+      "value": "#000000"
+    },
+    {
+      "name": "confirm_dialog_text_font_color",
+      "value": "#808080"
+    },
+    {
+      "name": "confirm_dialog_button_font_color_1",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "confirm_dialog_button_font_color_2",
+      "value": "#E84026"
+    },
+    {
+      "name": "confirm_dialog_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_view_button_font_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_view_title_font_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "home_content_card_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "home_content_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "home_header_text_color_selected",
+      "value": "#000000"
+    },
+    {
+      "name": "home_header_text_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "welfare_tip_background",
+      "value": "#0D000000"
+    },
+    {
+      "name": "welfare_column_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "welfare_flex_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "comment_background_color",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "comment_text_font_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "comment_text_linear_gradient_color_start",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "comment_text_linear_gradient_color_end",
+      "value": "#FF6354"
+    },
+    {
+      "name": "comment_input_text_font_color_1",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "comment_input_text_font_color_2",
+      "value": "#CCC"
+    },
+    {
+      "name": "comment_input_background_color",
+      "value": "#000"
+    },
+    {
+      "name": "live_background_color",
+      "value": "#000"
+    },
+    {
+      "name": "live_comment_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "live_comment_header_font_color",
+      "value": "#CCCCCC"
+    },
+    {
+      "name": "live_header_font_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "live_shop_list_font_color",
+      "value": "#E84026"
+    },
+    {
+      "name": "live_shop_list_row_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "login_button_font_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "login_text_input_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "login_button_background_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "login_flex_background_color",
+      "value": "#FFF"
+    },
+    {
+      "name": "animator_switch_point_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "animator_flex_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "animator_row_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "animator_text_font_color",
+      "value": "#ff989595"
+    },
+    {
+      "name": "animator_select_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "animator_text_not_select_color",
+      "value": "#ff868484"
+    },
+    {
+      "name": "exit_login_background_color",
+      "value": "#FFF"
+    },
+    {
+      "name": "mine_content_text_font_color",
+      "value": "#ff8c8b8b"
+    },
+    {
+      "name": "mine_content_button_background_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "mine_content_button_font_color",
+      "value": "#FFF"
+    },
+    {
+      "name": "mine_content_row_background_color",
+      "value": "#FFF"
+    },
+    {
+      "name": "mine_content_flex_background_color",
+      "value": "#FFF"
+    },
+    {
+      "name": "mine_setting_font_color",
+      "value": "#ff8c8b8b"
+    },
+    {
+      "name": "mine_setting_flex_background_color",
+      "value": "#FFF"
+    },
+    {
+      "name": "mine_setting_button_font_color",
+      "value": "#E84026"
+    },
+    {
+      "name": "mine_setting_button_background_color",
+      "value": "#ffdddddd"
+    },
+    {
+      "name": "pay_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "pay_contact_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "pay_config_background_selected",
+      "value": "#0DCF0A2C"
+    },
+    {
+      "name": "pay_button_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "pay_card_price_color",
+      "value": "#E84026"
+    },
+    {
+      "name": "pay_card_item_color_selected",
+      "value": "#E84026"
+    },
+    {
+      "name": "pay_card_item_color_1",
+      "value": "#FF000000"
+    },
+    {
+      "name": "pay_card_item_color_2",
+      "value": "#0D000000"
+    },
+    {
+      "name": "pay_card_item_background_color_selected",
+      "value": "#0DCF0A2C"
+    },
+    {
+      "name": "pay_card_item_background_color",
+      "value": "#F7F7F7"
+    },
+    {
+      "name": "pay_card_background_color_1",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "pay_dialog_text_font_color_1",
+      "value": "#808080"
+    },
+    {
+      "name": "pay_dialog_item_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "pay_dialog_button_background_color",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "pay_success_font_color",
+      "value": "#808080"
+    },
+    {
+      "name": "privacy_dialog_font_color_1",
+      "value": "#808080"
+    },
+    {
+      "name": "privacy_dialog_font_color_2",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "privacy_dialog_background_color",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "products_compare",
+      "value": "#0D000000"
+    },
+    {
+      "name": "products_info",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "time_tip_background",
+      "value": "#FFAE0D0D"
+    },
+    {
+      "name": "products_info_background_1",
+      "value": "#1ACF0A2C"
+    },
+    {
+      "name": "products_info_background_2",
+      "value": "#B3CF0A2C"
+    },
+    {
+      "name": "products_info_text",
+      "value": "#CF0A2C"
+    },
+    {
+      "name": "product_font_color_1",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "product_font_color_2",
+      "value": "#E84026"
+    },
+    {
+      "name": "product_background_color_1",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "shopping_background_color_1",
+      "value": "#FFFFFF"
+    }
+  ]
+}

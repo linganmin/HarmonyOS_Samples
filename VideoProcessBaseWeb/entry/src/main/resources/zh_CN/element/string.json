@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web视频适配"
+    },
+    {
+      "name": "downloading",
+      "value": "正在保存"
+    },
+    {
+      "name": "completed",
+      "value": "下载完成"
+    },
+    {
+      "name": "cancel_download",
+      "value": "取消下载"
+    },
+    {
+      "name": "interrupted",
+      "value": "中断"
+    },
+    {
+      "name": "waiting_to_start",
+      "value": "等待开始"
+    },
+    {
+      "name": "download_paused",
+      "value": "下载暂停"
+    },
+    {
+      "name": "unknown_status",
+      "value": "未知状态"
+    },
+    {
+      "name": "download_file",
+      "value": "下载文件"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "pause",
+      "value": "暂停"
+    },
+    {
+      "name": "continue_download",
+      "value": "继续"
+    },
+    {
+      "name": "confirm_cancel",
+      "value": "确认取消"
+    },
+    {
+      "name": "confirm_task_cancel",
+      "value": "是否要取消该任务？"
+    },
+    {
+      "name": "resume_download",
+      "value": "继续下载"
+    },
+    {
+      "name": "copy_video_link",
+      "value": "复制视频链接地址"
+    },
+    {
+      "name": "open_video_in_browser",
+      "value": "在浏览器打开视频"
+    },
+    {
+      "name": "download_video_to_gallery",
+      "value": "下载视频"
+    },
+    {
+      "name": "copy_success",
+      "value": "复制成功"
+    },
+    {
+      "name": "download_success",
+      "value": "下载成功"
+    },
+    {
+      "name": "task_already_downloading",
+      "value": "当前任务正在下载中，请勿重复添加下载任务"
+    },
+    {
+      "name": "file_cached_direct_copy",
+      "value": "已有文件缓存，直接复制"
+    },
+    {
+      "name": "download_failed_retry",
+      "value": "下载失败，请稍后重试"
+    },
+    {
+      "name": "not_exist",
+      "value": "不存在"
+    },
+    {
+      "name": "user_cancelled_authorization",
+      "value": "用户取消保存"
+    },
+    {
+      "name": "saved_to_album",
+      "value": "已保存到相册"
+    },
+    {
+      "name": "network_permissions",
+      "value": "获取网络权限以访问网页"
+    }
+  ]
+}

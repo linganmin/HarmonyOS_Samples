@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "title_description",
+      "value": "This is the first page of the beta version of the HAR module. Click the button below to jump to the second page of the beta version of the HAR module - the calculator page."
+    },
+    {
+      "name": "test_describe",
+      "value": "This function is not supported in the test version."
+    }
+  ]
+}

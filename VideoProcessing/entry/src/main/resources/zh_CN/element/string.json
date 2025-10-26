@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "视频处理"
+    },
+    {
+      "name": "video_processing_not_support",
+      "value": "该视频不支持当前操作"
+    },
+    {
+      "name": "color_space_sdr",
+      "value": "SDR"
+    },
+    {
+      "name": "color_space_hdr",
+      "value": "HDR"
+    },
+    {
+      "name": "video_processing_title",
+      "value": "视频处理"
+    },
+    {
+      "name": "video_processing_after",
+      "value": "优化后"
+    },
+    {
+      "name": "video_processing_after_area",
+      "value": "请先选择视频，相关操作后显示内容"
+    },
+    {
+      "name": "video_processing_before",
+      "value": "原视频"
+    },
+    {
+      "name": "video_processing_select_file",
+      "value": "选择视频"
+    },
+    {
+      "name": "video_processing_before_are",
+      "value": "请先选择视频"
+    },
+    {
+      "name": "video_processing_meta_generate",
+      "value": "元数据生成"
+    },
+    {
+      "name": "video_processing_scale",
+      "value": "视频缩放"
+    },
+    {
+      "name": "meta_list",
+      "value": "HDR支持生成元数据的格式"
+    },
+    {
+      "name": "scale_enhance_list",
+      "value": "缩放增强档位"
+    },
+    {
+      "name": "video_processing_color_space",
+      "value": "色彩空间转换"
+    },
+    {
+      "name": "video_processing_play",
+      "value": "播放视频"
+    },
+    {
+      "name": "color_space_list",
+      "value": "色彩空间转换"
+    },
+    {
+      "name": "video_is_processing_try_later",
+      "value": "视频正在处理中，稍后再试"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Image Comment"
+    },
+    {
+      "name": "hot_comment",
+      "value": "Hot Comment"
+    },
+    {
+      "name": "no_comment",
+      "value": "No Comment Yet"
+    },
+    {
+      "name": "text_input_hint",
+      "value": "Please speak civilly"
+    },
+    {
+      "name": "most_select_image",
+      "value": "You can only select up to 9 images！"
+    },
+    {
+      "name": "publish",
+      "value": "publish"
+    },
+    {
+      "name": "name_one",
+      "value": "Cloud"
+    },
+    {
+      "name": "comment_one",
+      "value": "The view is great"
+    },
+    {
+      "name": "name_two",
+      "value": "Morrowind"
+    },
+    {
+      "name": "comment_two",
+      "value": "Will come back next time!"
+    },
+    {
+      "name": "name_three",
+      "value": "Star"
+    },
+    {
+      "name": "comment_three",
+      "value": "The scenery is unique here"
+    }
+  ]
+}

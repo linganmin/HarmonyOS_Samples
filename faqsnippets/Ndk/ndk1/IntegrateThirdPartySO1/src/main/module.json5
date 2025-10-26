@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "IntegrateThirdPartySO1",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "IntegrateThirdPartySO1Ability",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "IntegrateThirdPartySO1Ability",
+        "srcEntry": "./ets/integratethirdpartyso1ability/IntegrateThirdPartySO1Ability.ets",
+        "description": "$string:IntegrateThirdPartySO1Ability_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:IntegrateThirdPartySO1Ability_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

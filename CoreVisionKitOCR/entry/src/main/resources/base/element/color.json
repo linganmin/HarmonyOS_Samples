@@ -1,0 +1,36 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "app_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "save_btn_disabled",
+      "value": "#317AFF"
+    },
+    {
+      "name": "btn_font_color",
+      "value": "#0A59F2"
+    },
+    {
+      "name": "light_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "item_label_color",
+      "value": "#000000"
+    },
+    {
+      "name": "title_color",
+      "value": "#000000"
+    },
+    {
+      "name": "divider_color",
+      "value": "#33000000"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "float": [
+    {
+      "name": "title_font_size",
+      "value": "15fp"
+    },
+    {
+      "name": "text_padding",
+      "value": "10vp"
+    },
+    {
+      "name": "large_padding",
+      "value": "16vp"
+    },
+    {
+      "name": "border_width",
+      "value": "2vp"
+    },
+    {
+      "name": "border_radius",
+      "value": "5vp"
+    },
+    {
+      "name": "text_width",
+      "value": "328vp"
+    },
+    {
+      "name": "text_height",
+      "value": "124vp"
+    },
+    {
+      "name": "text_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "column_padding",
+      "value": "16vp"
+    }
+  ]
+}

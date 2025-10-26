@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "nativeAki",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "NativeAkiAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "NativeAkiAbility",
+        "srcEntry": "./ets/nativeakiability/NativeAkiAbility.ets",
+        "description": "$string:NativeAkiAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:NativeAkiAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

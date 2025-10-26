@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" type="text/css" href="./style/common.css">
+		<link rel="stylesheet" type="text/css" href="./style/product_detail.css">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>The Canavas Danmu Wall</title>
+	</head>
+	<body>
+		<div id="detail">
+			<div id="detail-info">
+				<div id="slider">
+					<div id="swiper">
+						<img alt="" src="imgs/ic_1.png" />
+					</div>
+				</div>
+				<div id="product-desc">
+					<div class="info">
+						<div id="price-div">
+							<div id="price"></div>
+							<div style="color: white;font-size: 10px;">
+								<span class="price-time">05</span>
+								<span>:</span>
+								<span class="price-time">12</span>
+								<span>:</span>
+								<span class="price-time">12</span>
+							</div>
+						</div>
+						<div class="custom-radius" style="margin-top: 9px;width: 130px;"></div>
+						<div>
+							<span class="custom-radius-red-light" style="width: 32px;"></span>
+							<span class="custom-radius-red-light" style="width: 80px;"></span>
+							<span class="custom-radius-red-light" style="width: 72px;"></span>
+						</div>
+						<div class="custom-radius" style="margin-top: 4px;width: 130px;"></div>
+						<div class="custom-radius" style="margin-top: 4px;width: 90px;"></div>
+					</div>
+					<div class="info">
+						<div class="custom-radius"
+							style="width: '100%';background-color: rgba(0, 0,0 ,0.1);height: 20px;">
+						</div>
+						<div class="custom-radius" style="width: '100%';margin-top: 8px;"></div>
+						<div class="custom-radius" style="width: '100%';margin-top: 8px;"></div>
+						<div class="custom-radius" style="width: '100%';margin-top: 8px;"></div>
+						<div class="custom-radius" style="width: 105px;margin-top: 8px;"></div>
+						<div class="custom-radius-red-light"
+							style="width: '100%';margin-top: 12px;border-radius: 12px;">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="menu" class="custom-padding">
+				<div>
+					<picture>
+					  <source srcset="imgs/ic_service_dark.svg"  media="(prefers-color-scheme: dark)">
+					  <img src="imgs/ic_service.svg">
+					</picture>
+					
+					<picture style="margin:0 16px;">
+					  <source srcset="imgs/ic_shopping_dark.svg"  media="(prefers-color-scheme: dark)">
+					  <img src="imgs/ic_shopping.svg">
+					</picture>
+					
+					<picture>
+					  <source srcset="imgs/ic_heart_dark.svg"  media="(prefers-color-scheme: dark)">
+					  <img src="imgs/ic_heart.svg">
+					</picture>
+					
+				</div>
+				<div>
+					<button id="btn-to-buy" onclick="orderConfirm()">购买</button>
+				</div>
+			</div>
+		</div>
+		<script src="./js/product_detail.js"></script>
+	</body>
+</html>

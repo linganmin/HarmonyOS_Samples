@@ -1,0 +1,112 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:icBike",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:icBike",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ],
+    // [Start extension_abilities]
+    "extensionAbilities": [
+      {
+        "name": "LiveViewLockScreenExtAbility",
+        "type": "liveViewLockScreen",
+        "srcEntry": "./ets/entryability/LiveViewLockScreenExtAbility.ets",
+        "exported": true
+      }
+    ],
+    // [End extension_abilities]
+    "metadata": [
+      {
+        "name": "client_id",
+        "value": "XXXXXXXX"
+      }
+    ],
+    // [Start request_permissions]
+    "requestPermissions": [
+      // [StartExclude request_permissions]
+      {
+        "name": "ohos.permission.LOCATION",
+        "reason": "$string:location_desc",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      },
+      {
+        "name": "ohos.permission.APPROXIMATELY_LOCATION",
+        "reason": "$string:approximately_location_desc",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      },
+      {
+        "name": "ohos.permission.LOCATION_IN_BACKGROUND",
+        "reason": "$string:location_in_background",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      },
+      {
+        "name": "ohos.permission.INTERNET",
+        "reason": "$string:reason_internet",
+        "usedScene": {
+          "when": "always"
+        }
+      },
+      {
+        "name": "ohos.permission.GET_NETWORK_INFO",
+        "reason": "$string:reason_get_network_info",
+        "usedScene": {
+          "when": "always"
+        }
+      },
+        // [EndExclude request_permissions]
+      {
+        "name": "ohos.permission.CAMERA",
+        "reason": "$string:reason_camera",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      }
+    ]
+  },
+  // [End request_permissions]
+}

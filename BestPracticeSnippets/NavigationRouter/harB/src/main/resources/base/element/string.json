@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "to_harb_pageB2",
+      "value": "ToHarBPageB2"
+    },
+    {
+      "name": "to_harb_pageB3",
+      "value": "ToHarBPageB3"
+    },
+    {
+      "name": "to_harc_pageC1",
+      "value": "ToHarCPageC1"
+    },
+    {
+      "name": "direct_to_harb_pageB1",
+      "value": "DirectToHarBPageB1"
+    },
+    {
+      "name": "pop_to_pre_page",
+      "value": "PopToPrePage"
+    }
+  ]
+}

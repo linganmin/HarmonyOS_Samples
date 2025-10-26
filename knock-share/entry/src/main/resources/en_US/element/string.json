@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "KnockShare"
+    },
+    {
+      "name": "title",
+      "value": "Video List"
+    },
+    {
+      "name": "local_video",
+      "value": "Local video"
+    },
+    {
+      "name": "local_video_describe",
+      "value": "Videos in MP4 format from your local source"
+    },
+    {
+      "name": "play_list",
+      "value": "Play list"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AppStartup"
+    },
+    {
+      "name": "auto_mode",
+      "value": "auto mode"
+    },
+    {
+      "name": "manual_mode",
+      "value": "manual mode"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "strarray": [
+    {
+      "name": "song_titles",
+      "value": [
+        {
+          "value": "Dream It Possible"
+        },
+        {
+          "value": "中华有为"
+        },
+        {
+          "value": "不忘初心"
+        },
+        {
+          "value": "我知道了"
+        },
+        {
+          "value": "哈哈哈"
+        },
+        {
+          "value": "好好学习"
+        },
+        {
+          "value": "明月几时有"
+        },
+        {
+          "value": "正儿八经"
+        }
+      ]
+    },
+    {
+      "name": "song_singers",
+      "value": [
+        {
+          "value": "Delacey"
+        },
+        {
+          "value": "guitar"
+        },
+        {
+          "value": "张三"
+        },
+        {
+          "value": "李四"
+        },
+        {
+          "value": "王五"
+        },
+        {
+          "value": "赵六"
+        },
+        {
+          "value": "名佚"
+        },
+        {
+          "value": "名佚"
+        }
+      ]
+    }
+  ]
+}

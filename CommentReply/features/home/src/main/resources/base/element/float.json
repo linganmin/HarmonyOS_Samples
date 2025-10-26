@@ -1,0 +1,56 @@
+{
+  "float": [
+    {
+      "name": "tab_bar_icon_width",
+      "value": "36"
+    },
+    {
+      "name": "tab_bar_text_opacity",
+      "value": "0.6"
+    },
+    {
+      "name": "tab_bar_text_opacity_active",
+      "value": "1"
+    },
+    {
+      "name": "tab_bar_height",
+      "value": "56"
+    },
+    {
+      "name": "operate_button_icon_width",
+      "value": "36"
+    },
+    {
+      "name": "avatar_width",
+      "value": "44"
+    },
+    {
+      "name": "padding_small",
+      "value": "10"
+    },
+    {
+      "name": "padding_medium",
+      "value": "15"
+    },
+    {
+      "name": "comment_operate_button_width",
+      "value": "24"
+    },
+    {
+      "name": "comment_title_font_size",
+      "value": "20"
+    },
+    {
+      "name": "close_button_icon_width",
+      "value": "18"
+    },
+    {
+      "name": "comment_list_border_radius",
+      "value": "32"
+    },
+    {
+      "name": "comment_button_height",
+      "value": "40"
+    }
+  ]
+}

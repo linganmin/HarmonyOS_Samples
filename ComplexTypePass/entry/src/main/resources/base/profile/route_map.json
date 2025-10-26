@@ -1,0 +1,25 @@
+{
+  "routerMap": [
+    {
+      "name": "ClassPage",
+      "pageSourceFile": "src/main/ets/pages/ClassPage.ets",
+      "buildFunction": "classPage"
+    },{
+      "name": "HashMapPage",
+      "pageSourceFile": "src/main/ets/pages/HashMapPage.ets",
+      "buildFunction": "hashMapPage"
+    },{
+      "name": "ObjectPage",
+      "pageSourceFile": "src/main/ets/pages/ObjectPage.ets",
+      "buildFunction": "objectPage"
+    },{
+      "name": "PixelMapPage",
+      "pageSourceFile": "src/main/ets/pages/PixelMapPage.ets",
+      "buildFunction": "pixelMapPage"
+    },{
+      "name": "Uint8ArrayPage",
+      "pageSourceFile": "src/main/ets/pages/Uint8ArrayPage.ets",
+      "buildFunction": "uint8ArrayPage"
+    }
+  ]
+}

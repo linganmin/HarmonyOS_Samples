@@ -1,0 +1,14 @@
+{
+	"name":"resource-list",
+	"version":"1.0.0",
+	"description":"",
+	"main":"resource-list.js",
+	"scripts":{
+		"test":"echo \"Error: no test specified\" && exit 1"
+	},
+	"author":"",
+	"license":"ISC",
+	"dependencies":{
+		"@hw-agconnect/cloud-server": "^1.0.1"
+	}
+}

@@ -1,0 +1,112 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "shared_desc"
+    },
+    {
+      "name": "collection_num",
+      "value": "125000"
+    },
+    {
+      "name": "list_name",
+      "value": "Independent folk"
+    },
+    {
+      "name": "playlist_Introduction",
+      "value": "The set list is a selection of popular folk songs."
+    },
+    {
+      "name": "play_all",
+      "value": "Play all(%d)"
+    },
+    {
+      "name": "collect",
+      "value": "collect"
+    },
+    {
+      "name": "download",
+      "value": "download"
+    },
+    {
+      "name": "comment",
+      "value": "comment"
+    },
+    {
+      "name": "share",
+      "value": "share"
+    },
+    {
+      "name": "play_list",
+      "value": "play list(%d)"
+    },
+    {
+      "name": "song_name",
+      "value": "I don't know"
+    },
+    {
+      "name": "singer",
+      "value": "Hello xiao wan"
+    },
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioCast"
+    },
+    {
+      "name": "EntryFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "EntryFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "sequential_playback",
+      "value": "Sequential playback"
+    },
+    {
+      "name": "single_playback",
+      "value": "Single playback"
+    },
+    {
+      "name": "random_playback",
+      "value": "Random playback"
+    },
+    {
+      "name": "reason_background",
+      "value": "Allow applications to run in the background of music player scenes."
+    },
+    {
+      "name": "reason_switch_quality",
+      "value": "The current casting device does not support this sound quality. It has been automatically switched to lossless sound quality for casting."
+    },
+    {
+      "name": "switch_sound_quality",
+      "value": "switch sound quality"
+    },
+    {
+      "name": "lossless",
+      "value": "Lossless"
+    },
+    {
+      "name": "hd_ultimate",
+      "value": "HD Ultimate"
+    },
+    {
+      "name": "ultra_hd_master_tape",
+      "value": "Ultra HD Master Tape"
+    },
+    {
+      "name": "lrc_line_words",
+      "value": "This piece is instrumental music. Please enjoy."
+    }
+  ]
+}

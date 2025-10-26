@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "har2",
+    "type": "har",
+    "deviceTypes": [
+      "phone"
+    ]
+  }
+}

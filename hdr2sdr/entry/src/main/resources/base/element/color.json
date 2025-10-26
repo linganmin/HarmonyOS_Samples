@@ -1,0 +1,32 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "button_select_file_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "video_processing_after_area_hint_font_color",
+      "value": "#5A000000"
+    },
+    {
+      "name": "video_processing_after_area_bg_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "button_bg_color",
+      "value": "#11000000"
+    },
+    {
+      "name": "button_text_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "set_button_background",
+      "value": "#E5E7E9"
+    }
+  ]
+}

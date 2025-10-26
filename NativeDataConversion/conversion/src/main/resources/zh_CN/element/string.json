@@ -1,0 +1,156 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "ConversionAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "ConversionAbility_label",
+      "value": "NativeDataConversion"
+    },
+    {
+      "name": "Demo",
+      "value": "基础数据类型转换"
+    },
+    {
+      "name": "NumberType",
+      "value": "场景一: number类型转换"
+    },
+    {
+      "name": "NumberType_description",
+      "value": "计算两个给定数字的和:x+y。输入数据最大长度16。"
+    },
+    {
+      "name": "NumberType_input1",
+      "value": "输入x的值"
+    },
+    {
+      "name": "NumberType_input2",
+      "value": "输入y的值"
+    },
+    {
+      "name": "NumberType_result",
+      "value": "计算结果"
+    },
+    {
+      "name": "StringBoolType",
+      "value": "场景二: string、bool类型转换"
+    },
+    {
+      "name": "StringBoolType_description",
+      "value": "string字符数据str1与str2拼接,bool类型控制相对位置。输入数据最大长度16。"
+    },
+    {
+      "name": "StringBoolType_input1",
+      "value": "输入str1的值"
+    },
+    {
+      "name": "StringBoolType_input2",
+      "value": "输入str2的值"
+    },
+    {
+      "name": "ArrayType",
+      "value": "场景三: array类型转换"
+    },
+    {
+      "name": "ArrayType_description",
+      "value": "逐个输入数组项，确认键将数据加入到数组中、重置键将清空数组数据、逆序转换键将输入的数组数据逆序。输入数据最大长度16。"
+    },
+    {
+      "name": "ArrayType_array",
+      "value": "数组"
+    },
+    {
+      "name": "ArrayType_reverse",
+      "value": "逆序"
+    },
+    {
+      "name": "ArrayType_input1",
+      "value": "输入数组项的值"
+    },
+    {
+      "name": "ArrayType_reset",
+      "value": "重置"
+    },
+    {
+      "name": "ArrayType_confirm",
+      "value": "确认"
+    },
+    {
+      "name": "ArrayType_conversion",
+      "value": "逆序转换"
+    },
+    {
+      "name": "ArraybufferType",
+      "value": "场景四: arraybuffer类型转换"
+    },
+    {
+      "name": "ArraybufferType_description",
+      "value": "将num1与num2的值赋给arraybuffer并在native侧求平方,然后在arkts侧打印arraybuffer。输入数据最大长度4。"
+    },
+    {
+      "name": "ArraybufferType_input1",
+      "value": "输入num1的值"
+    },
+    {
+      "name": "ArraybufferType_input2",
+      "value": "输入num2的值"
+    },
+    {
+      "name": "ArraybufferType_conversion",
+      "value": "确认转换"
+    },
+    {
+      "name": "ObjectType",
+      "value": "场景五: object类型转换"
+    },
+    {
+      "name": "ObjectType_description",
+      "value": "给出个人基础信息、构建自我介绍语句。输入数据最大长度4。"
+    },
+    {
+      "name": "ObjectType_name",
+      "value": "姓名"
+    },
+    {
+      "name": "ObjectType_age",
+      "value": "年龄"
+    },
+    {
+      "name": "ObjectType_convert",
+      "value": "转换结果"
+    },
+    {
+      "name": "result",
+      "value": "结果"
+    },
+    {
+      "name": "date_type",
+      "value": "场景六: Date类型转换"
+    },
+    {
+      "name": "date_type_description",
+      "value": "点击获取时间按钮从native侧获取Date类型的当前时间。点击转换按钮，将已获取的日期转换为总毫秒数"
+    },
+    {
+      "name": "date",
+      "value": "日期"
+    },
+    {
+      "name": "milliseconds",
+      "value": "毫秒数"
+    },
+    {
+      "name": "date_type_get",
+      "value": "获取时间"
+    },
+    {
+      "name": "date_type_convert",
+      "value": "转换"
+    }
+  ]
+}

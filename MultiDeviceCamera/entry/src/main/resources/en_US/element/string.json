@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Multi-device camera application."
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiDeviceCamera"
+    },
+    {
+      "name": "reason_camera",
+      "value": "To access the system camera"
+    },
+    {
+      "name": "reason_write_image_video",
+      "value": "To write the album"
+    },
+    {
+      "name": "reason_read_image_video",
+      "value": "To read the album"
+    },
+    {
+      "name": "flashlight",
+      "value": "flashlight"
+    },
+    {
+      "name": "filter",
+      "value": "filter"
+    },
+    {
+      "name": "setting",
+      "value": "setting"
+    },
+    {
+      "name": "photo",
+      "value": "photo"
+    },
+    {
+      "name": "video",
+      "value": "video"
+    },
+    {
+      "name": "choose_music",
+      "value": "choose music"
+    }
+  ]
+}

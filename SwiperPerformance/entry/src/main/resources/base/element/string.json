@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SwiperPerformance"
+    },
+    {
+      "name": "Use_LazyForEach",
+      "value": "Use LazyForEach"
+    },
+    {
+      "name": "Use_Preload",
+      "value": "Use Preload Data"
+    },
+    {
+      "name": "question_title",
+      "value": "%1$d As shown in the figure below, please look at the picture carefully and answer cautiously, what kind of animal is this picture below?"
+    },
+    {
+      "name": "answer1",
+      "value": "A、mule"
+    },
+    {
+      "name": "answer2",
+      "value": "B、 zebra"
+    },
+    {
+      "name": "answer3",
+      "value": "C、donkey"
+    },
+    {
+      "name": "answer4",
+      "value": "D、Cattle"
+    },
+    {
+      "name": "current_title_index",
+      "value": "Current index %1$d，total %2$d question"
+    },
+    {
+      "name": "title_picture",
+      "value": "Picture"
+    },
+    {
+      "name": "title_question",
+      "value": "Question"
+    },
+    {
+      "name": "title_main",
+      "value": "Swiper high performance development example"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Use internet permissons to load network images"
+    }
+  ]
+}

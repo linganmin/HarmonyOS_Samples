@@ -1,0 +1,5 @@
+{
+  "libnativecallarktsasync.so": {
+    "source": "src/mock/Libnativecallarktsasync.mock.ets"
+  }
+}

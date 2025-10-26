@@ -1,0 +1,89 @@
+{
+  "routerMap": [
+    {
+      "name": "Question",
+      "pageSourceFile": "src/main/ets/pages/Question.ets",
+      "buildFunction": "QuestionBuilder"
+    },
+    {
+      "name": "Question1Correct",
+      "pageSourceFile": "src/main/ets/pages/Question1Correct.ets",
+      "buildFunction": "Question1CorrectBuilder"
+    },
+    {
+      "name": "Question1Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question1Incorrect.ets",
+      "buildFunction": "Question1IncorrectBuilder"
+    },
+    {
+      "name": "Question2Correct",
+      "pageSourceFile": "src/main/ets/pages/Question2Correct.ets",
+      "buildFunction": "Question2CorrectBuilder"
+    },
+    {
+      "name": "Question2Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question2Incorrect.ets",
+      "buildFunction": "Question2IncorrectBuilder"
+    },
+    {
+      "name": "Question3Correct",
+      "pageSourceFile": "src/main/ets/pages/Question3Correct.ets",
+      "buildFunction": "Question3CorrectBuilder"
+    },
+    {
+      "name": "Question3Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question3Incorrect.ets",
+      "buildFunction": "Question3IncorrectBuilder"
+    },
+    {
+      "name": "Question4Correct",
+      "pageSourceFile": "src/main/ets/pages/Question4Correct.ets",
+      "buildFunction": "Question4CorrectBuilder"
+    },
+    {
+      "name": "Question4Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question4Incorrect.ets",
+      "buildFunction": "Question4IncorrectBuilder"
+    },
+    {
+      "name": "Question5Correct",
+      "pageSourceFile": "src/main/ets/pages/Question5Correct.ets",
+      "buildFunction": "Question5CorrectBuilder"
+    },
+    {
+      "name": "Question5Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question5Incorrect.ets",
+      "buildFunction": "Question5IncorrectBuilder"
+    },
+    {
+      "name": "Question6Correct",
+      "pageSourceFile": "src/main/ets/pages/Question6Correct.ets",
+      "buildFunction": "Question6CorrectBuilder"
+    },
+    {
+      "name": "Question6Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question6Incorrect.ets",
+      "buildFunction": "Question6IncorrectBuilder"
+    },
+    {
+      "name": "Question7Correct",
+      "pageSourceFile": "src/main/ets/pages/Question7Correct.ets",
+      "buildFunction": "Question7CorrectBuilder"
+    },
+    {
+      "name": "Question7Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question7Incorrect.ets",
+      "buildFunction": "Question7IncorrectBuilder"
+    },
+    {
+      "name": "Question8Correct",
+      "pageSourceFile": "src/main/ets/pages/Question8Correct.ets",
+      "buildFunction": "Question8CorrectBuilder"
+    },
+    {
+      "name": "Question8Incorrect",
+      "pageSourceFile": "src/main/ets/pages/Question8Incorrect.ets",
+      "buildFunction": "Question8IncorrectBuilder"
+    }
+  ]
+}

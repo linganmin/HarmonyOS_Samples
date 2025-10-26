@@ -1,0 +1,75 @@
+// [Start app_linking_studio_config]
+{
+  "module": {
+    // [StartExclude app_linking_studio_config]
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    // [EndExclude app_linking_studio_config]
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        // [StartExclude app_linking_studio_config]
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        // [EndExclude app_linking_studio_config]
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home",
+              // entities must contain "entity.system.browsable"
+              "entity.system.browsable"
+            ],
+            "actions": [
+              "ohos.want.action.home",
+              // Actions must contain "ohos.want.action.viewData"
+              "ohos.want.action.viewData"
+            ],
+            "uris": [
+              {
+                // The scheme must be configured as https
+                "scheme": "https",
+                // The host must be configured as the associated domain name
+                "host": "www.example.com",
+                "path": ""
+              }
+            ],
+            // domainVerify must be set to true
+            "domainVerify": true
+          }
+        ]
+      }
+    ],
+    // [StartExclude app_linking_studio_config]
+    "extensionAbilities": [
+      {
+        "name": "EntryBackupAbility",
+        "srcEntry": "./ets/entrybackupability/EntryBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ]
+      }
+    ]
+    // [EndExclude app_linking_studio_config]
+  }
+}
+// [End app_linking_studio_config]

@@ -1,0 +1,160 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "打车应用"
+    },
+    {
+      "name": "cancel_hailing",
+      "value": "取消打车"
+    },
+    {
+      "name": "cancel_trip",
+      "value": "取消行程"
+    },
+    {
+      "name": "terminate_trip",
+      "value": "结束行程"
+    },
+    {
+      "name": "driver_coming",
+      "value": "司机正在赶来"
+    },
+    {
+      "name": "driver_arrived",
+      "value": "司机已到达"
+    },
+    {
+      "name": "distance_desc1",
+      "value": "10.1"
+    },
+    {
+      "name": "distance_desc2",
+      "value": "公里 "
+    },
+    {
+      "name": "distance_desc3",
+      "value": "预计"
+    },
+    {
+      "name": "distance_desc4",
+      "value": "15"
+    },
+    {
+      "name": "distance_desc5",
+      "value": "分钟"
+    },
+    {
+      "name": "alert_desc1",
+      "value": "请在"
+    },
+    {
+      "name": "alert_desc2",
+      "value": "4"
+    },
+    {
+      "name": "alert_desc3",
+      "value": "分"
+    },
+    {
+      "name": "alert_desc4",
+      "value": "15秒"
+    },
+    {
+      "name": "alert_desc5",
+      "value": "内上车"
+    },
+    {
+      "name": "alert_desc6",
+      "value": "请尽快上车"
+    },
+    {
+      "name": "license_plate",
+      "value": "  京A00000  "
+    },
+    {
+      "name": "car_information",
+      "value": "国产xxx  白色"
+    },
+    {
+      "name": "on_the_way",
+      "value": "前往目的地"
+    },
+    {
+      "name": "on_the_way_distance1",
+      "value": "距离目的地"
+    },
+    {
+      "name": "on_the_way_distance2",
+      "value": "11"
+    },
+    {
+      "name": "on_the_way_distance3",
+      "value": "公里"
+    },
+    {
+      "name": "on_the_way_time1",
+      "value": "预计还有"
+    },
+    {
+      "name": "on_the_way_time2",
+      "value": "12"
+    },
+    {
+      "name": "on_the_way_time3",
+      "value": "分钟"
+    },
+    {
+      "name": "pay_success",
+      "value": "行程结束"
+    },
+    {
+      "name": "pay_the_bill1",
+      "value": "已支付"
+    },
+    {
+      "name": "pay_the_bill2",
+      "value": "16.8"
+    },
+    {
+      "name": "pay_the_bill3",
+      "value": "元"
+    },
+    {
+      "name": "thanks_for_use",
+      "value": "感谢您使用打车应用"
+    },
+    {
+      "name": "i_know",
+      "value": "我知道了"
+    },
+    {
+      "name": "pick_up",
+      "value": "4分钟接驾"
+    },
+    {
+      "name": "location",
+      "value": "中关村软件园"
+    },
+    {
+      "name": "go_home",
+      "value": "回家"
+    },
+    {
+      "name": "go_to_company",
+      "value": "公司"
+    },
+    {
+      "name": "find_car",
+      "value": "正在为您寻找车辆"
+    }
+  ]
+}

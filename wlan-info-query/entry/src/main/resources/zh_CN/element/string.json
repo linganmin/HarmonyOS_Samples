@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WLAN信息查询"
+    },
+    {
+      "name": "nonSense",
+      "value": "xxxx"
+    },
+    {
+      "name": "wlan",
+      "value": "WLAN"
+    },
+    {
+      "name": "useless",
+      "value": "加密"
+    },
+    {
+      "name": "connected",
+      "value": "已连接"
+    },
+    {
+      "name": "wlanUseful",
+      "value": "可用WLAN"
+    },
+    {
+      "name": "wlanConnected",
+      "value": "已连接WLAN"
+    },
+    {
+      "name": "mac_address",
+      "value": "MAC地址"
+    },
+    {
+      "name": "ip_address",
+      "value": "IP地址"
+    },
+    {
+      "name": "net_mask",
+      "value": "子网掩码"
+    },
+    {
+      "name": "gate_way",
+      "value": "网关"
+    },
+    {
+      "name": "dns",
+      "value": "DNS服务器"
+    },
+    {
+      "name": "reason_get_wifi_info",
+      "value": "用于查询WLAN信息"
+    }
+  ]
+}

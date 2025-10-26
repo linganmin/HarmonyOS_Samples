@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ListScrollComponent"
+    },
+    {
+      "name": "index_title",
+      "value": "Example of using List"
+    },
+    {
+      "name": "scenario1",
+      "value": "scenario1"
+    },
+    {
+      "name": "scenario2",
+      "value": "scenario2"
+    },
+    {
+      "name": "scenario3",
+      "value": "scenario3"
+    },
+    {
+      "name": "scenario4",
+      "value": "scenario4"
+    },
+    {
+      "name": "scenario5",
+      "value": "scenario5"
+    },
+    {
+      "name": "page_same_item",
+      "value": "Same Type Item"
+    },
+    {
+      "name": "page_different_item",
+      "value": "Different Type Item"
+    },
+    {
+      "name": "page_combine_item",
+      "value": "Combine Type Item"
+    },
+    {
+      "name": "page_group_layout",
+      "value": "Grouped layout"
+    },
+    {
+      "name": "page_tabs_ceiling",
+      "value": "Tabs ceiling"
+    },
+    {
+      "name": "hot_video",
+      "value": "Hot Recommend"
+    },
+    {
+      "name": "collection",
+      "value": "Collection"
+    },
+    {
+      "name": "collection_success",
+      "value": "✅ Collection Success"
+    },
+    {
+      "name": "delete",
+      "value": "Delete"
+    },
+    {
+      "name": "delete_success",
+      "value": "✅ Delete Success"
+    },
+    {
+      "name": "no_more_data",
+      "value": "No Data "
+    },
+    {
+      "name": "loading_more",
+      "value": "Loading More..."
+    },
+    {
+      "name": "loading_data",
+      "value": "Loading Data..."
+    },
+    {
+      "name": "loading_done",
+      "value": "Loading End..."
+    },
+    {
+      "name": "follow",
+      "value": "Follow"
+    },
+    {
+      "name": "hot_search",
+      "value": "Hot Search"
+    },
+    {
+      "name": "recommend",
+      "value": "Recommend"
+    },
+    {
+      "name": "optional",
+      "value": "Optional"
+    },
+    {
+      "name": "found",
+      "value": "Found"
+    },
+    {
+      "name": "news",
+      "value": "News"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "futures_trading",
+      "value": "Futures"
+    },
+    {
+      "name": "foundation",
+      "value": "Foundation"
+    },
+    {
+      "name": "insurance",
+      "value": "Insurance"
+    },
+    {
+      "name": "security",
+      "value": "Security"
+    },
+    {
+      "name": "search",
+      "value": "Search"
+    },
+    {
+      "name": "want_search",
+      "value": "want search..."
+    },
+    {
+      "name": "manager_content",
+      "value": "The foundation of educating people lies in the bacon casting soul. The ideological and political theory course is the fundamental task of implementing the moral education......"
+    },
+    {
+      "name": "selected_clothing",
+      "value": "Selected Clothing"
+    },
+    {
+      "name": "selected_accessories",
+      "value": "Selected Accessories"
+    },
+    {
+      "name": "down_jackets",
+      "value": "Down Jackets"
+    },
+    {
+      "name": "casual_shoes",
+      "value": "Casual Shoes"
+    },
+    {
+      "name": "jacket",
+      "value": "Jacket"
+    },
+    {
+      "name": "pants",
+      "value": "Pants"
+    },
+    {
+      "name": "sports_matching",
+      "value": "Sports Matching"
+    },
+    {
+      "name": "same_style",
+      "value": "Same Style"
+    },
+    {
+      "name": "category_id",
+      "value": " Category ID "
+    },
+    {
+      "name": "i_am",
+      "value": "I am"
+    }
+  ]
+}

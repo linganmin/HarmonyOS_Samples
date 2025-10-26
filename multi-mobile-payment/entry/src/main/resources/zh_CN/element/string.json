@@ -1,0 +1,176 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "移动支付"
+    },
+    {
+      "name": "search_box_placeholder",
+      "value": "搜索..."
+    },
+    {
+      "name": "normal_font_family",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "medium_font_family",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "bold_font_family",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "fortune_pick",
+      "value": "财富精选"
+    },
+    {
+      "name": "personal_receive_money",
+      "value": "个人收钱"
+    },
+    {
+      "name": "slogan",
+      "value": "你敢收，我敢赔"
+    },
+    {
+      "name": "user_name",
+      "value": "森瑾的猫（**玉）"
+    },
+    {
+      "name": "set_amount",
+      "value": "设置金额"
+    },
+    {
+      "name": "save_image",
+      "value": "保存图片"
+    },
+    {
+      "name": "receive_and_pay_money",
+      "value": "收付款"
+    },
+    {
+      "name": "scan_reason",
+      "value": "允许Scan能力"
+    },
+    {
+      "name": "scan_text",
+      "value": "扫一扫"
+    },
+    {
+      "name": "city_name",
+      "value": "城市"
+    },
+    {
+      "name": "fund_investment",
+      "value": "基金投资"
+    },
+    {
+      "name": "financial_product",
+      "value": "理财产品"
+    },
+    {
+      "name": "credit_card",
+      "value": "信用卡"
+    },
+    {
+      "name": "bill",
+      "value": "账单"
+    },
+    {
+      "name": "speedy_earnings",
+      "value": "速盈"
+    },
+    {
+      "name": "precious_metal",
+      "value": "贵金属"
+    },
+    {
+      "name": "deposit_product",
+      "value": "存款产品"
+    },
+    {
+      "name": "payment",
+      "value": "缴费"
+    },
+    {
+      "name": "quick_loan",
+      "value": "快贷"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "scan",
+      "value": "扫一扫"
+    },
+    {
+      "name": "travel",
+      "value": "出行"
+    },
+    {
+      "name": "card_package",
+      "value": "卡包"
+    },
+    {
+      "name": "collection_record",
+      "value": "收款记录"
+    },
+    {
+      "name": "voice_reminder_for_money",
+      "value": "收钱语音提醒"
+    },
+    {
+      "name": "merchant_services",
+      "value": "商家服务"
+    },
+    {
+      "name": "free_exchange_for_receiving_money",
+      "value": "收钱免费兑换"
+    },
+    {
+      "name": "home",
+      "value": "首页"
+    },
+    {
+      "name": "finance",
+      "value": "理财"
+    },
+    {
+      "name": "life",
+      "value": "生活"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "mine",
+      "value": "我的"
+    },
+    {
+      "name": "scan_code",
+      "value": "扫码"
+    },
+    {
+      "name": "identify_objects",
+      "value": "识物"
+    },
+    {
+      "name": "pay_and_receive",
+      "value": "收付款"
+    },
+    {
+      "name": "photo_album",
+      "value": "相册"
+    }
+  ]
+}

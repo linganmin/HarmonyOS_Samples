@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "该示例代码实现了视频添加水印的功能"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "VideoWaterMark"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "VideoWaterMark"
+    },
+    {
+      "name": "reason",
+      "value": "label"
+    },
+    {
+      "name": "CameraAbility_desc",
+      "value": "CameraRecordWaterMark"
+    },
+    {
+      "name": "CameraAbility_label",
+      "value": "CameraRecordWaterMark"
+    },
+    {
+      "name": "VideoFileAbility_desc",
+      "value": "VideoFileWaterMark"
+    },
+    {
+      "name": "VideoFileAbility_label",
+      "value": "VideoFileWaterMark"
+    },
+    {
+      "name": "Demo_tile",
+      "value": "视频水印Demo"
+    },
+    {
+      "name": "Video_file_scene",
+      "value": "视频文件添加水印"
+    },
+    {
+      "name": "Camera_record_scene",
+      "value": "相机录制添加水印"
+    },
+    {
+      "name": "Start_record",
+      "value": "开始录制"
+    },
+    {
+      "name": "Stop_record",
+      "value": "停止录制"
+    },
+    {
+      "name": "Start_play",
+      "value": "开始播放"
+    },
+    {
+      "name": "Stop_play",
+      "value": "停止播放"
+    },
+    {
+      "name": "Camera_reminder_message",
+      "value": "暂无缓存视频，请先录制！！！"
+    },
+    {
+      "name": "Video_reminder_message",
+      "value": "添加水印中，请勿中止操作！！！"
+    },
+    {
+      "name": "Add_watermark_button",
+      "value": "添加水印"
+    }
+  ]
+}

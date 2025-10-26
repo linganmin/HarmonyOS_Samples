@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SmartWatchCarControl"
+    },
+    {
+      "name": "temperature",
+      "value": "temperature"
+    },
+    {
+      "name": "open_conditioner",
+      "value": "Open Conditioner"
+    },
+    {
+      "name": "close_conditioner",
+      "value": "Close Conditioner"
+    },
+    {
+      "name": "find_car",
+      "value": "Find Car"
+    },
+    {
+      "name": "flash",
+      "value": "Flash"
+    },
+    {
+      "name": "flash_success",
+      "value": "Flash Find Car Success"
+    },
+    {
+      "name": "voice",
+      "value": "Voice"
+    },
+    {
+      "name": "Voice_success",
+      "value": "Voice Find Car Success"
+    },
+    {
+      "name": "password_input",
+      "value": "Please enter safe word"
+    },
+    {
+      "name": "password_failed",
+      "value": "Failed"
+    },
+    {
+      "name": "password_success",
+      "value": "Success"
+    },
+    {
+      "name": "car_control",
+      "value": "Car Control"
+    },
+    {
+      "name": "car_lock",
+      "value": "Car Lock"
+    },
+    {
+      "name": "car_window",
+      "value": "Car Window"
+    },
+    {
+      "name": "car_conditioner",
+      "value": "Car Conditioner"
+    },
+    {
+      "name": "car_trunk",
+      "value": "Car Trunk"
+    },
+    {
+      "name": "car_name",
+      "value": "WenJie M7"
+    },
+    {
+      "name": "charge_completed",
+      "value": "Charge Completed"
+    },
+    {
+      "name": "Update",
+      "value": "Updated on"
+    }
+  ]
+}

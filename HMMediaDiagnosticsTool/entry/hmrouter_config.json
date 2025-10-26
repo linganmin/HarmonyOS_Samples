@@ -1,0 +1,3 @@
+{
+  "defaultPageTemplate": "./src/main/template/template.ejs"
+}

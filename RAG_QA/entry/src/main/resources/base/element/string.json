@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "RAG_QA"
+    },
+    {
+      "name": "confirm_add_to_db",
+      "value": "Confirm to add to database"
+    },
+    {
+      "name": "cancel_word",
+      "value": "cancel"
+    },
+    {
+      "name": "confirm_word",
+      "value": "confirm"
+    },
+    {
+      "name": "add_email",
+      "value": "add email"
+    },
+    {
+      "name": "add_to_database",
+      "value": "add to database"
+    },
+    {
+      "name": "close_dialog",
+      "value": "close dialog"
+    },
+    {
+      "name": "clear_all_chat_history",
+      "value": "clear all chat history"
+    },
+    {
+      "name": "clear_history",
+      "value": "clear history"
+    },
+    {
+      "name": "enter_word",
+      "value": "Enter"
+    }
+  ]
+}

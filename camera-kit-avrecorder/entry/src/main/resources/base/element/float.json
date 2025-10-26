@@ -1,0 +1,32 @@
+{
+  "float": [
+    {
+      "name": "bottom_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "bottom_height",
+      "value": "45vp"
+    },
+    {
+      "name": "bottom_margin_bottom",
+      "value": "44vp"
+    },
+    {
+      "name": "video_height",
+      "value": "500vp"
+    },
+    {
+      "name": "video_margin_bottom",
+      "value": "100vp"
+    },
+    {
+      "name": "image_height",
+      "value": "120vp"
+    },
+    {
+      "name": "image_margin_bottom",
+      "value": "60vp"
+    }
+  ]
+}

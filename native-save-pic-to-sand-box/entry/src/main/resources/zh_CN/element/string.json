@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NativeSavePicture"
+    },
+    {
+      "name": "rawfile_write_fail",
+      "value": "Rawfile图片写入失败"
+    },
+    {
+      "name": "tbn_RawFilePicture",
+      "value": "保存Rawfile图片"
+    },
+    {
+      "name": "txt_sandBox_path",
+      "value": "沙箱路径:"
+    },
+    {
+      "name": "internet_file_write_fail",
+      "value": "网络图片写入失败"
+    },
+    {
+      "name": "tbn_InternetPicture",
+      "value": "保存网络图片"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于保存网络图片场景使用Internet网络"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "five_black",
+      "value": "#0d000000"
+    },
+    {
+      "name": "background_page",
+      "value": "#ffefefef"
+    }
+  ]
+}

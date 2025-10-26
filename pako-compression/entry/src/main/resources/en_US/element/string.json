@@ -1,0 +1,34 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PakoDemo"
+    },
+    {
+      "name": "Compression",
+      "value": "Compress and save"
+    },
+    {
+      "name": "Decompression",
+      "value": "Decompress and read"
+    },
+    {
+      "name": "input_content",
+      "value": "Please enter a string."
+    },
+    {
+      "name": "can_not_compress",
+      "value": "The input is an empty string and the compression operation cannot be completed."
+    }
+
+
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CameraKitAVRecorder"
+    },
+    {
+      "name": "reason",
+      "value": "用于录制视频"
+    },
+    {
+      "name": "reason2",
+      "value": "用于读取录制视频"
+    },
+    {
+      "name": "button_text",
+      "value": "录制视频"
+    },
+    {
+      "name": "show_toast_message",
+      "value": "有未开启的权限,请去\\“设置->应用与元服务->CameraKitAVRecorder\\”中打开所有限制权限"
+    }
+  ]
+}

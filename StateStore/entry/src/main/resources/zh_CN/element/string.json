@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "状态管理"
+    },
+    {
+      "name": "today",
+      "value": "今日"
+    },
+    {
+      "name": "completed",
+      "value": "已完成"
+    },
+    {
+      "name": "clear_completed",
+      "value": "清空已完成"
+    },
+    {
+      "name": "page_title",
+      "value": "今日待办任务"
+    },
+    {
+      "name": "to_do_num",
+      "value": "%d条待办"
+    },
+    {
+      "name": "to_do_task",
+      "value": "待办任务"
+    },
+    {
+      "name": "closeTips",
+      "value": "是否保存当前修改？"
+    },
+    {
+      "name": "dialog_not_save",
+      "value": "不保存"
+    },
+    {
+      "name": "dialog_save",
+      "value": "保存"
+    },
+    {
+      "name": "deleteTips",
+      "value": "是否删除%d条待办任务？"
+    },
+    {
+      "name": "deleteCurrentTips",
+      "value": "是否删除当前待办任务?"
+    },
+    {
+      "name": "dialog_delete",
+      "value": "删除"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "sheet_title",
+      "value": "新建待办任务"
+    },
+    {
+      "name": "empty",
+      "value": "内容不能为空"
+    },
+    {
+      "name": "syncing",
+      "value": "正在数据同步中..."
+    },
+    {
+      "name": "finished",
+      "value": "完成"
+    },
+    {
+      "name": "synced",
+      "value": "同步数据完成"
+    }
+  ]
+}

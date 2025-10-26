@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "lable_name",
+      "value": "LanguageBaseClassLib"
+    },
+    {
+      "name": "xml",
+      "value": "Xml & ConvertXml (XML Parsing, Generation and convert)"
+    },
+    {
+      "name": "url",
+      "value": "Url (URL String Parsing)"
+    },
+    {
+      "name": "uri",
+      "value": "Uri (URI String Parsing)"
+    },
+    {
+      "name": "util",
+      "value": "Util (util)"
+    },
+    {
+      "name": "arkts_util",
+      "value": "ArkTSUtil (ArkTSUtil)"
+    },
+    {
+      "name": "array_list",
+      "value": "ArrayList (Linear Container)"
+    },
+    {
+      "name": "task_pool",
+      "value": "TaskPool (Starting the TaskPool)"
+    },
+    {
+      "name": "deque",
+      "value": "Deque (Linear Container)"
+    },
+    {
+      "name": "hash_map",
+      "value": "HashMap (NonLinear Container)"
+    },
+    {
+      "name": "hash_set",
+      "value": "HashSet (NonLinear Container)"
+    },
+    {
+      "name": "light_weight_map",
+      "value": "LightWeightMap (NonLinear\nContainer)"
+    },
+    {
+      "name": "light_weight_set",
+      "value": "LightWeightSet (NonLinear\nContainer)"
+    },
+    {
+      "name": "linked_list",
+      "value": "LinkedList (Linear Container)"
+    },
+    {
+      "name": "list",
+      "value": "List (Linear Container)"
+    },
+    {
+      "name": "plain_array",
+      "value": "PlainArray (NonLinear Container)"
+    },
+    {
+      "name": "queue",
+      "value": "Queue (Linear Container)"
+    },
+    {
+      "name": "stack",
+      "value": "Stack (Linear Container)"
+    },
+    {
+      "name": "tree_map",
+      "value": "TreeMap (NonLinear Container)"
+    },
+    {
+      "name": "tree_set",
+      "value": "TreeSet (NonLinear Container)"
+    },
+    {
+      "name": "age",
+      "value": "Age"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "sure",
+      "value": "Sure"
+    },
+    {
+      "name": "add_new_contact",
+      "value": "Add new contact"
+    },
+    {
+      "name": "names",
+      "value": "Name"
+    },
+    {
+      "name": "please_choose",
+      "value": "Please choose"
+    },
+    {
+      "name": "add",
+      "value": "Add"
+    },
+    {
+      "name": "input_key",
+      "value": "Please input key"
+    },
+    {
+      "name": "input_value",
+      "value": "Please input value"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "license": "",
+  "devDependencies": {},
+  "author": "",
+  "name": "conversion",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "version": "1.0.0",
+  "dependencies": {
+    "libconversion.so": "file:./src/main/cpp/types/libconversion"
+  }
+}
+// ”dependencies“ ：添加so文件依赖

@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NetworkReconnection"
+    },
+    {
+      "name": "connect_error",
+      "value": "Connect error"
+    },
+    {
+      "name": "net_lost",
+      "value": "Net Lost"
+    },
+    {
+      "name": "download_error",
+      "value": "Download Error"
+    },
+    {
+      "name": "download_success",
+      "value": "Download Success"
+    },
+    {
+      "name": "download_process",
+      "value": "Downloading"
+    },
+    {
+      "name": "save_video",
+      "value": "Save Video"
+    },
+    {
+      "name": "network_reconnection",
+      "value": "NetworkReconnection"
+    },
+    {
+      "name": "http_download",
+      "value": "HTTP Download"
+    },
+    {
+      "name": "rcp_download",
+      "value": "RCP Download"
+    },
+    {
+      "name": "Socket_download",
+      "value": "Socket Download"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "Used for cross process communication using the Internet network."
+    }
+  ]
+}

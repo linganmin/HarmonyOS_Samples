@@ -1,0 +1,176 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Module Description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Mobile Payment"
+    },
+    {
+      "name": "search_box_placeholder",
+      "value": "Search..."
+    },
+    {
+      "name": "normal_font_family",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "medium_font_family",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "bold_font_family",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "fortune_pick",
+      "value": "Fortune Selection"
+    },
+    {
+      "name": "personal_receive_money",
+      "value": "Personal Collection"
+    },
+    {
+      "name": "slogan",
+      "value": "You Dare to Receive, We Dare to Compensate"
+    },
+    {
+      "name": "user_name",
+      "value": "Senjin's Cat (Yu)"
+    },
+    {
+      "name": "set_amount",
+      "value": "Set Amount"
+    },
+    {
+      "name": "save_image",
+      "value": "Save Image"
+    },
+    {
+      "name": "receive_and_pay_money",
+      "value": "Receive and Pay"
+    },
+    {
+      "name": "scan_reason",
+      "value": "Allow Scan Capability"
+    },
+    {
+      "name": "scan_text",
+      "value": "Scan QR Code"
+    },
+    {
+      "name": "city_name",
+      "value": "City"
+    },
+    {
+      "name": "fund_investment",
+      "value": "Fund Investment"
+    },
+    {
+      "name": "financial_product",
+      "value": "Financial Product"
+    },
+    {
+      "name": "credit_card",
+      "value": "Credit Card"
+    },
+    {
+      "name": "bill",
+      "value": "Bill"
+    },
+    {
+      "name": "speedy_earnings",
+      "value": "Speedy Earnings"
+    },
+    {
+      "name": "precious_metal",
+      "value": "Precious Metal"
+    },
+    {
+      "name": "deposit_product",
+      "value": "Deposit Product"
+    },
+    {
+      "name": "payment",
+      "value": "Payment"
+    },
+    {
+      "name": "quick_loan",
+      "value": "Quick Loan"
+    },
+    {
+      "name": "more",
+      "value": "More"
+    },
+    {
+      "name": "scan",
+      "value": "Scan"
+    },
+    {
+      "name": "travel",
+      "value": "Travel"
+    },
+    {
+      "name": "card_package",
+      "value": "Card"
+    },
+    {
+      "name": "collection_record",
+      "value": "Collection Record"
+    },
+    {
+      "name": "voice_reminder_for_money",
+      "value": "Voice Reminder for Money Received"
+    },
+    {
+      "name": "merchant_services",
+      "value": "Merchant Services"
+    },
+    {
+      "name": "free_exchange_for_receiving_money",
+      "value": "Free Exchange for Money Received"
+    },
+    {
+      "name": "home",
+      "value": "Home"
+    },
+    {
+      "name": "finance",
+      "value": "Finance"
+    },
+    {
+      "name": "life",
+      "value": "Life"
+    },
+    {
+      "name": "message",
+      "value": "Message"
+    },
+    {
+      "name": "mine",
+      "value": "My Account"
+    },
+    {
+      "name": "scan_code",
+      "value": "Scan Code"
+    },
+    {
+      "name": "identify_objects",
+      "value": "Identify"
+    },
+    {
+      "name": "pay_and_receive",
+      "value": "Pay"
+    },
+    {
+      "name": "photo_album",
+      "value": "Photo Album"
+    }
+  ]
+}

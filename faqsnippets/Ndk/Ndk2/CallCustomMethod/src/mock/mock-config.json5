@@ -1,0 +1,5 @@
+{
+  "libcallcustommethod.so": {
+    "source": "src/mock/Libcallcustommethod.mock.ets"
+  }
+}

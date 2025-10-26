@@ -1,0 +1,128 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "MultiNetTransfer"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "MultiNetTransfer"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiNetTransfer"
+    },
+    {
+      "name": "file_too_small",
+      "value": "File too small (min: 5MB)"
+    },
+    {
+      "name": "file_too_big",
+      "value": "File too large (max: 250MB)"
+    },
+    {
+      "name": "multi_net_upload",
+      "value": "Multi-Network Parallel Transfer"
+    },
+    {
+      "name": "upload_success",
+      "value": "%fs Upload Success"
+    },
+    {
+      "name": "upload_failed",
+      "value": "Upload failed"
+    },
+    {
+      "name": "submitting",
+      "value": "Publishing"
+    },
+    {
+      "name": "submit_content",
+      "value": "Content Publishing"
+    },
+    {
+      "name": "submit_download",
+      "value": "Content Download"
+    },
+    {
+      "name": "upload_content",
+      "value": "Content Upload"
+    },
+    {
+      "name": "upload_tips",
+      "value": "Allowed: 1 image or 1 video (not both)"
+    },
+    {
+      "name": "submit",
+      "value": "Publish"
+    },
+    {
+      "name": "upload_file",
+      "value": "Select File"
+    },
+    {
+      "name": "multi_net_failed",
+      "value": "Request Multi-network failed"
+    },
+    {
+      "name": "transfer_accelerating",
+      "value": "Transfer accelerating (using multiple networks)"
+    },
+    {
+      "name": "multi_net_enabled",
+      "value": "Request Multi-network successfully"
+    },
+    {
+      "name": "suggest_open",
+      "value": "Recommended to enable Multi-network capability"
+    },
+    {
+      "name": "suggest_close",
+      "value": "Recommended to disable Multi-network capability"
+    },
+    {
+      "name": "unkown",
+      "value": "Unknown Recommendation"
+    },
+    {
+      "name": "download",
+      "value": "Download"
+    },
+    {
+      "name": "china",
+      "value": "China.mp4"
+    },
+    {
+      "name": "foreign_history",
+      "value": "ForeignHistory.mp4"
+    },
+    {
+      "name": "download_list",
+      "value": "Download List"
+    },
+    {
+      "name": "multi_net_upload_slice_file",
+      "value": " Single File Multi-Part Upload"
+    },
+    {
+      "name": "multi_net_download_single_file",
+      "value": "Multi-File Download"
+    },
+    {
+      "name": "down_failed",
+      "value": "Down Failed"
+    },
+    {
+      "name": "permission_internet",
+      "value": "Allows the application to access the network"
+    },
+    {
+      "name": "permission_get_net_info",
+      "value": "Allows the application to obtain detailed network information"
+    },
+    {
+      "name": "permission_turbo",
+      "value": "Allows the application to use network acceleration"
+    }
+  ]
+}

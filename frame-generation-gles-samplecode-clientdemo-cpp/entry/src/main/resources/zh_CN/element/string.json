@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "FrameGeneration Samples"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "FrameGeneration Samples"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "FG Demo"
+    },
+    {
+      "name": "title",
+      "value": "FrameGeneration Samples"
+    },
+    {
+      "name": "FrameGeneration_enabled",
+      "value": "超帧开启"
+    },
+    {
+      "name": "FrameGeneration_disabled",
+      "value": "超帧关闭"
+    }
+  ]
+}

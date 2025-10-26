@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "StageModelContext"
+    },
+    {
+      "name": "get_ui_ability_context",
+      "value": "Get UIAbilityContext"
+    },
+    {
+      "name": "get_application_context",
+      "value": "Get ApplicationContext"
+    },
+    {
+      "name": "get_window_stage",
+      "value": "Get WindowStage"
+    },
+    {
+      "name": "get_UIAbilityContext_in_UIAbility",
+      "value": "Get UIAbilityContext in UIAbility"
+    },
+    {
+      "name": "get_UIAbilityContext_in_UI",
+      "value": "Get UIAbilityContext in UI"
+    },
+    {
+      "name": "get_UIAbilityContext_in_HAR",
+      "value": "Get UIAbilityContext in HAR"
+    },
+    {
+      "name": "get_UIAbilityContext_in_HSP",
+      "value": "Get UIAbilityContext in HSP"
+    },
+    {
+      "name": "get_UIAbilityContext_in_Worker",
+      "value": "Get UIAbilityContext in Worker"
+    },
+    {
+      "name": "get_ApplicationContext_in_UIAbility",
+      "value": "Get ApplicationContext in HAP UIAbility "
+    },
+    {
+      "name": "get_ApplicationContext_in_UI",
+      "value": "Get ApplicationContext in HAP UI "
+    },
+    {
+      "name": "get_ApplicationContext_in_HAR",
+      "value": "Get ApplicationContext in HAR"
+    },
+    {
+      "name": "get_ApplicationContext_in_HSP",
+      "value": "Get ApplicationContext in HSP"
+    },
+    {
+      "name": "get_WindowStage_in_UIAbility",
+      "value": "Get WindowStage in UIAbility"
+    },
+    {
+      "name": "get_WindowStage_by_UIAbilityContext",
+      "value": "Obtain the WindowStage through the UIAbilityContext"
+    },
+    {
+      "name": "get_AbilityName",
+      "value": "In %1$s, the AbilityName obtained from the UIAbilityContext instance is: %2$s"
+    },
+    {
+      "name": "get_application_filesDir",
+      "value": "Use the Application instance in %1$s to get the application file path filesDir: %2$s"
+    },
+    {
+      "name": "get_window_height_width_1",
+      "value": "The WindowStage instance obtained from UIAbility has a width of %1$d and a height of %2$d"
+    },
+    {
+      "name": "get_window_height_width_2",
+      "value": "Obtain the WindowStage instance through UIAbilityContext, and get the width of the window is %1$d and the height is %2$d"
+    }
+  ]
+}

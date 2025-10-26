@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "embedAbility"
+    },
+    {
+      "name": "PhoneRechageChild_label",
+      "value": "Phone recharge"
+    },
+    {
+      "name": "UtilityPaymentChild_label",
+      "value": "Utility payment"
+    },
+    {
+      "name": "ParkingChild_label",
+      "value": "Parking fee"
+    }
+  ]
+}

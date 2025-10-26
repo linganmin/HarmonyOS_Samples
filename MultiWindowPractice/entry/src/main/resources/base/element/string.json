@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiWindowPractice"
+    },
+    {
+      "name": "Question1",
+      "value": "Page truncated, swipe disabled"
+    },
+    {
+      "name": "Question2",
+      "value": "XComponent video playback is incomplete"
+    },
+    {
+      "name": "Question3",
+      "value": "Video truncated in split-screen"
+    },
+    {
+      "name": "Question4",
+      "value": "Child component is outside parent's scope"
+    },
+    {
+      "name": "Question5",
+      "value": "Image ratio is abnormal in split-screen mode"
+    },
+    {
+      "name": "Question6",
+      "value": "The pop-up window is out of order"
+    },
+    {
+      "name": "Question7",
+      "value": "Top action bar in overlay window is unresponsive"
+    },
+    {
+      "name": "Question8",
+      "value": "The horizontal floating window is not adapted"
+    },
+    {
+      "name": "before_optimization",
+      "value": "Before optimization"
+    },
+    {
+      "name": "after_optimization",
+      "value": "After optimization"
+    },
+    {
+      "name": "login_page",
+      "value": "Login Page"
+    },
+    {
+      "name": "login_more",
+      "value": "Login in to access more services"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "welcome",
+      "value": "Welcome to My App"
+    },
+    {
+      "name": "dialog_content",
+      "value": "This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice,This is a user notice"
+    },
+    {
+      "name": "agree",
+      "value": "Agree"
+    },
+    {
+      "name": "disagree",
+      "value": "Disagree"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "integer": [
+    {
+      "name": "hand_writing_border_width",
+      "value": 2
+    },
+    {
+      "name": "button_height",
+      "value": 40
+    },
+    {
+      "name": "button_padding_bottom",
+      "value": 28
+    },
+    {
+      "name": "image_height",
+      "value": 40
+    },
+    {
+      "name": "image_width",
+      "value": 40
+    },
+    {
+      "name": "image_margin",
+      "value": 16
+    },
+    {
+      "name": "padding_16",
+      "value": 16
+    },
+    {
+      "name": "padding_18",
+      "value": 18
+    },
+    {
+      "name": "padding_24",
+      "value": 24
+    },
+    {
+      "name": "button_margin_top",
+      "value": 12
+    }
+  ]
+}

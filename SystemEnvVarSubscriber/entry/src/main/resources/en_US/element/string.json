@@ -1,0 +1,72 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SystemEnvVarSubscriber"
+    },
+    {
+      "name": "page_title",
+      "value": "SubscribeSystemEnvVariables"
+    },
+    {
+      "name": "button_subscribe",
+      "value": "Subscribe"
+    },
+    {
+      "name": "button_unsubscribe",
+      "value": "Unsubscribe"
+    },
+    {
+      "name": "item_system_language",
+      "value": "System language"
+    },
+    {
+      "name": "item_color_mode",
+      "value": "Color mode"
+    },
+    {
+      "name": "item_screen_direction",
+      "value": "Screen direction"
+    },
+    {
+      "name": "item_screen_density",
+      "value": "Screen density"
+    },
+    {
+      "name": "item_display_id",
+      "value": "Display id"
+    },
+    {
+      "name": "item_has_pointer_device",
+      "value": "Has pointer device"
+    },
+    {
+      "name": "item_fontsize_scale",
+      "value": "Fontsize scale"
+    },
+    {
+      "name": "item_font_weight_scale",
+      "value": "Font weight scale"
+    },
+    {
+      "name": "subscribe_success",
+      "value": "Subscribe success"
+    },
+    {
+      "name": "unsubscribe_success",
+      "value": "Unsubscribe success"
+    },
+    {
+      "name": "subscribed",
+      "value": "You are already subscribed"
+    }
+  ]
+}

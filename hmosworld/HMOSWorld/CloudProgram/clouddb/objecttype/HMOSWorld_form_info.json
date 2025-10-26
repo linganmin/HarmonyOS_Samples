@@ -1,0 +1,60 @@
+{
+  "objectTypeName": "form_info",
+  "fields": [
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "id",
+      "notNull": true,
+      "isSensitive": false,
+      "belongPrimaryKey": true,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "token",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "form_id",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    }
+  ],
+  "indexes": [],
+  "permissions": [
+    {
+      "role": "World",
+      "rights": [
+        "Read"
+      ]
+    },
+    {
+      "role": "Authenticated",
+      "rights": [
+        "Read"
+      ]
+    },
+    {
+      "role": "Creator",
+      "rights": [
+        "Read",
+        "Upsert",
+        "Delete"
+      ]
+    },
+    {
+      "role": "Administrator",
+      "rights": [
+        "Read",
+        "Upsert",
+        "Delete"
+      ]
+    }
+  ]
+}

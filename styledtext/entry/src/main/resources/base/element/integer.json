@@ -1,0 +1,12 @@
+{
+  "integer": [
+    {
+      "name": "styled_text_video_link_icon_size",
+      "value": 16
+    },
+    {
+      "name": "subtitle_font_size",
+      "value": 17
+    }
+  ]
+}

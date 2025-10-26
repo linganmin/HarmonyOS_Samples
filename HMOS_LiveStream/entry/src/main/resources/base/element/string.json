@@ -1,0 +1,184 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HMOSLiveStream"
+    },
+    {
+      "name": "alert",
+      "value": "None video selected"
+    },
+    {
+      "name": "full_width",
+      "value": "100%"
+    },
+    {
+      "name": "full_height",
+      "value": "100%"
+    },
+    {
+      "name": "reason",
+      "value": "allows an app to use the microphone"
+    },
+    {
+      "name": "camera_reason",
+      "value": "allows an app to use the camera"
+    },
+    {
+      "name": "distribute_file_reason",
+      "value": "Allow the application to access distributed files on different devices."
+    },
+    {
+      "name": "background_running_reason",
+      "value": "Allow the application to run in background."
+    },
+    {
+      "name": "playing",
+      "value": "Playing"
+    },
+    {
+      "name": "play",
+      "value": "Play"
+    },
+    {
+      "name": "record",
+      "value": "Record"
+    },
+    {
+      "name": "alert_setting",
+      "value": "The setting is not supported by the current device."
+    },
+    {
+      "name": "saveButtonNote",
+      "value": "Allow HMOSLiveStream to save captured video to distribute file?"
+    },
+    {
+      "name": "saveButtonCancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "saveButtonTitle",
+      "value": "Confirm the video storage location"
+    },
+    {
+      "name": "home_page_title",
+      "value": "LiveStream Demo"
+    },
+    {
+      "name": "watch_live_stream",
+      "value": "Watch live stream"
+    },
+    {
+      "name": "start_live_stream",
+      "value": "Start live stream"
+    },
+    {
+      "name": "set_roi",
+      "value": "ROI"
+    },
+    {
+      "name": "set_bgm",
+      "value": "BGM"
+    },
+    {
+      "name": "set_quality",
+      "value": "Quality setting"
+    },
+    {
+      "name": "people_in_live_room",
+      "value": "Number of people: 1213"
+    },
+    {
+      "name": "author_name",
+      "value": "Anchor Xiaoshuai"
+    },
+    {
+      "name": "number_of_people",
+      "value": "1213"
+    },
+    {
+      "name": "watch",
+      "value": "watching"
+    },
+    {
+      "name": "follow",
+      "value": "follow"
+    },
+    {
+      "name": "followed",
+      "value": "followed"
+    },
+    {
+      "name": "first_one_name",
+      "value": "林小杰"
+    },
+    {
+      "name": "first_one_comment",
+      "value": "HarmonyOS，我来了！"
+    },
+    {
+      "name": "first_two_name",
+      "value": "刘小华"
+    },
+    {
+      "name": "first_two_comment",
+      "value": "HarmonyOS，加油，go go go！"
+    },
+    {
+      "name": "first_three_name",
+      "value": "吴小京"
+    },
+    {
+      "name": "first_three_comment",
+      "value": "一起冲，我看这架势，继续冲！"
+    },
+    {
+      "name": "first_four_name",
+      "value": "周小伦"
+    },
+    {
+      "name": "first_four_comment",
+      "value": "期待看到HarmonyOS的新版本！"
+    },
+    {
+      "name": "first_five_name",
+      "value": "张小友"
+    },
+    {
+      "name": "first_five_comment",
+      "value": "在线支持一波~。"
+    },
+    {
+      "name": "feature_not_supported",
+      "value": "This feature is not yet supported, please stay tuned!"
+    },
+    {
+      "name": "bundle_name",
+      "value": "com.samples.HMOSLiveStream"
+    },
+    {
+      "name": "no_video_alert",
+      "value": "Please start the live stream and save the video!"
+    },
+    {
+      "name": "setting_title",
+      "value": "Setting"
+    },
+    {
+      "name": "setting_ok",
+      "value": "Ok"
+    },
+    {
+      "name": "setting_cancel",
+      "value": "Cancel"
+    }
+  ]
+}

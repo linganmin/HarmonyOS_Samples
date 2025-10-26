@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "图片访问读写"
+    },
+    {
+      "name": "accessing_album_files",
+      "value": "访问相册文件"
+    },
+    {
+      "name": "save_picture",
+      "value": "保存图片"
+    },
+    {
+      "name": "using_photoPicker_to_read_images",
+      "value": "使用PhotoPicker读取图片"
+    },
+    {
+      "name": "using_photoViewPicker_to_read_images",
+      "value": "使用PhotoViewPicker读取图片"
+    },
+    {
+      "name": "apply_for_permission_to_read_images",
+      "value": "申请媒体库权限读取图片"
+    },
+    {
+      "name": "authorization_successful",
+      "value": "授权成功"
+    },
+    {
+      "name": "authorized",
+      "value": "已授权"
+    },
+    {
+      "name": "reauthorization",
+      "value": "授权失败，请重新授权"
+    },
+    {
+      "name": "saved_to_album",
+      "value": "已保存至相册"
+    },
+    {
+      "name": "save_using_the_saveButton_component",
+      "value": "使用SaveButton组件保存"
+    },
+    {
+      "name": "use_popup_authorization_to_save",
+      "value": "使用弹框授权保存"
+    },
+    {
+      "name": "apply_for_media_library_permission_to_save_images",
+      "value": "申请媒体库权限保存图片"
+    },
+    {
+      "name": "preview",
+      "value": "预览"
+    },
+    {
+      "name": "authorization_save",
+      "value": "授权保存"
+    },
+    {
+      "name": "view_image_information",
+      "value": "查看图片信息"
+    },
+    {
+      "name": "picture_information",
+      "value": "图片信息"
+    },
+    {
+      "name": "picture_format",
+      "value": "图片格式"
+    },
+    {
+      "name": "save",
+      "value": "保存"
+    },
+    {
+      "name": "select_picture",
+      "value": "选择图片"
+    },
+    {
+      "name": "please_select_an_image",
+      "value": "请选择图片"
+    },
+    {
+      "name": "image_reading_and_saving",
+      "value": "图片读取与保存"
+    },
+    {
+      "name": "width",
+      "value": "宽"
+    },
+    {
+      "name": "height",
+      "value": "高"
+    },
+    {
+      "name": "density",
+      "value": "像素密度"
+    },
+    {
+      "name": "stride",
+      "value": "跨距"
+    },
+    {
+      "name": "pixelFormat",
+      "value": "像素格式"
+    },
+    {
+      "name": "alphaType",
+      "value": "透明度"
+    },
+    {
+      "name": "mimeType",
+      "value": "图片真实格式"
+    },
+    {
+      "name": "dynamic_range",
+      "value": "动态范围"
+    },
+    {
+      "name": "basic_information",
+      "value": "基础信息"
+    },
+    {
+      "name": "pixel",
+      "value": "像素"
+    },
+    {
+      "name": "reading_images_from_the_gallery",
+      "value": "图库读取图片"
+    },
+    {
+      "name": "save_image_to_gallery",
+      "value": "保存图片到图库"
+    }
+  ]
+}

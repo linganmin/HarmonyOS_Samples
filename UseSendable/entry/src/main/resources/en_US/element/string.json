@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UseSendable"
+    },
+    {
+      "name": "use_sendable",
+      "value": "Sendable Use Cases"
+    },
+    {
+      "name": "sendable_thread_share",
+      "value": "Sendable Thread Share"
+    },
+    {
+      "name": "producer_consumer_model",
+      "value": "Producer/Consumer Model"
+    },
+    {
+      "name": "start",
+      "value": "Start"
+    },
+    {
+      "name": "complete",
+      "value": "Complete"
+    },
+    {
+      "name": "pause",
+      "value": "Pause"
+    },
+    {
+      "name": "continue",
+      "value": "Continue"
+    },
+    {
+      "name": "button_one",
+      "value": "Main Thread Generates Log"
+    },
+    {
+      "name": "button_two",
+      "value": "Child Threads Produce Ten Logs"
+    },
+    {
+      "name": "button_three",
+      "value": "Long-term Production Logs"
+    },
+    {
+      "name": "button_four",
+      "value": "Stop Long Term Production Log"
+    },
+    {
+      "name": "button_five",
+      "value": "Consumer Thread Consumes"
+    },
+    {
+      "name": "button_six",
+      "value": "Two Consumer Threads Consume"
+    },
+    {
+      "name": "button_seven",
+      "value": "Stop Consumer Thread"
+    },
+    {
+      "name": "spring_story",
+      "value": "Spring Story"
+    },
+    {
+      "name": "summer_story",
+      "value": "Summer Story"
+    },
+    {
+      "name": "autumn_story",
+      "value": "Autumn Story"
+    },
+    {
+      "name": "winter_story",
+      "value": "Winter Story"
+    },
+    {
+      "name": "file_download_list",
+      "value": "File Download List"
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "routerMap": [
+    {
+      "name": "IntegratingWithArkts",
+      "pageSourceFile": "src/main/ets/pages/IntegratingWithArkts.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page1"
+      }
+    },
+    {
+      "name": "ListeningForComponentEvents",
+      "pageSourceFile": "src/main/ets/pages/ListeningForComponentEvents.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page2"
+      }
+    },
+    {
+      "name": "ListWithLazyLoading",
+      "pageSourceFile": "src/main/ets/pages/ListWithLazyLoading.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page3"
+      }
+    },
+    {
+      "name": "ListItemGroup",
+      "pageSourceFile": "src/main/ets/pages/ListItemGroup.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page4"
+      }
+    },
+    {
+      "name": "BuildingCustomComponents",
+      "pageSourceFile": "src/main/ets/pages/BuildingCustomComponents.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page5"
+      }
+    },
+    {
+      "name": "EmbeddingArkTSComponents",
+      "pageSourceFile": "src/main/ets/pages/EmbeddingArkTSComponents.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page6"
+      }
+    },
+    {
+      "name": "BuildingADialogBox",
+      "pageSourceFile": "src/main/ets/pages/BuildingADialogBox.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page7"
+      }
+    },
+    {
+      "name": "UsingPropertyAnimations",
+      "pageSourceFile": "src/main/ets/pages/UsingPropertyAnimations.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page8"
+      }
+    },
+    {
+      "name": "AppearDisappearTransitions",
+      "pageSourceFile": "src/main/ets/pages/AppearDisappearTransitions.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page9"
+      }
+    },
+    {
+      "name": "CombinedGestures",
+      "pageSourceFile": "src/main/ets/pages/CombinedGestures.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page10"
+      }
+    },
+    {
+      "name": "SequentialRecognition",
+      "pageSourceFile": "src/main/ets/pages/SequentialRecognition.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page11"
+      }
+    },
+    {
+      "name": "CustomGestureJudgment",
+      "pageSourceFile": "src/main/ets/pages/CustomGestureJudgment.ets",
+      "buildFunction": "PageBuilder",
+      "data": {
+        "description": "this is Page12"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "CPlusCallArkTSFunc",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "CPlusCallArkTSFuncAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "CPlusCallArkTSFuncAbility",
+        "srcEntry": "./ets/cpluscallarktsfuncability/CPlusCallArkTSFuncAbility.ets",
+        "description": "$string:CPlusCallArkTSFuncAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:CPlusCallArkTSFuncAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

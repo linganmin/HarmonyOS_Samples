@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "JSVM"
+    },
+    {
+      "name": "application_title",
+      "value": "Using the JSVM-API interface, create multiple engines to execute JS code and destroy them."
+    },
+    {
+      "name": "click_execute",
+      "value": "Click to execute."
+    }
+  ]
+}

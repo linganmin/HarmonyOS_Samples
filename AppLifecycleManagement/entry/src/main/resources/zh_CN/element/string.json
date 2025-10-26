@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AppLifecycleManagement"
+    },
+    {
+      "name": "page_title",
+      "value": "应用生命周期状态管理"
+    },
+    {
+      "name": "btn_exit_UIAbility",
+      "value": "退出当前UIAbility"
+    },
+    {
+      "name": "btn_app_exit",
+      "value": "退出应用"
+    },
+    {
+      "name": "btn_app_restart",
+      "value": "重启应用"
+    },
+    {
+      "name": "btn_to_background",
+      "value": "切换到后台（窗口最小化）"
+    }
+  ]
+}

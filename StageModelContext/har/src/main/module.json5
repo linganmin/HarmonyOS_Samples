@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "har",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

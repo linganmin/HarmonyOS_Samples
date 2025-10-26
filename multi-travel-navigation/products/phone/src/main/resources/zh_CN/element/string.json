@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "一多开发实例-地图导航"
+    },
+    {
+      "name": "FormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "FormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "form_desc",
+      "value": "This is a service widget."
+    },
+    {
+      "name": "form_display_name",
+      "value": "form"
+    },
+    {
+      "name": "reason",
+      "value": "getUserLocation"
+    },
+    {
+      "name": "textInput_holder",
+      "value": "搜索地点、地址、公交"
+    },
+    {
+      "name": "drive_form",
+      "value": "驾车"
+    },
+    {
+      "name": "metro_form",
+      "value": "公交地铁"
+    },
+    {
+      "name": "taxi_form",
+      "value": "打车"
+    },
+    {
+      "name": "bus_form",
+      "value": "实时公交"
+    },
+    {
+      "name": "hotel_form",
+      "value": "订酒店"
+    }
+  ]
+}

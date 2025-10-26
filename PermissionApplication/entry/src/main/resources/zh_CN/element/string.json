@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PermissionApplication"
+    },
+    {
+      "name": "location_reason",
+      "value": "为了向您展示您的当前位置信息，且该信息仅用于本应用的展示，并严格保密。"
+    },
+    {
+      "name": "obtain_location_permission",
+      "value": "\"获取当前位置\"需获取定位权限才能正常使用"
+    },
+    {
+      "name": "obtain_precise_positioning",
+      "value": "\"获取当前位置\"需获取精确定位权限才能获取精确位置。"
+    },
+    {
+      "name": "open_location_services",
+      "value": "\"获取当前位置\"需打开设备位置服务才能获取当前位置。"
+    },
+    {
+      "name": "current_location_text",
+      "value": "当前位置："
+    },
+    {
+      "name": "open_permission",
+      "value": "开启权限"
+    },
+    {
+      "name": "open_location_services_text",
+      "value": "开启位置服务"
+    },
+    {
+      "name": "get_current_location",
+      "value": "获取当前位置"
+    }
+  ]
+}

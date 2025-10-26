@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/IndexPage",
+    "pages/LoadInstallService",
+    "pages/LoadProduct",
+    "pages/LoadService",
+    "pages/GetAdsVerificationVersion",
+    "pages/GetSelfSceneCode",
+    "pages/CheckUpdatePage",
+    "pages/GetAppPrivacyMgmtInfo",
+    "pages/GetAppPrivacyResult",
+    "pages/DisableService"
+  ]
+}

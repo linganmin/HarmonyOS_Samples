@@ -1,0 +1,212 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CryptoCollection"
+    },
+    {
+      "name": "total_count",
+      "value": "共%d种"
+    },
+    {
+      "name": "encrypt_sample",
+      "value": "加密算法的Sample样例"
+    },
+    {
+      "name": "text_encrypted",
+      "value": "待加密文本"
+    },
+    {
+      "name": "after_encryption",
+      "value": "加密后"
+    },
+    {
+      "name": "detail",
+      "value": "详情"
+    },
+    {
+      "name": "encrypt_btn",
+      "value": "加解密"
+    },
+    {
+      "name": "signature_btn",
+      "value": "签名验签"
+    },
+    {
+      "name": "message_btn",
+      "value": "消息摘要"
+    },
+    {
+      "name": "code_btn",
+      "value": "消息认证码"
+    },
+    {
+      "name": "text_message_code",
+      "value": "输入需要HMAC的数据"
+    },
+    {
+      "name": "message_code_result",
+      "value": "计算结果："
+    },
+    {
+      "name": "text_signature",
+      "value": "输入需要签名的数据"
+    },
+    {
+      "name": "signature_result",
+      "value": "验签结果："
+    },
+    {
+      "name": "Signed",
+      "value": "签名"
+    },
+    {
+      "name": "signature_verification",
+      "value": "验签"
+    },
+    {
+      "name": "text_summary",
+      "value": "输入需要摘要的数据"
+    },
+    {
+      "name": "summary_result",
+      "value": "摘要结果："
+    },
+    {
+      "name": "SHA256",
+      "value": "SHA256计算摘要"
+    },
+    {
+      "name": "SHA256Segments",
+      "value": "SHA256分段计算摘要"
+    },
+    {
+      "name": "MD5",
+      "value": "MD5计算摘要"
+    },
+    {
+      "name": "SM3",
+      "value": "SM3计算摘要"
+    },
+    {
+      "name": "empty",
+      "value": ""
+    },
+    {
+      "name": "calculate_code",
+      "value": "AES128|SHA256 计算消息认证码"
+    },
+    {
+      "name": "calculate_seg_code",
+      "value": "AES128|SHA256 分段计算消息认证码"
+    },
+    {
+      "name": "rsa_pkcs1",
+      "value": "RSA PKCS1模式 签名验签"
+    },
+    {
+      "name": "rsa_pkcs1_seg",
+      "value": "RSA PKCS1模式 分段签名验签"
+    },
+    {
+      "name": "rsa_pass",
+      "value": "RSA PASS模式 签名验签"
+    },
+    {
+      "name": "ecdsa",
+      "value": "ECDSA密钥对签名验签"
+    },
+    {
+      "name": "sm2",
+      "value": "SM2密钥对签名验签"
+    },
+    {
+      "name": "AES_GCM",
+      "value": "AES GCM模式加解密"
+    },
+    {
+      "name": "AES_CBC",
+      "value": "AES CBC模式加解密"
+    },
+    {
+      "name": "AES_EBC",
+      "value": "AES ECB模式加解密"
+    },
+    {
+      "name": "3DES_EBC",
+      "value": "3DES ECB模式加解密"
+    },
+    {
+      "name": "SM4_EBC",
+      "value": "SM4 ECB模式加解密"
+    },
+    {
+      "name": "SM4_CBC",
+      "value": "SM4 CBC模式加解密"
+    },
+    {
+      "name": "RSA_PKCS1",
+      "value": "RSA PKCS1模式加解密"
+    },
+    {
+      "name": "RSA_PKCS1_OAEP",
+      "value": "RSA PKCS1_OAEP模式加解密"
+    },
+    {
+      "name": "SM2_crypto",
+      "value": "SM2 非对称密钥加解密"
+    },
+    {
+      "name": "rsa_dissymmetry_pkcs1",
+      "value": "RSA PKCS1非对称密钥分段加解密"
+    },
+    {
+      "name": "encrypted_text",
+      "value": "已加密文本"
+    },
+    {
+      "name": "decrypted_text",
+      "value": "已解密文本"
+    },
+    {
+      "name": "encrypt",
+      "value": "加密"
+    },
+    {
+      "name": "decrypt",
+      "value": "解密"
+    },
+    {
+      "name": "format_conversion",
+      "value": "SM2密钥格式转换"
+    },
+    {
+      "name": "format_error",
+      "value": "密文格式错误"
+    },
+    {
+      "name": "private_key",
+      "value": "16进制私钥"
+    },
+    {
+      "name": "public_key",
+      "value": "16进制公钥"
+    },
+    {
+      "name": "ASN_1",
+      "value": "ASN.1格式密文"
+    },
+    {
+      "name": "naked_ciphertext",
+      "value": "裸密文"
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CommonListFlows"
+    },
+    {
+      "name": "common_list",
+      "value": "常见列表流场景"
+    },
+    {
+      "name": "multiple_types_list",
+      "value": "多类型列表项场景"
+    },
+    {
+      "name": "top_tab_list",
+      "value": "Tab吸顶场景"
+    },
+    {
+      "name": "group_ceiling",
+      "value": "分组吸顶场景"
+    },
+    {
+      "name": "secondary_linkage",
+      "value": "二级联动场景"
+    },
+    {
+      "name": "beijing",
+      "value": "北京"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "scenic_area",
+      "value": "景区%d"
+    },
+    {
+      "name": "scenic_area_1",
+      "value": "景区1"
+    },
+    {
+      "name": "scenic_area_2",
+      "value": "景区2"
+    },
+    {
+      "name": "scenic_area_3",
+      "value": "景区3"
+    },
+    {
+      "name": "scenic_area_4",
+      "value": "景区4"
+    },
+    {
+      "name": "scenic_area_5",
+      "value": "景区5"
+    },
+    {
+      "name": "popular_scenic_spots",
+      "value": "热门景区"
+    },
+    {
+      "name": "recommended_scenic_spots",
+      "value": "景区推荐"
+    },
+    {
+      "name": "small_scale_scenic_spots",
+      "value": "小众景区"
+    },
+    {
+      "name": "icon_one",
+      "value": "图标1"
+    },
+    {
+      "name": "icon_two",
+      "value": "图标2"
+    },
+    {
+      "name": "icon_three",
+      "value": "图标3"
+    },
+    {
+      "name": "icon_four",
+      "value": "图标4"
+    },
+    {
+      "name": "icon_five",
+      "value": "图标5"
+    },
+    {
+      "name": "icon_six",
+      "value": "图标6"
+    },
+    {
+      "name": "icon_seven",
+      "value": "图标7"
+    },
+    {
+      "name": "icon_eight",
+      "value": "图标8"
+    },
+    {
+      "name": "icon_nine",
+      "value": "图标9"
+    },
+    {
+      "name": "icon_ten",
+      "value": "图标10"
+    },
+    {
+      "name": "group_discount",
+      "value": "多人组团特惠："
+    },
+    {
+      "name": "single_ticket_price",
+      "value": "单人票价："
+    },
+    {
+      "name": "fee1",
+      "value": "999￥"
+    },
+    {
+      "name": "fee2",
+      "value": "1999￥"
+    },
+    {
+      "name": "no_more_data",
+      "value": "已经到底啦"
+    },
+    {
+      "name": "loading_more",
+      "value": "正在加载更多..."
+    },
+    {
+      "name": "loading_data",
+      "value": "数据加载中..."
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "hot_search",
+      "value": "热搜"
+    },
+    {
+      "name": "recommend",
+      "value": "推荐"
+    },
+    {
+      "name": "more_investment",
+      "value": "更多投资"
+    },
+    {
+      "name": "futures_trading",
+      "value": "期货"
+    },
+    {
+      "name": "foundation",
+      "value": "基金"
+    },
+    {
+      "name": "insurance",
+      "value": "保险"
+    },
+    {
+      "name": "hot_search_content",
+      "value": "热搜的内容"
+    },
+    {
+      "name": "recommend_content",
+      "value": "推荐的内容"
+    },
+    {
+      "name": "more_content",
+      "value": "更多的内容"
+    },
+    {
+      "name": "search",
+      "value": "搜索"
+    },
+    {
+      "name": "want_search",
+      "value": "猜你想搜..."
+    },
+    {
+      "name": "tabBar1",
+      "value": "tabBar1"
+    },
+    {
+      "name": "tabBar2",
+      "value": "tabBar2"
+    },
+    {
+      "name": "tabBar2_content",
+      "value": "tabBar2 content"
+    },
+    {
+      "name": "tabBar3",
+      "value": "tabBar3"
+    },
+    {
+      "name": "tabBar3_content",
+      "value": "tabBar3 content"
+    },
+    {
+      "name": "tabBar4",
+      "value": "tabBar4"
+    },
+    {
+      "name": "tabBar4_content",
+      "value": "tabBar4 content"
+    },
+    {
+      "name": "tabBar5",
+      "value": "tabBar5"
+    },
+    {
+      "name": "tabBar5_content",
+      "value": "tabBar5 content"
+    },
+    {
+      "name": "manager_content",
+      "value": "育人之本，在于培根铸魂。思想政治理论课正是落实立德树人根本任务......"
+    },
+    {
+      "name": "current_city",
+      "value": "当前城市"
+    },
+    {
+      "name": "popular_cities",
+      "value": "热门城市"
+    },
+    {
+      "name": "security",
+      "value": "证券"
+    },
+    {
+      "name": "selected_clothing",
+      "value": "精选服饰"
+    },
+    {
+      "name": "selected_accessories",
+      "value": "精选饰品"
+    },
+    {
+      "name": "down_jackets",
+      "value": "羽绒服"
+    },
+    {
+      "name": "casual_shoes",
+      "value": "休闲鞋"
+    },
+    {
+      "name": "jacket",
+      "value": "上衣"
+    },
+    {
+      "name": "pants",
+      "value": "裤子"
+    },
+    {
+      "name": "sports_matching",
+      "value": "运动搭配"
+    },
+    {
+      "name": "same_style",
+      "value": "明星同款"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ResponseLayout"
+    },
+    {
+      "name": "tabs",
+      "value": "Bottom/Side Tabs Layout"
+    },
+    {
+      "name": "list",
+      "value": "List Layout"
+    },
+    {
+      "name": "grid",
+      "value": "Grid Layout"
+    },
+    {
+      "name": "swiper",
+      "value": "Swiper Layout"
+    },
+    {
+      "name": "water_flow",
+      "value": "Water Flow Layout"
+    },
+    {
+      "name": "sidebar",
+      "value": "Sidebar Layout"
+    },
+    {
+      "name": "double_column",
+      "value": "Double Column Layout"
+    },
+    {
+      "name": "triple_column",
+      "value": "Triple Column Layout"
+    },
+    {
+      "name": "move_layout",
+      "value": "Move Layout"
+    },
+    {
+      "name": "indented_layout",
+      "value": "Indented Layout"
+    },
+    {
+      "name": "tab_home",
+      "value": "home"
+    },
+    {
+      "name": "tab_category",
+      "value": "category"
+    },
+    {
+      "name": "tab_discovery",
+      "value": "find"
+    },
+    {
+      "name": "tab_shopping_bag",
+      "value": "bag"
+    },
+    {
+      "name": "tab_mine",
+      "value": "mine"
+    },
+    {
+      "name": "navigation_content_home",
+      "value": "Content area homepage"
+    },
+    {
+      "name": "navigation_bar",
+      "value": "Navigation bar"
+    },
+    {
+      "name": "song_list",
+      "value": "Song list"
+    },
+    {
+      "name": "side_bar",
+      "value": "Side bar"
+    },
+    {
+      "name": "main_page",
+      "value": "Main page"
+    },
+    {
+      "name": "song_description",
+      "value": "Song description"
+    },
+    {
+      "name": "playlist",
+      "value": "Playlist"
+    },
+    {
+      "name": "jump_content_home",
+      "value": "Jump to content homepage"
+    },
+    {
+      "name": "jump_content_detail",
+      "value": "Jump to content detail page"
+    },
+    {
+      "name": "sample_name",
+      "value": "Responsive Layout Based on Multi Capability"
+    }
+  ]
+}

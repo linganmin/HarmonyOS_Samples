@@ -1,0 +1,345 @@
+{
+  "float": [
+    {
+      "name": "service_fontSize",
+      "value": "20"
+    },
+    {
+      "name": "service_top",
+      "value": "25"
+    },
+    {
+      "name": "service_opacity",
+      "value": "0.4"
+    },
+    {
+      "name": "terms_fontSize",
+      "value": "15"
+    },
+    {
+      "name": "terms_lineHeight",
+      "value": "20"
+    },
+    {
+      "name": "terms_margin",
+      "value": "15"
+    },
+    {
+      "name": "service_fontWeight",
+      "value": "500"
+    },
+    {
+      "name": "bearing_width",
+      "value": "14"
+    },
+    {
+      "name": "bearing_height",
+      "value": "14"
+    },
+    {
+      "name": "bearing_top",
+      "value": "8"
+    },
+    {
+      "name": "button_width",
+      "value": "350"
+    },
+    {
+      "name": "button_height",
+      "value": "60"
+    },
+    {
+      "name": "button_top",
+      "value": "22"
+    },
+    {
+      "name": "column_left",
+      "value": "15"
+    },
+    {
+      "name": "index_find_bike",
+      "value": "45"
+    },
+    {
+      "name": "index_find_height",
+      "value": "20"
+    },
+    {
+      "name": "index_find_fontSize",
+      "value": "14"
+    },
+    {
+      "name": "index_find_width",
+      "value": "70"
+    },
+    {
+      "name": "index_find_row_height",
+      "value": "100"
+    },
+    {
+      "name": "index_find_blank",
+      "value": "13"
+    },
+    {
+      "name": "index_find_image_width",
+      "value": "10"
+    },
+    {
+      "name": "index_button_image_size",
+      "value": "20"
+    },
+    {
+      "name": "index_button_text_fontSize",
+      "value": "18"
+    },
+    {
+      "name": "index_button_position",
+      "value": "425"
+    },
+    {
+      "name": "index_button_border_radius",
+      "value": "20"
+    },
+    {
+      "name": "find_text_fontSize",
+      "value": "20"
+    },
+    {
+      "name": "find_text_fontSize_second",
+      "value": "15"
+    },
+    {
+      "name": "find_text_margin",
+      "value": "5"
+    },
+    {
+      "name": "find_image_height",
+      "value": "50"
+    },
+    {
+      "name": "find_image_width",
+      "value": "70"
+    },
+    {
+      "name": "find_image_right",
+      "value": "15"
+    },
+    {
+      "name": "find_image_bottom",
+      "value": "22"
+    },
+    {
+      "name": "find_image_top",
+      "value": "24"
+    },
+    {
+      "name": "find_button_size",
+      "value": "20"
+    },
+    {
+      "name": "find_button_text_fontSize",
+      "value": "18"
+    },
+    {
+      "name": "find_button_margin",
+      "value": "16"
+    },
+    {
+      "name": "find_border_radius",
+      "value": "32"
+    },
+    {
+      "name": "pay_text_fontSize",
+      "value": "20fp"
+    },
+    {
+      "name": "pay_text_fontSize_second",
+      "value": "12fp"
+    },
+    {
+      "name": "pay_text_fontSize_third",
+      "value": "16fp"
+    },
+    {
+      "name": "pay_text_fontSize_fourth",
+      "value": "15"
+    },
+    {
+      "name": "pay_text_fontSize_fifth",
+      "value": "14"
+    },
+    {
+      "name": "pay_text_fontSize_sixth",
+      "value": "40fp"
+    },
+    {
+      "name": "pay_text_opacity",
+      "value": "0.9"
+    },
+    {
+      "name": "pay_text_opacity_second",
+      "value": "0.6"
+    },
+    {
+      "name": "pay_text_height",
+      "value": "24"
+    },
+    {
+      "name": "pay_text_height_second",
+      "value": "16"
+    },
+    {
+      "name": "pay_blank",
+      "value": "33"
+    },
+    {
+      "name": "pay_margin_right",
+      "value": "16"
+    },
+    {
+      "name": "pay_margin_left",
+      "value": "14"
+    },
+    {
+      "name": "pay_margin_left_second",
+      "value": "16"
+    },
+    {
+      "name": "pay_margin_top",
+      "value": "20"
+    },
+    {
+      "name": "pay_margin_top_second",
+      "value": "17"
+    },
+    {
+      "name": "pay_image_height",
+      "value": "15"
+    },
+    {
+      "name": "pay_image_width",
+      "value": "20"
+    },
+    {
+      "name": "pay_margin_left_third",
+      "value": "16"
+    },
+    {
+      "name": "pay_text_height_third",
+      "value": "20"
+    },
+    {
+      "name": "pay_text_width_third",
+      "value": "14"
+    },
+    {
+      "name": "pay_fontSize_third",
+      "value": "14fp"
+    },
+    {
+      "name": "pay_border_radius",
+      "value": "32"
+    },
+    {
+      "name": "pay_button_height",
+      "value": "114vp"
+    },
+    {
+      "name": "pay_button_width",
+      "value": "46vp"
+    },
+    {
+      "name": "pay_margin_top_third",
+      "value": "16vp"
+    },
+    {
+      "name": "pay_margin_right_third",
+      "value": "16vp"
+    },
+    {
+      "name": "completed_image_height",
+      "value": "64"
+    },
+    {
+      "name": "completed_image_width",
+      "value": "64"
+    },
+    {
+      "name": "completed_margin_top",
+      "value": "24"
+    },
+    {
+      "name": "completed_margin_second",
+      "value": "24"
+    },
+    {
+      "name": "completed_fontSize",
+      "value": "18"
+    },
+    {
+      "name": "completed_fontSize_second",
+      "value": "12fp"
+    },
+    {
+      "name": "riding_fontSize",
+      "value": "20"
+    },
+    {
+      "name": "riding_margin_top",
+      "value": "25vp"
+    },
+
+    {
+      "name": "riding_margin_top_second",
+      "value": "16vp"
+    },
+    {
+      "name": "riding_margin_left",
+      "value": "16"
+    },
+    {
+      "name": "riding_text_height",
+      "value": "16vp"
+    },
+    {
+      "name": "riding_text_height_second",
+      "value": "40vp"
+    },
+    {
+      "name": "riding_text_height_third",
+      "value": "20vp"
+    },
+    {
+      "name": "riding_text_fontSize",
+      "value": "12vp"
+    },
+    {
+      "name": "riding_text_fontSize_second",
+      "value": "30vp"
+    },
+    {
+      "name": "riding_text_fontSize_third",
+      "value": "14fp"
+    },
+    {
+      "name": "riding_margin_left_third",
+      "value": "4vp"
+    },
+    {
+      "name": "margin_top",
+      "value": "20"
+    },
+    {
+      "name": "divider_opacity",
+      "value": "0.1"
+    },
+    {
+      "name": "pay_completed_bottom",
+      "value": "16"
+    },
+    {
+      "name": "pay_margin_left_fifth",
+      "value": "4vp"
+    }
+  ]
+}

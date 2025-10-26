@@ -1,0 +1,33 @@
+// FAQ:如何避免模块下文件打包进HAR包后，存在的不可预期的资料、配置或信息安全风险。
+// [Start obfuscation_set]
+{
+  "apiType": "stageMode",
+  "buildOption": {
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": true,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          }
+        }
+      }
+    },
+  ],
+  // [StartExclude obfuscation_set]
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest",
+    }
+  ],
+  // [EndExclude obfuscation_set]
+}
+// [End obfuscation_set]

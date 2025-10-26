@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "string_in_hsp1",
+      "value": "String in hsp1"
+    },
+    {
+      "name": "access_resource_har2",
+      "value": "访问har2中的资源"
+    },
+    {
+      "name": "access_resource_hsp2",
+      "value": "访问hsp2中的资源"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "app_desc",
+      "value": "ParentControlDemo"
+    },
+    {
+      "name": "parent_control_demo",
+      "value": "Parent Control Demo"
+    },
+    {
+      "name": "app_restrict_title",
+      "value": "Setting the list of restricted apps"
+    },
+    {
+      "name": "guard_strategy_title",
+      "value": "Guard Strategy"
+    },
+    {
+      "name": "effective_immediately_title",
+      "value": "Effective Immediately"
+    },
+    {
+      "name": "strategy_repeat_title",
+      "value": "Repeat Daily"
+    },
+    {
+      "name": "selected_apps_desc",
+      "value": "%d apps selected"
+    },
+    {
+      "name": "start_title",
+      "value": "Start"
+    },
+    {
+      "name": "delete_title",
+      "value": "Delete"
+    },
+    {
+      "name": "control_set_success_desc",
+      "value": "Control set successfully."
+    },
+    {
+      "name": "control_cancel_success_desc",
+      "value": "Control canceled."
+    }
+  ]
+}

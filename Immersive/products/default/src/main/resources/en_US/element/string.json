@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Immersive"
+    },
+    {
+      "name": "title",
+      "value": "Developing an Immersive Page"
+    },
+    {
+      "name": "router_title_expand",
+      "value": "Extend component security area"
+    },
+    {
+      "name": "router_title_fullscreen",
+      "value": "Use full-screen window"
+    },
+    {
+      "name": "router_title_shopping",
+      "value": "Mall case"
+    },
+    {
+      "name": "router_title_music",
+      "value": "Status bar color adaptation in dark mode"
+    },
+    {
+      "name": "router_title_video",
+      "value": "Hide status bar and navigation bar"
+    },
+    {
+      "name": "router_title_shopping_fullscreen",
+      "value": "Adapt to status bar and navigation bar"
+    },
+    {
+      "name": "router_title_game",
+      "value": "Adapt to notch display"
+    }
+  ]
+}

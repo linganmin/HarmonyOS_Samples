@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ComponentReuse"
+    },
+    {
+      "name": "index_same_list",
+      "value": "Reuse in the same list"
+    },
+    {
+      "name": "index_diff_list",
+      "value": "Reuse between multiple lists"
+    },
+    {
+      "name": "index_same_list_one_type",
+      "value": "List items of the same type"
+    },
+    {
+      "name": "index_same_list_multi_type",
+      "value": "List items of multiple types"
+    },
+    {
+      "name": "index_same_list_composable_type",
+      "value": "List items with composable components"
+    }
+  ]
+}

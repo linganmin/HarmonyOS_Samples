@@ -1,0 +1,7 @@
+{
+  "layered-image":
+  {
+    "background" : "$media:ic_background_wearable",
+    "foreground" : "$media:ic_foreground_wearable"
+  }
+}

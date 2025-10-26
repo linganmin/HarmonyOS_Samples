@@ -1,0 +1,248 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Image and Text Creation"
+    },
+    {
+      "name": "distributed_desc",
+      "value": "Allow the app to exchange data between different devices in the image-text editing scenario"
+    },
+    {
+      "name": "location_desc",
+      "value": "Allow the app to obtain the device's location information in the image-text editing scenario"
+    },
+    {
+      "name": "location_in_background_desc",
+      "value": "Allow the app to obtain the device's location information while running in the background in the image-text editing scenario"
+    },
+    {
+      "name": "approximately_location_desc",
+      "value": "Allow the app to obtain the device's approximate location information in the image-text editing scenario"
+    },
+    {
+      "name": "camera_desc",
+      "value": "Allow the app to use the camera for photography in the image-text editing scenario"
+    },
+    {
+      "name": "mic_desc",
+      "value": "Allow the app to use the microphone in the image-text editing scenario"
+    },
+    {
+      "name": "read_desc",
+      "value": "Allow the app to read images in the image-text editing scenario"
+    },
+    {
+      "name": "write_desc",
+      "value": "to save pictures"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Allow the app to use the Internet network in the image-text editing scenario"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "Allow the app to obtain data network information in the image-text editing scenario"
+    },
+    {
+      "name": "full_screen_20",
+      "value": "20%"
+    },
+    {
+      "name": "full_screen",
+      "value": "100%"
+    },
+    {
+      "name": "screen_height_60",
+      "value": "60%"
+    },
+    {
+      "name": "main_home",
+      "value": "Home"
+    },
+    {
+      "name": "main_shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "main_message",
+      "value": "Message"
+    },
+    {
+      "name": "main_mine",
+      "value": "mine"
+    },
+    {
+      "name": "home_follow",
+      "value": "Follow"
+    },
+    {
+      "name": "home_recommends",
+      "value": "Recommended"
+    },
+    {
+      "name": "home_same_city",
+      "value": "Same City"
+    },
+    {
+      "name": "author_1",
+      "value": "Leelook"
+    },
+    {
+      "name": "author_2",
+      "value": "Susu"
+    },
+    {
+      "name": "author_3",
+      "value": "Camus"
+    },
+    {
+      "name": "author_4",
+      "value": "Daphne"
+    },
+    {
+      "name": "favorites_number",
+      "value": "100+"
+    },
+    {
+      "name": "descriptions",
+      "value": "Please enjoy ~"
+    },
+    {
+      "name": "notes",
+      "value": "Send notes"
+    },
+    {
+      "name": "edit_image",
+      "value": "Edit image"
+    },
+    {
+      "name": "span_end",
+      "value": "View other devices"
+    },
+    {
+      "name": "edit_hold_txt",
+      "value": "Fill in the title"
+    },
+    {
+      "name": "category_1",
+      "value": "Wonderful"
+    },
+    {
+      "name": "category_2",
+      "value": "Chasing dramas"
+    },
+    {
+      "name": "category_3",
+      "value": "Holiday highlights"
+    },
+    {
+      "name": "category_4",
+      "value": "The little beauty of life"
+    },
+    {
+      "name": "edit_contents_hold_txt",
+      "value": "Say something"
+    },
+    {
+      "name": "topics",
+      "value": "#Topics"
+    },
+    {
+      "name": "buddy",
+      "value": "@friends"
+    },
+    {
+      "name": "location",
+      "value": "Location"
+    },
+    {
+      "name": "visible",
+      "value": "Visible to all"
+    },
+    {
+      "name": "save_drafts",
+      "value": "Save as draft"
+    },
+    {
+      "name": "publish_notes",
+      "value": "Post notes"
+    },
+    {
+      "name": "picker_all",
+      "value": "All"
+    },
+    {
+      "name": "picker_image",
+      "value": "Image"
+    },
+    {
+      "name": "picker_video",
+      "value": "Video"
+    },
+    {
+      "name": "picker_moving_photo",
+      "value": "Moving Photo"
+    },
+    {
+      "name": "local_front",
+      "value": "Local front"
+    },
+    {
+      "name": "local_back",
+      "value": "Local rear"
+    },
+    {
+      "name": "remote_front",
+      "value": "Remote front camera"
+    },
+    {
+      "name": "remote_back",
+      "value": "Remote rear camera"
+    },
+    {
+      "name": "template",
+      "value": "Templates"
+    },
+    {
+      "name": "album",
+      "value": "Albums"
+    },
+    {
+      "name": "texts",
+      "value": "Text"
+    },
+    {
+      "name": "take_photo",
+      "value": "Camera"
+    },
+    {
+      "name": "select_num",
+      "value": "Selected %s"
+    },
+    {
+      "name": "finish",
+      "value": "Finish"
+    },
+    {
+      "name": "search_hold",
+      "value": "Search..."
+    },
+    {
+      "name": "btn_edite_label",
+      "value": "edit"
+    },
+    {
+      "name": "toast_picker_limit",
+      "value": "A maximum of 18 images can be selected."
+    }
+  ]
+}

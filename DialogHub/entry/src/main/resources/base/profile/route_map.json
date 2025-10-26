@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "CommonExamples",
+      "pageSourceFile": "src/main/ets/pages/CommonExamples.ets",
+      "buildFunction": "CommonBuilder",
+      "data": {
+        "description": "This is CommonExamples"
+      }
+    },
+    {
+      "name": "OperableExample",
+      "pageSourceFile": "src/main/ets/pages/OperableExample.ets",
+      "buildFunction": "OperableBuilder",
+      "data": {
+        "description": "This is OperableExample"
+      }
+    },
+    {
+      "name": "ReuseExample",
+      "pageSourceFile": "src/main/ets/pages/ReuseExample.ets",
+      "buildFunction": "ReuseBuilder",
+      "data": {
+        "description": "This is ReuseExample"
+      }
+    },
+    {
+      "name": "MultiDialogExample",
+      "pageSourceFile": "src/main/ets/pages/MultiDialogExample.ets",
+      "buildFunction": "MultiDialogBuilder",
+      "data": {
+        "description": "This is MultiDialogExample"
+      }
+    },
+    {
+      "name": "SkipAction",
+      "pageSourceFile": "src/main/ets/pages/others/SkipAction.ets",
+      "buildFunction": "SkipActionBuilder",
+      "data": {
+        "description": "This is SkipAction"
+      }
+    }
+  ]
+}

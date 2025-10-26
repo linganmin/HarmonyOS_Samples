@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Network Management and Status Listening"
+    },
+    {
+      "name": "get_network_status",
+      "value": "Querying the Network Status"
+    },
+    {
+      "name": "current_network_status",
+      "value": "Current Network Status:"
+    },
+    {
+      "name": "check_current_network",
+      "value": "Check whether the current network is 3G/4G/5G"
+    },
+    {
+      "name": "current_network",
+      "value": "Current network is:"
+    },
+    {
+      "name": "check_radio_status",
+      "value": "Check whether the radio of the primary card is enabled"
+    },
+    {
+      "name": "radio_status",
+      "value": "Indicates whether the radio of the primary card is enabled:"
+    },
+    {
+      "name": "query_current_network_information",
+      "value": "Querying Current Network Information"
+    },
+    {
+      "name": "cellular_network_query",
+      "value": "Cellular Network Query"
+    },
+    {
+      "name": "wifi_query",
+      "value": "Wi-Fi query"
+    },
+    {
+      "name": "get_current_network_connection_type",
+      "value": "Obtains the current network connection type"
+    },
+    {
+      "name": "current_network_connection_type",
+      "value": "Current network connection type:"
+    },
+    {
+      "name": "check_network_is_available",
+      "value": "Check whether the current network is available"
+    },
+    {
+      "name": "network_is_available",
+      "value": "Whether the current network is available:"
+    },
+    {
+      "name": "query_route_and_link_information",
+      "value": "Query network route information and network link information"
+    },
+    {
+      "name": "route_and_link_information",
+      "value": "Network route information and network link information is as follows:"
+    },
+    {
+      "name": "query_Network_connection_information",
+      "value": "Querying Network Connection Information"
+    },
+    {
+      "name": "network_status_listening",
+      "value": "Network status monitoring"
+    },
+    {
+      "name": "network_unavailable_message",
+      "value": "The current network is unavailable. Check the network"
+    },
+    {
+      "name": "weak_network_environment_message",
+      "value": "You are in a weak network environment. You are advised to switch to another network"
+    },
+    {
+      "name": "simulate_network_unavailable",
+      "value": "Simulate network unavailable"
+    },
+    {
+      "name": "simulate_network_lost",
+      "value": "Simulate network loss"
+    },
+    {
+      "name": "simulate_network_disconnected_message",
+      "value": "The current network is disconnected. Check the network"
+    },
+    {
+      "name": "simulate_weak_network_environment",
+      "value": "Simulate a weak network environment"
+    },
+    {
+      "name": "weak_network_toggle_video",
+      "value": "The network is weak. Switch to another network or reduce the video definition"
+    },
+    {
+      "name": "Simulate_low_quality_network_environment",
+      "value": "Simulate a low-quality network environment"
+    },
+    {
+      "name": "low_quality_network_environment_message",
+      "value": "The network quality is low. Reduce the video definition"
+    },
+    {
+      "name": "toggle_video_to_low_definition",
+      "value": "Switch the video to low definition"
+    },
+    {
+      "name": "toggle_low_definition_message",
+      "value": "Switching succeeded. Low-definition video is being played"
+    },
+    {
+      "name": "toggle_definition_message_fail",
+      "value": "Switching failed. The current video is a low-definition video"
+    },
+    {
+      "name": "toggle_video_to_high_definition",
+      "value": "Switch video to high definition"
+    },
+    {
+      "name": "toggle_high_definition_message",
+      "value": "The switch is successful. The HD video is being played"
+    },
+    {
+      "name": "Check_wlan_is_enabled",
+      "value": "Check whether WLAN is enabled"
+    },
+    {
+      "name": "wlan_is_enabled",
+      "value": "Whether the WLAN is enabled："
+    },
+    {
+      "name": "Check_wlan_is_Connected",
+      "value": "Check whether the WLAN is connected"
+    },
+    {
+      "name": "wlan_is_Connected",
+      "value": "whether the WLAN is connected："
+    },
+    {
+      "name": "get_list_of_scanned_hotspots",
+      "value": "Obtains the list of scanned hotspots"
+    },
+    {
+      "name": "list_of_scanned_hotspots",
+      "value": "List of Scanned Hotspots:"
+    },
+    {
+      "name": "get_wifi_signal_strength",
+      "value": "Obtains the signal strength of the currently connected Wi-Fi network"
+    },
+    {
+      "name": "wifi_signal_strength",
+      "value": "Indicates the signal strength of the current Wi-Fi connection:"
+    },
+    {
+      "name": "add_candidate_network_configuration",
+      "value": "Add Candidate Network Configuration"
+    },
+    {
+      "name": "candidate_network_configuration",
+      "value": "Add candidate network configurations as follows:"
+    },
+    {
+      "name": "reason_set_wifi_info",
+      "value": "Set Wi-Fi info"
+    },
+    {
+      "name": "reason_get_wifi_info",
+      "value": "Get Wi-Fi info"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "Get network info"
+    }
+  ]
+}

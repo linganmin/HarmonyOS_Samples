@@ -1,0 +1,8 @@
+{
+  "string": [
+    {
+      "name": "reason_internet",
+      "value": "允许应用在HTTP请求场景中使用Internet网络"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Graphics3D"
+    },
+    {
+      "name": "loading",
+      "value": "Loading..."
+    },
+    {
+      "name": "remove_node",
+      "value": "remove node"
+    },
+    {
+      "name": "append_node",
+      "value": "append node"
+    },
+    {
+      "name": "insert_node",
+      "value": "insert node"
+    },
+    {
+      "name": "clear",
+      "value": "clear"
+    },
+    {
+      "name": "back",
+      "value": "back"
+    },
+    {
+      "name": "x_axis",
+      "value": "x axis: %s"
+    },
+    {
+      "name": "layer_mask",
+      "value": "layer mask"
+    },
+    {
+      "name": "scale_helmet",
+      "value": "scale helmet"
+    },
+    {
+      "name": "rotate_helmet",
+      "value": "rotate helmet"
+    },
+    {
+      "name": "rotate_parent",
+      "value": "rotate parent"
+    },
+    {
+      "name": "root_visible",
+      "value": "root visible"
+    },
+    {
+      "name": "near_plane",
+      "value": "nearPlane: %s"
+    },
+    {
+      "name": "far_plane",
+      "value": "farPlane: %s"
+    },
+    {
+      "name": "tonemap_exposure",
+      "value": "Tonemap Exposure: %s"
+    },
+    {
+      "name": "enabled",
+      "value": "enabled"
+    },
+    {
+      "name": "disabled",
+      "value": "disabled"
+    },
+    {
+      "name": "change_fov",
+      "value": "change fov"
+    },
+    {
+      "name": "change_tonemap_type",
+      "value": "Change Tonemap Type"
+    },
+    {
+      "name": "set_clear_color",
+      "value": "set clearColor"
+    },
+    {
+      "name": "change_color",
+      "value": "change color"
+    },
+    {
+      "name": "progress",
+      "value": "Progress: %s%"
+    },
+    {
+      "name": "sixty_percent",
+      "value": "60%"
+    },
+    {
+      "name": "duration",
+      "value": "Duration: %sS"
+    },
+    {
+      "name": "running",
+      "value": "Running: %s"
+    },
+    {
+      "name": "animation_enabled",
+      "value": "enabled: %s"
+    },
+    {
+      "name": "animation_invoked_callback",
+      "value": "animation invoked callback: %s"
+    },
+    {
+      "name": "start",
+      "value": "start"
+    },
+    {
+      "name": "pause",
+      "value": "pause"
+    },
+    {
+      "name": "stop",
+      "value": "stop"
+    },
+    {
+      "name": "finish",
+      "value": "finish"
+    },
+    {
+      "name": "restart",
+      "value": "restart"
+    },
+    {
+      "name": "seek",
+      "value": "seek to 30% progress"
+    },
+    {
+      "name": "change_env_img_type",
+      "value": "change env Img Type"
+    },
+    {
+      "name": "change_environment_map_factor",
+      "value": "change environmentMapFactor"
+    },
+    {
+      "name": "change_radiance_mg",
+      "value": "change radiance Img"
+    },
+    {
+      "name": "change_indirect_diffuse_factor",
+      "value": "change indirectDiffuseFactor"
+    },
+    {
+      "name": "change_indirect_specular_factor",
+      "value": "change indirectSpecularFactor"
+    },
+    {
+      "name": "change_irradiance_coefficients",
+      "value": "change irradianceCoefficients"
+    },
+    {
+      "name": "create_shader",
+      "value": "create shader and change material"
+    },
+    {
+      "name": "recovery_original_material",
+      "value": "recovery original material"
+    },
+    {
+      "name": "material_override",
+      "value": "material override"
+    },
+    {
+      "name": "container",
+      "value": "container"
+    },
+    {
+      "name": "node_base",
+      "value": "node_base"
+    },
+    {
+      "name": "node_camera",
+      "value": "node_camera"
+    },
+    {
+      "name": "node_light",
+      "value": "node_light"
+    },
+    {
+      "name": "scene_environment",
+      "value": "scene_environment"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "modelVersion": "5.0.0",
+  "license": "ISC",
+  "devDependencies": {},
+  "name": "locationService",
+  "description": "example description",
+  "version": "1.0.0",
+  "dependencies": {}
+}

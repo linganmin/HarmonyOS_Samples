@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "智能手表特性合集"
+    },
+    {
+      "name": "interconnection_communication",
+      "value": "手机手表互联通信"
+    },
+    {
+      "name": "Watch_sensor",
+      "value": "手表传感器（心率）"
+    },
+    {
+      "name": "Watch_sensor_toast",
+      "value": "请前往手表侧应用查看传感器功能"
+    },
+    {
+      "name": "sendMessage",
+      "value": "发送消息"
+    },
+    {
+      "name": "message_input",
+      "value": "请输入向手表发送的消息"
+    }
+  ]
+}

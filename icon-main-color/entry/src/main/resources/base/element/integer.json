@@ -1,0 +1,56 @@
+{
+  "integer": [
+    {
+      "name":"icon_item_padding_left",
+      "value": 12
+    },
+    {
+      "name":"icon_item_height",
+      "value": 72
+    },
+    {
+      "name":"icon_item_radius",
+      "value": 16
+    },
+    {
+      "name":"image_size_height",
+      "value": 48
+    },
+    {
+      "name":"image_size_width",
+      "value": 48
+    },
+    {
+      "name":"text_name_font_size",
+      "value": 16
+    },
+    {
+      "name":"text_description_font_size",
+      "value": 14
+    },
+    {
+      "name":"icon_column_height",
+      "value": 42
+    },
+    {
+      "name":"icon_column_margin_left",
+      "value": 12
+    },
+    {
+      "name":"icon_image_border_radius",
+      "value": 12
+    },
+    {
+      "name":"list_item_margin",
+      "value": 16
+    },
+    {
+      "name":"list_padding_top",
+      "value": 16
+    },
+    {
+      "name":"text_description_margin_top",
+      "value": 2
+    }
+  ]
+}

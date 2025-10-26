@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Special text recognition jump"
+    },
+    {
+      "name": "jump_scene",
+      "value": "Special text recognition jump"
+    },
+    {
+      "name": "common_link_jump_scenarios",
+      "value": "Jump scene"
+    },
+    {
+      "name": "text",
+      "value": "Come to my brother's house for a dinner party in the future. We can have some barbecue in the yard"
+    },
+    {
+      "name": "telephone_number",
+      "value": "This is my elder brother's contact information: 13112345678"
+    },
+    {
+      "name": "link",
+      "value": "Note the ingredients you want to eat in this link: https://develper.huawei.com"
+    },
+    {
+      "name": "email",
+      "value": "Remember to share the photos of the dinner party with this email address: xxx@example.com"
+    },
+    {
+      "name": "address",
+      "value": "His home address: Building A1, Future Science and Technology City"
+    },
+    {
+      "name": "date",
+      "value": "Dinner party time: 2025/04/09"
+    },
+    {
+      "name": "appLinking",
+      "value": "This map application is very useful. Come and have a try!: https://www.petalmaps.com"
+    }
+  ]
+}

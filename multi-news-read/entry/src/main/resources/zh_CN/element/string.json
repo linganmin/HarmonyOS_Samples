@@ -1,0 +1,172 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "新闻阅读"
+    },
+    {
+      "name": "project_name",
+      "value": "新闻阅读差异化开发内容"
+    },
+    {
+      "name": "hot_rank",
+      "value": "热榜"
+    },
+    {
+      "name": "font_family",
+      "value": "HarmonyHeiTi-Medium"
+    },
+    {
+      "name": "font_family_normal",
+      "value": "HarmonyHeiTi"
+    },
+    {
+      "name": "font_family_bold",
+      "value": "HarmonyHeiTi-Bold"
+    },
+    {
+      "name": "router_back",
+      "value": "返回"
+    },
+    {
+      "name": "repeated_layout_1",
+      "value": "重复布局1"
+    },
+    {
+      "name": "repeated_layout_2",
+      "value": "重复布局2"
+    },
+    {
+      "name": "list_to_grid",
+      "value": "列表变宫格"
+    },
+    {
+      "name": "animal_news_highlight",
+      "value": "重磅！这只动物又摊上大事了！或面临更多网友的投喂"
+    },
+    {
+      "name": "seaside_luxury_invitation",
+      "value": "来自海边风光的奢华之邀，一起体验面朝大海优雅时光"
+    },
+    {
+      "name": "special_architecture_showcase",
+      "value": "特别的建筑，你见过的有哪些？一起来看看吧"
+    },
+    {
+      "name": "music_world_tour_start",
+      "value": "音乐全球巡回演出｜第一站开始"
+    },
+    {
+      "name": "spectacular_waterfall",
+      "value": "这究竟是一条怎样的瀑布，如此之壮观"
+    },
+    {
+      "name": "flower_sea_attractions",
+      "value": "这片美丽的花海，这些宝藏打卡地点千万别错过！"
+    },
+    {
+      "name": "spiritual_nourishment_places",
+      "value": "如何成就更多心灵滋养地"
+    },
+    {
+      "name": "dog_raising_regulations",
+      "value": "涉及养犬规定！专家最新表态：细化管理，健全环境"
+    },
+    {
+      "name": "new_aircraft_debut",
+      "value": "新款飞机即将亮相航空展"
+    },
+    {
+      "name": "music_listening_experience",
+      "value": "音乐：专注地聆听音乐，感受动听的旋律"
+    },
+    {
+      "name": "spring_scenery",
+      "value": "绿水青山，花团锦簇：明媚的春天景象沁人心脾"
+    },
+    {
+      "name": "autumn_sun_wheat_field",
+      "value": "太阳一到秋天，就把它的光辉洒向麦田，麦子在风中摇摆着"
+    },
+    {
+      "name": "rabbit_in_mythology",
+      "value": "兔年说兔：兔子在古代为什么老是出现在神话中"
+    },
+    {
+      "name": "ai_in_education",
+      "value": "人工智能在教育事业中有哪些应用呢？老师会被AI取代吗？"
+    },
+    {
+      "name": "movable_house_travel",
+      "value": "带着房屋去旅行,真正意义上的“搬家”，说走就走的旅行"
+    },
+    {
+      "name": "panda_climbing_tree",
+      "value": "大熊猫解锁爬树新姿势，网友直呼萌翻了"
+    },
+    {
+      "name": "ecosystem_protection_effort",
+      "value": "为了保护整个生态系统的稳定和人类自身的利益，需要重点投入力、经费、设施才能交出了一份亮眼的答卷。而"
+    },
+    {
+      "name": "dog_management_discussion",
+      "value": "在不文明养犬引发众多问题的背景下，犬只伤人事件再次受到关注。广大网友对养犬管理问题进行了讨论，到底"
+    },
+    {
+      "name": "seaside_trip_relief",
+      "value": "习惯了城市生活的我们，或许去海边进行一趟旅行，可以缓解疲劳的心情，邀三五好友一起去感受一下海边的阳光"
+    },
+    {
+      "name": "aircraft_invention_significance",
+      "value": "飞机作为二十世纪的重大发明，日益成为现代出行不可缺少的工具，同时飞机制造领域涉及的专业也越来越多"
+    },
+    {
+      "name": "news_channel",
+      "value": "新闻频道"
+    },
+    {
+      "name": "media_news",
+      "value": "媒体新闻"
+    },
+    {
+      "name": "news_update_2_hours_ago",
+      "value": "2小时前"
+    },
+    {
+      "name": "news_update_1_hour_ago",
+      "value": "1小时前"
+    },
+    {
+      "name": "wildlife_protection_regulation",
+      "value": "野生动物保护: 规范管理"
+    },
+    {
+      "name": "celebrity_wedding_photos",
+      "value": "明星婚礼现场照曝光"
+    },
+    {
+      "name": "tea_miraculous_effects",
+      "value": "茶叶的神奇功效，青山枝叶绿"
+    },
+    {
+      "name": "campus_recruitment_hr",
+      "value": "校招高颜值HR火爆出圈"
+    },
+    {
+      "name": "waterfall_wonder",
+      "value": "壮丽的瀑布奇观"
+    },
+    {
+      "name": "anticipated_tv_series_premiere",
+      "value": "期待已久的电视剧开播了"
+    }
+  ]
+}

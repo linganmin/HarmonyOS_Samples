@@ -1,0 +1,7 @@
+{
+  "src": [
+    "pages/PhotoPage",
+    "pages/EditPage",
+    "pages/IndexPage"
+  ]
+}

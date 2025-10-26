@@ -1,0 +1,34 @@
+{
+  "shortcuts": [
+    {
+      "shortcutId": "id_house",
+      "label": "$string:Go_to_house",
+      "icon": "$media:houseCuts",
+      "wants": [
+        {
+          "bundleName": "com.example.desktopshortcuts",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "shortCutKey": "HousePage"
+          }
+        }
+      ]
+    },
+    {
+      "shortcutId": "id_company",
+      "label": "$string:Go_to_company",
+      "icon": "$media:companyCuts",
+      "wants": [
+        {
+          "bundleName": "com.example.desktopshortcuts",
+          "moduleName": "entry",
+          "abilityName": "EntryAbility",
+          "parameters": {
+            "shortCutKey": "CompanyPage"
+          }
+        }
+      ]
+    }
+  ]
+}

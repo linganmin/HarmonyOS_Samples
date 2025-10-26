@@ -1,0 +1,16 @@
+{
+  "integer": [
+    {
+      "name": "in_tab_bar_width",
+      "value": 84
+    },
+    {
+      "name": "select_tabs_component_width",
+      "value": 320
+    },
+    {
+      "name": "search_bar_button_width",
+      "value": 90
+    }
+  ]
+}

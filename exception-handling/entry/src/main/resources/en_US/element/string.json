@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "application_exception_crash_event",
+      "value": "Create app crash event"
+    },
+    {
+      "name": "application_exception_freeze_event",
+      "value": "Create app suspension event"
+    },
+    {
+      "name": "application_exception_application_fault_title",
+      "value": "Obtain app exception information"
+    },
+    {
+      "name": "application_exception_application_fault_description",
+      "value": "Build an exception event, and the event is triggered 3s later. Start the app and open the current page. About 1 minute later, the last abnormal exit information is displayed."
+    },
+    {
+      "name": "application_exception_crash_event_message",
+      "value": "The crash event is triggered 3s later. Start the app and open the current page to obtain the last abnormal exit information."
+    },
+    {
+      "name": "application_exception_freeze_event_message",
+      "value": "The suspension event is triggered 3s later. Start the app and open the current page to obtain the last abnormal exit information."
+    },
+    {
+      "name": "application_exception_no_message",
+      "value": "None"
+    },
+    {
+      "name": "application_exception_data_delay_toast",
+      "value": "The data is updated in about 1-3 minutes."
+    }
+  ]
+}

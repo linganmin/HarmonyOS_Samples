@@ -1,0 +1,84 @@
+{
+  "routerMap": [
+    {
+      "name": "Bottom/SideTabs",
+      "pageSourceFile": "src/main/ets/pages/TabsLayout.ets",
+      "buildFunction": "TabsBuilder",
+      "data": {
+        "description" : "This is tabs page."
+      }
+    },
+    {
+      "name": "DoubleColumn",
+      "pageSourceFile": "src/main/ets/pages/DoubleColumnLayout.ets",
+      "buildFunction": "DoubleColumnBuilder",
+      "data": {
+        "description" : "This is double column page."
+      }
+    },
+    {
+      "name": "Grid",
+      "pageSourceFile": "src/main/ets/pages/GridLayout.ets",
+      "buildFunction": "GridBuilder",
+      "data": {
+        "description" : "This is grid page."
+      }
+    },
+    {
+      "name": "IndentedLayout",
+      "pageSourceFile": "src/main/ets/pages/IndentedLayout.ets",
+      "buildFunction": "IndentedBuilder",
+      "data": {
+        "description" : "This is indented layout page."
+      }
+    },
+    {
+      "name": "List",
+      "pageSourceFile": "src/main/ets/pages/ListLayout.ets",
+      "buildFunction": "ListBuilder",
+      "data": {
+        "description" : "This is list page."
+      }
+    },
+    {
+      "name": "MoveLayout",
+      "pageSourceFile": "src/main/ets/pages/MoveLayout.ets",
+      "buildFunction": "MoveBuilder",
+      "data": {
+        "description" : "This is move layout page."
+      }
+    },
+    {
+      "name": "Sidebar",
+      "pageSourceFile": "src/main/ets/pages/SidebarLayout.ets",
+      "buildFunction": "SidebarBuilder",
+      "data": {
+        "description" : "This is sidebar page."
+      }
+    },
+    {
+      "name": "Swiper",
+      "pageSourceFile": "src/main/ets/pages/SwiperLayout.ets",
+      "buildFunction": "SwiperBuilder",
+      "data": {
+        "description" : "This is swiper page."
+      }
+    },
+    {
+      "name": "TripleColumn",
+      "pageSourceFile": "src/main/ets/pages/TripleColumnLayout.ets",
+      "buildFunction": "TripleColumnBuilder",
+      "data": {
+        "description" : "This is triple column page."
+      }
+    },
+    {
+      "name": "WaterFlow",
+      "pageSourceFile": "src/main/ets/pages/WaterFlowLayout.ets",
+      "buildFunction": "WaterFlowBuilder",
+      "data": {
+        "description" : "This is water flow page."
+      }
+    }
+  ]
+}

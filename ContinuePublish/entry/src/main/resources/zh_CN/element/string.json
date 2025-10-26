@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "内容发布"
+    },
+    {
+      "name": "richEditor_placeholder",
+      "value": "点击输入正文......"
+    },
+    {
+      "name": "text_posts",
+      "value": "内容发布"
+    },
+    {
+      "name": "add_local",
+      "value": "添加位置"
+    },
+    {
+      "name": "topic",
+      "value": "话题"
+    },
+    {
+      "name": "text_input_placeholder",
+      "value": "添加标题更容易被推荐（选填）"
+    },
+    {
+      "name": "add_high_img",
+      "value": "添加优质首图"
+    },
+    {
+      "name": "trigger_event",
+      "value": "功能待开发"
+    },
+    {
+      "name": "add_picture_prompt",
+      "value": "添加图片达到上限"
+    },
+    {
+      "name": "continue_add",
+      "value": "继续添加"
+    },
+    {
+      "name": "image_add",
+      "value": "添加已达上限"
+    },
+    {
+      "name": "default_location",
+      "value": "武汉XX路%d楼"
+    },
+    {
+      "name": "permission_location_in_background",
+      "value": "在加载位置信息列表时，允许应用在后台运行时获取设备位置信息"
+    },
+    {
+      "name": "permission_location",
+      "value": "在加载位置信息列表时，允许应用获取设备位置信息"
+    },
+    {
+      "name": "permission_approximately_location",
+      "value": "在加载位置信息列表时，允许应用获取设备模糊位置信息"
+    },
+    {
+      "name": "permission_read_pasteboard",
+      "value": "允许应用读取剪贴板"
+    },
+    {
+      "name": "permission_read_imagevideo",
+      "value": "允许读取用户公共目录的图片或视频文件"
+    },
+    {
+      "name": "permission_distributed_datasync",
+      "value": "允许不同设备间的数据交换。"
+    },
+    {
+      "name": "copy",
+      "value": "复制"
+    },
+    {
+      "name": "paste",
+      "value": "粘贴"
+    },
+    {
+      "name": "primary_title",
+      "value": "获取图片"
+    },
+    {
+      "name": "local_device",
+      "value": "从本地设备获取"
+    },
+    {
+      "name": "remote_device",
+      "value": "从其他设备获取"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/FunctionPage",
+    "pages/StoragePage",
+    "pages/CloudDatabasePage",
+    "pages/CloudResPrefetchPage"
+  ]
+}

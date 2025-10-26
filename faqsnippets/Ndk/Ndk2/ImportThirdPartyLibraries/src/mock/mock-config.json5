@@ -1,0 +1,5 @@
+{
+  "libimportthirdpartylibraries.so": {
+    "source": "src/mock/Libimportthirdpartylibraries.mock.ets"
+  }
+}

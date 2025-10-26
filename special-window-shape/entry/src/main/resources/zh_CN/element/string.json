@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SpecialWindowShape"
+    },
+    {
+      "name": "text_close_sub_window",
+      "value": "关闭"
+    },
+    {
+      "name": "title_index",
+      "value": "PC/2in1异形窗口开发"
+    },
+    {
+      "name": "figure_shape_window",
+      "value": "图形形状窗口"
+    },
+    {
+      "name": "irregular_shape_window",
+      "value": "不规则形状窗口"
+    },
+    {
+      "name": "create_circle_sub_window",
+      "value": "创建圆形子窗口"
+    },
+    {
+      "name": "create_triangle_sub_window",
+      "value": "创建三角形子窗口"
+    },
+    {
+      "name": "create_image_shape_window",
+      "value": "创建图片形状子窗口"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "appSelected": {
+    "appId": "6917577979570431044",
+    "appName": "意图框架习惯推荐常用推新",
+    "deviceTypes": [
+      {
+        "deviceType": 4
+      }
+    ],
+    "enableSites": "CN",
+    "installationFree": 0,
+    "packageType": 7,
+    "projectId": "461323198430090695",
+    "projectName": "意图推荐",
+    "siteId": "CN"
+  },
+  "teamId": "80086000302418208"
+}

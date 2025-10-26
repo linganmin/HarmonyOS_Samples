@@ -1,0 +1,348 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "welfare_title",
+      "value": "Welfare"
+    },
+    {
+      "name": "recommend_title",
+      "value": "Recommend"
+    },
+    {
+      "name": "button_text_add_to_cart",
+      "value": "Add to cart"
+    },
+    {
+      "name": "button_text_buying",
+      "value": "Buy"
+    },
+    {
+      "name": "product_info_title",
+      "value": "【In Stock, Fast Delivery】HUAWEI Mate X5 12GB+512GB Phantom Purple"
+    },
+    {
+      "name": "product_info_content",
+      "value": "【Huawei Super New Season】1. Limited-time offer: Free smart view case worth 299 yuan with purchase. 2. Student verification discount of 100 yuan (pull down for details). 3. Trade-in for up to 500 yuan subsidy | Click to learn more about selected phones >> Ultra-clear dual mirror screens | Ultra-lightweight quad-foldable design."
+    },
+    {
+      "name": "product_info_type",
+      "value": "Mate X5:"
+    },
+    {
+      "name": "product_info_des",
+      "value": "Limited offer: Free Earbuds Lite"
+    },
+    {
+      "name": "faq_title",
+      "value": "Frequently Asked Questions(12)"
+    },
+    {
+      "name": "faq_more",
+      "value": "More"
+    },
+    {
+      "name": "faq_label",
+      "value": "Question"
+    },
+    {
+      "name": "button_more_text",
+      "value": "More"
+    },
+    {
+      "name": "button_vouchers",
+      "value": "Get Coupon Now"
+    },
+    {
+      "name": "discount_info",
+      "value": "Enjoy up to 12 installments with 0% interest."
+    },
+    {
+      "name": "discount_time",
+      "value": "Time left until the end: 07:14:50."
+    },
+    {
+      "name": "discount_button_text",
+      "value": "Discount"
+    },
+    {
+      "name": "faq_list_all",
+      "value": "All loaded."
+    },
+    {
+      "name": "faq_list_statistic",
+      "value": "Total of 12 questions."
+    },
+    {
+      "name": "product_labels_1",
+      "value": "Top Picks"
+    },
+    {
+      "name": "product_labels_2",
+      "value": "Limited-time price cut: 800 yuan off"
+    },
+    {
+      "name": "product_labels_3",
+      "value": "Trade-in subsidy"
+    },
+    {
+      "name": "faq_list_title",
+      "value": "Frequently Asked Questions"
+    },
+    {
+      "name": "faq_data_question_1",
+      "value": "Support satellite communication?"
+    },
+    {
+      "name": "faq_data_question_2",
+      "value": "What's the charging power?"
+    },
+    {
+      "name": "faq_data_question_3",
+      "value": "Support air control?"
+    },
+    {
+      "name": "faq_data_question_4",
+      "value": "Support the camera's treasure chest?"
+    },
+    {
+      "name": "faq_data_question_5",
+      "value": "Support the adaptive UI engine?"
+    },
+    {
+      "name": "faq_data_question_6",
+      "value": "Support 3D dynamic weather screen-off display?"
+    },
+    {
+      "name": "faq_data_question_7",
+      "value": "Support Huawei Share?"
+    },
+    {
+      "name": "faq_data_question_8",
+      "value": "Camera parameters"
+    },
+    {
+      "name": "faq_data_question_9",
+      "value": "Support wireless reverse charging?"
+    },
+    {
+      "name": "faq_data_question_10",
+      "value": "Support face payment?"
+    },
+    {
+      "name": "faq_data_question_11",
+      "value": "Battery Capacity"
+    },
+    {
+      "name": "faq_data_question_12",
+      "value": "Screen type?"
+    },
+    {
+      "name": "faq_data_answer_1",
+      "value": "HUAWEI Mate X5 features two-way Beidou satellite messaging, enabling message transmission without ground network signals, ensuring secure two-way communication between sender and receiver."
+    },
+    {
+      "name": "faq_data_answer_2",
+      "value": "HUAWEI Mate X5 supports up to 66W (11V/6A) super fast charging, compatible with 10V/4A, 10V/2.25A, 4.5V/5A, or 5V/4.5A super fast charging, and 9V/2A fast charging; also supports 50W Huawei wireless super fast charging."
+    },
+    {
+      "name": "faq_data_answer_3",
+      "value": "HUAWEI Mate X5's dual screens support air gesture control, enabling screenshot and scroll operations with gestures."
+    },
+    {
+      "name": "faq_data_answer_4",
+      "value": "HUAWEI Mate X5 supports Camera Toolbox, allowing quick access to enable or disable camera features."
+    },
+    {
+      "name": "faq_data_answer_5",
+      "value": "HUAWEI Mate X5 supports the Adaptive UI Engine, which is Huawei's original large-screen page layout optimization solution, effectively enhancing the overall visual experience."
+    },
+    {
+      "name": "faq_data_answer_6",
+      "value": "HUAWEI Mate X5 supports 3D dynamic weather display, which can be set to the weather display, which is more convenient to check the weather."
+    },
+    {
+      "name": "faq_data_answer_7",
+      "value": "HUAWEI Mate X5 supports Huawei sharing, allowing you to quickly share files such as pictures, videos, and documents wirelessly between devices that support this function."
+    },
+    {
+      "name": "faq_data_answer_8",
+      "value": "HUAWEI Mate X5 internal and external screen front single-camera 8 megapixel camera (F2.4 aperture), 50 megapixel super sensing camera +13 megapixel super wide Angle camera +12 megapixel hidden telephoto camera."
+    },
+    {
+      "name": "faq_data_answer_9",
+      "value": "HUAWEI Mate X5 supports 7.5W wireless reverse charging, which can charge devices that support wireless charging."
+    },
+    {
+      "name": "faq_data_answer_10",
+      "value": "HUAWEI Mate X5 supports face payment. After entering the face information, secure payment can be made through the face."
+    },
+    {
+      "name": "faq_data_answer_11",
+      "value": "HUAWEI Mate X5 is equipped with the industry's large 5060mAh (typical value) high-silicon negative maximum battery, which brings greater energy density and makes the battery life better"
+    },
+    {
+      "name": "faq_data_answer_12",
+      "value": "HUAWEI Mate X5 features an OLED external screen and a foldable flexible OLED internal screen. With Huawei's immersive display technology, both screens deliver excellent color accuracy and true-to-life brightness, creating an exceptional display experience for a foldable phone."
+    },
+    {
+      "name": "price_start",
+      "value": "+"
+    },
+    {
+      "name": "home_tip_text_1",
+      "value": "Coupon price"
+    },
+    {
+      "name": "home_tip_text_2",
+      "value": "More"
+    },
+    {
+      "name": "home_tip_text_3",
+      "value": "New product"
+    },
+    {
+      "name": "home_nav_bar_text_1",
+      "value": "HUAWEI"
+    },
+    {
+      "name": "home_nav_bar_text_2",
+      "value": "AITO car"
+    },
+    {
+      "name": "home_nav_bar_text_3",
+      "value": "HUAWEI Smart"
+    },
+    {
+      "name": "home_nav_bar_text_4",
+      "value": "Ecological periphery"
+    },
+    {
+      "name": "home_category_title_1",
+      "value": "Smart office"
+    },
+    {
+      "name": "home_category_title_2",
+      "value": "Smart home"
+    },
+    {
+      "name": "home_category_title_3",
+      "value": "HUAWEI phone"
+    },
+    {
+      "name": "home_category_title_4",
+      "value": "Video"
+    },
+    {
+      "name": "home_category_title_5",
+      "value": "Sport"
+    },
+    {
+      "name": "home_category_title_6",
+      "value": "AITO car"
+    },
+    {
+      "name": "home_category_title_7",
+      "value": "HUAWEI Smart"
+    },
+    {
+      "name": "home_category_title_8",
+      "value": "HarmonyOS Connect"
+    },
+    {
+      "name": "home_category_title_9",
+      "value": "Enterprise commercial"
+    },
+    {
+      "name": "home_category_title_10",
+      "value": "House intelligence"
+    },
+    {
+      "name": "home_recommend_title_1",
+      "value": "MateBook X Pro 12th Gen"
+    },
+    {
+      "name": "home_recommend_title_2",
+      "value": "HUAWEI Mate 50"
+    },
+    {
+      "name": "home_recommend_title_3",
+      "value": "Sound X NEW"
+    },
+    {
+      "name": "home_recommend_title_4",
+      "value": "HUAWEI MatePad Air"
+    },
+    {
+      "name": "home_recommend_title_5",
+      "value": "HUAWEI MateBook 14s"
+    },
+    {
+      "name": "home_recommend_info_1",
+      "value": ""
+    },
+    {
+      "name": "home_recommend_info_2",
+      "value": "Beidou Satellite Message | Low Battery Emergency Mode"
+    },
+    {
+      "name": "home_recommend_info_3",
+      "value": ""
+    },
+    {
+      "name": "home_recommend_info_4",
+      "value": "144Hz high-cut full screen"
+    },
+    {
+      "name": "home_recommend_info_5",
+      "value": "32GB Large Memory | 13th Gen Core Processor"
+    },
+    {
+      "name": "home_recommend_feature_1",
+      "value": "V1-V5 discount 400 RMB /12 periods interest-free"
+    },
+    {
+      "name": "home_recommend_feature_2",
+      "value": "A new generation of straight screen flagship"
+    },
+    {
+      "name": "home_recommend_feature_3",
+      "value": "Max Province 100"
+    },
+    {
+      "name": "home_recommend_feature_4",
+      "value": "Limited time straight down 300"
+    },
+    {
+      "name": "home_recommend_feature_5",
+      "value": "Max Province 300"
+    },
+    {
+      "name": "home_recommend_comment",
+      "value": "2571 reviews 95% positive"
+    },
+    {
+      "name": "tab_bar_title_1",
+      "value": "Home"
+    },
+    {
+      "name": "tab_bar_title_2",
+      "value": "Classification"
+    },
+    {
+      "name": "tab_bar_title_3",
+      "value": "Discover"
+    },
+    {
+      "name": "tab_bar_title_4",
+      "value": "Cart"
+    },
+    {
+      "name": "tab_bar_title_5",
+      "value": "Mine"
+    }
+  ]
+}

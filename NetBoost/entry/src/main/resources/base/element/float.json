@@ -1,0 +1,148 @@
+{
+  "float": [
+    {
+      "name": "page_text_font_size",
+      "value": "30fp"
+    },
+    {
+      "name": "title_bar_default_height",
+      "value": "56vp"
+    },
+    {
+      "name": "size_18fp",
+      "value": "18fp"
+    },
+    {
+      "name": "size_26fp",
+      "value": "26fp"
+    },
+    {
+      "name": "size_8vp",
+      "value": "8vp"
+    },
+    {
+      "name": "size_12vp",
+      "value": "12vp"
+    },
+    {
+      "name": "size_3vp",
+      "value": "3vp"
+    },
+    {
+      "name": "size_72vp",
+      "value": "72vp"
+    },
+    {
+      "name": "size_4vp",
+      "value": "4vp"
+    },
+    {
+      "name": "size_13vp",
+      "value": "13vp"
+    },
+    {
+      "name": "size_16vp",
+      "value": "16vp"
+    },
+    {
+      "name": "size_2vp",
+      "value": "2vp"
+    },
+    {
+      "name": "size_14vp",
+      "value": "2vp"
+    },
+    {
+      "name": "size_38vp",
+      "value": "38vp"
+    },
+    {
+      "name": "size_22vp",
+      "value": "22vp"
+    },
+    {
+      "name": "size_5vp",
+      "value": "5vp"
+    },
+    {
+      "name": "size_16fp",
+      "value": "16fp"
+    },
+    {
+      "name": "size_14fp",
+      "value": "14fp"
+    },
+    {
+      "name": "size_19vp",
+      "value": "19vp"
+    },
+    {
+      "name": "size_35vp",
+      "value": "35vp"
+    },
+    {
+      "name": "size_21vp",
+      "value": "21vp"
+    },
+    {
+      "name": "size_40vp",
+      "value": "40vp"
+    },
+    {
+      "name": "size_20vp",
+      "value": "20vp"
+    },
+    {
+      "name": "size_28vp",
+      "value": "28vp"
+    },
+    {
+      "name": "size_23vp",
+      "value": "23vp"
+    },
+    {
+      "name": "size_24vp",
+      "value": "24vp"
+    },
+    {
+      "name": "size_48vp",
+      "value": "48vp"
+    },
+    {
+      "name": "size_24fp",
+      "value": "24fp"
+    },
+    {
+      "name": "size_32vp",
+      "value": "32vp"
+    },
+    {
+      "name": "size_50vp",
+      "value": "50vp"
+    },
+    {
+      "name": "size_64vp",
+      "value": "64vp"
+    },
+    {
+      "name": "size_94vp",
+      "value": "94vp"
+    },
+    {
+      "name": "size_76vp",
+      "value": "76vp"
+    },
+    {
+      "name": "size_36vp",
+      "value": "36vp"
+    },
+    {
+      "name": "size_56vp",
+      "value": "56vp"
+    },
+    {
+      "name": "size_10_5vp",
+      "value": "10.5vp"
+    }
+  ]
+}

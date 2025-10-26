@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Remote communication platform"
+    },
+    {
+      "name": "reason",
+      "value": "Used to introduce the network request capability of RCP using the Internet network."
+    },
+    {
+      "name": "title",
+      "value": "Network Request of RCP"
+    },
+    {
+      "name": "base_request",
+      "value": "Basic request"
+    },
+    {
+      "name": "multipart_form",
+      "value": "Multiple form submission"
+    },
+    {
+      "name": "request_response",
+      "value": "Request and response interception"
+    },
+    {
+      "name": "dns_setting",
+      "value": "DNS settings"
+    },
+    {
+      "name": "tracing_point",
+      "value": "Capture detailed information about HTTP request/response flows"
+    },
+    {
+      "name": "patch_request",
+      "value": "Initiate PATCH request"
+    },
+    {
+      "name": "patch_request_param",
+      "value": "The parameters related to PATCH request are as follows:"
+    },
+    {
+      "name": "set_baseAddress",
+      "value": "Set the base address of the URL in the session"
+    },
+    {
+      "name": "set_baseAddress_success",
+      "value": "BaseAddress is:"
+    },
+    {
+      "name": "form_title",
+      "value": "Form:"
+    },
+    {
+      "name": "input_name",
+      "value": "Please enter your name："
+    },
+    {
+      "name": "form_one",
+      "value": "Form 1"
+    },
+    {
+      "name": "choose_hobbies",
+      "value": "Please choose your interests and hobbies:"
+    },
+    {
+      "name": "choose_all",
+      "value": "Select all"
+    },
+    {
+      "name": "basketball",
+      "value": "Basketball"
+    },
+    {
+      "name": "football",
+      "value": "Football"
+    },
+    {
+      "name": "badminton",
+      "value": "Badminton"
+    },
+    {
+      "name": "form_two",
+      "value": "Form 2"
+    },
+    {
+      "name": "submit",
+      "value": "Submit"
+    },
+    {
+      "name": "submit_data",
+      "value": "Submitting data from multiple forms："
+    },
+    {
+      "name": "custom_dns",
+      "value": "Customize DNS Server"
+    },
+    {
+      "name": "set_custom_dns",
+      "value": "Customize DNS Server as:"
+    },
+    {
+      "name": "static_dns",
+      "value": "Customize static DNS"
+    },
+    {
+      "name": "set_static_dns",
+      "value": "Customize static DNS as:"
+    },
+    {
+      "name": "dns_over_http",
+      "value": "Configure DNS on HTTP"
+    },
+    {
+      "name": "set_dns_over_http",
+      "value": "The DNS on HTTP is"
+    },
+    {
+      "name": "get_image",
+      "value": "Get image"
+    },
+    {
+      "name": "image_url",
+      "value": "Image request address："
+    },
+    {
+      "name": "enable_request_caching",
+      "value": "enable request caching"
+    },
+    {
+      "name": "configuration_information",
+      "value": "Collect detailed configuration information"
+    },
+    {
+      "name": "information",
+      "value": "The detailed information collection configuration is as follows:"
+    }
+  ]
+}

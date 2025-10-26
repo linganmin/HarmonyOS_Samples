@@ -1,0 +1,15 @@
+/* . For the class selector, all components with the class attribute set to "container" will apply this style. */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 466px;
+    height: 466px;
+}
+/* # For the ID selector, the component with the ID "title" will apply this style. */
+#title {
+    font-size: 30px;
+    text-align: center;
+    width: 200px;
+    height: 100px;
+}

@@ -1,0 +1,92 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "input_font_color",
+      "value": "#99ffffff"
+    },
+    {
+      "name": "input_background_color",
+      "value": "#33ffffff"
+    },
+    {
+      "name": "des_font_color",
+      "value": "#e6ffffff"
+    },
+    {
+      "name": "des_time_font_color",
+      "value": "#99FFFFFF"
+    },
+    {
+      "name": "font_color",
+      "value": "#aaaaaa"
+    },
+    {
+      "name": "background_color",
+      "value": "#e8e8e8"
+    },
+    {
+      "name": "white_opacity_1_color",
+      "value": "#1AFFFFFF"
+    },
+    {
+      "name": "white_opacity_8_color",
+      "value": "#CCFFFFFF"
+    },
+    {
+      "name": "time_color",
+      "value": "#bbbbbb"
+    },
+    {
+      "name": "up_color",
+      "value": "#ff3300"
+    },
+    {
+      "name": "button_fill_color",
+      "value": "#FF0A59F7"
+    },
+    {
+      "name": "image_fill_color",
+      "value": "#99000000"
+    },
+    {
+      "name": "toggle",
+      "value": "#1A1A1A"
+    },
+    {
+      "name": "speed_dialog",
+      "value": "#33bab4b4"
+    },
+    {
+      "name": "scale_font_color",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "dialog_title_color",
+      "value": "#e5ffffff"
+    },
+    {
+      "name": "dialog_text_color",
+      "value": "#99ffffff"
+    },
+    {
+      "name": "dialog_cancel_color",
+      "value": "#ff317af7"
+    },
+    {
+      "name": "dialog_background_color",
+      "value": "#ff202224"
+    },
+    {
+      "name": "videoList_text_color",
+      "value": "#e6ffffff"
+    },
+    {
+      "name": "progress_background_color",
+      "value": "#33000000"
+    }
+  ]
+}

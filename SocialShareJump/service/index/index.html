@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="css/detail.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detail</title>
+  </head>
+  <body>
+    <script>
+      // [Start web_index_redirect
+      // entry/src/main/resources/rawfile/index/index.html
+      window.onload = function() {
+        let urlSearchParams = new URLSearchParams(window.location.search);
+        let aid = urlSearchParams.get('aid');
+        window.location.href = "https://m.example.com/detail?aid="+aid;
+      };
+      // [End web_index_redirect]
+    </script>
+  </body>
+</html>

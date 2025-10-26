@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/MainIndex",
+    "pages/DataSourceIndex",
+    "pages/AuthIndex",
+    "pages/SamplePointIndex",
+    "pages/HealthSequenceIndex",
+    "pages/ExerciseSequenceIndex",
+    "pages/WorkoutIndex"
+  ]
+}

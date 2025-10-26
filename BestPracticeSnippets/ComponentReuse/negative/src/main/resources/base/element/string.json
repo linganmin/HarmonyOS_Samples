@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "NegativeAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "NegativeAbility_label",
+      "value": "label"
+    }
+  ]
+}

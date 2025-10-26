@@ -1,0 +1,93 @@
+{
+  "objectTypeName": "user_push_token",
+  "fields": [
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "id",
+      "notNull": true,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "LongAutoIncrement"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "device_id",
+      "notNull": true,
+      "isSensitive": false,
+      "belongPrimaryKey": true,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "user_id",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "push_token",
+      "notNull": true,
+      "isSensitive": false,
+      "defaultValue": "",
+      "belongPrimaryKey": false,
+      "fieldType": "String"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "state",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "Integer"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "create_time",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "Date"
+    },
+    {
+      "isNeedEncrypt": false,
+      "fieldName": "update_time",
+      "notNull": false,
+      "isSensitive": false,
+      "belongPrimaryKey": false,
+      "fieldType": "Date"
+    }
+  ],
+  "indexes": [],
+  "permissions": [
+    {
+      "role": "World",
+      "rights": [
+        "Read"
+      ]
+    },
+    {
+      "role": "Authenticated",
+      "rights": [
+        "Read"
+      ]
+    },
+    {
+      "role": "Creator",
+      "rights": [
+        "Read",
+        "Upsert",
+        "Delete"
+      ]
+    },
+    {
+      "role": "Administrator",
+      "rights": [
+        "Read",
+        "Upsert",
+        "Delete"
+      ]
+    }
+  ]
+}

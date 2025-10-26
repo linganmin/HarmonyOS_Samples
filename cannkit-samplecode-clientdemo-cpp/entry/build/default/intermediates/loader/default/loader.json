@@ -1,0 +1,22 @@
+{
+  "modulePathMap": {
+    "entry": "D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp\\entry"
+  },
+  "compileMode": "esmodule",
+  "projectRootPath": "D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp",
+  "nodeModulesPath": "D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp\\entry\\build\\default\\intermediates\\loader_out\\default\\node_modules",
+  "byteCodeHarInfo": {},
+  "declarationEntry": [],
+  "moduleName": "entry",
+  "hspNameOhmMap": {},
+  "harNameOhmMap": {},
+  "packageManagerType": "ohpm",
+  "compileEntry": [],
+  "otherCompileFiles": [],
+  "dynamicImportLibInfo": {},
+  "routerMap": [],
+  "hspResourcesMap": {},
+  "updateVersionInfo": {},
+  "anBuildOutPut": "D:\\test\\CANNkit-Codelab-Clientdemo-cpp0\\CANNkit-Codelab-Clientdemo-cpp\\CANNkit-Codelab-Clientdemo-cpp\\entry\\build\\default\\intermediates\\loader_out\\default\\an\\arm64-v8a",
+  "anBuildMode": "type"
+}

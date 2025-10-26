@@ -1,0 +1,33 @@
+/*
+* FAQ:如何实现通过调用其他已安装的应用来打开特定文件
+ */
+
+// [Start module_want]
+{
+  "module": {
+    // ...
+    "abilities": [
+      {
+        // ...
+        "skills": [
+          {
+            "actions": [
+              "ohos.want.action.viewData" // Declaration of Data Processing Capability
+            ],
+            "uris": [
+              {
+                // Allow opening Word files in URI that start with the file://protocol to identify the local file
+                "scheme": "file",
+                "type": "application/msword", // Indicates supported file types for opening
+                "linkFeature": "FileOpen" // The function of this URI is to open files
+              }
+              // ...
+            ]
+            // ...
+          }
+        ]
+      }
+    ]
+  }
+}
+// [End module_want]

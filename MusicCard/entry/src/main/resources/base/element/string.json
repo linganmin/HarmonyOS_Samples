@@ -1,0 +1,228 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MusicCard"
+    },
+    {
+      "name": "reason_background",
+      "value": "Allow applications to use the ability to run in the background while playing music scenes."
+    },
+    {
+      "name": "collect",
+      "value": "Favorites list"
+    },
+    {
+      "name": "PhoneFormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "PhoneFormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "widget_display_name_lyrics",
+      "value": "Lyrics Card"
+    },
+    {
+      "name": "widget_dynamic_lyrics",
+      "value": "DynamicLyrics"
+    },
+    {
+      "name": "recommended",
+      "value": "Recommended"
+    },
+    {
+      "name": "widget_desc_lyrics",
+      "value": "Lyrics that make your heart tick"
+    },
+    {
+      "name": "widget_desc_dynamic_lyrics",
+      "value": "Dynamically Changing Lyrics"
+    },
+    {
+      "name": "recommended_playlists",
+      "value": "Recommended playlists"
+    },
+    {
+      "name": "widget_desc_recommended",
+      "value": "Recommended your liked"
+    },
+    {
+      "name": "widget_display_name_control",
+      "value": "Music player"
+    },
+    {
+      "name": "widget_desc_control",
+      "value": "Music player card"
+    },
+    {
+      "name": "hot_playlists",
+      "value": "Hot Playlists"
+    },
+    {
+      "name": "my_collect",
+      "value": "My Favorites"
+    },
+    {
+      "name": "hot_music",
+      "value": "Hot Music"
+    },
+    {
+      "name": "play_all",
+      "value": "Play All (%1$d)"
+    },
+    {
+      "name": "collected_label_synthesis",
+      "value": "Synthesis"
+    },
+    {
+      "name": "collected_label_single",
+      "value": "Single"
+    },
+    {
+      "name": "collected_label_video",
+      "value": "Video"
+    },
+    {
+      "name": "collected_label_playlists",
+      "value": "Playlists"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_mine",
+      "value": "Mine"
+    },
+    {
+      "name": "your_liked_music",
+      "value": "Your liked music"
+    },
+    {
+      "name": "pure_music_no_lyric",
+      "value": "This song is pure music, please enjoy"
+    },
+    {
+      "name": "current_play_list",
+      "value": "The current playlist(%1$d)"
+    },
+    {
+      "name": "card_playlists_desc",
+      "value": "This playlist is all very good"
+    },
+    {
+      "name": "hot_playlist1",
+      "value": "Hot playlist 1"
+    },
+    {
+      "name": "hot_playlist2",
+      "value": "Hot playlist 2"
+    },
+    {
+      "name": "hot_playlist3",
+      "value": "Hot playlist 3"
+    },
+    {
+      "name": "hot_playlist4",
+      "value": "Hot playlist 4"
+    },
+    {
+      "name": "successfully_added_to_desktop",
+      "value": "Successfully added to desktop"
+    },
+    {
+      "name": "error_added_to_desktop",
+      "value": "Adding to desktop failed, please try other ways to add"
+    },
+    {
+      "name": "long_pressc_btn",
+      "value": "Long press to add to desktop"
+    },
+    {
+      "name": "add_desktop_widget",
+      "value": "Add Desktop Widget"
+    },
+    {
+      "name": "pure_music",
+      "value": "This song is pure music, please enjoy it"
+    },
+    {
+      "name": "dream_it_possible",
+      "value": "Dream It Possible"
+    },
+    {
+      "name": "china_is_promising",
+      "value": "China is promising"
+    },
+    {
+      "name": "remain_true_to_our_original_aspiration",
+      "value": "Remain true to our original aspiration"
+    },
+    {
+      "name": "i_got_it",
+      "value": "I got it!"
+    },
+    {
+      "name": "ha_ha_ha",
+      "value": "Ha ha ha"
+    },
+    {
+      "name": "study_hard",
+      "value": "Study hard"
+    },
+    {
+      "name": "when_will_the_moon_be_clear_and_bright",
+      "value": "When will the moon be clear and bright"
+    },
+    {
+      "name": "serious",
+      "value": "serious"
+    },
+    {
+      "name": "Delacey",
+      "value": "Delacey"
+    },
+    {
+      "name": "guitar",
+      "value": "guitar"
+    },
+    {
+      "name": "zhang_san",
+      "value": "Zhang San"
+    },
+    {
+      "name": "li_si",
+      "value": "Li Si"
+    },
+    {
+      "name": "wang_wu",
+      "value": "Wang Wu"
+    },
+    {
+      "name": "zhao_liu",
+      "value": "Zhao Liu"
+    },
+    {
+      "name": "ming_yi",
+      "value": "Ming Yi"
+    },
+    {
+      "name": "ming_yi_s",
+      "value": "Ming YiT"
+    },
+    {
+      "name": "music_image",
+      "value": "words"
+    }
+  ]
+}

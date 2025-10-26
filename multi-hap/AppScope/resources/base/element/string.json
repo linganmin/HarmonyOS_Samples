@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "MultiHap"
+    },
+    {
+      "name": "reason",
+      "value": "Used for online video playback scenarios using the Internet network."
+    }
+  ]
+}

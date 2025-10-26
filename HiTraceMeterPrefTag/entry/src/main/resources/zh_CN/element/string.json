@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HiTraceMeterPerfTag"
+    },
+    {
+      "name": "Update_component_title",
+      "value": "title %d"
+    },
+    {
+      "name": "Module_title",
+      "value": "HiTraceMeter性能打点"
+    },
+    {
+      "name": "ArkTSPerfTag_Button",
+      "value": "ArkTS侧执行耗时计算"
+    },
+    {
+      "name": "ArkTSPerfTag_Toast",
+      "value": "ArkTS侧执行耗时计算已完成，请通过DevEco Studio或者命令行查看HiTraceMeter打点信息"
+    },
+    {
+      "name": "ArkTSPerfTag_Title",
+      "value": "ArkTS侧HiTraceMeter打点"
+    },
+    {
+      "name": "ComponentCBPerfTag_Title",
+      "value": "组件回调耗时HiTraceMeter打点"
+    },
+    {
+      "name": "LifeCyclePerfTag_Title",
+      "value": "生命周期耗时HiTraceMeter打点"
+    },
+    {
+      "name": "NativePerfTag_Button",
+      "value": "Native侧执行耗时计算"
+    },
+    {
+      "name": "NativePerfTag_Toast",
+      "value": "Native侧执行耗时计算已完成，请通过DevEco Studio或者命令行查看HiTraceMeter打点信息"
+    },
+    {
+      "name": "NativePerfTag_Title",
+      "value": "Native侧HiTraceMeter打点"
+    },
+    {
+      "name": "ComponentCBPerfTag_Button",
+      "value": "ScrollToIndex: 1900"
+    }
+  ]
+}

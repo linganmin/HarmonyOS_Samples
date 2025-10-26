@@ -1,0 +1,24 @@
+
+/*
+* FAQ:如何实现相机关闭
+*/
+
+// [Start CloseSession]
+// Stop the current session
+  photoSession.stop();
+
+// Release camera input stream
+  cameraInput.close();
+
+// Release preview output stream
+  previewOutput.release();
+
+// Release the photo output stream
+  photoOutput.release();
+
+// Release session
+  photoSession.release();
+
+// Session left blank
+  photoSession = undefined;
+// [End CloseSession]

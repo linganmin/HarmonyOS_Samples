@@ -1,0 +1,5 @@
+{
+  "libcpplib.so": {
+    "source": "src/mock/Libcpplib.mock.ets"
+  }
+}

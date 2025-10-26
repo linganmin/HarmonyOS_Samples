@@ -1,0 +1,1392 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "LiveViewKitSample"
+    },
+    {
+      "name": "Index_title",
+      "value": "Live Notification Experience"
+    },
+    {
+      "name": "Index_delivery",
+      "value": "Instant Delivery"
+    },
+    {
+      "name": "Delivery_title",
+      "value": "Instant Delivery"
+    },
+    {
+      "name": "Delivery_tips",
+      "value": "Note: By default, the progress is refreshed every 15 seconds. You can click \"Update Progress\" to speed up the refresh."
+    },
+    {
+      "name": "Split_text",
+      "value": "-----The following are special scenarios-----"
+    },
+    {
+      "name": "Delivery_submit",
+      "value": "Submitting an Order"
+    },
+    {
+      "name": "Delivery_update",
+      "value": "Update Progress"
+    },
+    {
+      "name": "Delivery_stop",
+      "value": "End Order"
+    },
+    {
+      "name": "Delivery_default_primary_title",
+      "value": "Pay now, expected delivery at 23:49"
+    },
+    {
+      "name": "Delivery_default_primary_content1",
+      "value": "Coffee"
+    },
+    {
+      "name": "Delivery_default_primary_content2",
+      "value": "and 1 more item"
+    },
+    {
+      "name": "Delivery_default_layout_title",
+      "value": "Amount to be paid"
+    },
+    {
+      "name": "Delivery_default_layout_content",
+      "value": "CNY 25.5"
+    },
+    {
+      "name": "Delivery_default_capsule_title",
+      "value": "To be paid"
+    },
+    {
+      "name": "Delivery_merchant_primary_title",
+      "value": "Expected delivery at 23:49"
+    },
+    {
+      "name": "Delivery_merchant_primary_content1",
+      "value": "Waiting for the merchant to get the order."
+    },
+    {
+      "name": "Delivery_merchant_primary_content2",
+      "value": "It would be automatically canceled at 03:20 if not received."
+    },
+    {
+      "name": "Delivery_merchant_capsule_title",
+      "value": "To be accepted"
+    },
+    {
+      "name": "Delivery_rider_primary_content1",
+      "value": "Order accepted,"
+    },
+    {
+      "name": "Delivery_rider_primary_content2",
+      "value": "looking for a rider."
+    },
+    {
+      "name": "Delivery_rider_capsule_title",
+      "value": "Order accepted"
+    },
+    {
+      "name": "Delivery_order_capsule_title",
+      "value": "Delivery order capsule title"
+    },
+    {
+      "name": "Delivery_order_primary_content1",
+      "value": "Offerings ready，"
+    },
+    {
+      "name": "Delivery_order_primary_content2",
+      "value": "rider is heading to the store"
+    },
+    {
+      "name": "Delivery_store_primary_content1",
+      "value": "Offerings ready，"
+    },
+    {
+      "name": "Delivery_store_primary_content2",
+      "value": "rider has arrived the store"
+    },
+    {
+      "name": "Delivery_product_primary_title",
+      "value": "Expected delivery in 5 minutes"
+    },
+    {
+      "name": "Delivery_product_primary_content1",
+      "value": "The rider is delivering"
+    },
+    {
+      "name": "Delivery_product_capsule_title",
+      "value": "Order delivering"
+    },
+    {
+      "name": "Delivery_cabinet_primary_title",
+      "value": "Placed in the pick-up cabinet"
+    },
+    {
+      "name": "Delivery_cabinet_primary_content1",
+      "value": "Cabinet "
+    },
+    {
+      "name": "Delivery_cabinet_primary_content3",
+      "value": "Pick-up code "
+    },
+    {
+      "name": "Delivery_cabinet_capsule_title",
+      "value": "To be picked-up"
+    },
+    {
+      "name": "Delivery_delivered_primary_title",
+      "value": "Offerings delivered"
+    },
+    {
+      "name": "Delivery_delivered_primary_content1",
+      "value": "Thank you."
+    },
+    {
+      "name": "Delivery_delivered_primary_content2",
+      "value": "See you next time."
+    },
+    {
+      "name": "Delivery_delivered_capsule_title",
+      "value": "Delivered"
+    },
+    {
+      "name": "Taxi_travel",
+      "value": "Take a taxi for travel"
+    },
+    {
+      "name": "Taxi_title",
+      "value": "Take a taxi for travel"
+    },
+    {
+      "name": "Calling_title",
+      "value": "Call the vehicle"
+    },
+    {
+      "name": "Calling_content",
+      "value": "Summoning driver, expected to receive order within three minutes"
+    },
+    {
+      "name": "Calling_capsule_title",
+      "value": "Wait order"
+    },
+    {
+      "name": "About_to_begin_title",
+      "value": "The itinerary is about to begin"
+    },
+    {
+      "name": "About_to_begin_content",
+      "value": "The driver expected to arrive at the designated location in 5 minutes"
+    },
+    {
+      "name": "About_to_begin_layout_title",
+      "value": "Plate number"
+    },
+    {
+      "name": "About_to_begin_layout_content",
+      "value": "SU AD88888"
+    },
+    {
+      "name": "About_to_begin_capsule_title",
+      "value": "Received order"
+    },
+    {
+      "name": "Driver_on_the_way_title",
+      "value": "The driver is on his way"
+    },
+    {
+      "name": "Driver_on_the_way_capsule_title",
+      "value": "During the pick-up process"
+    },
+    {
+      "name": "Driver_arrive_title",
+      "value": "The driver has arrived at the boarding point"
+    },
+    {
+      "name": "Driver_arrive_content",
+      "value": "AITO M5 new enerty丨Master Zeng"
+    },
+    {
+      "name": "Heading_to_destination_title",
+      "value": "Going to destination"
+    },
+    {
+      "name": "Heading_to_destination_content1",
+      "value": "Expected to arrive at destination at "
+    },
+    {
+      "name": "Heading_to_destination_content2",
+      "value": "23:49"
+    },
+    {
+      "name": "Heading_to_destination_capsule_title",
+      "value": "During the itinerary"
+    },
+    {
+      "name": "Completed_title",
+      "value": "End of itinerary"
+    },
+    {
+      "name": "Completed_content",
+      "value": "The passenger has been delivered"
+    },
+    {
+      "name": "Completed_capsule_title",
+      "value": "End of itinerary"
+    },
+    {
+      "name": "Taxi_pend_payment_title",
+      "value": "Pending payment"
+    },
+    {
+      "name": "Taxi_pend_payment_content",
+      "value": "Arrived at the designated location, awaiting payment"
+    },
+    {
+      "name": "Taxi_for_payment_capsule_title",
+      "value": "Wait payment"
+    },
+    {
+      "name": "Order_completed_title",
+      "value": "Order completed"
+    },
+    {
+      "name": "Order_completed_content",
+      "value": "Wishing you a pleasant journey"
+    },
+    {
+      "name": "Order_completed_layout_title",
+      "value": "Completed"
+    },
+    {
+      "name": "Order_completed_layout_content",
+      "value": "Order completed"
+    },
+    {
+      "name": "Order_completed_capsule_title",
+      "value": "Completed"
+    },
+    {
+      "name": "Train_travel",
+      "value": "Train travel"
+    },
+    {
+      "name": "Train_title",
+      "value": "Train travel"
+    },
+    {
+      "name": "Train_submit",
+      "value": "Submitting an Order"
+    },
+    {
+      "name": "Train_update",
+      "value": "Update Progress"
+    },
+    {
+      "name": "Train_stop",
+      "value": "End Order"
+    },
+    {
+      "name": "Train_tips",
+      "value": "Note: By default, the progress is refreshed every 15 seconds. You can click \"Update Progress\" to speed up the refresh."
+    },
+    {
+      "name": "Train_number",
+      "value": "| Train number G1"
+    },
+    {
+      "name": "Train_number_two",
+      "value": "| Train number G2"
+    },
+    {
+      "name": "Depart_title",
+      "value": "Plan to depart"
+    },
+    {
+      "name": "Depart_content1",
+      "value": "Ticket Check "
+    },
+    {
+      "name": "Depart_content2",
+      "value": "6B "
+    },
+    {
+      "name": "Depart_content3",
+      "value": "| Seat "
+    },
+    {
+      "name": "Depart_content4",
+      "value": "12F Car03"
+    },
+    {
+      "name": "Depart_layout_first_title",
+      "value": "16:00"
+    },
+    {
+      "name": "Depart_layout_first_title_two",
+      "value": "20:20"
+    },
+    {
+      "name": "Depart_layout_first_content",
+      "value": "Shanghai Hongqiao"
+    },
+    {
+      "name": "Depart_layout_last_title",
+      "value": "19:00"
+    },
+    {
+      "name": "Depart_layout_last_title_two",
+      "value": "23:20"
+    },
+    {
+      "name": "Depart_layout_last_content",
+      "value": "Hankou"
+    },
+    {
+      "name": "Depart_layout_text",
+      "value": "Stop ticket checking 5 minutes before the train departs"
+    },
+    {
+      "name": "Depart_capsule_title",
+      "value": "Plan to depart"
+    },
+    {
+      "name": "Passed_security_check_title",
+      "value": "Checked and inspected"
+    },
+    {
+      "name": "Passed_security_check_capsule_title",
+      "value": "Checked and inspected"
+    },
+    {
+      "name": "Ticket_check_title",
+      "value": "Train ticket checking reminder"
+    },
+    {
+      "name": "Ticket_check_capsule_title",
+      "value": "Ticket checking in progress"
+    },
+    {
+      "name": "Checked_title",
+      "value": "Ticket checked"
+    },
+    {
+      "name": "Checked_capsule_title",
+      "value": "Ticket checked"
+    },
+    {
+      "name": "Check_in_closed_title",
+      "value": "Stop ticket checking"
+    },
+    {
+      "name": "Check_in_closed_capsule_title",
+      "value": "Stop ticket checking"
+    },
+    {
+      "name": "Set_off_title",
+      "value": "During the itinerary"
+    },
+    {
+      "name": "Set_off_content1",
+      "value": "Expected to arrive at Hankou Station in"
+    },
+    {
+      "name": "Set_off_content2",
+      "value": "5 hours and 20 minutes"
+    },
+    {
+      "name": "Set_off_content3",
+      "value": "Arrived at Hankou station"
+    },
+    {
+      "name": "Set_off_capsule_title",
+      "value": "During the itinerary"
+    },
+    {
+      "name": "Set_off_break_title",
+      "value": "Parking in progress"
+    },
+    {
+      "name": "Set_off_break_content1",
+      "value": "Plan to depart in "
+    },
+    {
+      "name": "Set_off_break_content2",
+      "value": "5 minutes"
+    },
+    {
+      "name": "Set_off_break_content3",
+      "value": "Set off break content3"
+    },
+    {
+      "name": "Set_off_break_capsule_title",
+      "value": "Parking in progress"
+    },
+    {
+      "name": "Set_off_continue_title",
+      "value": "During the itinerary"
+    },
+    {
+      "name": "Set_off_continue_content1",
+      "value": "Expected to arrive at Hankou Station in"
+    },
+    {
+      "name": "Set_off_continue_content2",
+      "value": "3 hours and 20 minutes"
+    },
+    {
+      "name": "Set_off_continue_content3",
+      "value": "Arrived at Hankou station"
+    },
+    {
+      "name": "Set_off_continue_capsule_title",
+      "value": "During the itinerary"
+    },
+    {
+      "name": "Arrived_title",
+      "value": "The train has arrived"
+    },
+    {
+      "name": "Arrived_content",
+      "value": "Please pack your luggage and prepare to disembark"
+    },
+    {
+      "name": "Arrived_capsule_title",
+      "value": "Arrived"
+    },
+    {
+      "name": "Train_delayed",
+      "value": "Train delay"
+    },
+    {
+      "name": "Train_rescheduling",
+      "value": "ticket changes"
+    },
+    {
+      "name": "Train_delay_title",
+      "value": "Train delay"
+    },
+    {
+      "name": "Train_delay_capsule_title",
+      "value": "Train delay"
+    },
+    {
+      "name": "Train_reschedule_title",
+      "value": "Already rescheduled"
+    },
+    {
+      "name": "Train_reschedule_capsule_title",
+      "value": "Already rescheduled"
+    },
+    {
+      "name": "Train_refund_ticket",
+      "value": "Refund a ticket"
+    },
+    {
+      "name": "Train_cancellation",
+      "value": "Train shutdown"
+    },
+    {
+      "name": "Train_Suspend",
+      "value": "Train_suspend"
+    },
+    {
+      "name": "Train_refund_ticket_title",
+      "value": "Refund received"
+    },
+    {
+      "name": "Train_cancel_title",
+      "value": "Train shutdown"
+    },
+    {
+      "name": "Call_queue",
+      "value": "Call_queue"
+    },
+    {
+      "name": "Queue_title",
+      "value": "Call_queue"
+    },
+    {
+      "name": "Queue_submit",
+      "value": "Call_queue"
+    },
+    {
+      "name": "Queue_update",
+      "value": "Update Progress"
+    },
+    {
+      "name": "Queue_stop",
+      "value": "End_queue"
+    },
+    {
+      "name": "Queue_tips",
+      "value": "Note: By default, the progress is refreshed every 15 seconds. You can click \"Update Progress\" to speed up the refresh."
+    },
+    {
+      "name": "Queue_wait_title",
+      "value": "Large table with 4 people  wait 32 seats"
+    },
+    {
+      "name": "Queue_wait_Content1",
+      "value": "Waiting "
+    },
+    {
+      "name": "Queue_wait_Content2",
+      "value": " | Expected to take more than 30 minutes "
+    },
+    {
+      "name": "Queue_waiting_call_layout_title",
+      "value": "Queue number"
+    },
+    {
+      "name": "Queue_waiting_call_layout_content",
+      "value": "B33"
+    },
+    {
+      "name": "Queue_wait_layout_title",
+      "value": "Store Name"
+    },
+    {
+      "name": "Queue_wait_layout_content",
+      "value": "Starlight Canteen"
+    },
+    {
+      "name": "Queue_wait_capsule_title",
+      "value": "In line"
+    },
+    {
+      "name": "Queue_second_wait_title",
+      "value": "Large table with 4 people  wait 16 seats"
+    },
+    {
+      "name": "Queue_second_wait_content1",
+      "value": "Waiting "
+    },
+    {
+      "name": "Queue_second_wait_content2",
+      "value": " | Expected to take more than 15 minutes "
+    },
+    {
+      "name": "Queue_upcoming_call_title",
+      "value": "Large table with 4 people  wait 3 seats"
+    },
+    {
+      "name": "Queue_upcoming_call_content1",
+      "value": "Waiting "
+    },
+    {
+      "name": "Queue_upcoming_call_content2",
+      "value": " | Upcoming call "
+    },
+    {
+      "name": "Queue_upcoming_call_capsule_title",
+      "value": "Upcoming call"
+    },
+    {
+      "name": "Queue_calling_in_title",
+      "value": "Large table with 4 people  wait 0 seats"
+    },
+    {
+      "name": "Queue_calling_in_content1",
+      "value": "Waiting"
+    },
+    {
+      "name": "Queue_calling_in_content2",
+      "value": " | Calling in "
+    },
+    {
+      "name": "Queue_calling_in_capsule_title",
+      "value": "Calling in"
+    },
+    {
+      "name": "Queue_end_title",
+      "value": "Please dine"
+    },
+    {
+      "name": "Queue_end_content",
+      "value": "Wishing you a perfect dining experience"
+    },
+    {
+      "name": "Queue_end_capsule_title",
+      "value": "Queue completed"
+    },
+    {
+      "name": "Match_score",
+      "value": "Match score"
+    },
+    {
+      "name": "Score_submit",
+      "value": "Submit Progress"
+    },
+    {
+      "name": "Score_update",
+      "value": "Update Progress"
+    },
+    {
+      "name": "Score_stop",
+      "value": "End Progress"
+    },
+    {
+      "name": "Section_one_title",
+      "value": "In the first competition"
+    },
+    {
+      "name": "Section_one_content_text_one",
+      "value": "Firefox Team VS M Team"
+    },
+    {
+      "name": "Section_one_content_text_two",
+      "value": " 丨 "
+    },
+    {
+      "name": "Section_one_content_text_three",
+      "value": "Group Stage Fifth Match"
+    },
+    {
+      "name": "Section_one_layout_host_name",
+      "value": "Firefox Team"
+    },
+    {
+      "name": "Section_one_layout_host_score",
+      "value": "0"
+    },
+    {
+      "name": "Section_one_layout_guest_name",
+      "value": "M Team"
+    },
+    {
+      "name": "Section_one_layout_guest_score",
+      "value": "0"
+    },
+    {
+      "name": "Score_competition_desc",
+      "value": "●"
+    },
+    {
+      "name": "Section_one_layout_competition_desc",
+      "value": "Q1"
+    },
+    {
+      "name": "Process_one_layout_host_score",
+      "value": "3"
+    },
+    {
+      "name": "Paused_title",
+      "value": "The first competition | Pause in progress"
+    },
+    {
+      "name": "Process_two_layout_guest_score",
+      "value": "5"
+    },
+    {
+      "name": "Halftime_break_title",
+      "value": "During halftime break"
+    },
+    {
+      "name": "Halftime_break_capsule_title",
+      "value": "Halftime break"
+    },
+    {
+      "name": "Section_two_title",
+      "value": "In the second round of the competition"
+    },
+    {
+      "name": "Section_two_layout_competition_desc",
+      "value": "Q2"
+    },
+    {
+      "name": "Process_three_layout_host_score",
+      "value": "7"
+    },
+    {
+      "name": "Process_three_layout_guest_score",
+      "value": "8"
+    },
+    {
+      "name": "Score_end_title",
+      "value": "The competition is over"
+    },
+    {
+      "name": "Score_end_capsule_title",
+      "value": "The competition is over"
+    },
+    {
+      "name": "Navigation",
+      "value": "Navigation"
+    },
+    {
+      "name": "Navigation_start",
+      "value": "Start Navigation"
+    },
+    {
+      "name": "Navigation_update",
+      "value": "Update navigation"
+    },
+    {
+      "name": "Navigation_end",
+      "value": "End navigation"
+    },
+    {
+      "name": "Navigation_start_title",
+      "value": "Turn left after 178 meters"
+    },
+    {
+      "name": "Navigation_start_content_one",
+      "value": "Go to"
+    },
+    {
+      "name": "Navigation_start_content_two",
+      "value": " Nanjing East Road"
+    },
+    {
+      "name": "Navigation_start_capsule_title",
+      "value": "In navigation"
+    },
+    {
+      "name": "Guide_one_title",
+      "value": "Go straight after 300 meters"
+    },
+    {
+      "name": "Route_change_title",
+      "value": "Turn right after 500 meters"
+    },
+    {
+      "name": "Route_change_content",
+      "value": "Redesign the route | Go to Nanjing South Road"
+    },
+    {
+      "name": "Guide_two_content",
+      "value": "Go to Nanjing South Road"
+    },
+    {
+      "name": "Guide_two_title",
+      "value": "Go straight for 100 meters and arrive"
+    },
+    {
+      "name": "Navigation_end_title",
+      "value": "Navigation ends"
+    },
+    {
+      "name": "Navigation_end_content",
+      "value": "Wishing you a smooth journey"
+    },
+    {
+      "name": "Flight_travel",
+      "value": "Flight travel"
+    },
+    {
+      "name": "Flight_commit",
+      "value": "Flight commit"
+    },
+    {
+      "name": "Flight_update",
+      "value": "Flight update"
+    },
+    {
+      "name": "Flight_stop",
+      "value": "Flight stop"
+    },
+    {
+      "name": "Flight_delayed",
+      "value": "Flight delayed"
+    },
+    {
+      "name": "Flight_rescheduling",
+      "value": "Ticket changes"
+    },
+    {
+      "name": "Flight_refund_ticket",
+      "value": "Refund a ticket"
+    },
+    {
+      "name": "Flight_cancellation",
+      "value": "Flight cancellation"
+    },
+    {
+      "name": "Flight_number",
+      "value": " | Number GH123"
+    },
+    {
+      "name": "Flight_number_two",
+      "value": " | Number GH999"
+    },
+    {
+      "name": "Flight_depart_title",
+      "value": "Plan to depart"
+    },
+    {
+      "name": "Flight_depart_content1",
+      "value": "Boarding gate"
+    },
+    {
+      "name": "Flight_depart_content2",
+      "value": " 32 "
+    },
+    {
+      "name": "Flight_depart_content3",
+      "value": "| Seat"
+    },
+    {
+      "name": "Flight_depart_content4",
+      "value": " 17H"
+    },
+    {
+      "name": "Flight_depart_layout_first_content",
+      "value": "Shanghai"
+    },
+    {
+      "name": "Flight_depart_layout_last_content",
+      "value": "Chengdu"
+    },
+    {
+      "name": "Flight_depart_layout_text",
+      "value": "Boarding is prohibited 40 minutes before takeoff"
+    },
+    {
+      "name": "Flight_depart_capsule_title",
+      "value": "Plan to depart"
+    },
+    {
+      "name": "Flight_depart_layout_first_title",
+      "value": "16:00"
+    },
+    {
+      "name": "Flight_depart_layout_last_title",
+      "value": "19:00"
+    },
+    {
+      "name": "Flight_depart_layout_first_title_two",
+      "value": "20:00"
+    },
+    {
+      "name": "Flight_depart_layout_last_title_two",
+      "value": "23:00"
+    },
+    {
+      "name": "Waiting_for_check_in_title",
+      "value": "Waiting for check-in"
+    },
+    {
+      "name": "Waiting_for_check_in_capsule_title",
+      "value": "Waiting for check-in"
+    },
+    {
+      "name": "Checked_in_title",
+      "value": "Checked in"
+    },
+    {
+      "name": "Checked_in_capsule_title",
+      "value": "Checked in"
+    },
+    {
+      "name": "Start_boarding_title",
+      "value": "Start boarding"
+    },
+    {
+      "name": "Start_boarding_capsule_title",
+      "value": "Start boarding"
+    },
+    {
+      "name": "Urge_boarding_title",
+      "value": "Urge boarding"
+    },
+    {
+      "name": "Urge_boarding_capsule_title",
+      "value": "Urge boarding"
+    },
+    {
+      "name": "Boarded_title",
+      "value": "Boarded already"
+    },
+    {
+      "name": "Boarded_capsule_title",
+      "value": "Boarded already"
+    },
+    {
+      "name": "End_boarding_title",
+      "value": "End boarding"
+    },
+    {
+      "name": "End_boarding_capsule_title",
+      "value": "End boarding"
+    },
+    {
+      "name": "About_to_take_off_title",
+      "value": "About to take off"
+    },
+    {
+      "name": "About_to_take_off_capsule_title",
+      "value": "About to take off"
+    },
+    {
+      "name": "Taken_off_title",
+      "value": "During the itinerary"
+    },
+    {
+      "name": "Taken_off_content1",
+      "value": "Expected to arrive at Chengdu Airport"
+    },
+    {
+      "name": "Taken_off_content2",
+      "value": " in 3 hours"
+    },
+    {
+      "name": "Taken_off_content3",
+      "value": " "
+    },
+    {
+      "name": "Taken_off_capsule_title",
+      "value": "During the itinerary"
+    },
+    {
+      "name": "Flight_arrived_title",
+      "value": "The flight has arrived"
+    },
+    {
+      "name": "Flight_arrived_content",
+      "value": "The flight is taxiing"
+    },
+    {
+      "name": "Flight_arrived_capsule_title",
+      "value": "Arrived"
+    },
+    {
+      "name": "Luggage_prompt_title",
+      "value": "Baggage claim"
+    },
+    {
+      "name": "Luggage_prompt_content1",
+      "value": "Turntable number"
+    },
+    {
+      "name": "Luggage_prompt_content2",
+      "value": " 15"
+    },
+    {
+      "name": "Luggage_prompt_capsule_title",
+      "value": "Baggage claim"
+    },
+    {
+      "name": "Flight_travel_end_title",
+      "value": "End of itinerary"
+    },
+    {
+      "name": "Flight_travel_end_content",
+      "value": "Thank you for taking this flight"
+    },
+    {
+      "name": "Flight_delay_title",
+      "value": "Flight delayed"
+    },
+    {
+      "name": "Flight_delay_capsule_title",
+      "value": "Flight delayed"
+    },
+    {
+      "name": "Flight_refund_ticket_title",
+      "value": "Refund received"
+    },
+    {
+      "name": "Flight_cancel_title",
+      "value": "Flight cancellation"
+    },
+    {
+      "name": "timer_title",
+      "value": "timer_title"
+    },
+    {
+      "name": "start_order_timer",
+      "value": "start order timer"
+    },
+    {
+      "name": "start_reOrder_timer",
+      "value": "start reOrder timer"
+    },
+    {
+      "name": "pause_timer",
+      "value": "pause timer"
+    },
+    {
+      "name": "continue_timer",
+      "value": "continue timer"
+    },
+    {
+      "name": "end_timer",
+      "value": "end timer"
+    },
+    {
+      "name": "Rent_share",
+      "value": "Rent_share"
+    },
+    {
+      "name": "Rent_submit",
+      "value": "Rent_submit"
+    },
+    {
+      "name": "Rent_update",
+      "value": "Rent_update"
+    },
+    {
+      "name": "Rent_stop",
+      "value": "Rent_stop"
+    },
+    {
+      "name": "Rent_suspend",
+      "value": "Rent_suspend"
+    },
+    {
+      "name": "Rent_start_title",
+      "value": "Renting in progress"
+    },
+    {
+      "name": "Rent_start_content",
+      "value": "Thank you for using this lease"
+    },
+    {
+      "name": "Rent_start_layout_title",
+      "value": "Rental timing"
+    },
+    {
+      "name": "Rent_end_title",
+      "value": "Lease ends"
+    },
+    {
+      "name": "Rent_end_capsule_title",
+      "value": "租赁结束"
+    },
+    {
+      "name": "Wait_payment_title",
+      "value": "Pending payment"
+    },
+    {
+      "name": "Wait_payment_content",
+      "value": "Duration of this lease "
+    },
+    {
+      "name": "Wait_payment_layout_title",
+      "value": "Pending payment amount"
+    },
+    {
+      "name": "Wait_payment_layout_content",
+      "value": " 25.11 yuan"
+    },
+    {
+      "name": "Wait_payment_capsule_title",
+      "value": "Pending payment"
+    },
+    {
+      "name": "Rent_complete_title",
+      "value": "Order completed"
+    },
+    {
+      "name": "Rent_complete_content",
+      "value": "Thank you for using this lease"
+    },
+    {
+      "name": "Rent_complete_layout_title",
+      "value": "Lease completed"
+    },
+    {
+      "name": "Rent_complete_layout_content",
+      "value": "Lease completed"
+    },
+    {
+      "name": "Rent_suspend_title",
+      "value": "Suspend leasing"
+    },
+    {
+      "name": "Pick_up",
+      "value": "Pick Up"
+    },
+    {
+      "name": "Pick_submit",
+      "value": "Submitting an Order"
+    },
+    {
+      "name": "Pick_update",
+      "value": "Update Progress"
+    },
+    {
+      "name": "Pick_stop",
+      "value": "End Order"
+    },
+    {
+      "name": "Pick_cancel",
+      "value": "Cancel Order"
+    },
+    {
+      "name": "Pick_payment_primary_title",
+      "value": "Pay now, expected to be completed by 13:14"
+    },
+    {
+      "name": "Pick_payment_primary_content1",
+      "value": "Coffee "
+    },
+    {
+      "name": "Pick_payment_primary_content2",
+      "value": "and 1 more item"
+    },
+    {
+      "name": "Pick_payment_layout_title",
+      "value": "Amount to be paid"
+    },
+    {
+      "name": "Pick_payment_layout_content",
+      "value": "CNY 25.5"
+    },
+    {
+      "name": "Pick_payment_capsule_title",
+      "value": "To be paid"
+    },
+    {
+      "name": "Pick_merchant_primary_title",
+      "value": "Waiting for the merchant to check the order. "
+    },
+    {
+      "name": "Pick_merchant_primary_content",
+      "value": "It would be automatically canceled at 12:55 if not checked."
+    },
+    {
+      "name": "Pick_merchant_primary_layout_title",
+      "value": "Order details"
+    },
+    {
+      "name": "Pick_merchant_primary_layout_content",
+      "value": "Waiting for the merchant to confirm the order."
+    },
+    {
+      "name": "Pick_merchant_capsule_title",
+      "value": "To be checked"
+    },
+    {
+      "name": "Pick_prepare_primary_title",
+      "value": "Food is being prepared"
+    },
+    {
+      "name": "Pick_prepare_primary_content1",
+      "value": "Order accepted, "
+    },
+    {
+      "name": "Pick_prepare_primary_content2",
+      "value": "the merchant is making delicious drinks at a rapid pace"
+    },
+    {
+      "name": "Pick_prepare_layout_content",
+      "value": "13:00"
+    },
+    {
+      "name": "Pick_prepare_capsule_title",
+      "value": "Preparing"
+    },
+    {
+      "name": "Pick_wait_primary_title",
+      "value": "To be picked"
+    },
+    {
+      "name": "Pick_wait_primary_content",
+      "value": "Your coffee is ready for pickup."
+    },
+    {
+      "name": "Pick_wait_layout_title",
+      "value": "Pick-up Codes"
+    },
+    {
+      "name": "Pick_wait_layout_content",
+      "value": "0208"
+    },
+    {
+      "name": "Pick_wait_capsule_title",
+      "value": "To be picked"
+    },
+    {
+      "name": "Pick_picked_primary_title",
+      "value": "Offerings has been picked up"
+    },
+    {
+      "name": "Pick_picked_primary_content",
+      "value": "If you have any problems with your meal, please give us your feedback."
+    },
+    {
+      "name": "Pick_picked_primary_layout_title",
+      "value": "Meal picked up"
+    },
+    {
+      "name": "Pick_picked_primary_layout_content",
+      "value": "You have picked up your meal"
+    },
+    {
+      "name": "Pick_picked_capsule_title",
+      "value": "Picked"
+    },
+    {
+      "name": "Pick_finished_primary_title",
+      "value": "Order Finished"
+    },
+    {
+      "name": "Pick_finished_primary_content1",
+      "value": "Thank you. "
+    },
+    {
+      "name": "Pick_finished_primary_content2",
+      "value": "See you next time."
+    },
+    {
+      "name": "Pick_finished_primary_layout_title",
+      "value": "Order completed"
+    },
+    {
+      "name": "Pick_finished_primary_layout_content",
+      "value": "Order completed"
+    },
+    {
+      "name": "Pick_cancel_primary_title",
+      "value": "Order canceled"
+    },
+    {
+      "name": "Pick_cancel_primary_content",
+      "value": "You have canceled your order. Welcome to our next visit."
+    },
+    {
+      "name": "Pick_cancel_primary_layout_title",
+      "value": "Order cancelled"
+    },
+    {
+      "name": "Pick_cancel_primary_layout_content",
+      "value": "You have cancelled the order"
+    },
+    {
+      "name": "Pick_prepare_layout_title",
+      "value": "Estimated completion time"
+    },
+    {
+      "name": "Workout",
+      "value": "Workout"
+    },
+    {
+      "name": "start_workout",
+      "value": "Start exercising"
+    },
+    {
+      "name": "update_workout",
+      "value": "Update progress"
+    },
+    {
+      "name": "end_workout",
+      "value": "End the exercise"
+    },
+    {
+      "name": "pause_workout",
+      "value": "Pause exercise"
+    },
+    {
+      "name": "Workout_start_title",
+      "value": "In motion"
+    },
+    {
+      "name": "Workout_content",
+      "value": "Sports objectives"
+    },
+    {
+      "name": "Workout_content2",
+      "value": " 2km"
+    },
+    {
+      "name": "Workout_content3",
+      "value": "Remaining distance"
+    },
+    {
+      "name": "Workout_start_content",
+      "value": " 2km"
+    },
+    {
+      "name": "Workout_start_layout_title",
+      "value": "Duration of exercise"
+    },
+    {
+      "name": "Workout_process_one_content",
+      "value": " 1.5 KM"
+    },
+    {
+      "name": "Workout_process_two_content",
+      "value": " 1 KM"
+    },
+    {
+      "name": "Workout_process_three_content",
+      "value": " 0.5 KM"
+    },
+    {
+      "name": "Workout_end_title",
+      "value": "End of exercise"
+    },
+    {
+      "name": "Workout_end_content",
+      "value": "Goal completed"
+    },
+    {
+      "name": "Workout_suspend_title",
+      "value": "Exercise paused"
+    },
+    {
+      "name": "Navigation_capsule_title1",
+      "value": "178 M"
+    },
+    {
+      "name": "Navigation_capsule_title2",
+      "value": "300 M"
+    },
+    {
+      "name": "Navigation_capsule_title3",
+      "value": "500 M"
+    },
+    {
+      "name": "Navigation_capsule_title4",
+      "value": "100 M"
+    },
+    {
+      "name": "Score_capsule_pause",
+      "value": "Paused"
+    },
+    {
+      "name": "Delivery_cabinet_primary_content2",
+      "value": "No. 21"
+    },
+    {
+      "name": "Delivery_cabinet_primary_content4",
+      "value": "4839"
+    },
+    {
+      "name": "Waiting_for_check_in_capsule_content",
+      "value": "G,H Check-in Counters"
+    },
+    {
+      "name": "Checked_in_capsule_content",
+      "value": "Gate 32"
+    },
+    {
+      "name": "Boarded_capsule_content",
+      "value": "Seat 17H"
+    },
+    {
+      "name": "About_to_take_off_capsule_content",
+      "value": "3h"
+    },
+    {
+      "name": "Flight_arrived_capsule_content",
+      "value": "Luggage carousel 10"
+    },
+    {
+      "name": "Flight_delay_capsule_content",
+      "value": "Expected to depart at 20:00"
+    }
+  ]
+}

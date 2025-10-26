@@ -1,0 +1,15 @@
+{
+  "name": "push-message",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hw-agconnect/cloud-server": "^1.0.1",
+    "jsrsasign": "^11.1.0",
+    "request": "^2.88.2"
+  }
+}

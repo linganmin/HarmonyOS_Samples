@@ -1,0 +1,58 @@
+{
+  "module": {
+    "name": "privacy",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "PrivacyAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        /**
+          * 最佳实践：应用安全编码实践
+          * 场景二：通用组件安全正确示例
+          */
+
+        // [Start module_json_abilities]
+        "name": "PrivacyAbility",
+        "srcEntry": "./ets/privacyability/PrivacyAbility.ets",
+        "description": "$string:PrivacyAbility_desc",
+        "exported": false,
+        // [End module_json_abilities]
+        "icon": "$media:layered_image",
+        "label": "$string:PrivacyAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ],
+    "extensionAbilities": [
+      {
+        "name": "PrivacyBackupAbility",
+        "srcEntry": "./ets/privacybackupability/PrivacyBackupAbility.ets",
+        "type": "backup",
+        "exported": false,
+        "metadata": [
+          {
+            "name": "ohos.extension.backup",
+            "resource": "$profile:backup_config"
+          }
+        ],
+      }
+    ]
+  }
+}

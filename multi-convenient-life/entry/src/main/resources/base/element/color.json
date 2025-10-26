@@ -1,0 +1,124 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "dish_detail_background",
+      "value": "#F2F2F2"
+    },
+    {
+      "name": "graphic_background",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "eighty_graphic_background",
+      "value": "#ccF1F3F5"
+    },
+    {
+      "name": "sixty_graphic_background",
+      "value": "#99F1F3F5"
+    },
+    {
+      "name": "forty_graphic_background",
+      "value": "#66F1F3F5"
+    },
+    {
+      "name": "twenty_graphic_background",
+      "value": "#33F1F3F5"
+    },
+    {
+      "name": "ten_graphic_background",
+      "value": "#1aF1F3F5"
+    },
+    {
+      "name": "sixty_black",
+      "value": "#99000000"
+    },
+    {
+      "name": "five_white",
+      "value": "#0d000000"
+    },
+    {
+      "name": "background_filtering",
+      "value": "#1aed6f21"
+    },
+    {
+      "name": "filtering_font",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "forty_black",
+      "value": "#66000000"
+    },
+    {
+      "name": "currency_symbol",
+      "value": "#ED6F21"
+    },
+    {
+      "name": "food_background",
+      "value": "#1aed6f21"
+    },
+    {
+      "name": "three_black",
+      "value": "#08000000"
+    },
+    {
+      "name": "food_border_color",
+      "value": "#e6000000"
+    },
+    {
+      "name": "eighty_white",
+      "value": "#808080"
+    },
+    {
+      "name": "tag_color",
+      "value": "#24445C"
+    },
+    {
+      "name": "city_park_font",
+      "value": "#EA763F"
+    },
+    {
+      "name": "swiper_img_background",
+      "value": "#0A59F7"
+    },
+    {
+      "name": "swiper_choose_background",
+      "value": "#1a000000"
+    },
+    {
+      "name": "candy_pocket",
+      "value": "#EA3F4A"
+    },
+    {
+      "name": "quiet_years",
+      "value": "#EABB3F"
+    },
+    {
+      "name": "ten_white",
+      "value": "#1affffff"
+    },
+    {
+      "name": "forty_white",
+      "value": "#66ffffff"
+    },
+    {
+      "name": "ninety_white",
+      "value": "#e6ffffff"
+    },
+    {
+      "name": "twenty_black",
+      "value": "#33000000"
+    },
+    {
+      "name": "shadow_start_color",
+      "value": "#00000000"
+    },
+    {
+      "name": "shadow_end_color",
+      "value": "#80000000"
+    }
+  ]
+}

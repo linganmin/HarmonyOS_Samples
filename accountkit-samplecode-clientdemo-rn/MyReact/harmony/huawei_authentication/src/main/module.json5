@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "huawei_authentication",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

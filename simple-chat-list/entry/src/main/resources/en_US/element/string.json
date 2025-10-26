@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Implement a simple chat list"
+    },
+    {
+      "name": "Back_to_top",
+      "value": "Back to top"
+    },
+    {
+      "name": "Sample_title",
+      "value": "Implement a simple chat list"
+    },
+    {
+      "name": "Message_time",
+      "value": "2:30 PM"
+    },
+    {
+      "name": "Where_are_you",
+      "value": "Where are you?"
+    },
+    {
+      "name": "Just_went_out",
+      "value": "I just went out"
+    },
+    {
+      "name": "have_arrived_at_the_coffee_shop",
+      "value": "I have arrived at the coffee shop. The environment here is pretty good. Where have you been now?"
+    },
+    {
+      "name": "go_eat_together",
+      "value": "Let's go eat together, haha."
+    },
+    {
+      "name": "No_problem",
+      "value": "No problem."
+    },
+    {
+      "name": "Nice_day",
+      "value": "What a nice day today."
+    },
+    {
+      "name": "Ok",
+      "value": "ok."
+    },
+    {
+      "name": "Dont_have_time",
+      "value": "I don't have time today, let's schedule another time."
+    },
+    {
+      "name": "Half_past_eight",
+      "value": "half past eight."
+    },
+    {
+      "name": "Come_on",
+      "value": "come on."
+    },
+    {
+      "name": "Not",
+      "value": "not."
+    },
+    {
+      "name": "Completed",
+      "value": "Completed."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "float": [
+    {
+      "name": "font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "padding_bottom",
+      "value": "8vp"
+    },
+    {
+      "name": "row_width",
+      "value": "10vp"
+    },
+    {
+      "name": "row_margin",
+      "value": "20vp"
+    },
+    {
+      "name": "border_width",
+      "value": "2vp"
+    },
+    {
+      "name": "zero",
+      "value": "0vp"
+    },
+    {
+      "name": "padding",
+      "value": "15vp"
+    },
+    {
+      "name": "list_item_height",
+      "value": "60vp"
+    },
+    {
+      "name": "row_height_one",
+      "value": "1vp"
+    },
+    {
+      "name": "list_padding_left",
+      "value": "24vp"
+    },
+    {
+      "name": "list_padding_top",
+      "value": "32vp"
+    },
+    {
+      "name": "text_height",
+      "value": "50vp"
+    },
+    {
+      "name": "text_margin",
+      "value": "5vp"
+    },
+    {
+      "name": "context_area",
+      "value": "345vp"
+    },
+    {
+      "name": "cursor_height",
+      "value": "22vp"
+    },
+    {
+      "name": "translate_one",
+      "value": "14vp"
+    },
+    {
+      "name": "font_size_l",
+      "value": "24fp"
+    },
+    {
+      "name": "font_size_m",
+      "value": "14fp"
+    },
+    {
+      "name": "margin_bottom",
+      "value": "30vp"
+    },
+    {
+      "name": "margin_bottom_one",
+      "value": "37vp"
+    },
+    {
+      "name": "bottom_height",
+      "value": "40vp"
+    },
+    {
+      "name": "divider_bottom",
+      "value": "55vp"
+    },
+    {
+      "name": "image_width",
+      "value": "326vp"
+    },
+    {
+      "name": "image_height",
+      "value": "174vp"
+    },
+    {
+      "name": "image_width_m",
+      "value": "43.5vp"
+    },
+    {
+      "name": "image_height_m",
+      "value": "52vp"
+    },
+    {
+      "name": "row_width_l",
+      "value": "330vp"
+    },
+    {
+      "name": "image_width_min",
+      "value": "25vp"
+    },
+    {
+      "name": "image_height_min",
+      "value": "35vp"
+    },
+    {
+      "name": "margin_left",
+      "value": "-285vp"
+    },
+    {
+      "name": "change",
+      "value": "16vp"
+    },
+    {
+      "name": "font_size_min",
+      "value": "12fp"
+    },
+    {
+      "name": "font_size_max",
+      "value": "30fp"
+    },
+    {
+      "name": "button_width",
+      "value": "44vp"
+    },
+    {
+      "name": "toast_height",
+      "value": "36vp"
+    },
+    {
+      "name": "toast_margin",
+      "value": "250vp"
+    },
+    {
+      "name": "toast_border_radius",
+      "value": "18vp"
+    },
+    {
+      "name": "shadow",
+      "value": "80vp"
+    },
+    {
+      "name": "toast_margin_m",
+      "value": "220vp"
+    },
+    {
+      "name": "change_margin",
+      "value": "-65vp"
+    },
+    {
+      "name": "word_margin_top",
+      "value": "17vp"
+    },
+    {
+      "name": "word_margin_bottom",
+      "value": "42vp"
+    },
+    {
+      "name": "background_margin",
+      "value": "19vp"
+    },
+    {
+      "name": "item_list",
+      "value": "12vp"
+    },
+    {
+      "name": "text_border_width",
+      "value": "1.5vp"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "NativeCrossModuleAccessResAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "NativeCrossModuleAccessResAbility_label",
+      "value": "label"
+    }
+  ]
+}

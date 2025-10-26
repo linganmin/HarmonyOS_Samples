@@ -1,0 +1,180 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "LoginAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "LoginAbility_label",
+      "value": "Login and logout"
+    },
+    {
+      "name": "reason",
+      "value": "Allow the app to use the Internet network during the login scenario"
+    },
+    {
+      "name": "getNetworkInfo",
+      "value": "Allow the app to obtain network information during the login scenario"
+    },
+    {
+      "name": "tab",
+      "value": "Tab"
+    },
+    {
+      "name": "agreement_tips",
+      "value": "User protocol prompt"
+    },
+    {
+      "name": "sign_in_and_agree",
+      "value": "Login and agree"
+    },
+    {
+      "name": "user_authentication_protocol",
+      "value": "《User agreement》"
+    },
+    {
+      "name": "rejected",
+      "value": "reject"
+    },
+    {
+      "name": "confirm_login",
+      "value": "Confirm login"
+    },
+    {
+      "name": "privacy_title",
+      "value": "Statement privacy"
+    },
+    {
+      "name": "update_date",
+      "value": "Updated date: 20XX XX"
+    },
+    {
+      "name": "introductory_1",
+      "value": "\"XX\" is owned by Huawei Software Technologies Co., LTD. (hereinafter referred to as \"We\" or \"Huawei\").\nProvide you with XXXX. Huawei attaches great importance to the protection of your personal information and privacy, and we will provide appropriate security protection measures for your personal information in accordance with legal requirements and industry mature security standards."
+    },
+    {
+      "name": "introductory_2",
+      "value": "1. How do we collect and use your Personal information"
+    },
+    {
+      "name": "introductory_3",
+      "value": "You can access the Personal information collection list to quickly understand the basic information about the collection and use of personal information by \"XX\" in the full functional service mode. Details of how each function collects and uses personal information can be found below."
+    },
+    {
+      "name": "introductory_4",
+      "value": "1.1 We will provide you with the following business capabilities through \"XX\". In the process of your use of the relevant business functions, we will process the information necessary for the following functions to perform our contractual obligations and ensure that you can normally use the relevant functions of the application."
+    },
+    {
+      "name": "introductory_5",
+      "value": "In order to achieve the basic functions of providing you with XX products and services, including positioning services, search services, map services, travel services (navigation services, route planning services, car appearance services)"
+    },
+    {
+      "name": "login",
+      "value": "Login"
+    },
+    {
+      "name": "input_phone_number_or_password",
+      "value": "Please enter your phone number or password"
+    },
+    {
+      "name": "incorrect_mobile_number_format",
+      "value": "The format of the mobile phone number is incorrect"
+    },
+    {
+      "name": "network_error",
+      "value": "Network error! Check your network connection Settings"
+    },
+    {
+      "name": "settings",
+      "value": "Settings"
+    },
+    {
+      "name": "apply_network_settings",
+      "value": "Application network Settings"
+    },
+    {
+      "name": "message_notification",
+      "value": "Message notification"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    },
+    {
+      "name": "username",
+      "value": "Han Meimei"
+    },
+    {
+      "name": "login_account",
+      "value": "Login account"
+    },
+    {
+      "name": "my_assets",
+      "value": "My assets"
+    },
+    {
+      "name": "equity_redemption",
+      "value": "Equity redemption"
+    },
+    {
+      "name": "consumption_record",
+      "value": "Consumption record"
+    },
+    {
+      "name": "sheet_settings",
+      "value": "settings"
+    },
+    {
+      "name": "confirmed_logout",
+      "value": "Are you sure you want to log out?"
+    },
+    {
+      "name": "help_and_customer_service",
+      "value": "Help and customer service"
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "logout",
+      "value": "Logout"
+    },
+    {
+      "name": "confirmed",
+      "value": "Confirmed"
+    },
+    {
+      "name": "mobile_number",
+      "value": "Mobile number"
+    },
+    {
+      "name": "password",
+      "value": "Password"
+    },
+    {
+      "name": "register_account",
+      "value": "Register account"
+    },
+    {
+      "name": "read_and_agreed",
+      "value": "Read and agree"
+    },
+    {
+      "name": "forgot_password",
+      "value": "Forgot password"
+    },
+    {
+      "name": "collection_text_top",
+      "value": "XXXX"
+    },
+    {
+      "name": "collection_text_bottom",
+      "value": "XXX"
+    }
+  ]
+}

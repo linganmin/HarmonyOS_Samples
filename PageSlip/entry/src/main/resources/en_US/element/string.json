@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "pageSlip"
+    },
+    {
+      "name": "full_screen",
+      "value": "100%"
+    },
+    {
+      "name": "full_screen_20",
+      "value": "20%"
+    },
+    {
+      "name": "internet_reason",
+      "value": "Used to access the Internet for the scenario of retrieving network list data"
+    },
+    {
+      "name": "network_info_reason",
+      "value": "Used to retrieve network information for the scenario of retrieving network list data"
+    },
+    {
+      "name": "zero_screen",
+      "value": "0%"
+    },
+    {
+      "name": "search",
+      "value": "search..."
+    },
+    {
+      "name": "footer_text_loading",
+      "value": "Loading, please wait a moment"
+    },
+    {
+      "name": "net_connection_description",
+      "value": "Unable to connect to the network, please check your network settings"
+    },
+    {
+      "name": "footer_text_max_count",
+      "value": "Reached the bottom"
+    },
+    {
+      "name": "url",
+      "value": "https://devecostudio-drcn.op.hicloud.com/solution/v1/getSceneMockData?scene={scene}&fileName={fileName}&pageNum={pageNum}&pageSize={pageSize}"
+    }
+  ]
+}

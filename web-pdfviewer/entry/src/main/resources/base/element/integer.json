@@ -1,0 +1,24 @@
+{
+  "integer": [
+    {
+      "name": "progress_height",
+      "value": 3
+    },
+    {
+      "name": "home_margin_top",
+      "value": 15
+    },
+    {
+      "name": "min_font_size",
+      "value": 12
+    },
+    {
+      "name": "max_font_size",
+      "value": 16
+    },
+    {
+      "name": "font_size",
+      "value": 16
+    }
+  ]
+}

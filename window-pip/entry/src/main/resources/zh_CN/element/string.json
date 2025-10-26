@@ -1,0 +1,85 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WindowPiP"
+    },
+    {
+      "name": "video1",
+      "value": "视频1"
+    },
+    {
+      "name": "video2",
+      "value": "视频2"
+    },
+    {
+      "name": "video3",
+      "value": "视频3"
+    },
+    {
+      "name": "video4",
+      "value": "视频4"
+    },
+    {
+      "name": "video5",
+      "value":  "视频5"
+    },
+    {
+      "name": "video6",
+      "value": "视频6"
+    },
+    {
+      "name": "video7",
+      "value": "视频7"
+    },
+
+    {
+      "name": "pip_demo",
+      "value": "画中画示例"
+    },
+    {
+      "name": "start",
+      "value": "开启"
+    },
+    {
+      "name": "stop",
+      "value": "关闭"
+    },
+    {
+      "name": "auto",
+      "value": "自动启动画中画"
+    },
+    {
+      "name": "current_status",
+      "value": "当前状态:"
+    },
+    {
+      "name": "current_error",
+      "value": "错误原因:"
+    },
+    {
+      "name": "current_action",
+      "value": "按钮事件和状态:"
+    },
+    {
+      "name": "callback_message",
+      "value": "回调信息"
+    },
+    {
+      "name": "current_video_pip_play",
+      "value": "当前视频正在画中画播放"
+    },
+    {
+      "name": "current_error_hint",
+      "value": "无"
+    }
+  ]
+}

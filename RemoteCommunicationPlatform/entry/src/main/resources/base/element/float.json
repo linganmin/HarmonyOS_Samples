@@ -1,0 +1,100 @@
+{
+  "float": [
+    {
+      "name": "common_height",
+      "value": "40vp"
+    },
+    {
+      "name": "text_height",
+      "value": "20vp"
+    },
+    {
+      "name": "text_lineHeight",
+      "value": "40vp"
+    },
+    {
+      "name": "text_fontsize",
+      "value": "30vp"
+    },
+    {
+      "name": "margin_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "text_margin_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "textArea_margin_bottom",
+      "value": "16vp"
+    },
+    {
+      "name": "textArea_margin_top",
+      "value": "16vp"
+    },
+    {
+      "name": "button_margin_bottom",
+      "value": "12vp"
+    },
+    {
+      "name": "padding",
+      "value": "16vp"
+    },
+    {
+      "name": "simulate_margin_bottom",
+      "value": "24vp"
+    },
+    {
+      "name": "simulate_borderRadius",
+      "value": "15vp"
+    },
+    {
+      "name": "simulate_padding_left",
+      "value": "16vp"
+    },
+    {
+      "name": "simulate_padding_right",
+      "value": "16vp"
+    },
+    {
+      "name": "segmentButton_font_size",
+      "value": "18vp"
+    },
+    {
+      "name": "selected_font_size",
+      "value": "18vp"
+    },
+    {
+      "name": "segmentButton_text_padding",
+      "value": "5vp"
+    },
+    {
+      "name": "form_margin_left",
+      "value": "12vp"
+    },
+    {
+      "name": "form_font_size",
+      "value": "20vp"
+    },
+    {
+      "name": "form_text_lineHeight",
+      "value": "20vp"
+    },
+    {
+      "name": "form_text_size",
+      "value": "14vp"
+    },
+    {
+      "name": "form_margin_top",
+      "value": "20vp"
+    },
+    {
+      "name": "form_margin_bottom",
+      "value": "20vp"
+    },
+    {
+      "name": "form_borderRadius",
+      "value": "15vp"
+    }
+  ]
+}

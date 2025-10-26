@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "button_describe",
+      "value": "跳转运算器页面"
+    },
+    {
+      "name": "default_describe",
+      "value": "Default 版本不支持此功能"
+    },
+    {
+      "name": "default_add",
+      "value": "加法"
+    },
+    {
+      "name": "default_sub",
+      "value": "减法"
+    },
+    {
+      "name": "test_describe",
+      "value": "test 版本会被resources_test中的同名资源替换"
+    }
+  ]
+}

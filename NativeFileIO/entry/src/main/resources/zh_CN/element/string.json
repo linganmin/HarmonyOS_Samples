@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "实现Native侧的文件读写"
+    },
+    {
+      "name": "title",
+      "value": "实现Native侧的文件读写"
+    },
+    {
+      "name": "write_data",
+      "value": "写入数据"
+    },
+    {
+      "name": "read_data",
+      "value": "读取数据"
+    },
+    {
+      "name": "placeholder",
+      "value": "请输入内容"
+    },
+    {
+      "name": "placeholder_read",
+      "value": "请先写入内容"
+    },
+    {
+      "name": "write",
+      "value": "写入"
+    },
+    {
+      "name": "read",
+      "value": "读取"
+    },
+    {
+      "name": "written_successfully",
+      "value": "文件写入成功"
+    },
+    {
+      "name": "read_successfully",
+      "value": "文件读取成功"
+    }
+  ]
+}

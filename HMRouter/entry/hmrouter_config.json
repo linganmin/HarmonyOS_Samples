@@ -1,0 +1,14 @@
+{
+  "scanDir": [
+    "src/main/ets"
+  ],
+  "saveGeneratedFile": false,
+  "customPageTemplate": [
+    {
+      "srcPath": [
+        "**/PayCard.ets","**/PayCancel.ets","**/ExitLogin.ets","**/LoginPage.ets","**/PrivacyDialogDetail.ets"
+      ],
+      "templatePath": "./src/main/templates/DialogMaskTemplate.ejs"
+    }
+  ]
+}

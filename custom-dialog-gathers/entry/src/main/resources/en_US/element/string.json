@@ -1,0 +1,292 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Customized pop-up window set"
+    },
+    {
+      "name": "departure",
+      "value": "beijing"
+    },
+    {
+      "name": "destination",
+      "value": "shanghai"
+    },
+    {
+      "name": "check_ticket",
+      "value": "Check ticket"
+    },
+    {
+      "name": "departure_date",
+      "value": "Departure date"
+    },
+    {
+      "name": "button_text",
+      "value": "only demonstration, you can implement business functions by yourself"
+    },
+    {
+      "name": "week_width",
+      "value": "14.3%"
+    },
+    {
+      "name": "calendar_height",
+      "value": "90%"
+    },
+    {
+      "name": "button_scroll_option1",
+      "value": "TimePickerDialog 12 hour clock"
+    },
+    {
+      "name": "button_scroll_option2",
+      "value": "TextPickerDialog"
+    },
+    {
+      "name": "index_name",
+      "value": "Custom pop-up window collection"
+    },
+    {
+      "name": "scroll_option",
+      "value": "Sliding selection popup"
+    },
+    {
+      "name": "select_person",
+      "value": "Choose a rider"
+    },
+    {
+      "name": "add_person",
+      "value": "+ add passengers"
+    },
+    {
+      "name": "edit",
+      "value": "Edit"
+    },
+    {
+      "name": "confirmed",
+      "value": "Confirm"
+    },
+    {
+      "name": "confirm_order",
+      "value": "Confirm Order"
+    },
+    {
+      "name": "start_time",
+      "value": "00:25"
+    },
+    {
+      "name": "start_string",
+      "value": "Departure"
+    },
+    {
+      "name": "car_name",
+      "value": "G1234"
+    },
+    {
+      "name": "car_time",
+      "value": "8:01"
+    },
+    {
+      "name": "end_time",
+      "value": "08:26"
+    },
+    {
+      "name": "end_name",
+      "value": "Terminal"
+    },
+    {
+      "name": "button_select",
+      "value": "Choose a rider"
+    },
+    {
+      "name": "dialog_name",
+      "value": "Modal pop-up window"
+    },
+    {
+      "name": "tastes",
+      "value": "Taste and tableware"
+    },
+    {
+      "name": "choose_flavors",
+      "value": "Choose flavors and cutlery"
+    },
+    {
+      "name": "bind_sheet_dialog",
+      "value": "Semi-modal pop-up window"
+    },
+    {
+      "name": "login",
+      "value": "Login successfully !"
+    },
+    {
+      "name": "toast_dialog",
+      "value": "Toast pop-up window"
+    },
+    {
+      "name": "button_name1",
+      "value": "Privacy popup"
+    },
+    {
+      "name": "button_name2",
+      "value": "Kind tips"
+    },
+    {
+      "name": "two_level_dialog",
+      "value": "Two semi-modal + full-screen window"
+    },
+    {
+      "name": "toast_text",
+      "value": "Privacy Policy"
+    },
+    {
+      "name": "disagree",
+      "value": "Disagree"
+    },
+    {
+      "name": "agreed",
+      "value": "Agree"
+    },
+    {
+      "name": "toast_private_dialog",
+      "value": "Privacy Agreement pop-up window"
+    },
+    {
+      "name": "full_screen",
+      "value": "Full screen pop-up window"
+    },
+    {
+      "name": "calendar_dialog",
+      "value": "Custom calendar picker popup"
+    },
+    {
+      "name": "wang",
+      "value": "wang**"
+    },
+    {
+      "name": "song",
+      "value": "song*"
+    },
+    {
+      "name": "xu",
+      "value": "xu**"
+    },
+    {
+      "name": "tang",
+      "value": "tang*"
+    },
+    {
+      "name": "spicy",
+      "value": "Less spicy"
+    },
+    {
+      "name": "spicy1",
+      "value": "No need for spicy"
+    },
+    {
+      "name": "spicy2",
+      "value": "Need disposable cutlery"
+    },
+    {
+      "name": "spicy3",
+      "value": "Extra spicy"
+    },
+    {
+      "name": "spicy4",
+      "value": "No cilantro"
+    },
+    {
+      "name": "spicy5",
+      "value": "No disposable utensils"
+    },
+    {
+      "name": "click",
+      "value": "Click Toast"
+    },
+    {
+      "name": "back",
+      "value": "Back"
+    },
+    {
+      "name": "word1",
+      "value": "According to the Provisions on the Scope of Necessary Personal Information for Common Types of Mobile Internet Applications, the main function is to purchase goods, and the necessary personal information is: telephone number of registered users; Name, address and telephone number of the consignee; Payment time, payment amount, payment channel, etc. Please read carefully before using our services"
+    },
+    {
+      "name": "word2",
+      "value": ". Please note that agreeing to the Privacy policy only means that you have understood the functions provided by the App and the necessary personal information required for the function to operate. Based on your authorization, we may obtain your location and other information, and you have the right to refuse or cancel the authorization; We will take the industry's advanced security measures to protect your information security; We will not obtain, share or provide your information from third parties without your consent; You can query, correct and delete your personal information"
+    },
+    {
+      "name": "ri",
+      "value": "Sun"
+    },
+    {
+      "name": "yi",
+      "value": "Mon"
+    },
+    {
+      "name": "er",
+      "value": "Tue"
+    },
+    {
+      "name": "san",
+      "value": "Wed"
+    },
+    {
+      "name": "si",
+      "value": "Thu"
+    },
+    {
+      "name": "wu",
+      "value": "Fri"
+    },
+    {
+      "name": "liu",
+      "value": "Sat"
+    },
+    {
+      "name": "year",
+      "value": "year"
+    },
+    {
+      "name": "month",
+      "value": "month"
+    },
+    {
+      "name": "day",
+      "value": "day"
+    },
+    {
+      "name": "sunday",
+      "value": "Sunday"
+    },
+    {
+      "name": "monday",
+      "value": "Monday"
+    },
+    {
+      "name": "tuesday",
+      "value": "Tuesday"
+    },
+    {
+      "name": "wednesday",
+      "value": "Wednesday"
+    },
+    {
+      "name": "thursday",
+      "value": "Thursday"
+    },
+    {
+      "name": "friday",
+      "value": "Friday"
+    },
+    {
+      "name": "saturday",
+      "value": "Saturday"
+    }
+  ]
+}

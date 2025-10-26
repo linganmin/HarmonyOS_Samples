@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BackupRestore"
+    },
+    {
+      "name": "xml_data",
+      "value": "XML data"
+    },
+    {
+      "name": "file_list",
+      "value": "File List"
+    },
+    {
+      "name": "database_data",
+      "value": "Database data"
+    },
+    {
+      "name": "database_show",
+      "value": "database"
+    },
+    {
+      "name": "file_show",
+      "value": "file"
+    },
+    {
+      "name": "xml_show",
+      "value": "XML data"
+    },
+    {
+      "name": "backup_recover",
+      "value": "backup and recovery"
+    }
+  ]
+}

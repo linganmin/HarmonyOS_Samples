@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "网络自适应视频流"
+    },
+    {
+      "name": "resolution_changing",
+      "value": "分辨率切换中"
+    },
+    {
+      "name": "resolution_changed",
+      "value": "分辨率切换完成"
+    },
+    {
+      "name": "resolution_auto_reducing",
+      "value": "当前网络环境差，将自动降低分辨率"
+    },
+    {
+      "name": "resolution_auto_increasing",
+      "value": "当前网络较为稳定，将自动提升分辨率"
+    },
+    {
+      "name": "auto_resolution",
+      "value": "自动"
+    },
+    {
+      "name": "path_type",
+      "value": "网络路径%s"
+    },
+    {
+      "name": "down_band_width",
+      "value": "下行带宽%s"
+    },
+    {
+      "name": "down_rate",
+      "value": "下行速率%s"
+    },
+    {
+      "name": "rtt_ms",
+      "value": "RTT时延%s"
+    },
+    {
+      "name": "scene",
+      "value": "网络场景%s"
+    },
+    {
+      "name": "recommended_action",
+      "value": "建议行为%s"
+    },
+    {
+      "name": "video_avg_down_rate",
+      "value": "视频平均下载速率%s"
+    },
+    {
+      "name": "video_down_rate",
+      "value": "视频1s下载速率%s"
+    },
+    {
+      "name": "video_buffer_info_type",
+      "value": "视频缓存信息类型%s"
+    },
+    {
+      "name": "video_buffer_info_value",
+      "value": "视频缓存信息值%s"
+    },
+    {
+      "name": "error_info",
+      "value": "播放器状态异常，将停止播放"
+    },
+    {
+      "name": "weak_net",
+      "value": "弱网环境，将调节至最低码率"
+    },
+    {
+      "name": "manual_bitrate",
+      "value": "分辨率切换中"
+    },
+    {
+      "name": "weak_net_lowest_bitrate",
+      "value": "弱网环境，当前已经是最低码率"
+    },
+    {
+      "name": "full_screen_playback",
+      "value": "全屏观看"
+    }
+  ]
+}

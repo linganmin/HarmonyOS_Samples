@@ -1,0 +1,65 @@
+// [Start json5_start]
+// [Start json5_start1]
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    // [StartExclude json5_start]
+    "externalNativeOptions": {
+      "path": "./src/main/cpp/CMakeLists.txt",
+      "arguments": "",
+      "cppFlags": "",
+      "abiFilters": ["x86_64", "arm64-v8a"]
+    },
+    "nativeLib": {
+      "headerPath": "./src/main/cpp"
+    },
+    // [StartExclude json5_start1]
+    // [EndExclude json5_start]
+    "arkOptions" : {
+      "runtimeOnly" : {
+        "sources": [
+          "./src/main/ets/utils/Util.ets"
+        ]
+      }
+    }
+  },
+  // [StartExclude json5_start]
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          },
+          "consumerFiles": [
+            "./consumer-rules.txt"
+          ]
+        }
+      },
+      "nativeLib": {
+        "debugSymbol": {
+          "strip": true,
+          "exclude": []
+        }
+      }
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest"
+    }
+  ],
+  // [EndExclude json5_start1]
+  // [EndExclude json5_start]
+}
+// [End json5_start1]
+// [End json5_start]
+
+

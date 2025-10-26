@@ -1,0 +1,11 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/EncryptionPage",
+    "pages/EncryptionDetailPage",
+    "pages/SignatureVerificationPage",
+    "pages/SignatureVerificationDetailPage",
+    "pages/KeyNegotiationPage",
+    "pages/KeyNegotiationDetailPage"
+  ]
+}

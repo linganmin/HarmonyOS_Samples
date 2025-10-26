@@ -1,0 +1,104 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PageFlip"
+    },
+    {
+      "name": "pageflip_content1",
+      "value": "The application development documentation provides reference for you to build applications using the APIs provided by the HarmonyOS SDK. Before diving into the documentation, it would be helpful to familiarize yourself with the application development journey.\n\nThe documents are organized as follows:\n\nStart\nIf you are just getting into HarmonyOS, read up on the application development basics here.\n\nYou will learn the application package structure, resource file usage, ArkTS syntax and functions, and build your first HarmonyOS application with simple operations.\n\nDevelopment\nStarting from HarmonyOS NEXT Developer Preview 1 (API version 11), the HarmonyOS SDK provides rich and complete open capabilities in kits covering the following:"
+    },
+    {
+      "name": "pageflip_content2",
+      "value": "Application frameworks: Ability Kit, ArkUI, and more\nSystem: Universal Keystore Kit, Network Kit, and more\nMultimedia: Audio Kit, Media Library Kit, and more\nGraphics: ArkGraphics 2D, Graphics Accelerate Kit, and more\nApplication services: Game Service Kit, Location Kit, and more\nAI: Intents Kit, HiAI Foundation Kit, and more\n\nDevelopment guides are provided for key capabilities to elevate your development experience. For details, see the documents in Development.\n\nTools\nDevEco Studio is a high-performance integrated development environment (IDE) dedicated for developing HarmonyOS applications.\n\nHere you can learn everything about DevEco Studio, including how to use this tool to create a project and sign, debug, and run an application."
+    },
+    {
+      "name": "pageflip_content3",
+      "value": "The application development documentation provides reference for you to build applications using the APIs provided by the HarmonyOS SDK. Before diving into the documentation, it would be helpful to familiarize yourself with the application development journey.\n\nThe documents are organized as follows:\n\nStart\nIf you are just getting into HarmonyOS, read up on the application development basics here.\n\nYou will learn the application package structure, resource file usage, ArkTS syntax and functions, and build your first HarmonyOS application with simple operations.\n\nDevelopment\nStarting from HarmonyOS NEXT Developer Preview 1 (API version 11), the HarmonyOS SDK provides rich and complete open capabilities in kits covering the following:"
+    },
+    {
+      "name": "pageflip_content4",
+      "value": "Application frameworks: Ability Kit, ArkUI, and more\nSystem: Universal Keystore Kit, Network Kit, and more\nMultimedia: Audio Kit, Media Library Kit, and more\nGraphics: ArkGraphics 2D, Graphics Accelerate Kit, and more\nApplication services: Game Service Kit, Location Kit, and more\nAI: Intents Kit, HiAI Foundation Kit, and more\n\nDevelopment guides are provided for key capabilities to elevate your development experience. For details, see the documents in Development.\n\nTools\nDevEco Studio is a high-performance integrated development environment (IDE) dedicated for developing HarmonyOS applications.\n\nHere you can learn everything about DevEco Studio, including how to use this tool to create a project and sign, debug, and run an application."
+    },
+    {
+      "name": "pageflip_content5",
+      "value": "The application development documentation provides reference for you to build applications using the APIs provided by the HarmonyOS SDK. Before diving into the documentation, it would be helpful to familiarize yourself with the application development journey.\n\nThe documents are organized as follows:\n\nStart\nIf you are just getting into HarmonyOS, read up on the application development basics here.\n\nYou will learn the application package structure, resource file usage, ArkTS syntax and functions, and build your first HarmonyOS application with simple operations.\n\nDevelopment\nStarting from HarmonyOS NEXT Developer Preview 1 (API version 11), the HarmonyOS SDK provides rich and complete open capabilities in kits covering the following:"
+    },
+    {
+      "name": "pageflip_content6",
+      "value": "Application frameworks: Ability Kit, ArkUI, and more\nSystem: Universal Keystore Kit, Network Kit, and more\nMultimedia: Audio Kit, Media Library Kit, and more\nGraphics: ArkGraphics 2D, Graphics Accelerate Kit, and more\nApplication services: Game Service Kit, Location Kit, and more\nAI: Intents Kit, HiAI Foundation Kit, and more\n\nDevelopment guides are provided for key capabilities to elevate your development experience. For details, see the documents in Development.\n\nTools\nDevEco Studio is a high-performance integrated development environment (IDE) dedicated for developing HarmonyOS applications.\n\nHere you can learn everything about DevEco Studio, including how to use this tool to create a project and sign, debug, and run an application."
+    },
+    {
+      "name": "pageflip_content7",
+      "value": "The application development documentation provides reference for you to build applications using the APIs provided by the HarmonyOS SDK. Before diving into the documentation, it would be helpful to familiarize yourself with the application development journey.\n\nThe documents are organized as follows:\n\nStart\nIf you are just getting into HarmonyOS, read up on the application development basics here.\n\nYou will learn the application package structure, resource file usage, ArkTS syntax and functions, and build your first HarmonyOS application with simple operations.\n\nDevelopment\nStarting from HarmonyOS NEXT Developer Preview 1 (API version 11), the HarmonyOS SDK provides rich and complete open capabilities in kits covering the following:"
+    },
+    {
+      "name": "pageflip_content8",
+      "value": "Application frameworks: Ability Kit, ArkUI, and more\nSystem: Universal Keystore Kit, Network Kit, and more\nMultimedia: Audio Kit, Media Library Kit, and more\nGraphics: ArkGraphics 2D, Graphics Accelerate Kit, and more\nApplication services: Game Service Kit, Location Kit, and more\nAI: Intents Kit, HiAI Foundation Kit, and more\n\nDevelopment guides are provided for key capabilities to elevate your development experience. For details, see the documents in Development.\n\nTools\nDevEco Studio is a high-performance integrated development environment (IDE) dedicated for developing HarmonyOS applications.\n\nHere you can learn everything about DevEco Studio, including how to use this tool to create a project and sign, debug, and run an application."
+    },
+    {
+      "name": "pageflip_content9",
+      "value": "The application development documentation provides reference for you to build applications using the APIs provided by the HarmonyOS SDK. Before diving into the documentation, it would be helpful to familiarize yourself with the application development journey.\n\nThe documents are organized as follows:\n\nStart\nIf you are just getting into HarmonyOS, read up on the application development basics here.\n\nYou will learn the application package structure, resource file usage, ArkTS syntax and functions, and build your first HarmonyOS application with simple operations.\n\nDevelopment\nStarting from HarmonyOS NEXT Developer Preview 1 (API version 11), the HarmonyOS SDK provides rich and complete open capabilities in kits covering the following:"
+    },
+    {
+      "name": "pageflip_content10",
+      "value": "Application frameworks: Ability Kit, ArkUI, and more\nSystem: Universal Keystore Kit, Network Kit, and more\nMultimedia: Audio Kit, Media Library Kit, and more\nGraphics: ArkGraphics 2D, Graphics Accelerate Kit, and more\nApplication services: Game Service Kit, Location Kit, and more\nAI: Intents Kit, HiAI Foundation Kit, and more\n\nDevelopment guides are provided for key capabilities to elevate your development experience. For details, see the documents in Development.\n\nTools\nDevEco Studio is a high-performance integrated development environment (IDE) dedicated for developing HarmonyOS applications.\n\nHere you can learn everything about DevEco Studio, including how to use this tool to create a project and sign, debug, and run an application."
+    },
+    {
+      "name": "pageflip_content11",
+      "value": "The application development documentation provides reference for you to build applications using the APIs provided by the HarmonyOS SDK. Before diving into the documentation, it would be helpful to familiarize yourself with the application development journey.\n\nThe documents are organized as follows:\n\nStart\nIf you are just getting into HarmonyOS, read up on the application development basics here.\n\nYou will learn the application package structure, resource file usage, ArkTS syntax and functions, and build your first HarmonyOS application with simple operations.\n\nDevelopment\nStarting from HarmonyOS NEXT Developer Preview 1 (API version 11), the HarmonyOS SDK provides rich and complete open capabilities in kits covering the following:"
+    },
+    {
+      "name": "pageflip_content12",
+      "value": "Application frameworks: Ability Kit, ArkUI, and more\nSystem: Universal Keystore Kit, Network Kit, and more\nMultimedia: Audio Kit, Media Library Kit, and more\nGraphics: ArkGraphics 2D, Graphics Accelerate Kit, and more\nApplication services: Game Service Kit, Location Kit, and more\nAI: Intents Kit, HiAI Foundation Kit, and more\n\nDevelopment guides are provided for key capabilities to elevate your development experience. For details, see the documents in Development.\n\nTools\nDevEco Studio is a high-performance integrated development environment (IDE) dedicated for developing HarmonyOS applications.\n\nHere you can learn everything about DevEco Studio, including how to use this tool to create a project and sign, debug, and run an application."
+    },
+    {
+      "name": "pageflip_content13",
+      "value": "The application development documentation provides reference for you to build applications using the APIs provided by the HarmonyOS SDK. Before diving into the documentation, it would be helpful to familiarize yourself with the application development journey.\n\nThe documents are organized as follows:\n\nStart\nIf you are just getting into HarmonyOS, read up on the application development basics here.\n\nYou will learn the application package structure, resource file usage, ArkTS syntax and functions, and build your first HarmonyOS application with simple operations.\n\nDevelopment\nStarting from HarmonyOS NEXT Developer Preview 1 (API version 11), the HarmonyOS SDK provides rich and complete open capabilities in kits covering the following:"
+    },
+    {
+      "name": "page_flip_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "pageflip_bottomview_row_text_width",
+      "value": "90%"
+    },
+    {
+      "name": "page_flip_type_0",
+      "value": "UpDown"
+    },
+    {
+      "name": "page_flip_type_1",
+      "value": "Cover"
+    },
+    {
+      "name": "page_flip_type_2",
+      "value": "Emulation"
+    },
+    {
+      "name": "setting",
+      "value": "Setting"
+    },
+    {
+      "name": "page_flip",
+      "value": "FlipType"
+    },
+    {
+      "name": "first_page",
+      "value": "First page."
+    },
+    {
+      "name": "last_page",
+      "value": "Last page."
+    }
+  ]
+}

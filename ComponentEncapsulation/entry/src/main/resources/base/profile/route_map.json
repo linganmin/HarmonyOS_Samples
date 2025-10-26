@@ -1,0 +1,36 @@
+{
+  "routerMap": [
+    {
+      "name": "CommonComponent",
+      "pageSourceFile": "src/main/ets/pages/CommonComponent.ets",
+      "buildFunction": "CommonComponentBuilder",
+      "data": {
+        "description" : "this is CommonComponent"
+      }
+    },
+    {
+      "name": "AttributeStylePage",
+      "pageSourceFile": "src/main/ets/pages/AttributeStylePage.ets",
+      "buildFunction": "AttributeStylePageBuilder",
+      "data": {
+        "description" : "this is AttributeStylePage"
+      }
+    },
+    {
+      "name": "DialogComponent",
+      "pageSourceFile": "src/main/ets/pages/DialogComponent.ets",
+      "buildFunction": "DialogComponentBuilder",
+      "data": {
+        "description" : "this is DialogComponent"
+      }
+    },
+    {
+      "name": "ComponentFactory",
+      "pageSourceFile": "src/main/ets/pages/ComponentFactory.ets",
+      "buildFunction": "ComponentFactoryBuilder",
+      "data": {
+        "description" : "this is ComponentFactory"
+      }
+    }
+  ]
+}

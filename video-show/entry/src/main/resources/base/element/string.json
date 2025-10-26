@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "VideoShow"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used for video playback using the Internet network."
+    }
+  ]
+}

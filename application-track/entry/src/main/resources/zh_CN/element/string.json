@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ApplicationTrack"
+    },
+    {
+      "name": "click_tracing_point",
+      "value": "点击埋点"
+    },
+    {
+      "name": "click_tracing_point_single_component",
+      "value": "点击埋点-单组件"
+    },
+    {
+      "name": "click_tracing_point_composite_component",
+      "value": "点击埋点-复合组件"
+    },
+    {
+      "name": "exposure_embedment_point",
+      "value": "曝光埋点"
+    },
+    {
+      "name": "page_tracing_point",
+      "value": "页面埋点"
+    },
+    {
+      "name": "navigation_route",
+      "value": "使用Navigation路由时的页面切换埋点"
+    },
+    {
+      "name": "router_route",
+      "value": "使用Router路由时的页面切换埋点"
+    },
+    {
+      "name": "application_tracing_point_example",
+      "value": "应用埋点示例"
+    },
+    {
+      "name": "back",
+      "value": "back"
+    },
+    {
+      "name": "click_tracing_point_detail",
+      "value": "组件被点击时的行为埋点"
+    },
+    {
+      "name": "exposure_embedment_point_detail",
+      "value": "组件的曝光展示埋点"
+    }
+  ]
+}

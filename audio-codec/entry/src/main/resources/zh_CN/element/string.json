@@ -1,0 +1,87 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioCodec"
+    },
+    {
+      "name": "main_title",
+      "value": "音频编解码"
+    },
+    {
+      "name": "select_audio",
+      "value": "本地音频选择"
+    },
+    {
+      "name": "record",
+      "value": "录制"
+    },
+    {
+      "name": "alert",
+      "value": "未选择音频！"
+    },
+    {
+      "name": "permission_microphone",
+      "value": "允许应用在录制音频场景中使用麦克风。"
+    },
+    {
+      "name": "play_now",
+      "value": "正在播放..."
+    },
+    {
+      "name": "audio_captures",
+      "value": "播放和转码"
+    },
+    {
+      "name": "transcoding",
+      "value": "转码"
+    },{
+      "name": "audio_record",
+      "value": "录制"
+    },
+    {
+      "name": "pause_audio",
+      "value": "暂停"
+    },
+    {
+      "name": "CONTINUE",
+      "value": "继续"
+    },
+    {
+      "name": "play_paused",
+      "value": "暂停播放"
+    },
+    {
+      "name": "target_save_format",
+      "value": "目标保存格式"
+    },
+    {
+      "name": "picker_btn_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "picker_btn_confirm",
+      "value": "确定"
+    },
+    {
+      "name": "recording_format",
+      "value": "录制格式"
+    },
+    {
+      "name": "save_to_local",
+      "value": "是否保存到本地"
+    },
+    {
+      "name": "transcoding_format",
+      "value": "转码格式"
+    }
+  ]
+}

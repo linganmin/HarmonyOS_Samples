@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DataBaseUpgrade"
+    },
+    {
+      "name": "Update_failed",
+      "value": "Update failed."
+    },
+    {
+      "name": "Sequence_diagram",
+      "value": "sequence diagram"
+    },
+    {
+      "name": "input_field",
+      "value": "Select the field to add."
+    },
+    {
+      "name": "field_value",
+      "value": "Field value"
+    },
+    {
+      "name": "username",
+      "value": "username"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "nickname",
+      "value": "Nickname"
+    },
+    {
+      "name": "age",
+      "value": "Age"
+    },
+    {
+      "name": "version_update",
+      "value": "Update"
+    },
+    {
+      "name": "version_rollback",
+      "value": "Roll back"
+    },
+    {
+      "name": "rollback_failed",
+      "value": "rollback failed"
+    },
+    {
+      "name": "rollback_success",
+      "value": "rollback success"
+    },
+    {
+      "name": "user_info",
+      "value": "User info"
+    },
+    {
+      "name": "updating",
+      "value": "Updating"
+    },
+    {
+      "name": "update_failed",
+      "value": "The update failed"
+    },
+    {
+      "name": "update_success",
+      "value": "The update is successful"
+    }
+  ]
+}

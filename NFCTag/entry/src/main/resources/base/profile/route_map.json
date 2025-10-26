@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "ReadNFCTag",
+      "pageSourceFile": "src/main/ets/view/ReadNFCTag.ets",
+      "buildFunction": "ReadNFCTagBuilder",
+      "data": {
+        "description": "this is ReadNFCTag"
+      }
+    }
+  ]
+}

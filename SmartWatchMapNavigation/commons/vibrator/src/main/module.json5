@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "vibrator",
+    "type": "har",
+    "deviceTypes": [
+      "wearable"
+    ]
+  }
+}

@@ -1,0 +1,1 @@
+export const addByLibPath: (a: number, b: number, c: string) => number;

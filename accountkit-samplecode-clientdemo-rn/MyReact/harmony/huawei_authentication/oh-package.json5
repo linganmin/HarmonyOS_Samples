@@ -1,0 +1,12 @@
+{
+  "name": "react-native-huawei-authentication",
+  "version": "0.0.1",
+  "description": "Please describe the basic information.",
+  "main": "index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    // In this example, the release HAR package is used by default, offering better performance and a smaller size.
+    "@rnoh/react-native-openharmony": "file:../../node_modules/@react-native-oh/react-native-harmony/react_native_openharmony_release.har"
+  },
+}

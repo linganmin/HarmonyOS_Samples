@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "JumpBetweenApps"
+    },
+    {
+      "name": "huawei_reader",
+      "value": "Huawei Reader"
+    },
+    {
+      "name": "read_des",
+      "value": "Classic literature, prose poetry, and millions of novels are all available on Huawei Reader."
+    },
+    {
+      "name": "goods_detail",
+      "value": "HUAWEI Mate X5 12 GB + 512 GB Phantom Purple"
+    },
+    {
+      "name": "goods_name",
+      "value": "[Official Flagship Store] HUAWEI Mate X5 12GB+512GB Phantom Purple"
+    },
+    {
+      "name": "no_network",
+      "value": "No network connection currently, please click to set up network connection"
+    },
+    {
+      "name": "error_toast",
+      "value": "Some problems have occurred. Please try again later"
+    },
+    {
+      "name": "payment_status",
+      "value": "Payment successful"
+    }
+  ]
+}

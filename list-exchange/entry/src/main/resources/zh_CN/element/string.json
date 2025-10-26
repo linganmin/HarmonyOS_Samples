@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ListExchange"
+    },
+    {
+      "name": "list_exchange_deduction_sort",
+      "value": "扣款排序"
+    },
+    {
+      "name": "list_exchange_custom_sort",
+      "value": "自定义排序"
+    },
+    {
+      "name": "list_exchange_operation_text",
+      "value": "长按拖动/左滑删除"
+    },
+    {
+      "name": "bank_card_NO1",
+      "value": "账户余额"
+    },
+    {
+      "name": "bank_card_NO2",
+      "value": "xx银行储蓄卡（1234）"
+    },
+    {
+      "name": "bank_card_NO3",
+      "value": "xx银行储蓄卡（1238）"
+    },
+    {
+      "name": "bank_card_NO4",
+      "value": "xx银行储蓄卡（1236）"
+    }
+  ]
+}

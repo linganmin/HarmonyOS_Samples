@@ -1,0 +1,234 @@
+{
+  "float": [
+    {
+      "name": "low_price_font_size",
+      "value": "20fp"
+    },
+    {
+      "name": "January_2024_font_size",
+      "value": "19fp"
+    },
+    {
+      "name": "hotel_message_font_size",
+      "value": "12fp"
+    },
+    {
+      "name": "week_info_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "week_info_lg_font_size",
+      "value": "24fp"
+    },
+    {
+      "name": "room_price_font_size",
+      "value": "21fp"
+    },
+    {
+      "name": "room_date_font_size",
+      "value": "18fp"
+    },
+    {
+      "name": "today_font_Size",
+      "value": "8.57fp"
+    },
+    {
+      "name": "calendar_money_font_size",
+      "value": "10fp"
+    },
+    {
+      "name": "room_bundle_font_size",
+      "value": "8fp"
+    },
+    {
+      "name": "room_config_one_font_size",
+      "value": "11fp"
+    },
+    {
+      "name": "start_width",
+      "value": "16vp"
+    },
+    {
+      "name": "low_price_height",
+      "value": "32vp"
+    },
+    {
+      "name": "low_price_margin_top",
+      "value": "27vp"
+    },
+    {
+      "name": "low_price_all_height",
+      "value": "40vp"
+    },
+    {
+      "name": "January_2024_margin_top",
+      "value": "15vp"
+    },
+    {
+      "name": "index_page_button_margin",
+      "value": "30vp"
+    },
+    {
+      "name": "calendar_date_border",
+      "value": "4vp"
+    },
+    {
+      "name": "hotel_grade_border",
+      "value": "12vp"
+    },
+    {
+      "name": "calendar_card_border",
+      "value": "16vp"
+    },
+    {
+      "name": "hotel_message_margin_top",
+      "value": "12vp"
+    },
+    {
+      "name": "hotel_content_margin_top",
+      "value": "5vp"
+    },
+    {
+      "name": "calendar_column_margin",
+      "value": "10vp"
+    },
+    {
+      "name": "calendar_date_height",
+      "value": "55vp"
+    },
+    {
+      "name": "calendar_card_width",
+      "value": "480vp"
+    },
+    {
+      "name": "calendar_card_height",
+      "value": "501vp"
+    },
+    {
+      "name": "hotel_picture_padding",
+      "value": "4vp"
+    },
+    {
+      "name": "hotel_padding_picture_left",
+      "value": "5vp"
+    },
+    {
+      "name": "hotel_first_width",
+      "value": "22vp"
+    },
+    {
+      "name": "hotel_all_grade_margin_top",
+      "value": "15vp"
+    },
+    {
+      "name": "no_border",
+      "value": "0vp"
+    },
+    {
+      "name": "hotel_bar_height",
+      "value": "50vp"
+    },
+    {
+      "name": "hotel_detail_content_height",
+      "value": "178vp"
+    },
+    {
+      "name": "hotel_detail_order_height",
+      "value": "56vp"
+    },
+    {
+      "name": "hotel_scroll_margin_top",
+      "value": "50vp"
+    },
+    {
+      "name": "hotel_bar_margin_top",
+      "value": "20vp"
+    },
+    {
+      "name": "room_picture_width",
+      "value": "60vp"
+    },
+    {
+      "name": "room_true_picture_width",
+      "value": "104vp"
+    },
+    {
+      "name": "room_all_picture_width",
+      "value": "120vp"
+    },
+    {
+      "name": "room_message_one_width",
+      "value": "23vp"
+    },
+    {
+      "name": "room_message_weo_width",
+      "value": "14vp"
+    },
+    {
+      "name": "buy_button_width",
+      "value": "84vp"
+    },
+    {
+      "name": "receive_height",
+      "value": "28vp"
+    },
+    {
+      "name": "room_scroll_height",
+      "value": "139vp"
+    },
+    {
+      "name": "room_picture_border",
+      "value": "8vp"
+    },
+    {
+      "name": "room_grade_padding",
+      "value": "3vp"
+    },
+    {
+      "name": "receive_width",
+      "value": "72vp"
+    },
+    {
+      "name": "one_night_width",
+      "value": "31vp"
+    },
+    {
+      "name": "one_night_height",
+      "value": "20vp"
+    },
+    {
+      "name": "hotel_room_border",
+      "value": "6vp"
+    },
+    {
+      "name": "hotel_room_Width",
+      "value": "64vp"
+    },
+    {
+      "name": "calendar_height",
+      "value": "224vp"
+    },
+    {
+      "name": "calendar_margin_top",
+      "value": "100vp"
+    },
+    {
+      "name": "Search_bar_margin_top",
+      "value": "140vp"
+    },
+    {
+      "name": "search_bar_height",
+      "value": "70vp"
+    },
+    {
+      "name": "search_top_height",
+      "value": "68vp"
+    },
+    {
+      "name": "checkbox_width",
+      "value": "17vp"
+    }
+
+
+  ]
+}

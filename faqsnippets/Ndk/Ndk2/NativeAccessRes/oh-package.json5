@@ -1,0 +1,11 @@
+{
+  "name": "nativeaccessres",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "libnativeaccessres.so": "file:./src/main/cpp/types/libnativeaccessres"
+  }
+}

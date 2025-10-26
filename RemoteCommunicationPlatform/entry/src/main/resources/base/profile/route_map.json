@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "BaseRequest",
+      "pageSourceFile": "src/main/ets/pages/BaseRequest.ets",
+      "buildFunction": "BaseRequestBuilder",
+      "data": {
+        "description": "this is BaseRequest"
+      }
+    },
+    {
+      "name": "MultipartForm",
+      "pageSourceFile": "src/main/ets/pages/MultipartForm.ets",
+      "buildFunction": "MultipartFormBuilder",
+      "data": {
+        "description": "this is MultipartForm"
+      }
+    },
+    {
+      "name": "RequestAndResponse",
+      "pageSourceFile": "src/main/ets/pages/RequestAndResponse.ets",
+      "buildFunction": "RequestAndResponseBuilder",
+      "data": {
+        "description": "this is RequestAndResponse"
+      }
+    },
+    {
+      "name": "DNSSetting",
+      "pageSourceFile": "src/main/ets/pages/DNSSetting.ets",
+      "buildFunction": "DNSSettingBuilder",
+      "data": {
+        "description": "this is DNSSetting"
+      }
+    },
+    {
+      "name": "TracingPoint",
+      "pageSourceFile": "src/main/ets/pages/TracingPoint.ets",
+      "buildFunction": "TracingPointBuilder",
+      "data": {
+        "description": "this is TracingPoint"
+      }
+    }
+  ]
+}

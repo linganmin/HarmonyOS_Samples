@@ -1,0 +1,361 @@
+[2025-05-12T16:06:47.827] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-12T16:06:48.294] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: false,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-12T16:06:48.313] [DEBUG] debug-file - hvigorfile, resolving D:\git_developmentPractice\DevelopmentPractice\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-12T16:06:49.764] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: appTasks], plugins: [] } }
+[2025-05-12T16:06:49.974] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2025-05-12T16:06:49.980] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2025-05-12T16:06:50.012] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2025-05-12T16:06:50.052] [DEBUG] debug-file - Sdk init in 61 ms 
+[2025-05-12T16:06:50.002] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2025-05-12T16:06:49.997] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2025-05-12T16:06:50.091] [DEBUG] debug-file - Project task initialization takes 36 ms 
+[2025-05-12T16:06:50.104] [DEBUG] debug-file - hvigorfile, resolving D:\git_developmentPractice\DevelopmentPractice\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-12T16:06:50.133] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2025-05-12T16:06:50.144] [DEBUG] debug-file - Module entry task initialization takes 6 ms 
+[2025-05-12T16:06:50.149] [DEBUG] debug-file - project has submodules:entry
+[2025-05-12T16:06:50.200] [DEBUG] debug-file - Configuration task cost before running: 1 s 923 ms 
+[2025-05-12T16:06:50.204] [DEBUG] debug-file - Executing task :entry:clean
+[2025-05-12T16:06:50.209] [DEBUG] debug-file - entry : clean cost memory 0.4993743896484375
+[2025-05-12T16:06:50.229] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-12T16:06:47.829] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-12T16:06:48.295] [DEBUG] debug-file - Since current hvigor version 5.16.2 differs from last hvigor version 
+      undefined, delete file-cache.json and task-cache.json.
+[2025-05-12T16:06:49.764] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: appTasks]
+[2025-05-12T16:06:49.974] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2025-05-12T16:06:49.981] [DEBUG] debug-file - not found resModel json file in : D:\git_developmentPractice\DevelopmentPractice\ImageWhiteLumpSolution\UseImageHttpRequest\entry\src\ohosTest\module.json5
+[2025-05-12T16:06:50.091] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-12T16:06:50.112] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: hapTasks], plugins: [] } }
+[2025-05-12T16:06:50.133] [DEBUG] debug-file - Target 'default' config: {}
+[2025-05-12T16:06:50.144] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-12T16:06:50.151] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2025-05-12T16:06:50.204] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-12T16:06:50.209] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 932 ms 
+[2025-05-12T16:06:50.234] [DEBUG] debug-file - Module 'entry' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2025-05-12T16:06:50.255] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-12T16:06:47.831] [DEBUG] debug-file - env: daemon=false
+[2025-05-12T16:06:48.296] [DEBUG] debug-file - Cache service initialization finished in 2 ms 
+[2025-05-12T16:06:49.974] [DEBUG] debug-file - Product 'default' build option: {}
+[2025-05-12T16:06:49.990] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2025-05-12T16:06:50.091] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\git_developmentPractice\DevelopmentPractice\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-12T16:06:50.112] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: hapTasks]
+[2025-05-12T16:06:50.134] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2025-05-12T16:06:50.144] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\git_developmentPractice\DevelopmentPractice\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-12T16:06:50.155] [DEBUG] debug-file - load to the disk finished
+[2025-05-12T16:06:50.211] [INFO] debug-file - Finished :entry:clean... after 6 ms 
+[2025-05-12T16:06:50.252] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-12T16:06:50.257] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-12T16:06:47.831] [DEBUG] debug-file - no-daemon, use the parent process.execArgv --max-old-space-size=8192,--expose-gc
+[2025-05-12T16:06:49.974] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2025-05-12T16:06:50.091] [DEBUG] debug-file - hvigorfile, resolve finished D:\git_developmentPractice\DevelopmentPractice\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-12T16:06:50.134] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2025-05-12T16:06:50.144] [DEBUG] debug-file - hvigorfile, resolve finished D:\git_developmentPractice\DevelopmentPractice\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-12T16:06:50.156] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-12T16:06:50.211] [DEBUG] debug-file - Executing task ::clean
+[2025-05-12T16:06:50.252] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-12T16:06:50.260] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2025-05-12T16:06:50.134] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2025-05-12T16:06:50.184] [DEBUG] debug-file - Module UseImageHttpRequest Collected Dependency: 
+[2025-05-12T16:06:50.211] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-12T16:06:50.260] [DEBUG] debug-file - Clear worker 0.
+[2025-05-12T16:06:50.134] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2025-05-12T16:06:50.184] [DEBUG] debug-file - Module UseImageHttpRequest's total dependency: 0
+[2025-05-12T16:06:50.212] [DEBUG] debug-file - UseImageHttpRequest : clean cost memory 0.03276824951171875
+[2025-05-12T16:06:50.261] [DEBUG] debug-file - Worker 0 has been cleared.
+[2025-05-12T16:06:50.134] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-12T16:06:50.185] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-12T16:06:50.212] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 935 ms 
+[2025-05-12T16:06:50.261] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-12T16:06:50.189] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2025-05-12T16:06:50.212] [INFO] debug-file - Finished ::clean... after 1 ms 
+[2025-05-12T16:06:50.261] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-12T16:06:50.189] [DEBUG] debug-file - Module entry's total dependency: 0
+[2025-05-12T16:06:50.212] [DEBUG] debug-file - Executing task :entry:init
+[2025-05-12T16:06:50.261] [DEBUG] debug-file - Clear worker 1.
+[2025-05-12T16:06:50.213] [DEBUG] debug-file - entry : init cost memory 0.01019287109375
+[2025-05-12T16:06:50.196] [DEBUG] debug-file - Configuration phase cost:1 s 893 ms 
+[2025-05-12T16:06:50.261] [DEBUG] debug-file - Worker 1 has been cleared.
+[2025-05-12T16:06:50.213] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 935 ms 
+[2025-05-12T16:06:50.261] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-12T16:06:50.213] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2025-05-12T16:06:50.261] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-12T16:06:50.213] [DEBUG] debug-file - Executing task ::init
+[2025-05-12T16:06:50.264] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-12T16:06:50.213] [DEBUG] debug-file - UseImageHttpRequest : init cost memory 0.00897216796875
+[2025-05-12T16:06:50.271] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-12T16:06:50.213] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 936 ms 
+[2025-05-12T16:06:50.272] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2025-05-12T16:06:50.214] [INFO] debug-file - Finished ::init... after 1 ms 
+[2025-05-12T16:06:50.273] [DEBUG] debug-file - Current worker pool is terminated.
+[2025-05-16T15:10:54.451] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-16T15:10:54.903] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: false,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-16T15:10:54.920] [DEBUG] debug-file - hvigorfile, resolving D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-16T15:10:56.329] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: appTasks], plugins: [] } }
+[2025-05-16T15:10:56.538] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2025-05-16T15:10:56.545] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2025-05-16T15:10:56.560] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2025-05-16T15:10:56.564] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2025-05-16T15:10:56.572] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2025-05-16T15:10:56.605] [DEBUG] debug-file - Sdk init in 50 ms 
+[2025-05-16T15:10:56.633] [DEBUG] debug-file - Project task initialization takes 26 ms 
+[2025-05-16T15:10:56.642] [DEBUG] debug-file - hvigorfile, resolving D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-16T15:10:56.666] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2025-05-16T15:10:56.675] [DEBUG] debug-file - Module entry task initialization takes 5 ms 
+[2025-05-16T15:10:56.678] [DEBUG] debug-file - project has submodules:entry
+[2025-05-16T15:10:56.705] [DEBUG] debug-file - Configuration task cost before running: 1 s 819 ms 
+[2025-05-16T15:10:56.720] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-16T15:10:54.453] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-16T15:10:54.905] [DEBUG] debug-file - Cache service initialization finished in 2 ms 
+[2025-05-16T15:10:56.739] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-16T15:10:56.329] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: appTasks]
+[2025-05-16T15:10:56.539] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2025-05-16T15:10:56.546] [DEBUG] debug-file - not found resModel json file in : D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\src\ohosTest\module.json5
+[2025-05-16T15:10:56.633] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-16T15:10:56.649] [DEBUG] debug-file - hvigorfile, require result:  { default: { system: [Function: hapTasks], plugins: [] } }
+[2025-05-16T15:10:56.666] [DEBUG] debug-file - Target 'default' config: {}
+[2025-05-16T15:10:56.675] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-16T15:10:56.680] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2025-05-16T15:10:56.705] [DEBUG] debug-file - Executing task :entry:init
+[2025-05-16T15:10:56.724] [DEBUG] debug-file - Module 'entry' target 'ohosTest' using build option: {
+  "debuggable": true,
+  "name": "default"
+} in this build.
+[2025-05-16T15:10:54.455] [DEBUG] debug-file - env: daemon=false
+[2025-05-16T15:10:56.742] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-16T15:10:56.539] [DEBUG] debug-file - Product 'default' build option: {}
+[2025-05-16T15:10:56.554] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2025-05-16T15:10:56.633] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-16T15:10:56.649] [DEBUG] debug-file - hvigorfile, binding system plugins [Function: hapTasks]
+[2025-05-16T15:10:56.667] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2025-05-16T15:10:56.675] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-16T15:10:56.684] [DEBUG] debug-file - load to the disk finished
+[2025-05-16T15:10:56.705] [DEBUG] debug-file - entry : init cost memory 0.0117645263671875
+[2025-05-16T15:10:56.737] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-16T15:10:54.455] [DEBUG] debug-file - no-daemon, use the parent process.execArgv --max-old-space-size=8192,--expose-gc
+[2025-05-16T15:10:56.745] [DEBUG] debug-file - Current worker pool is stopped or closed.
+[2025-05-16T15:10:56.539] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2025-05-16T15:10:56.633] [DEBUG] debug-file - hvigorfile, resolve finished D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-16T15:10:56.667] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2025-05-16T15:10:56.675] [DEBUG] debug-file - hvigorfile, resolve finished D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-16T15:10:56.685] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-16T15:10:56.706] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 820 ms 
+[2025-05-16T15:10:56.737] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-16T15:10:56.745] [DEBUG] debug-file - Clear worker 0.
+[2025-05-16T15:10:56.667] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2025-05-16T15:10:56.693] [DEBUG] debug-file - Module UseImageHttpRequest Collected Dependency: 
+[2025-05-16T15:10:56.707] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2025-05-16T15:10:56.745] [DEBUG] debug-file - Worker 0 has been cleared.
+[2025-05-16T15:10:56.667] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2025-05-16T15:10:56.693] [DEBUG] debug-file - Module UseImageHttpRequest's total dependency: 0
+[2025-05-16T15:10:56.707] [DEBUG] debug-file - Executing task ::init
+[2025-05-16T15:10:56.745] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-16T15:10:56.667] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-16T15:10:56.694] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-16T15:10:56.707] [DEBUG] debug-file - UseImageHttpRequest : init cost memory 0.00890350341796875
+[2025-05-16T15:10:56.745] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-16T15:10:56.696] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2025-05-16T15:10:56.707] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 821 ms 
+[2025-05-16T15:10:56.745] [DEBUG] debug-file - Clear worker 1.
+[2025-05-16T15:10:56.697] [DEBUG] debug-file - Module entry's total dependency: 0
+[2025-05-16T15:10:56.707] [INFO] debug-file - Finished ::init... after 1 ms 
+[2025-05-16T15:10:56.746] [DEBUG] debug-file - Worker 1 has been cleared.
+[2025-05-16T15:10:56.702] [DEBUG] debug-file - Configuration phase cost:1 s 791 ms 
+[2025-05-16T15:10:56.746] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-16T15:10:56.746] [DEBUG] debug-file - Current busy worker size: 0.
+[2025-05-16T15:10:56.746] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-16T15:10:56.752] [DEBUG] debug-file - worker[1] exits with exit code 0.
+[2025-05-16T15:10:56.753] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-16T15:10:56.753] [DEBUG] debug-file - Current worker pool is terminated.
+[2025-05-16T15:21:47.721] [DEBUG] debug-file - java daemon tryConnect failed Error: connect ECONNREFUSED 127.0.0.1:45050
+[2025-05-16T15:21:47.726] [DEBUG] debug-file - java daemon started at port 45050 pid 5664
+[2025-05-16T15:21:47.178] [DEBUG] debug-file - env: nodejsVersion=v18.20.1
+[2025-05-16T15:21:47.222] [DEBUG] debug-file - env: daemon=true
+[2025-05-16T15:21:47.180] [DEBUG] debug-file - env: hvigor-config.json5 content = {
+  modelVersion: '5.0.0',
+  dependencies: {},
+  execution: {},
+  logging: {},
+  debugging: {},
+  nodeOptions: {}
+}
+[2025-05-16T15:21:47.812] [DEBUG] debug-file - session manager: set active socket. socketId=Qjgc6PxuvNFBvjARAAAB
+[2025-05-16T15:21:48.441] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-16T15:21:48.458] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2025-05-16T15:21:48.460] [DEBUG] debug-file - Cache service initialization finished in 2 ms 
+[2025-05-16T15:21:48.471] [DEBUG] debug-file - hvigorfile, resolving D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-16T15:21:49.813] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2025-05-16T15:21:49.813] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2025-05-16T15:21:50.002] [DEBUG] debug-file - Start initialize project's product build option map with build mode debug.
+[2025-05-16T15:21:50.003] [DEBUG] debug-file - Picking option from product 'default' with build mode 'debug'.
+[2025-05-16T15:21:50.003] [DEBUG] debug-file - Product 'default' build option: {}
+[2025-05-16T15:21:50.003] [DEBUG] debug-file - End initialize project's product build option map with build mode 'debug'.
+[2025-05-16T15:21:50.007] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": true
+} in this build.
+[2025-05-16T15:21:50.008] [DEBUG] debug-file - not found resModel json file in : D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\src\ohosTest\module.json5
+[2025-05-16T15:21:50.015] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2025-05-16T15:21:50.019] [DEBUG] debug-file - Local scan or download HarmonyOS sdk components toolchains,ets,js,native,previewer
+[2025-05-16T15:21:50.022] [DEBUG] debug-file - Local scan or download hmscore sdk components toolchains,ets,native
+[2025-05-16T15:21:50.028] [DEBUG] debug-file - Start recording SDK configuration permission data.
+[2025-05-16T15:21:50.059] [DEBUG] debug-file - Sdk init in 43 ms 
+[2025-05-16T15:21:50.078] [DEBUG] debug-file - Project task initialization takes 18 ms 
+[2025-05-16T15:21:50.078] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-16T15:21:50.078] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-16T15:21:50.078] [DEBUG] debug-file - hvigorfile, resolve finished D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\hvigorfile.ts
+[2025-05-16T15:21:50.084] [DEBUG] debug-file - hvigorfile, resolving D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-16T15:21:50.091] [DEBUG] debug-file - hvigorfile, require result:  { default: { plugins: [] } }
+[2025-05-16T15:21:50.091] [DEBUG] debug-file - hvigorfile, binding system plugins null
+[2025-05-16T15:21:50.103] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=debug
+[2025-05-16T15:21:50.103] [DEBUG] debug-file - Target 'default' config: {}
+[2025-05-16T15:21:50.104] [DEBUG] debug-file - Target 'ohosTest' config: {}
+[2025-05-16T15:21:50.104] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+}
+[2025-05-16T15:21:50.104] [DEBUG] debug-file - Module 'entry' target 'ohosTest' build option: {
+  "debuggable": true,
+  "name": "default"
+}
+[2025-05-16T15:21:50.104] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2025-05-16T15:21:50.104] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": true,
+  "copyFrom": "default",
+  "name": "debug"
+} in this build.
+[2025-05-16T15:21:50.111] [DEBUG] debug-file - Module entry task initialization takes 5 ms 
+[2025-05-16T15:21:50.111] [DEBUG] debug-file - hvigorfile, binding custom plugins []
+[2025-05-16T15:21:50.111] [DEBUG] debug-file - hvigorfile, no custom plugins were found in D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-16T15:21:50.111] [DEBUG] debug-file - hvigorfile, resolve finished D:\git_developmentPractice\BestPracticeSnippets\ImageWhiteLumpSolution\UseImageHttpRequest\entry\hvigorfile.ts
+[2025-05-16T15:21:50.133] [DEBUG] debug-file - hvigorfile, resolve hvigorfile dependencies in 21 ms 
+[2025-05-16T15:21:50.134] [DEBUG] debug-file - project has submodules:entry
+[2025-05-16T15:21:50.136] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-16T15:21:50.142] [DEBUG] debug-file - Module UseImageHttpRequest Collected Dependency: 
+[2025-05-16T15:21:50.142] [DEBUG] debug-file - Module UseImageHttpRequest's total dependency: 0
+[2025-05-16T15:21:50.143] [DEBUG] debug-file - Start to initialize dependency information.
+[2025-05-16T15:21:50.145] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2025-05-16T15:21:50.145] [DEBUG] debug-file - Module entry's total dependency: 0
+[2025-05-16T15:21:50.150] [DEBUG] debug-file - Configuration phase cost:1 s 686 ms 
+[2025-05-16T15:21:50.153] [DEBUG] debug-file - Configuration task cost before running: 1 s 708 ms 
+[2025-05-16T15:21:50.155] [DEBUG] debug-file - Executing task :entry:clean
+[2025-05-16T15:21:50.155] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-16T15:21:50.158] [DEBUG] debug-file - entry : clean cost memory 0.188629150390625
+[2025-05-16T15:21:50.158] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 713 ms 
+[2025-05-16T15:21:50.158] [INFO] debug-file - Finished :entry:clean... after 3 ms 
+[2025-05-16T15:21:50.159] [DEBUG] debug-file - Executing task ::clean
+[2025-05-16T15:21:50.159] [DEBUG] debug-file - clean: Worker pool is inactive.
+[2025-05-16T15:21:50.159] [DEBUG] debug-file - UseImageHttpRequest : clean cost memory 0.03862762451171875
+[2025-05-16T15:21:50.159] [DEBUG] debug-file - runTaskFromQueue task cost before running: 1 s 714 ms 
+[2025-05-16T15:21:50.159] [INFO] debug-file - Finished ::clean... after 1 ms 
+[2025-05-16T15:21:50.167] [DEBUG] debug-file - BUILD SUCCESSFUL in 1 s 721 ms 
+[2025-05-16T15:21:50.182] [DEBUG] debug-file - Since there is no instance or instance is terminated, create a new worker pool.
+[2025-05-16T15:21:50.182] [DEBUG] debug-file - Worker pool is initialized with config:  {
+  minPoolNum: 2,
+  maxPoolNum: undefined,
+  maxCoreSize: undefined,
+  cacheCapacity: undefined,
+  cacheTtl: undefined
+}
+[2025-05-16T15:21:50.183] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-16T15:21:50.184] [DEBUG] debug-file - session manager: send message to worker process.
+[2025-05-16T15:21:50.184] [DEBUG] debug-file - Create  resident worker with id: 0.
+[2025-05-16T15:21:50.186] [DEBUG] debug-file - Create  resident worker with id: 1.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Cleanup worker 0.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Worker 0 has been cleaned up.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Current idle worker size: 1.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Cleanup worker 1.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Worker 1 has been cleaned up.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Current idle worker size: 0.
+[2025-05-16T15:21:50.189] [DEBUG] debug-file - Current resident worker size: 2.
+[2025-05-16T15:21:50.190] [DEBUG] debug-file - hvigor build process will be closed.
+[2025-05-16T15:21:50.192] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-16T15:21:50.192] [DEBUG] debug-file - watch worker: worker id should be larger than 0. Nothing will be sent to any worker thread.
+[2025-05-16T15:21:50.193] [DEBUG] debug-file - worker[0] exits with exit code 0.
+[2025-05-16T15:21:50.194] [DEBUG] debug-file - worker[1] exits with exit code 0.

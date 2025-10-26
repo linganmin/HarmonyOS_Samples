@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  - Copyright (c) 2024 Huawei Device Co., Ltd.
+  - Licensed under the Apache License, Version 2.0 (the "License");
+  - you may not use this file except in compliance with the License.
+  - You may obtain a copy of the License at
+  -
+  -     http://www.apache.org/licenses/LICENSE-2.0
+  -
+  - Unless required by applicable law or agreed to in writing, software
+  - distributed under the License is distributed on an "AS IS" BASIS,
+  - WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  - See the License for the specific language governing permissions and
+  - limitations under the License.
+  -->
+
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>连麦</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#87DBF3" offset="0%"></stop>
+            <stop stop-color="#4FB4E3" offset="100%"></stop>
+        </linearGradient>
+        <path d="M1.40625,0 C2.16524927,0 2.78380589,0.612239462 2.81153004,1.37813973 L2.8125,1.43181818 L2.8125,7.0443619 C2.8125,9.74944196 4.91699081,11.9318182 7.5,11.9318182 C8.37299116,11.9318182 9.19132275,11.6825325 9.8922229,11.2480338 C10.5684344,11.9061459 10.9982652,12.8402742 11.0149948,13.8818815 L11.0149948,13.8818815 L11.0151224,13.8934418 C9.96715577,14.4691135 8.7709391,14.7954545 7.5,14.7954545 C3.39351841,14.7954545 0.0671203594,11.3885339 0.00100305469,7.17236947 L0,7.0443619 L0,1.43181818 C0,0.641046835 0.62959957,0 1.40625,0 Z M13.59375,0 C14.3527493,0 14.9713059,0.612239462 14.99903,1.37813973 L15,1.43181818 L15,7.0443619 C15,7.73535699 14.9124236,8.40547969 14.7480651,9.04342432 C14.0813143,7.99880927 13.2079425,7.10661811 12.1875588,6.42909714 L12.1875,1.43181818 C12.1875,0.641046835 12.8170996,0 13.59375,0 Z" id="path-2"></path>
+        <filter x="-16.7%" y="-16.9%" width="133.3%" height="133.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#FF9292" offset="0%"></stop>
+            <stop stop-color="#FF5B5B" offset="100%"></stop>
+        </linearGradient>
+        <path d="M7.5,6.20454545 C11.6479612,6.20454545 15,9.68064035 15,13.9556381 L15,13.9556381 L15,19.5681818 L14.99903,19.6218603 C14.9713059,20.3877605 14.3527493,21 13.59375,21 C12.8170996,21 12.1875,20.3589532 12.1875,19.5681818 L12.1875,19.5681818 L12.1875,13.9556381 L12.1868308,13.8721443 C12.1440576,11.2057925 10.0563802,9.06818182 7.5,9.06818182 C6.62717264,9.06818182 5.80898438,9.317374 5.1081717,9.75172158 C4.43113132,9.09128692 4.00123688,8.15340542 3.98486016,7.10643747 C5.03285672,6.53088312 6.22906755,6.20454545 7.5,6.20454545 Z M2.81240339,14.5702484 L2.8125,19.5681818 L2.81153004,19.6218603 C2.78380589,20.3877605 2.16524927,21 1.40625,21 C0.62959957,21 0,20.3589532 0,19.5681818 L0,19.5681818 L0,13.9556381 L0.00100305469,13.8276305 C0.0111387891,13.1812951 0.0978934219,12.5539774 0.252331687,11.9550361 C0.91929743,13.0005976 1.79256616,13.8928068 2.81240339,14.5702484 Z" id="path-5"></path>
+        <filter x="-16.7%" y="-16.9%" width="133.3%" height="133.8%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="1.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="-2" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 0.5 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="手机_直播间" transform="translate(-220.000000, -707.000000)">
+            <g id="方案一" transform="translate(0.000000, 695.000000)">
+                <g id="SearchBar/WhiteBG/normal" transform="translate(16.000000, 9.000000)">
+                    <g id="连麦" transform="translate(204.000000, 3.000000)">
+                        <circle id="椭圆形" fill="#FFFFFF" opacity="0.1" cx="18" cy="18" r="18"></circle>
+                        <g id="编组" transform="translate(10.500000, 7.500000)" fill-rule="nonzero">
+                            <g id="形状">
+                                <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                            </g>
+                            <g id="形状">
+                                <use fill="url(#linearGradient-4)" xlink:href="#path-5"></use>
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+{
+  "routerMap": [
+    {
+      "name": "GetApplicationContextDemo",
+      "pageSourceFile": "src/main/ets/pages/GetApplicationContextDemo.ets",
+      "buildFunction": "GetApplicationContextBuilder"
+    },
+    {
+      "name": "GetUIAbilityContextDemo",
+      "pageSourceFile": "src/main/ets/pages/GetUIAbilityContextDemo.ets",
+      "buildFunction": "GetUIAbilityContextBuilder"
+    },
+    {
+      "name": "GetWindowStageDemo",
+      "pageSourceFile": "src/main/ets/pages/GetWindowStageDemo.ets",
+      "buildFunction": "GetWindowStageBuilder"
+    }
+  ]
+}

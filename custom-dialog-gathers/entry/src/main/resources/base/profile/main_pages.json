@@ -1,0 +1,14 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/BindContentCoverDemo",
+    "pages/BindSheet",
+    "pages/Toast",
+    "pages/Privacy",
+    "pages/Details",
+    "pages/FullScreen",
+    "pages/CustomCalendar",
+    "pages/TwoLevelPageSheet",
+    "pages/ScrollOption"
+  ]
+}

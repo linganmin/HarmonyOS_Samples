@@ -1,0 +1,132 @@
+/*
+ * Copyright (c) 2024 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+const EMPTY_STRING: string = '';
+const MAX_PROGRESS: number = 100;
+const MAX_PERCENTAGE: string = '100%';
+const MIN_PERCENTAGE: string = '0%';
+const TEXT_OPACITY: number = 0.4;
+const BUTTON_NORMAL_WIDTH: number = 44;
+const BUTTON_NORMAL_HEIGHT: number = 28;
+const BUTTON_BORDER_RADIUS: number = 14;
+const TEXT_ENABLE: number = 1.0;
+const MIN_WIDTH: Length = 44;
+const PADDING_TEXT: Length = 8;
+
+const PROGRESS_BUTTON_PROGRESS_KEY = 'progress_button_progress_key';
+const PROGRESS_BUTTON_PRIMARY_FONT_KEY = 'progress_button_primary_font_key';
+const PROGRESS_BUTTON_CONTAINER_BACKGROUND_COLOR_KEY = 'progress_button_container_background_color_key';
+const PROGRESS_BUTTON_EMPHASIZE_SECONDARY_BUTTON_KEY = 'progress_button_emphasize_secondary_button_key';
+
+@Component
+export struct ProgressButton {
+  @Prop @Watch('updateText') paused: boolean = false;
+  @Prop @Watch('getProgressContext') progress: number;
+  @State textProgress: string = EMPTY_STRING;
+  @Prop content: string | Resource = EMPTY_STRING;
+  @State isLoading: boolean = false;
+  progressButtonWidth?: Length = BUTTON_NORMAL_WIDTH;
+  clickCallback: () => void = () => {
+  };
+  @Prop enable: boolean = true;
+  @State progressColor: ResourceColor = '#330A59F7';
+  @State containerBorderColor: ResourceColor = '#330A59F7';
+  @State containerBackgroundColor: ResourceColor = $r('sys.color.ohos_id_color_foreground_contrary');
+
+  private getButtonProgress(): number {
+    if (this.progress < 0) {
+      return 0;
+    } else if (this.progress > MAX_PROGRESS) {
+      return MAX_PROGRESS;
+    }
+    return this.progress;
+  }
+
+  updateText() {
+    if (this.paused) {
+      setTimeout(() => {
+        this.isLoading = !this.paused;
+      }, 10);
+    } else {
+      this.isLoading = !this.paused;
+    }
+  }
+
+  private getProgressContext() {
+    if (this.progress < 0) {
+      this.isLoading = false;
+      this.textProgress = MIN_PERCENTAGE;
+    } else if (this.progress >= MAX_PROGRESS) {
+      this.isLoading = false;
+      this.textProgress = MAX_PERCENTAGE;
+    } else {
+      this.isLoading = true;
+      this.textProgress = Math.floor(this.progress / MAX_PROGRESS * MAX_PROGRESS).toString() + "%";
+    }
+  }
+
+  build() {
+    Button() {
+      Stack() {
+        Progress({
+          value: this.getButtonProgress(), total: MAX_PROGRESS,
+          style: ProgressStyle.Capsule
+        })
+          .height(BUTTON_NORMAL_HEIGHT)
+          .borderRadius(BUTTON_BORDER_RADIUS)
+          .width('100%')
+          .hoverEffect(HoverEffect.None)
+          .clip(false)
+          .enabled(this.enable)
+          .key(PROGRESS_BUTTON_PROGRESS_KEY)
+          .color(this.progressColor)
+        Text(this.isLoading ? this.textProgress : this.content)
+          .fontSize($r('sys.float.ohos_id_text_size_button3'))
+          .fontWeight(FontWeight.Medium)
+          .key(PROGRESS_BUTTON_PRIMARY_FONT_KEY)
+          .maxLines(1)
+          .textOverflow({ overflow: TextOverflow.Ellipsis })
+          .padding({ left: PADDING_TEXT, right: PADDING_TEXT })
+          .opacity(this.enable ? TEXT_ENABLE : TEXT_OPACITY)
+
+        Row()
+          .key(PROGRESS_BUTTON_CONTAINER_BACKGROUND_COLOR_KEY)
+          .backgroundColor(Color.Transparent)
+          .border({ width: 1, color: this.containerBorderColor })
+          .height(BUTTON_NORMAL_HEIGHT)
+          .borderRadius(BUTTON_BORDER_RADIUS)
+          .width('100%')
+      }
+    }
+    .borderRadius(BUTTON_BORDER_RADIUS)
+    .clip(false)
+    .hoverEffect(HoverEffect.None)
+    .key(PROGRESS_BUTTON_EMPHASIZE_SECONDARY_BUTTON_KEY)
+    .backgroundColor(this.containerBackgroundColor)
+    .constraintSize({ minWidth: MIN_WIDTH })
+    .width((!this.progressButtonWidth || this.progressButtonWidth < BUTTON_NORMAL_WIDTH) ?
+      BUTTON_NORMAL_WIDTH : this.progressButtonWidth)
+    .stateEffect(this.enable)
+    .onClick(() => {
+      if (!this.enable) {
+        return;
+      }
+      if (this.progress < MAX_PROGRESS) {
+        this.isLoading = !this.isLoading;
+      }
+      this.clickCallback && this.clickCallback();
+    })
+  }
+}

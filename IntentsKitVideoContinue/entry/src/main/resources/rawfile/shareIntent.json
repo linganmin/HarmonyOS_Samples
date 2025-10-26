@@ -1,0 +1,46 @@
+[
+  {
+    "intentName": "PlayVideo",
+    "intentVersion": "1.0.1",
+    "identifier": "52dac3b0-6520-4974-81e5-25f0879449b5",
+    "intentActionInfo": {
+      "actionMode": "EXECUTED",
+      "currentSerialNumber": 1,
+      "currentPercentage": 30,
+      "executedTimeSlots": {
+        "executedStartTime": 1747208475000,
+        "executedEndTime": 1747208475000
+      }
+    },
+    "intentEntityInfo": {
+      "entityName": "Video",
+      "entityId": "12949589",
+      "displayName": "演示视频1",
+      "logoURL": "https://gitee.com/lidan_lidan/screenshots/raw/master/media/video1.PNG",
+      "videoImage": "https://gitee.com/lidan_lidan/screenshots/raw/master/media/video1.PNG",
+      "videoName": "演示视频1"
+    }
+  },
+  {
+    "intentName": "PlayVideo",
+    "intentVersion": "1.0.1",
+    "identifier": "52dac3b0-6520-4974-81e5-25f0879449b6",
+    "intentActionInfo": {
+      "actionMode": "EXECUTED",
+      "currentSerialNumber": 1,
+      "currentPercentage": 30,
+      "executedTimeSlots": {
+        "executedStartTime": 1747208475000,
+        "executedEndTime": 1747208475000
+      }
+    },
+    "intentEntityInfo": {
+      "entityName": "Video",
+      "entityId": "12949590",
+      "displayName": "演示视频2",
+      "logoURL": "https://gitee.com/lidan_lidan/screenshots/raw/master/media/video2.PNG",
+      "videoImage": "https://gitee.com/lidan_lidan/screenshots/raw/master/media/video2.PNG",
+      "videoName": "演示视频2"
+    }
+  }
+]

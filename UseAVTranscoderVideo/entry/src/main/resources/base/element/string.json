@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "videoTranscoder"
+    },
+    {
+      "name": "start_transfer",
+      "value": "Start the conversion"
+    },
+    {
+      "name": "button_pause",
+      "value": "Suspend"
+    },
+    {
+      "name": "button_confirm",
+      "value": "Certain"
+    },
+    {
+      "name": "button_continue",
+      "value": "Continue"
+    },
+    {
+      "name": "button_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "button_finish",
+      "value": "Accomplish"
+    },
+    {
+      "name": "button_back",
+      "value": "Home page"
+    },
+    {
+      "name": "param_config",
+      "value": "Parameter configuration"
+    },
+    {
+      "name": "file_name",
+      "value": "File name"
+    },
+    {
+      "name": "resolution",
+      "value": "Resolution"
+    },
+    {
+      "name": "standard_clearance",
+      "value": "720P"
+    },
+    {
+      "name": "high_definition",
+      "value": "1080P"
+    },
+    {
+      "name": "ultra_clear",
+      "value": "4K"
+    },
+    {
+      "name": "code_rate",
+      "value": "Bit rate"
+    },
+    {
+      "name": "frame_rate",
+      "value": "Frame rate"
+    },
+    {
+      "name": "text_cancel",
+      "value": "Are you sure you want to cancel the transcoding?"
+    },
+    {
+      "name": "high_speed_processing",
+      "value": "In the process of speed..."
+    },
+    {
+      "name": "original",
+      "value": "Original"
+    },
+    {
+      "name": "tip",
+      "value": "The task is in progress. Please do not turn off the screen or exit the APP, otherwise it may fail."
+    },
+    {
+      "name": "convert_success",
+      "value": "Convert to work"
+    },
+    {
+      "name": "storage_path",
+      "value": "Storage path"
+    },
+    {
+      "name": "video_transcoder",
+      "value": "Video Transcoder"
+    },
+    {
+      "name": "transcoder_progress",
+      "value": "Transcoder Progress"
+    },
+    {
+      "name": "transcoder_result",
+      "value": "Transcoder Result"
+    },
+    {
+      "name": "current_process",
+      "value": "Current Progress"
+    },
+    {
+      "name": "showToastWarn4k",
+      "value": "The preset video does not support conversion to a higher resolution. Please switch to a resolution below 4K."
+    },
+    {
+      "name": "showToastWarn1080",
+      "value": "The preset video does not support conversion to a higher resolution. Please switch to a resolution below 1080."
+    },
+    {
+      "name": "showToastWarn720",
+      "value": "The preset video does not support conversion to a higher resolution. Please switch to a resolution below 720."
+    },
+    {
+      "name": "showToastWarnPause",
+      "value": "The conversion has been completed. Please click the completion button."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "FilesDetailView",
+      "pageSourceFile": "src/main/ets/components/FilesDetailView.ets",
+      "buildFunction": "FilesDetailViewBuilder",
+      "data": {
+        "description" : "this is FilesDetailView"
+      }
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+/*
+* Copyright (c) 2024 Huawei Device Co., Ltd.
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*     http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+@Component
+export struct TextureCompression {
+  @State fontColor: string = '#000000';
+  @State currentIndex: number = 0;
+  @State imageWidth: string = '10%';
+  @State imageHeight: number = 70;
+  private controller: TabsController = new TabsController();
+
+  @Builder
+  tabBuilder(index: number, name: string): void {
+    Column() {
+      Text(name)
+        .fontColor(this.currentIndex === index ? Color.White : this.fontColor)
+        .fontSize(16)
+        .fontWeight(this.currentIndex === index ? 500 : 400)
+        .height(40)
+        .width('100%')
+        .borderRadius(20)
+        .textAlign(TextAlign.Center)
+        .backgroundColor(this.currentIndex === index ? '#0a59f7' : '#f1f3f5')
+    }
+    .width('100%')
+  }
+
+  build() {
+    NavDestination() {
+      Tabs({ barPosition: BarPosition.Start, index: this.currentIndex, controller: this.controller }) {
+        TabContent() {
+          Column()
+            .width('100%')
+            .height('100%')
+            .backgroundColor('#F1F3F5')
+        }.tabBar(this.tabBuilder(0, 'tab1'))
+
+        TabContent() {
+          Column() {
+            Row() {
+              Image($r('app.media.1'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.2'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.3'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.4'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.5'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.6'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.7'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.8'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.9'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.10'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+
+            Row() {
+              Image($r('app.media.11'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.12'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.13'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.14'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.15'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.16'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.17'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.18'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.19'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.20'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+
+            Row() {
+              Image($r('app.media.21'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.22'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.23'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.24'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.25'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.26'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.27'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.28'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.29'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.30'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+
+            Row() {
+              Image($r('app.media.31'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.32'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.33'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.34'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.35'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.36'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.37'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.38'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.39'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.40'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+
+            Row() {
+              Image($r('app.media.41'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.42'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.43'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.44'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.45'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.46'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.47'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.48'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.49'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.50'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+
+            Row() {
+              Image($r('app.media.51'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.52'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.53'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.54'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.55'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.56'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.57'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.58'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.59'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.60'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+
+            Row() {
+              Image($r('app.media.61'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.62'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.63'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.64'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.65'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.66'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.67'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.68'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.69'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.70'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+
+            Row() {
+              Image($r('app.media.71'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.72'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.73'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.74'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.75'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.76'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.77'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.78'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.79'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+              Image($r('app.media.80'))
+                .width(this.imageWidth)
+                .height(this.imageHeight)
+            }
+          }
+          .width('100%')
+          .height('100%')
+          .backgroundColor('#F1F3F5')
+        }.tabBar(this.tabBuilder(1, 'tab2'))
+      }
+      .expandSafeArea([SafeAreaType.SYSTEM], [SafeAreaEdge.BOTTOM])
+      .vertical(false)
+      .barMode(BarMode.Fixed)
+      .barWidth(360)
+      .barHeight(56)
+      .animationDuration(400)
+      .onAnimationStart((_index: number, targetIndex: number) => {
+        this.currentIndex = targetIndex;
+      })
+      .width('100%')
+      .height('100%')
+    }
+    .width('100%')
+  }
+}

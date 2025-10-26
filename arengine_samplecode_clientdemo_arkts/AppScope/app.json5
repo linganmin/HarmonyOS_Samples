@@ -1,0 +1,10 @@
+{
+  "app": {
+    "bundleName": "com.huawei.ARSampleArkts",
+    "vendor": "example",
+    "versionCode": 1010000,
+    "versionName": "1.1.0",
+    "icon": "$media:app_layered_image",
+    "label": "$string:app_name"
+  }
+}

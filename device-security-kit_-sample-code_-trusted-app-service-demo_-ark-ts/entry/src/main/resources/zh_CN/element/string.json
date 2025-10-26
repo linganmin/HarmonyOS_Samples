@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "reason",
+      "value": "申请必要权限"
+    },
+    {
+      "name": "CreateKeySucc_desc",
+      "value": "创建证明密钥成功"
+    },
+    {
+      "name": "CreateKeyFail_desc",
+      "value": "创建证明密钥失败"
+    },
+    {
+      "name": "CameraOn_button",
+      "value": "打开安全相机"
+    },
+    {
+      "name": "CameraOff_button",
+      "value": "关闭安全相机"
+    },
+    {
+      "name": "OpenCameraFail_desc",
+      "value": "打开安全相机失败"
+    },
+    {
+      "name": "GetLocationSpeedFirst_button",
+      "value": "获取地理位置（速度优先）"
+    },
+    {
+      "name": "GetLocationAccuracyFirst_button",
+      "value": "获取地理位置（精度优先）"
+    },
+    {
+      "name": "GetLocationFail_desc",
+      "value": "获取地理位置失败"
+    }
+  ]
+}

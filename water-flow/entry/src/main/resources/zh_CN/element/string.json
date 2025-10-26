@@ -1,0 +1,120 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WaterFlow组件的使用"
+    },
+    {
+      "name": "title",
+      "value": "WaterFlow瀑布流实例"
+    },
+    {
+      "name": "loading",
+      "value": "正在加载"
+    },
+    {
+      "name": "distance",
+      "value": "位置距离"
+    },
+    {
+      "name": "less_1km",
+      "value": "<1km"
+    },
+    {
+      "name": "less_5km",
+      "value": "<5km"
+    },
+    {
+      "name": "more_5km",
+      "value": ">5km"
+    },
+    {
+      "name": "classify",
+      "value": "分类"
+    },
+    {
+      "name": "food",
+      "value": "餐饮"
+    },
+    {
+      "name": "leisure",
+      "value": "休闲"
+    },
+    {
+      "name": "entertainment",
+      "value": "娱乐"
+    },
+    {
+      "name": "sort",
+      "value": "排序"
+    },
+    {
+      "name": "one",
+      "value": "1"
+    },
+    {
+      "name": "two",
+      "value": "2"
+    },
+    {
+      "name": "three",
+      "value": "3"
+    },
+    {
+      "name": "sticky_tab_all",
+      "value": "综合"
+    },
+    {
+      "name": "sticky_tab_merchant",
+      "value": "商户"
+    },
+    {
+      "name": "sticky_tab_note",
+      "value": "笔记"
+    },
+    {
+      "name": "sticky_tab_group_buy",
+      "value": "团购"
+    },
+    {
+      "name": "sticky_tab_user",
+      "value": "用户"
+    },
+    {
+      "name": "sticky_tab_other",
+      "value": "其他"
+    },
+    {
+      "name": "scenario1",
+      "value": "场景一"
+    },
+    {
+      "name": "scenario2",
+      "value": "场景二"
+    },
+    {
+      "name": "scenario_sections",
+      "value": "使用sections实现分组混排"
+    },
+    {
+      "name": "scenario_sticky",
+      "value": "item滑动吸顶"
+    },
+    {
+      "name": "internet_reason",
+      "value": "用于获取瀑布流卡片数据使用Internet网络"
+    },
+    {
+      "name": "delete",
+      "value": "删除"
+    }
+  ]
+}

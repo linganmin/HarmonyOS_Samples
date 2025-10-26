@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "描述信息"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "敏感信息防窥"
+    },
+    {
+      "name": "asset_overview",
+      "value": "资产概览"
+    },
+    {
+      "name": "yesterday_earnings",
+      "value": "昨日收益"
+    },
+    {
+      "name": "anti_peep_not_enable",
+      "value": "防窥能力未打开"
+    },
+    {
+      "name": "my_assets",
+      "value": "我的资产(元)"
+    },
+    {
+      "name": "flexible_access",
+      "value": "灵活取用"
+    },
+    {
+      "name": "stable_financial_management",
+      "value": "养老保险"
+    },
+    {
+      "name": "advanced_financial_management",
+      "value": "股票基金"
+    },
+    {
+      "name": "permission_hide",
+      "value": "使用系统防窥保护能力以保护应用的隐私"
+    },
+    {
+      "name": "device_not_supported",
+      "value": "您的设备暂不支持防窥保护能力"
+    }
+  ]
+}

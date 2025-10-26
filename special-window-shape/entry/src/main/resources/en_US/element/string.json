@@ -1,0 +1,44 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "SpecialWindowShape"
+    },
+    {
+      "name": "text_close_sub_window",
+      "value": "Close"
+    },
+    {
+      "name": "title_index",
+      "value": "PC/2in1 Special Window Shape"
+    },
+    {
+      "name": "figure_shape_window",
+      "value": "Graphic Shape"
+    },
+    {
+      "name": "irregular_shape_window",
+      "value": "Irregular Shape"
+    },
+    {
+      "name": "create_circle_sub_window",
+      "value": "Create circular sub window"
+    },
+    {
+      "name": "create_triangle_sub_window",
+      "value": "Create triangle sub window"
+    },
+    {
+      "name": "create_image_shape_window",
+      "value": "Create image shape sub window"
+    }
+  ]
+}

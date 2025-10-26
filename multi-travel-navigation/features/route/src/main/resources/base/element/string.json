@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "shared_desc",
+      "value": "description"
+    },
+    {
+      "name": "favor",
+      "value": "收藏"
+    },
+    {
+      "name": "share",
+      "value": "分享"
+    },
+    {
+      "name": "start_navigate",
+      "value": "开始导航"
+    },
+    {
+      "name": "navigate",
+      "value": "导航"
+    },
+    {
+      "name": "route",
+      "value": "路线"
+    },
+    {
+      "name": "my_location",
+      "value": "我的位置"
+    },
+    {
+      "name": "input_terminal_point",
+      "value": "输入终点"
+    },
+    {
+      "name": "choose",
+      "value": "备选路线"
+    },
+    {
+      "name": "minutes",
+      "value": "分钟"
+    },
+    {
+      "name": "kilometers",
+      "value": "公里"
+    },
+    {
+      "name": "drive",
+      "value": "驾车"
+    },
+    {
+      "name": "taxi",
+      "value": "打车"
+    },
+    {
+      "name": "public_transportation",
+      "value": "公交地铁"
+    },
+    {
+      "name": "cycling",
+      "value": "骑行"
+    },
+    {
+      "name": "walk",
+      "value": "步行"
+    },
+    {
+      "name": "proxy_driving",
+      "value": "代驾"
+    },
+    {
+      "name": "train",
+      "value": "火车"
+    },
+    {
+      "name": "passenger_car",
+      "value": "客车"
+    }
+  ]
+}

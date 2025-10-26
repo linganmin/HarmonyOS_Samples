@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "This template implements the function of adding watermarks to videos"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "VideoWaterMark"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "VideoWaterMark"
+    },
+    {
+      "name": "reason",
+      "value": "label"
+    },
+    {
+      "name": "CameraAbility_desc",
+      "value": "CameraRecordWaterMark"
+    },
+    {
+      "name": "CameraAbility_label",
+      "value": "CameraRecordWaterMark"
+    },
+    {
+      "name": "VideoFileAbility_desc",
+      "value": "VideoFileWaterMark"
+    },
+    {
+      "name": "VideoFileAbility_label",
+      "value": "VideoFileWaterMark"
+    },
+    {
+      "name": "Demo_tile",
+      "value": "Video Watermark Demo"
+    },
+    {
+      "name": "Video_file_scene",
+      "value": "Video File Watermark"
+    },
+    {
+      "name": "Camera_record_scene",
+      "value": "Camera Record Watermark"
+    },
+    {
+      "name": "Start_record",
+      "value": "Start Record"
+    },
+    {
+      "name": "Stop_record",
+      "value": "Stop Record"
+    },
+    {
+      "name": "Start_play",
+      "value": "Start Play"
+    },
+    {
+      "name": "Stop_play",
+      "value": "Stop Play"
+    },
+    {
+      "name": "Camera_reminder_message",
+      "value": "No cached video, please record it first!!!"
+    },
+    {
+      "name": "Video_reminder_message",
+      "value": "Please do not abort it, adding watermarks!!!"
+    },
+    {
+      "name": "Add_watermark_button",
+      "value": "Add Watermark"
+    }
+  ]
+}

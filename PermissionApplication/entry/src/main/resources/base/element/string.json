@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "PermissionApplication"
+    },
+    {
+      "name": "location_reason",
+      "value": "In order to show you your current location information, which is only used for the display of this application and strictly confidential. "
+    },
+    {
+      "name": "obtain_location_permission",
+      "value": "To get current location, the permission for accessing location is required. "
+    },
+    {
+      "name": "obtain_precise_positioning",
+      "value": "Obtaining the current location requires obtaining precise positioning permission in order to obtain the exact location. "
+    },
+    {
+      "name": "open_location_services",
+      "value": "To obtain the current location, the device location service needs to be turned on. "
+    },
+    {
+      "name": "current_location_text",
+      "value": "Current location: "
+    },
+    {
+      "name": "open_permission",
+      "value": "Enable permission. "
+    },
+    {
+      "name": "open_location_services_text",
+      "value": "Enable Location Services"
+    },
+    {
+      "name": "get_current_location",
+      "value": "Get Current location"
+    }
+  ]
+}

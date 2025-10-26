@@ -1,0 +1,15 @@
+// NDK开发ArkTS侧编码规范
+// [Start NDKDevelopArkTSohPackage]
+{
+  "name": "devecostaticcheck",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    // Dependent on other modules under the current project
+    "library": "file:../library"
+  }
+}
+// [End NDKDevelopArkTSohPackage]

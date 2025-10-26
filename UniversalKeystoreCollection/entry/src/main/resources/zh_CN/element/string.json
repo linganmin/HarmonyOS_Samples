@@ -1,0 +1,164 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "通用密钥库功能合集"
+    },
+    {
+      "name": "encrypt_and_decrypt",
+      "value": "加解密"
+    },
+    {
+      "name": "encrypt_and_decrypt_set",
+      "value": "加解密合集"
+    },
+    {
+      "name": "SignatureVerification",
+      "value": "签名验签"
+    },
+    {
+      "name": "SignatureVerificationSet",
+      "value": "签名验签合集"
+    },
+    {
+      "name": "Signature",
+      "value": "签名"
+    },
+    {
+      "name": "Verification",
+      "value": "验签"
+    },
+    {
+      "name": "KeyNegotiation",
+      "value": "密钥协商"
+    },
+    {
+      "name": "KeyNegotiationSet",
+      "value": "密钥协商合集"
+    },
+    {
+      "name": "Details",
+      "value": "详情"
+    },
+    {
+      "name": "Text_To_Be_encrypted",
+      "value": "待加密文本"
+    },
+    {
+      "name": "encrypt_text_null_toast",
+      "value": "输入内容为空，无法加密！"
+    },
+    {
+      "name": "After_encryption",
+      "value": "加密后"
+    },
+    {
+      "name": "Encrypted_Text",
+      "value": "已加密文本"
+    },
+    {
+      "name": "Decrypted_Text",
+      "value": "已解密文本"
+    },
+    {
+      "name": "Generate_key_A",
+      "value": "生成非对称密钥A"
+    },
+    {
+      "name": "Generate_key_A_Success",
+      "value": "生成非对称密钥A成功！"
+    },
+    {
+      "name": "Generate_key_B",
+      "value": "生成非对称密钥B"
+    },
+    {
+      "name": "Generate_key_B_Success",
+      "value": "生成非对称密钥B成功！"
+    },
+    {
+      "name": "key_missing",
+      "value": "密钥缺失，无法完成密钥协商操作！"
+    },
+    {
+      "name": "signature_message_is_null",
+      "value": "签名验签数据为空，无法执行签名验签操作！"
+    },
+    {
+      "name": "encrypt_success",
+      "value": "加密成功!"
+    },
+    {
+      "name": "decrypt_success",
+      "value": "解密成功!"
+    },
+    {
+      "name": "Verification_success",
+      "value": "验签通过!"
+    },
+    {
+      "name": "KeyNegotiationSuccess",
+      "value": "密钥协商成功!"
+    },
+    {
+      "name": "AES_CBC_PKCS7_mode_encrypt_and_decrypt",
+      "value": "AES_CBC_PKCS7模式加解密"
+    },
+    {
+      "name": "RSA_ECB_PKCS1_V1_5_mode_encrypt_and_decrypt",
+      "value": "RSA_ECB_PKCS1_V1_5模式加解密"
+    },
+    {
+      "name": "SM4_CBC_PKCS7_mode_encrypt_and_decrypt",
+      "value": "SM4_CBC_PKCS7模式加解密"
+    },
+    {
+      "name": "AES_CBC_PKCS7_mode_encrypt",
+      "value": "AES_CBC_PKCS7模式加密"
+    },
+    {
+      "name": "RSA_ECB_PKCS1_V1_5_mode_encrypt",
+      "value": "RSA_ECB_PKCS1_V1_5模式加密"
+    },
+    {
+      "name": "SM4_CBC_PKCS7_mode_encrypt",
+      "value": "SM4_CBC_PKCS7模式加密"
+    },
+    {
+      "name": "AES_CBC_PKCS7_mode_decrypt",
+      "value": "AES_CBC_PKCS7模式解密"
+    },
+    {
+      "name": "RSA_ECB_PKCS1_V1_5_mode_decrypt",
+      "value": "RSA_ECB_PKCS1_V1_5模式解密"
+    },
+    {
+      "name": "SM4_CBC_PKCS7_mode_decrypt",
+      "value": "SM4_CBC_PKCS7模式解密"
+    },
+    {
+      "name": "X25519_algorithm_key_negotiation",
+      "value": "X25519算法密钥协商"
+    },
+    {
+      "name": "DH_algorithm_key_negotiation",
+      "value": "DH算法密钥协商"
+    },
+    {
+      "name": "ECC_KEY_SHA_Signature_Verification",
+      "value": "ECC密钥SHA摘要签名验签"
+    },
+    {
+      "name": "SM2_KEY_Signature_Verification",
+      "value": "SM2密钥签名验签"
+    }
+  ]
+}

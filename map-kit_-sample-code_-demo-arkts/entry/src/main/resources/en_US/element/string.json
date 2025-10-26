@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "fuzzy_location_permission",
+      "value": "Allows the app to obtain the fuzzy location information of the device."
+    },
+    {
+      "name": "location_permission",
+      "value": "Allow apps to obtain location information when running in the foreground."
+    }
+  ]
+}

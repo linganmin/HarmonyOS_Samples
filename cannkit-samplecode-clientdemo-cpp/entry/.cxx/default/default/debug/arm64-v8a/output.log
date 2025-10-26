@@ -1,0 +1,6 @@
+ninja: Entering directory `D:\test\CANNkit-Codelab-Clientdemo-cpp0\CANNkit-Codelab-Clientdemo-cpp\CANNkit-Codelab-Clientdemo-cpp\entry\.cxx\default\default\debug\arm64-v8a'
+[1/3] Building CXX object CMakeFiles/entry.dir/HIAIModelManager.cpp.o
+clang++: warning: argument unused during compilation: '--gcc-toolchain=D:/DevEco Studio/sdk/default/openharmony/native/llvm' [-Wunused-command-line-argument]
+[2/3] Building CXX object CMakeFiles/entry.dir/Classification.cpp.o
+clang++: warning: argument unused during compilation: '--gcc-toolchain=D:/DevEco Studio/sdk/default/openharmony/native/llvm' [-Wunused-command-line-argument]
+[3/3] Linking CXX shared library D:\test\CANNkit-Codelab-Clientdemo-cpp0\CANNkit-Codelab-Clientdemo-cpp\CANNkit-Codelab-Clientdemo-cpp\entry\build\default\intermediates\cmake\default\obj\arm64-v8a\libentry.so

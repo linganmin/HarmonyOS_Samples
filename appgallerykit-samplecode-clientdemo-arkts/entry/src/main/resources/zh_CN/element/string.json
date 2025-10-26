@@ -1,0 +1,352 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AppGalleryKitDemo"
+    },
+    {
+      "name": "load_product",
+      "value": "Load Product"
+    },
+    {
+      "name": "load_install",
+      "value": "Load Install"
+    },
+    {
+      "name": "load_service",
+      "value": "Load Service"
+    },
+    {
+      "name": "getAdsVerificationVersion",
+      "value": "getAdsVerificationVersion"
+    },
+    {
+      "name": "getSelfSceneCode",
+      "value": "getSelfSceneCode"
+    },
+    {
+      "name": "attribution_manager",
+      "value": "Attribution Manager"
+    },
+    {
+      "name": "check_update",
+      "value": "Check update"
+    },
+    {
+      "name": "getAppPrivacyMgmtInfo",
+      "value": "getAppPrivacyMgmtInfo"
+    },
+    {
+      "name": "getAppPrivacyResult",
+      "value": "getAppPrivacyResult"
+    },
+    {
+      "name": "disableService",
+      "value": "disableService"
+    },
+    {
+      "name": "requestAppPrivacyConsent",
+      "value": "requestAppPrivacyConsent"
+    },
+    {
+      "name": "addShortcutToDesktop",
+      "value": "addShortcutToDesktop"
+    },
+    {
+      "name": "shortcut",
+      "value": "快捷方式"
+    },
+    {
+      "name": "dynamicIconManager",
+      "value": "DynamicIconManager"
+    },
+    {
+      "name": "dynamicIconTitle",
+      "value": "应用动态图标管理"
+    },
+    {
+      "name": "dynamicIconDescName",
+      "value": "功能简介"
+    },
+    {
+      "name": "dynamicIconDesc",
+      "value": "提供查询动态图标信息、选择动态图标、禁用动态图标功能。开发者可以在不升级应用版本的情况下，在应用侧动态切换个性化的图标。"
+    },
+    {
+      "name": "dynamicIconUsageSteps",
+      "value": "使用步骤"
+    },
+    {
+      "name": "dynamicIconUsageSteps1",
+      "value": "1. 您需要在AppGalleryConnect网站上传应用的动态图标，通过审核后，会定时下发动态图标到设备中。"
+    },
+    {
+      "name": "dynamicIconUsageSteps2",
+      "value": "2. 您可调用appInfoManager.queryDynamicIcons接口，查询已上架审核通过且成功下发的动态图标信息。"
+    },
+    {
+      "name": "dynamicIconUsageSteps3",
+      "value": "3. 您可调用appInfoManager.selectDynamicIcon接口并传入步骤1中查询得到的动态图标ID，改变当前应用的图标。"
+    },
+    {
+      "name": "dynamicIconUsageSteps4",
+      "value": "4. 您可调用appInfoManager.disableDynamicIcon接口，禁用动态图标，禁用后会显示应用的默认图标。"
+    },
+    {
+      "name": "dynamicIconDemonstration",
+      "value": "具体接口演示"
+    },
+    {
+      "name": "messageShowDialog",
+      "value": "等待"
+    },
+    {
+      "name": "messageCheckUpdate",
+      "value": "等待"
+    },
+    {
+      "name": "updateSdkTitle",
+      "value": "updateSdk 示例"
+    },
+    {
+      "name": "showUpdateDialog",
+      "value": "点我调用显示Dialog的接口"
+    },
+    {
+      "name": "checkAppUpdate",
+      "value": "点我调用检查更新的接口"
+    },
+    {
+      "name": "shortcutTitle",
+      "value": "应用内快捷方式加桌"
+    },
+    {
+      "name": "shortcutOverview",
+      "value": "功能简介"
+    },
+    {
+      "name": "shortcutDescribe",
+      "value": "支持应用将应用内的Ability的Shortcuts固定到桌面上，以便更快捷地访问。"
+    },
+    {
+      "name": "shortcutProcedure",
+      "value": "使用步骤"
+    },
+    {
+      "name": "shortcutProcedure1",
+      "value": "1. 您可调用应用市场提供的checkPinShortcutPermitted接口，查询快捷方式加桌是否允许，允许的话则返回鉴权结果的ID信息。"
+    },
+    {
+      "name": "shortcutProcedure2",
+      "value": "2. 您可调用应用市场提供的requestNewPinShortcut接口并传入步骤1中查询得到的鉴权结果的ID信息，请求快捷方式加桌，加载快捷方式加桌的用户确认弹窗，待用户确认后，可将快捷方式添加至桌面。"
+    },
+    {
+      "name": "shortcutDemo",
+      "value": "具体接口演示"
+    },
+    {
+      "name": "checkPinShortcutPermittedDescribe",
+      "value": "checkPinShortcutPermitted支持两种重载调用方法："
+    },
+    {
+      "name": "checkPinShortcutPermittedNote",
+      "value": "注：需要提前预置一张前景图和一张背景图（非必须）到沙箱中并按实际路径修改demo源代码，例如：/data/app/el2/100/base/com.example.appgallery.kit.demo/haps/entry/files/icon.png"
+    },
+    {
+      "name": "requestNewPinShortcutDescribe",
+      "value": "requestNewPinShortcut仅支持一种调用方法："
+    },
+    {
+      "name": "fetchModuleException",
+      "value": "请求加载实例异常"
+    },
+    {
+      "name": "fetchModuleSuccess",
+      "value": "请求加载成功"
+    },
+    {
+      "name": "fetchModuleWaitWifi",
+      "value": "请求加载成功，流量场景稍后会自动弹出用户确认框"
+    },
+    {
+      "name": "fetchModuleFailed",
+      "value": "请求加载失败"
+    },
+    {
+      "name": "taskIdNotExist",
+      "value": "taskId不存在"
+    },
+    {
+      "name": "cancelTaskException",
+      "value": "取消下载异常"
+    },
+    {
+      "name": "ShowCellularDataConfirmationException",
+      "value": "开启流量提醒弹窗异常"
+    },
+    {
+      "name": "onListeningException",
+      "value": "注册监听进度异常"
+    },
+    {
+      "name": "offListeningException",
+      "value": "取消注册监听进度异常"
+    },
+    {
+      "name": "resetSucceeded",
+      "value": "重置成功"
+    },
+    {
+      "name": "introduction",
+      "value": "简介"
+    },
+    {
+      "name": "moduleInformation",
+      "value": "当前已安装模块信息"
+    },
+    {
+      "name": "fetchModules",
+      "value": "请求加载模块"
+    },
+    {
+      "name": "selectModules",
+      "value": "选择所有增量模块"
+    },
+    {
+      "name": "moduleEmpty",
+      "value": "要安装的增量模块不能为空"
+    },
+    {
+      "name": "registerListen",
+      "value": "注册监听进度"
+    },
+    {
+      "name": "startListen",
+      "value": "开启注册监听进度"
+    },
+    {
+      "name": "cancelRegisterListen",
+      "value": "取消注册监听进度"
+    },
+    {
+      "name": "cancelListen",
+      "value": "取消注册监听进度"
+    },
+    {
+      "name": "DisplayDialogReminder",
+      "value": "显示流量提醒弹窗"
+    },
+    {
+      "name": "dialogReminder",
+      "value": "显示流量提醒弹窗"
+    },
+    {
+      "name": "cancelDownloadTask",
+      "value": "取消下载任务"
+    },
+    {
+      "name": "invokeToast",
+      "value": "调用增量模块中的showDateComponent功能"
+    },
+    {
+      "name": "moduleInstalled",
+      "value": " %1$s模块已安装"
+    },
+    {
+      "name": "moduleNotInstalled",
+      "value": "%1$s模块未安装"
+    },
+    {
+      "name": "success",
+      "value": "成功"
+    },
+    {
+      "name": "failed",
+      "value": "失败"
+    },
+    {
+      "name": "cancelTaskResult",
+      "value": "取消下载%1$s"
+    },
+    {
+      "name": "showCellularDataConfirmationResult",
+      "value": "开启流量提醒弹窗%1$s"
+    },
+    {
+      "name": "onResult",
+      "value": "注册监听进度%1$s"
+    },
+    {
+      "name": "offResult",
+      "value": "取消注册监听进度%1$s"
+    },
+    {
+      "name": "ModuleInstallIntroduction",
+      "value": "本应用【名称：增量安装模块，包名：%1$s】一共有5个模块，包括2个hap包模块entry和commonHap，以及3个hsp包模块AModulelib、BModulelib和commonLibrary，其中还构造了XModulelib虚假的模块。"
+    },
+    {
+      "name": "QueryModule",
+      "value": "查询模块 %1$s 安装信息"
+    },
+    {
+      "name": "fetchModuleButton",
+      "value": "请求加载模块 %1$s"
+    },
+    {
+      "name": "cancelTaskId",
+      "value": "取消下载任务taskId= %1$s"
+    },
+    {
+      "name": "invokeButton",
+      "value": "调用增量模块中的add功能 3 + 6 = %1$d"
+    },
+    {
+      "name": "commonHap",
+      "value": "公共commonHap包"
+    },
+    {
+      "name": "AModulelib",
+      "value": "增量模块A（大于10M）"
+    },
+    {
+      "name": "BModulelib",
+      "value": "增量模块B"
+    },
+    {
+      "name": "XModulelib",
+      "value": "增量模块X（不存在，假的）"
+    },
+    {
+      "name": "commonLibrary",
+      "value": "基础commonLibrary包（已安装）"
+    },
+    {
+      "name": "resultMsg",
+      "value": "结果: %1$s"
+    },
+    {
+      "name": "reset",
+      "value": "重置"
+    },
+    {
+      "name": "information",
+      "value": "提示"
+    },
+    {
+      "name": "message",
+      "value": "你确定要重置么？"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    }
+  ]
+}

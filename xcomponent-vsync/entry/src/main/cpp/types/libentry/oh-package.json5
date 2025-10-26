@@ -1,0 +1,6 @@
+{
+  "name": "libentry.so",
+  "types": "./Index.d.ts",
+  "version": "1.1.1",
+  "description": "Please describe the basic information."
+}

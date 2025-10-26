@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CustomKeyboard"
+    },
+    {
+      "name": "main_page_title",
+      "value": "CustomKeyboard"
+    },
+    {
+      "name": "textInput_placeholder_custom",
+      "value": "Binding custom keyboard"
+    },
+    {
+      "name": "tabButton_number_text",
+      "value": "123"
+    },
+    {
+      "name": "tabButton_english_text",
+      "value": "ABC"
+    },
+    {
+      "name": "tabButton_system_text",
+      "value": "中文"
+    },
+    {
+      "name": "keyboardButton_delete",
+      "value": "Del"
+    },
+    {
+      "name": "keyboardButton_clear",
+      "value": "Clear"
+    },
+    {
+      "name": "keyboardButton_finish",
+      "value": "Done"
+    },
+    {
+      "name": "keyboardButton_space",
+      "value": "Space"
+    },
+    {
+      "name": "keyboardButton_uppercase",
+      "value": "Up"
+    },
+    {
+      "name": "keyboardButton_lowercase",
+      "value": "Low"
+    }
+  ]
+}

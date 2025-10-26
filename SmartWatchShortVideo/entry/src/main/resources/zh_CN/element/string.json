@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "短视频"
+    },
+    {
+      "name": "title_hot_search",
+      "value": "热搜推荐"
+    },
+    {
+      "name": "title_update_reminder",
+      "value": "更新提醒"
+    },
+    {
+      "name": "update_reminder",
+      "value": "请扫码登录"
+    },
+    {
+      "name": "HarmonyOS",
+      "value": "鸿蒙系统"
+    }
+  ]
+}

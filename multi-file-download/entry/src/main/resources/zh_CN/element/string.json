@@ -1,0 +1,108 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiFileDownload"
+    },
+    {
+      "name": "multiple_files_download_text_width",
+      "value": "60%"
+    },
+    {
+      "name": "multiple_files_download_relative_container_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_relative_container_height",
+      "value": "30%"
+    },
+    {
+      "name": "multiple_files_download_row_width",
+      "value": "50%"
+    },
+    {
+      "name": "multiple_files_download_row_text_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_outer_row_width",
+      "value": "100%"
+    },
+    {
+      "name": "multiple_files_download_transfer_list",
+      "value": "多文件下载"
+    },
+    {
+      "name": "multiple_files_download_queue",
+      "value": "下载队列"
+    },
+    {
+      "name": "multiple_files_download_completed",
+      "value": "下载已完成"
+    },
+    {
+      "name": "multiple_files_download_function_only_display_purposes",
+      "value": "功能仅做展示"
+    },
+    {
+      "name": "multiple_files_download_list",
+      "value": "下载列表"
+    },
+    {
+      "name": "multiple_files_download_file_upload",
+      "value": "文件上传"
+    },
+    {
+      "name": "multiple_files_download_album_backup",
+      "value": "相册备份"
+    },
+    {
+      "name": "multiple_files_download_row_height",
+      "value": "30%"
+    },
+    {
+      "name": "multiple_files_download_list_width",
+      "value": "100%"
+    },
+    {
+      "name": "pause_all",
+      "value": "全部暂停"
+    },
+    {
+      "name": "start_all",
+      "value": "全部开始"
+    },
+    {
+      "name": "paused",
+      "value": "已暂停"
+    },
+    {
+      "name": "download_fail",
+      "value": "下载失败"
+    },
+    {
+      "name": "unknow_size",
+      "value": "未知大小"
+    },
+    {
+      "name": "downloading",
+      "value": "下载中"
+    },
+    {
+      "name": "download_completed",
+      "value": "下载完成"
+    },
+    {
+      "name": "reason_internet",
+      "value": "用于文件下载场景使用Internet网络"
+    }
+  ]
+}

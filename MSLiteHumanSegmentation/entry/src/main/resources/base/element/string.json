@@ -1,0 +1,79 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Image Segmentation and Composition"
+    },
+    {
+      "name": "home_btn_text",
+      "value": "Image compositing"
+    },
+    {
+      "name": "home_text_generate_tips",
+      "value": "It is recommended to use a 1:1 size image of a person to guarantee the best compositing"
+    },
+    {
+      "name": "home_navbar_title",
+      "value": "Image Segmentation"
+    },
+    {
+      "name": "image_page_navbar_title",
+      "value": "Image composition"
+    },
+    {
+      "name": "segment_btn_text_first",
+      "value": "origin"
+    },
+    {
+      "name":"segment_btn_text_second",
+      "value": "generate"
+    },
+    {
+      "name": "generate_tips",
+      "value": "Image compositing! Do not switch backgrounds"
+    },
+    {
+      "name": "preview_img_list_001",
+      "value": "default"
+    },
+    {
+      "name": "preview_img_list_002",
+      "value": "blue"
+    },
+    {
+      "name": "preview_img_list_003",
+      "value": "red"
+    },
+    {
+      "name": "preview_img_list_004",
+      "value": "bg1"
+    },
+    {
+      "name": "preview_img_list_005",
+      "value": "bg2"
+    },
+    {
+      "name": "preview_img_list_006",
+      "value": "bg3"
+    },
+    {
+      "name": "preview_img_list_007",
+      "value": "bg4"
+    },
+    {
+      "name": "preview_img_list_008",
+      "value": "bg5"
+    },
+    {
+      "name": "preview_img_list_009",
+      "value": "bg6"
+    }]
+}

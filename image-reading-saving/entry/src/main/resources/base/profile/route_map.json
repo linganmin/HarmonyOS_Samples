@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "PhotoPicker",
+      "pageSourceFile": "src/main/ets/view/PhotoPicker.ets",
+      "buildFunction": "PagePhotoPicker",
+      "data": {
+        "description": "this is PhotoPicker"
+      }
+    },
+    {
+      "name": "PhotoViewPicker",
+      "pageSourceFile": "src/main/ets/view/PhotoViewPicker.ets",
+      "buildFunction": "PhotoViewPickerBuild",
+      "data": {
+        "description": "this is PhotoViewPicker"
+      }
+    },
+    {
+      "name": "Preview",
+      "pageSourceFile": "src/main/ets/view/Preview.ets",
+      "buildFunction": "PreviewBuild",
+      "data": {
+        "description": "this is Preview"
+      }
+    },
+    {
+      "name": "ReadView",
+      "pageSourceFile": "src/main/ets/view/ReadView.ets",
+      "buildFunction": "ReadViewBuild",
+      "data": {
+        "description": "this is Preview"
+      }
+    },
+    {
+      "name": "WriteView",
+      "pageSourceFile": "src/main/ets/view/WriteView.ets",
+      "buildFunction": "WriteViewBuild",
+      "data": {
+        "description": "this is Preview"
+      }
+    }
+  ]
+}

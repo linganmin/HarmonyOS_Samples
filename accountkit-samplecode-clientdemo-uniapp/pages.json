@@ -1,0 +1,22 @@
+{
+	// The first item in the pages array is the app's launch page. For details, please refer to https://uniapp.dcloud.io/collocation/pages.
+	"pages": [{
+			"path": "pages/index/index"
+		},
+		{
+			"path": "pages/index/quickloginbutton"
+		},
+		{
+			"path": "pages/index/webview"
+		},
+		{
+			"path": "pages/index/user"
+		}
+	],
+	"globalStyle": {
+		"backgroundColor": "#f1f3f5",
+		// Configure to hide the default uni-app navigation bar.
+		"navigationStyle": "custom"
+	},
+	"uniIdRouter": {}
+}

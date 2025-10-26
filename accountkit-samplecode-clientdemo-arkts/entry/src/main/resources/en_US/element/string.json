@@ -1,0 +1,192 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "Module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "HuaweiIDSample"
+    },
+    {
+      "name": "login",
+      "value": "Sign in/Sign up"
+    },
+    {
+      "name": "personalInfo",
+      "value": "Personal info"
+    },
+    {
+      "name": "avatar",
+      "value": "Avatar"
+    },
+    {
+      "name": "nickname",
+      "value": "Nickname"
+    },
+    {
+      "name": "phone",
+      "value": "Mobile number"
+    },
+    {
+      "name": "dearUser",
+      "value": "Dear user"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "No Internet connection. Check your network settings. "
+    },
+    {
+      "name": "hwid_text_button_known",
+      "value": "OK"
+    },
+    {
+      "name": "agree",
+      "value": "I have read and agree to "
+    },
+    {
+      "name": "and",
+      "value": " and "
+    },
+    {
+      "name": "end",
+      "value": ". "
+    },
+    {
+      "name": "shippingAddress",
+      "value": "Shipping address"
+    },
+    {
+      "name": "addAddress",
+      "value": "Add from HUAWEI ID"
+    },
+    {
+      "name": "invoiceTitle",
+      "value": "Invoice title"
+    },
+    {
+      "name": "addInvoiceTitle",
+      "value": "Add from HUAWEI ID"
+    },
+    {
+      "name": "minorProtection",
+      "value": "Youth mode"
+    },
+    {
+      "name": "availableTime",
+      "value": "Screen time limit"
+    },
+    {
+      "name": "closeMinorsTitle",
+      "value": "Youth mode has been enabled for the current app. If you turn it off, the age-appropriate content and available duration will not be displayed based on your age."
+    },
+    {
+      "name": "cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "close",
+      "value": "Continue"
+    },
+    {
+      "name": "other_login_models",
+      "value": "Other ways to sign in"
+    },
+    {
+      "name": "login_for_enjoy_service",
+      "value": "Enjoy more services after signing in"
+    },
+    {
+      "name": "dear_user_good_morning",
+      "value": "Dear user, good morning"
+    },
+    {
+      "name": "next_step",
+      "value": "Next"
+    },
+    {
+      "name": "pwd_login",
+      "value": "Sign in with password"
+    },
+    {
+      "name": "shopping_user_agreement",
+      "value": "Shopping User Agreement"
+    },
+    {
+      "name": "shopping_privacy_policy",
+      "value": "Shopping Privacy Policy"
+    },
+    {
+      "name": "huaweiId_user_authentication_protocol",
+      "value": "HUAWEI ID User Authentication Agreement"
+    },
+    {
+      "name": "user_agreement_and_privacy_policy",
+      "value": "User Agreement and Privacy Policy"
+    },
+    {
+      "name": "protocol_separator",
+      "value": ", "
+    },
+    {
+      "name": "bind_huaweiId_number",
+      "value": "Mobile number associated with HUAWEI ID"
+    },
+    {
+      "name": "service_error",
+      "value": "Service or network exception. Try again later."
+    },
+    {
+      "name": "agree_and_sign_in",
+      "value": "Accept & sign in"
+    },
+    {
+      "name": "not_login_in",
+      "value": "HUAWEI ID not signed in. Sign in first and try this operation again."
+    },
+    {
+      "name": "scope_not_supported",
+      "value": "Unsupported scopes or permissions."
+    },
+    {
+      "name": "use_hwid_silently_login",
+      "value": "Silently sign in with HUAWEI ID"
+    },
+    {
+      "name": "logout",
+      "value": "Sign out"
+    },
+    {
+      "name": "get_network_info_reason",
+      "value": "Query and set the network status before clicking the privacy agreement."
+    },
+    {
+      "name": "internet_reason",
+      "value": "Access to external links"
+    },
+    {
+      "name": "app_name",
+      "value": "Shopping"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "Used to invoke the one-click login component."
+    },
+    {
+      "name": "get_network_info_permission_reason",
+      "value": "Used to determine whether the current device is connected to the network before redirecting to the Huawei ID user authentication agreement page."
+    },
+    {
+      "name": "ageAppropriateContent",
+      "value": "Age-appropriate content"
+    },
+    {
+      "name": "age",
+      "value": "%1$d ~ %2$d years old"
+    }
+  ]
+}

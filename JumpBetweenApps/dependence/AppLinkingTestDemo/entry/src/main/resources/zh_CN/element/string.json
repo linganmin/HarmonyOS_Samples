@@ -1,0 +1,139 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AppLinking测试项目"
+    },
+    {
+      "name": "product_type",
+      "value": "3D"
+    },
+    {
+      "name": "comparison_type",
+      "value": "机型对比"
+    },
+    {
+      "name": "percentage",
+      "value": "100%"
+    },
+    {
+      "name": "original_price",
+      "value": "¥12999"
+    },
+    {
+      "name": "discounted_price",
+      "value": "¥13999"
+    },
+    {
+      "name": "time_remaining",
+      "value": "距离结束还剩"
+    },
+    {
+      "name": "interest_free_periods",
+      "value": "最高可享12期0分期利息"
+    },
+    {
+      "name": "gift",
+      "value": "赠品"
+    },
+    {
+      "name": "limited_time_discount",
+      "value": "限时直降800元"
+    },
+    {
+      "name": "trade_in_subsidy",
+      "value": "以旧换新补贴"
+    },
+    {
+      "name": "promotion",
+      "value": "优惠"
+    },
+    {
+      "name": "location",
+      "value": "广东 深圳市 龙岗区"
+    },
+    {
+      "name": "stock_status",
+      "value": "现货"
+    },
+    {
+      "name": "product_info",
+      "value": "【现货速发】HUAWEI Mate X5 12GB+512GB 幻影紫"
+    },
+    {
+      "name": "promotion_details",
+      "value": "【华为超级新品季】1.限量买赠价值299元智能视窗保护套 2.学生认证优惠100元（下拉了了解详情）3.以旧…"
+    },
+    {
+      "name": "related_product",
+      "value": "Mate 50 Pro:"
+    },
+    {
+      "name": "limited_gift_earphones",
+      "value": "限量赠无限耳机活力版"
+    },
+    {
+      "name": "home_page",
+      "value": "首页"
+    },
+    {
+      "name": "go_to_page",
+      "value": "去页面"
+    },
+    {
+      "name": "page_redirect_notice",
+      "value": "此页面将在3秒后自动跳转"
+    },
+    {
+      "name": "payment_success",
+      "value": "支付成功"
+    },
+    {
+      "name": "payment_amount",
+      "value": "支付成功付款 ¥ 12999"    },
+    {
+      "name": "return_to_previous",
+      "value": "立即返回"
+    },
+    {
+      "name": "huawei_traffic_card",
+      "value": "华为交通卡"
+    },
+    {
+      "name": "price",
+      "value": "¥12999.00"
+    },
+    {
+      "name": "huawei_wallet_payment",
+      "value": "华为钱包支付"
+    },
+    {
+      "name": "no_more_items",
+      "value": "暂无更多"
+    },
+    {
+      "name": "confirm_payment",
+      "value": "确认支付"
+    },
+    {
+      "name": "add_to_cart",
+      "value": "加入购物袋"
+    },
+    {
+      "name": "buy",
+      "value": "购买"
+    },
+    {
+      "name": "living",
+      "value": "直播中"
+    }
+  ]
+}

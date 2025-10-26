@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "to_harb_pageB2",
+      "value": "跳转到HarB的B2页面"
+    },
+    {
+      "name": "to_harb_pageB3",
+      "value": "跳转到HarB的B3页面"
+    },
+    {
+      "name": "to_harc_pageC1",
+      "value": "跳转到HarC的C1页面"
+    },
+    {
+      "name": "direct_to_harb_pageB1",
+      "value": "直接跳转到HarB的B1页面"
+    },
+    {
+      "name": "pop_to_pre_page",
+      "value": "返回到上个页面"
+    }
+  ]
+}

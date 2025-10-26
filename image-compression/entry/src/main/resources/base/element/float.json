@@ -1,0 +1,12 @@
+{
+  "float": [
+    {
+      "name": "font_size_16",
+      "value": "16vp"
+    },
+    {
+      "name": "column_padding",
+      "value": "20vp"
+    }
+  ]
+}

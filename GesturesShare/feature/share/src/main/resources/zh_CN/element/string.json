@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "gestures_share_file",
+      "value": "隔空传送文件"
+    },
+    {
+      "name": "gestures_share_link",
+      "value": "隔空传送链接"
+    },
+    {
+      "name": "play_list",
+      "value": "选集"
+    }
+  ]
+}

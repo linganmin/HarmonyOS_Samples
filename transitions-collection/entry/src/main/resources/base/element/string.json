@@ -1,0 +1,340 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "TransitionsCollection"
+    },
+    {
+      "name": "multimodaltransion_phone_back",
+      "value": "Mobile verification code login."
+    },
+    {
+      "name": "multimodaltransion_auto_after_login",
+      "value": "The first login will be automatically registered."
+    },
+    {
+      "name": "multimodaltransion_read_and_agree",
+      "value": "I have read and agree to the"
+    },
+    {
+      "name": "multimodaltransion_server_proxy_rule_detail",
+      "value": "Service Agreement and Personal Information Processing Rules"
+    },
+    {
+      "name": "multimodaltransion_phone_start_login",
+      "value": "One-click login using a mobile number"
+    },
+    {
+      "name": "multimodaltransion_login_success",
+      "value": "Login succeeded"
+    },
+    {
+      "name": "multimodaltransion_please_read_and_agree",
+      "value": "Please read and agree to the agreement first"
+    },
+    {
+      "name": "multimodaltransion_please_input_account_and_pwd",
+      "value": "Enter the account or password"
+    },
+    {
+      "name": "multimodaltransion_account",
+      "value": "E-surfing Account Service Agreement"
+    },
+    {
+      "name": "multimodaltransion_login",
+      "value": "Log In"
+    },
+    {
+      "name": "multimodaltransion_input_phone_number",
+      "value": "Enter a mobile number"
+    },
+    {
+      "name": "multimodaltransion_86",
+      "value": "+86"
+    },
+    {
+      "name": "multimodaltransion_size_full",
+      "value": "100%"
+    },
+    {
+      "name": "multimodaltransion_size_ninety_percent",
+      "value": "90%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_five_percent",
+      "value": "85%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_percent",
+      "value": "80%"
+    },
+    {
+      "name": "multimodaltransion_size_account_width",
+      "value": "79%"
+    },
+    {
+      "name": "multimodaltransion_size_sixty_percent",
+      "value": "60%"
+    },
+    {
+      "name": "multimodaltransion_size_eighty_two_percent",
+      "value": "83%"
+    },
+    {
+      "name": "multimodaltransion_account_login_text",
+      "value": "Account and password login"
+    },
+    {
+      "name": "multimodaltransion_place_holder",
+      "value": "Please enter the account number"
+    },
+    {
+      "name": "multimodaltransion_text_input_place_holder",
+      "value": "Please enter the password"
+    },
+    {
+      "name": "multimodaltransion_row_text",
+      "value": "Mobile verification code login"
+    },
+    {
+      "name": "multimodaltransion_account_btn_text",
+      "value": "Log In"
+    },
+    {
+      "name": "multimodaltransion_captcha_change_title_text",
+      "value": "Account and password login"
+    },
+    {
+      "name": "multimodaltransion_captcha_get",
+      "value": "Log In"
+    },
+    {
+      "name": "multimodaltransion_captcha_sent",
+      "value": "Verification code has been sent"
+    },
+    {
+      "name": "multimodaltransion_user_phone_number",
+      "value": "122****2222"
+    },
+    {
+      "name": "multimodaltransion_get_service",
+      "value": "XX in China provides certification services"
+    },
+    {
+      "name": "multimodaltransion_captcha_login_text",
+      "value": "Verification code login"
+    },
+    {
+      "name": "multimodaltransion_only_show_ui",
+      "value": "This style is only for case display"
+    },
+    {
+      "name": "multimodaltransion_after_login_more_service",
+      "value": "Log in to experience more services"
+    },
+    {
+      "name": "full_size",
+      "value": "100%"
+    },
+    {
+      "name": "search_component_search_placeholder",
+      "value": "Searching for"
+    },
+    {
+      "name": "search_component_search_history",
+      "value": "Search History"
+    },
+    {
+      "name": "search_component_search_delete_title",
+      "value": "Confirm Delete All History"
+    },
+    {
+      "name": "search_component_delete_back",
+      "value": "cancelling"
+    },
+    {
+      "name": "search_component_delete_ok",
+      "value": "confirms"
+    },
+    {
+      "name": "temp_sample_toast",
+      "value": "This case does not support redirection"
+    },
+    {
+      "name": "mini_player_animation_home",
+      "value": "Home"
+    },
+    {
+      "name": "mini_player_animation_rank",
+      "value": "ranking"
+    },
+    {
+      "name": "mini_player_animation_user",
+      "value": "my"
+    },
+    {
+      "name": "mini_player_animation_full_size",
+      "value": "100%"
+    },
+    {
+      "name": "mini_player_animation_prompt_info",
+      "value": "For UX presentation only"
+    },
+    {
+      "name": "mini_player_animation_song_name",
+      "value": "Love never leaves"
+    },
+    {
+      "name": "mini_player_animation_singer",
+      "value": "Little bowl Hello"
+    },
+    {
+      "name": "mini_player_animation_response_region",
+      "value": "0%"
+    },
+    {
+      "name": "mini_player_animation_playback_duration",
+      "value": "02:15"
+    },
+    {
+      "name": "mini_player_animation_total_playback_duration",
+      "value": "02:30"
+    },
+    {
+      "name": "mini_player_animation_slider_width",
+      "value": "80%"
+    },
+    {
+      "name": "mini_player_animation_row_width",
+      "value": "95%"
+    },
+    {
+      "name": "mini_player_animation_recommendation",
+      "value": "Recommended"
+    },
+    {
+      "name": "mini_player_animation_recommendation_music_sheet",
+      "value": "Playlist recommendation"
+    },
+    {
+      "name": "mini_player_animation_recommendation_exclusive",
+      "value": "Exclusive recommendation"
+    },
+    {
+      "name": "mini_player_animation_music_column_height",
+      "value": "60%"
+    },
+    {
+      "name": "mini_player_animation_music_common_height",
+      "value": "7%"
+    },
+    {
+      "name": "mini_player_animation_common_width",
+      "value": "90%"
+    },
+    {
+      "name": "mini_player_animation_big_image_height",
+      "value": "25%"
+    },
+    {
+      "name": "mini_player_animation_music_column_more",
+      "value": "more"
+    },
+    {
+      "name": "mini_player_animation_search",
+      "value": "Guess you like it. - Chow Chow"
+    },
+    {
+      "name": "transition_animation_two_fr",
+      "value": "1fr 1fr"
+    },
+    {
+      "name": "recent_reading",
+      "value": "Recent reading"
+    },
+    {
+      "name": "recommend",
+      "value": "Recommend for you"
+    },
+    {
+      "name": "bookshelf",
+      "value": "bookshelf"
+    },
+    {
+      "name": "content",
+      "value": "The two nodes that appear and disappear are associated with location size content."
+    },
+    {
+      "name": "card_title",
+      "value": "Card to the end"
+    },
+    {
+      "name": "img",
+      "value": "image"
+    },
+    {
+      "name": "double_finger_amplification",
+      "value": "Double finger amplification"
+    },
+    {
+      "name": "semiView_larger_image_modal",
+      "value": "View larger image"
+    },
+    {
+      "name": "list_title",
+      "value": "A list to the end"
+    },
+    {
+      "name": "memorandum",
+      "value": "memorandum"
+    },
+    {
+      "name": "search_title",
+      "value": "Search to the end"
+    },
+    {
+      "name": "video_title",
+      "value": "Video to the end"
+    },
+    {
+      "name": "model_title",
+      "value": "Multimodal page transition"
+    },
+    {
+      "name": "model_transition",
+      "value": "Multi-modal page transition dynamic effect implementation case"
+    },
+    {
+      "name": "music_transition",
+      "value": "Music play transfer dynamic effect implementation case"
+    },
+    {
+      "name": "long_take_title",
+      "value": "A mirror to the end"
+    },
+    {
+      "name": "book_title",
+      "value": "Look through the pages of a book"
+    },
+    {
+      "name": "semi_modal",
+      "value": "semi-modal"
+    },
+    {
+      "name": "img_title",
+      "value": "Picture to the end"
+    },
+    {
+      "name": "DetailPage_text",
+      "value": "All living things evolve freely. HarmonyOS is an operating system for multi-device experience, so providing users with a comfortable and convenient multi-device operating experience is the core point of HarmonyOS different from other operating systems.\n\nOn the one hand, interface design/component design needs to have a good adaptive ability to quickly develop different screen sizes.On the other hand, we want a multi-device experience that strikes a good balance between consistency and differentiation.\n\n● Consistency: The design of elements in the interface and the way of interaction should be consistent as far as possible in order to reduce the learning cost of users.\n\n● Difference: Different types of equipment in the screen size, interaction, use scenarios, user groups and other aspects will have a certain difference, in order to provide users with the right operating experience, we need to be differentiated for different types of equipment design."
+    }
+  ]
+}

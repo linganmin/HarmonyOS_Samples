@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "应用网络重连"
+    },
+    {
+      "name": "connect_error",
+      "value": "连接错误"
+    },
+    {
+      "name": "net_lost",
+      "value": "网络丢失"
+    },
+    {
+      "name": "download_error",
+      "value": "下载错误"
+    },
+    {
+      "name": "download_success",
+      "value": "下载成功"
+    },
+    {
+      "name": "download_process",
+      "value": "Downloading"
+    },
+    {
+      "name": "save_video",
+      "value": "保存视频"
+    },
+    {
+      "name": "network_reconnection",
+      "value": "应用网络重连"
+    },
+    {
+      "name": "http_download",
+      "value": "HTTP下载"
+    },
+    {
+      "name": "rcp_download",
+      "value": "RCP下载"
+    },
+    {
+      "name": "Socket_download",
+      "value": "Socket下载"
+    },
+    {
+      "name": "internet_permission_reason",
+      "value": "用于跨进程通信使用Internet网络"
+    }
+  ]
+}

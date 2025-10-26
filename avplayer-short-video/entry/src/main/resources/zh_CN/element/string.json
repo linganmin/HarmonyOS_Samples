@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "entryAbility_desc",
+      "value": "描述"
+    },
+    {
+      "name": "video_warn",
+      "value": "退出程序，请检查网络是否连接或可用！"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "播放倍速"
+    },
+    {
+      "name": "entryAbility_label",
+      "value": "AVPlayer短视频播放"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "playing",
+      "value": "当前播放"
+    },
+    {
+      "name": "reason",
+      "value": "video"
+    },
+    {
+      "name": "reason_background",
+      "value": "后台播放"
+    },
+    {
+      "name": "pip_start",
+      "value": "自动启动画中画"
+    },
+    {
+      "name": "playing_now",
+      "value": "立即播放"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "Chinese",
+      "value": "中文"
+    },
+    {
+      "name": "English",
+      "value": "英文"
+    },
+    {
+      "name": "language_switch",
+      "value": "语言切换"
+    }
+  ]
+}

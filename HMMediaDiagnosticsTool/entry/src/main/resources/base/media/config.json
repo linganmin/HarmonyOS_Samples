@@ -1,0 +1,851 @@
+[
+  {
+    "index": 0,
+    "required": true,
+    "scene": "background test",
+    "sceneName": "Audio backend playback scene (Required)",
+    "pageIcon": 6,
+    "sceneText": "",
+    "isInteractive": false,
+    "sceneDescription": "Audio background playback scene, this scene is a mandatory one",
+    "checkPoint": [
+      "Can the audio continue to play normally (for more than 15 seconds) when the detected application switches to the background"
+    ],
+    "bestExperience": [
+      "After the detected application switches to the background, the audio can continue to play normally"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "To implement backend playback, it is necessary to connect to AVSession and apply for long-term backend tasks",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/avsession-access-scene-V5",
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/continuous-task-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+
+    ],
+    "stepTips": [
+      "Open the detected application and start playing"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Open the detected application and start playing",
+        "dialogContent": "Please confirm that the detected application has been placed in the background and started playing, and keep the playback duration greater than 15 seconds",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The detected application audio is playing normally in the background"
+          },
+          {
+            "index": 1,
+            "text": "The detected application audio is not playing in the background"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "required": true,
+    "scene": "dial",
+    "sceneName": "Call answering scenario (Required)",
+    "pageIcon": 4,
+    "sceneText": "",
+    "isInteractive": false,
+    "sceneDescription": "Call answering scenario, this scenario is mandatory",
+    "checkPoint": [
+      "When a call rings, it is detected whether the application audio is paused, whether the audio continues to play after the call ends, and whether the UX status is refreshed normally"
+    ],
+    "bestExperience": [
+      "When a call rings, the audio of the detected application is paused. After the call ends, the audio continues to play, and the UX status of the detected application can be synchronously refreshed"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the focus mode and handle interruption events",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Ensure that the SIM card is inserted",
+      "Open the detected application and start playing",
+      "Call your phone"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "dialService",
+        "dialogTitle": "",
+        "dialogContent": "",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "When the incoming call rings, the audio of the application is detected to pause. After the call ends, the audio continues to play, and the UX status is synchronized correctly"
+          },
+          {
+            "index": 1,
+            "text": "When the incoming call rings, the audio of the application is detected to pause. After the call ends, the audio continues to play, but the UX status synchronization is abnormal"
+          },
+          {
+            "index": 2,
+            "text": "When a call rings, it is detected that the application audio pauses or the audio does not continue to play after the call ends"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 2,
+    "required": true,
+    "scene": "alarm clock",
+    "audioType": "STREAM_USAGE_ALARM",
+    "sceneName": "Alarm Clock Scene (Required)",
+    "pageIcon": 5,
+    "sceneText": "",
+    "isInteractive": true,
+    "sceneDescription": "Alarm clock scene, this scene is mandatory",
+    "checkPoint": [
+      "When the alarm clock rings, it is detected whether the application audio pauses, whether the audio continues to play after it ends, and whether the UX status refreshes normally"
+    ],
+    "bestExperience": [
+      "When the alarm clock rings, the audio of the detected application pauses, and after it ends, the audio continues to play. The UX status of the detected application can be synchronously refreshed"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the focus mode and handle interruption events",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Trigger simulated alarm clock audio stream"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Trigger simulated alarm clock audio stream",
+        "dialogContent": "Please confirm that the detected application has been placed in the background and started playing. Clicking 'confirm' will trigger a simulated alarm clock audio stream",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "When the alarm clock rings, it is detected that the application audio pauses. After it ends, the audio continues to play, and the UX status is synchronized correctly"
+          },
+          {
+            "index": 1,
+            "text": "When the alarm clock rings, it is detected that the audio of the application is paused. After it ends, the audio continues to play, but the UX status synchronization is abnormal"
+          },
+          {
+            "index": 2,
+            "text": "When the alarm goes off, it is detected that the audio of the application is not paused or the audio does not continue to play after the alarm ends"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 3,
+    "required": false,
+    "scene": "play control",
+    "sceneName": "Broadcast control center audio control scenario",
+    "pageIcon": 6,
+    "sceneText": "",
+    "isInteractive": false,
+    "sceneDescription": "The audio control scene in the broadcasting control center is not a mandatory scenario",
+    "checkPoint": [
+      "Can the audio be controlled normally through the playback control center (play, pause, previous track, next track, progress bar drag, loop play, save), and can the detected application UX refresh normally"
+    ],
+    "bestExperience": [
+      "The integration of the broadcasting control center is correct, the functions are complete, and the UX of the tested application can be synchronously refreshed"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 1,
+    "optimization": "To use the broadcast control center, AVSession access is required",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/local-avsession-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [],
+    "steps": [
+      {
+        "text": "Click on the broadcast control center to play",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "The broadcasting control center controls audio playback",
+        "dialogContent": "Please confirm that the detected application has been placed in the background and started playing",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The audio of the detected application is playing normally, and the UX status within the application is synchronously updated to play"
+          },
+          {
+            "index": 1,
+            "text": "The audio of the detected application is playing normally, but the UX status within the application is not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "The detected application audio is not playing properly"
+          }
+        ]
+      },
+      {
+        "text": "Click on the broadcast control center to pause",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Broadcast control center controls audio pause",
+        "dialogContent": "Please confirm that the detected application has been paused in the broadcast control center",
+        "dialogConfirm": "next",
+
+        "options": [
+          {
+            "index": 0,
+            "text": "The audio of the detected application is paused, and the UX status within the application is synchronously updated to paused"
+          },
+          {
+            "index": 1,
+            "text": "The audio of the detected application is paused, and the UX status within the application is not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "The audio of the detected application has not been paused for playback"
+          }
+        ]
+      },
+      {
+        "text": "Click on the previous song in the broadcast control center",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "The broadcasting control center controls the song to switch to the previous one",
+        "dialogContent": "Please confirm that you have clicked on the previous song of the detected application",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The detected application successfully played the previous song, and the UX in the application was synchronized and updated to the information of the previous song"
+          },
+          {
+            "index": 1,
+            "text": "The detected application successfully played the previous song, but the UX within the application was not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "The detected application did not play the previous song properly"
+          }
+        ]
+      },
+      {
+        "text": "Click on the next song in the broadcast control center",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "The broadcasting control center controls the song to switch to the next one",
+        "dialogContent": "Please confirm that you have clicked on the detected application to move on to the next track",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The detected application successfully plays the next song, and the UX in the application is synchronized and updated with the information of the next song"
+          },
+          {
+            "index": 1,
+            "text": "The detected application successfully played the next song, but the UX within the application was not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "The detected application is not playing the next song properly"
+          }
+        ]
+      },
+      {
+        "text": "Drag the progress bar",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "The broadcasting control center controls the progress of the song",
+        "dialogContent": "Please confirm that the audio progress bar of the detected application has been dragged",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The audio of the detected application continues to play after the end of the drag, and the playback progress is updated synchronously with the UX in the application"
+          },
+          {
+            "index": 1,
+            "text": "The audio of the detected application continues to play after the end of the drag, and the UX in the application is not synchronized and updated"
+          },
+          {
+            "index": 2,
+            "text": "The detected application did not play properly according to the dragged time"
+          }
+        ]
+      },
+      {
+        "text": "Switch playback mode",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Switching playback mode in the broadcast control center",
+        "dialogContent": "Please confirm that the playback mode of the detected application has been switched",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The audio playback mode of the detected application can be switched normally, and the UX in the application is updated synchronously"
+          },
+          {
+            "index": 1,
+            "text": "The audio playback mode of the detected application can be switched normally, but the UX in the application has not been updated synchronously"
+          },
+          {
+            "index": 2,
+            "text": "The detected application's audio playback mode is not switching properly, or it cannot handle unsupported playback modes"
+          }
+        ]
+      },
+      {
+        "text": "Collection",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Collect songs in the broadcast control center",
+        "dialogContent": "Please confirm to collect the audio of the detected application",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The audio collection function of the detected application can respond normally, and the UX in the application is updated synchronously"
+          },
+          {
+            "index": 1,
+            "text": "The audio collection function of the detected application can respond normally, but the UX within the application has not been updated synchronously"
+          },
+          {
+            "index": 2,
+            "text": "The audio collection function of the detected application is invalid or abnormal"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 4,
+    "required": false,
+    "scene": "VoIP communication",
+    "sceneName": "VoIP call scenario",
+    "pageIcon": 6,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_VOICE_COMMUNICATION",
+    "sceneDescription": "VoIP call scenario, this scenario is not mandatory",
+    "checkPoint": [
+      "When VoIP rings, it is detected whether the application audio is paused, whether the audio continues to play after the call ends, and whether the UX status is refreshed normally"
+    ],
+    "bestExperience": [
+      "When VoIP rings, the audio of the detected application is paused. After the call ends, the audio continues to play, and the UX status of the detected application can be synchronously refreshed"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the focus mode and handle interruption events",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Trigger simulated VoIP answering"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Trigger simulated VoIP answering",
+        "dialogContent": "Please confirm that the detected application has been placed in the background and started playing. Clicking 'confirm' will trigger a simulated VoIP call",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "When VoIP rings, the application audio is detected to pause. After the call ends, the audio continues to play, and the UX status is synchronized correctly"
+          },
+          {
+            "index": 1,
+            "text": "When VoIP rings, the application audio is detected to pause. After the call ends, the audio continues to play, but the UX status synchronization is abnormal"
+          },
+          {
+            "index": 2,
+            "text": "When VoIP rings, it is detected that the application audio is not paused or the audio does not continue to play after the call ends"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 5,
+    "required": false,
+    "scene": "navigation",
+    "sceneName": "Navigation Scene",
+    "pageIcon": 3,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_NAVIGATION",
+    "sceneDescription": "Navigation scene, this scene is not mandatory",
+    "checkPoint": [
+      "Can the volume of the detected application be lowered during navigation voice broadcast, and can the volume be restored after the navigation voice ends"
+    ],
+    "bestExperience": [
+      "When the navigation voice broadcast is detected, the volume of the detected application is lowered. After the navigation voice ends, the volume can be restored"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the focus mode and handle interruption events",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Trigger simulated navigation voice"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Trigger simulated navigation voice",
+        "dialogContent": "Please confirm that the detected application has been placed in the background and started playing. Clicking 'confirm' will trigger the simulated navigation voice",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "When the navigation voice is played, it is detected that the volume of the application decreases. After the navigation voice ends, the volume returns"
+          },
+          {
+            "index": 2,
+            "text": "When the navigation voice is played, it is detected that the volume of the application remains unchanged or the volume does not recover after the navigation voice ends"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 6,
+    "required": false,
+    "scene": "voice assistant",
+    "sceneName": "Voice assistant broadcasting scene",
+    "pageIcon": 2,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_VOICE_ASSISTANT",
+    "sceneDescription": "Voice assistant broadcasting scene, this scene is not mandatory",
+    "checkPoint": [
+      "When the voice assistant broadcasts (VOICE_ASSISTANT type), can the volume be lowered when detected, and can the volume be restored after the voice broadcast ends"
+    ],
+    "bestExperience": [
+      "When the voice assistant broadcasts, the volume should be lowered when detected. After the voice broadcast ends, the volume can be restored"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the focus mode and handle interruption events",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Trigger simulated voice assistant"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Trigger simulated voice assistant broadcast",
+        "dialogContent": "Please confirm that the detected audio has been placed in the background and started playing. Clicking \"confirm\" will trigger the simulated voice assistant to broadcast",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "When the voice assistant broadcasts, it is detected that the volume of the application decreases. After the voice broadcast ends, the volume returns to normal"
+          },
+          {
+            "index": 2,
+            "text": "When the voice assistant broadcasts, it is detected that the volume of the application remains unchanged or the volume does not recover after the voice broadcast ends"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 7,
+    "required": false,
+    "scene": "mute video",
+    "sceneName": "Silent playback scene",
+    "pageIcon": 6,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_MUSIC",
+    "sceneDescription": "Silent playback scene, this scene is not mandatory",
+    "checkPoint": [
+      "Does the long audio mute playback of the detected application affect the audio playback of other applications"
+    ],
+    "bestExperience": [
+      "The detected application can play silently, and the audio playback of the detection tool is not affected"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the mute concurrent playback mode",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-references-V5/js-apis-audio-V5#setsilentmodeandmixwithothers12",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Detection tool plays audio",
+      "Open the detected application and mute it for playback"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Silent playback of detected applications",
+        "dialogContent": "After clicking \"confirm\", the detection tool will play the audio. After the detection tool starts playing the audio, please open the detected application, mute and play the long audio",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The audio of the detection tool is playing normally, and the audio of the detected application is playing normally on silent mode"
+          },
+          {
+            "index": 1,
+            "text": "The audio of the detection tool is interrupted or the audio of the detected application is not playing properly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 8,
+    "required": false,
+    "scene": "normal video",
+    "sceneName": "Non silent playback scenario",
+    "pageIcon": 6,
+    "isInteractive": true,
+    "audioType": "STREAM_USAGE_MUSIC",
+    "sceneDescription": "Non silent playback scene, this scene is not mandatory",
+    "checkPoint": [
+      "Detect whether the long audio played by the detection tool is not muted, whether the detected application audio has stopped, whether it will be restored, and whether the UX status is refreshed normally"
+    ],
+    "bestExperience": [
+      "After the long audio playback of the detection tool, the audio of the detected application stops and is no longer restored, and the UX status can be synchronously refreshed"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the focus mode and handle interruption events",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Detection tool plays long audio"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Detection tool plays long audio",
+        "dialogContent": "Please confirm that the detected audio has been placed in the background and started playing. After clicking \"confirm\", the detection tool will play the long audio",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The audio of the detected application stops playing and will no longer be restored, and the UX status is synchronized correctly"
+          },
+          {
+            "index": 1,
+            "text": "The audio of the detected application has stopped playing and will no longer be restored, but the UX status has not been updated synchronously"
+          },
+          {
+            "index": 2,
+            "text": "The detected application audio has not stopped or resumed playback after stopping"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 9,
+    "required": false,
+    "scene": "sound recording",
+    "sceneName": "Ordinary recording scene",
+    "pageIcon": 8,
+    "isInteractive": true,
+    "audioType": "recording",
+    "sceneDescription": "Normal recording scene, this scene is not mandatory",
+    "checkPoint": [
+      "At the beginning of a regular recording (SOURCE_TYPE_MIC), whether the detected application audio stops, whether it will resume, and whether the UX status refreshes normally"
+    ],
+    "bestExperience": [
+      "At the beginning of the recording, the detected application audio stops and is no longer restored, and the UX status can be synchronously refreshed"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "The application needs to correctly set the focus mode and handle interruption events",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-playback-concurrency-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Check tool starts recording"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Start recording",
+        "dialogContent": "Please confirm that the detected audio has been placed in the background and started playing. After clicking \"confirm\", the detection tool will start recording",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "During recording, it was detected that the application audio stopped playing and will no longer resume, and the UX status is synchronized correctly"
+          },
+          {
+            "index": 1,
+            "text": "During recording, it was detected that the application audio stopped playing and will no longer resume, but the UX status synchronization is abnormal"
+          },
+          {
+            "index": 2,
+            "text": "During recording, it was detected that the application audio did not stop or resumed playback after stopping"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 10,
+    "required": false,
+    "scene": "earphone",
+    "sceneName": "Headphones control audio scenes",
+    "pageIcon": 1,
+    "isInteractive": false,
+    "sceneDescription": "Headphones control audio scene, this scene is not mandatory",
+    "checkPoint": [
+      "Can the Bluetooth earphones/wired earphones control the audio (play, pause, previous, next) normally, and can the detected application UX refresh normally"
+    ],
+    "bestExperience": [
+      "Audio can be controlled normally (play, pause, previous track, next track) through Bluetooth earphones/wired earphones, and the detected application UX can synchronously refresh"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 3,
+    "optimization": "Headphone audio control needs to be connected to AVSession",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/using-avsession-developer-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [],
+    "steps": [
+      {
+        "text": "Play using headphones",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Headphones control audio playback",
+        "dialogContent": "Please confirm that the detected audio has been placed in the background and started playing",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "The playback function is normal, and the UX status of the detected application is synchronously updated to play"
+          },
+          {
+            "index": 1,
+            "text": "The playback function is normal, but the UX status of the detected application is not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "The audio is not playing properly"
+          }
+        ]
+      },
+      {
+        "text": "Pause using headphones",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Headphones control audio pause",
+        "dialogContent": "Please confirm that the audio pause has been controlled through the headphones",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "Audio pause, the UX status of the detected application is synchronously updated to pause"
+          },
+          {
+            "index": 1,
+            "text": "Audio pause, detected in app UX status not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "Audio not paused"
+          }
+        ]
+      },
+      {
+        "text": "Switch to the previous song using headphones",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Headphones control song switching to previous one",
+        "dialogContent": "Please confirm that you have clicked on the earphones to switch to the previous song",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "Play the previous song and synchronize the UX information in the detected application to update it to the previous song"
+          },
+          {
+            "index": 1,
+            "text": "Play the previous song, the detected UX status in the application is not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "Audio not switching properly"
+          }
+        ]
+      },
+      {
+        "text": "Switch to the next song using headphones",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Headphones control song switching to the next one",
+        "dialogContent": "Please confirm that you have clicked on the earphones to switch to the next track",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "Play the next track and synchronize the UX information in the detected application to update it to the next track"
+          },
+          {
+            "index": 1,
+            "text": "Play the next song, the detected UX status within the application is not synchronized"
+          },
+          {
+            "index": 2,
+            "text": "Audio not switching properly"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 11,
+    "required": false,
+    "scene": "earphone off",
+    "sceneName": "Scenario of headphone disconnection",
+    "pageIcon": 1,
+    "isInteractive": false,
+    "sceneDescription": "Headphone disconnection scenario, this scenario is not mandatory",
+    "checkPoint": [
+      "After disconnecting Bluetooth earphones and wired earphones, whether the audio playback of the detected application is paused and whether the UX can refresh normally"
+    ],
+    "bestExperience": [
+      "After disconnecting the headphones, the audio playback of the detected application pauses, and the UX status can be synchronously refreshed"
+    ],
+    "highestScore": 10,
+    "stepDeduction": 0,
+    "optimization": "The application needs to monitor changes in the audio stream output device to ensure the user experience when the device changes",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-output-device-change-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Disconnect the headphone connection"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Disconnect the headphone connection",
+        "dialogContent": "Please confirm that the detected audio has been placed in the background and started playing, and confirm that the headphones have been disconnected",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "When the headphones are disconnected, the detected application audio pauses and the UX status synchronizes normally"
+          },
+          {
+            "index": 1,
+            "text": "When the headphones are disconnected, the detected application audio pauses, but the UX status is not synchronized properly"
+          },
+          {
+            "index": 2,
+            "text": "When the headphones are disconnected, the audio of the detected application is not paused"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "index": 12,
+    "required": false,
+    "scene": "switch bluetooth",
+    "sceneName": "Bluetooth device switching scenario",
+    "pageIcon": 0,
+    "isInteractive": false,
+    "sceneDescription": "Bluetooth device switching scenario, this scenario is not mandatory",
+    "checkPoint": [
+      "Bluetooth device switching scenario, this scenario is not mandatory"
+    ],
+    "bestExperience": [
+      "When switching Bluetooth, the detected application can sense the device switch and the UX status can be synchronously refreshed"
+    ],
+    "highestScore": 5,
+    "stepDeduction": 0,
+    "optimization": "The application needs to monitor changes in the audio stream output device to ensure the user experience when the device changes",
+    "adviceLink": [
+      "https://developer.huawei.com/consumer/en/doc/harmonyos-guides-V5/audio-output-device-change-V5",
+      "https://developer.huawei.com/consumer/cn/doc/best-practices-V5/bpta-audio-interaction-practice-V5",
+      "https://gitee.com/harmonyos_samples/audio-interaction"
+    ],
+    "stepTips": [
+      "Open the detected application and start playing",
+      "Switch Bluetooth devices"
+    ],
+    "steps": [
+      {
+        "text": "",
+        "action": "openDialog",
+        "service": "",
+        "dialogTitle": "Switch to a new Bluetooth device",
+        "dialogContent": "Please confirm that the detected audio has been placed in the background and started playing, and confirm that it has been switched to a new Bluetooth device",
+        "dialogConfirm": "next",
+        "options": [
+          {
+            "index": 0,
+            "text": "When switching Bluetooth earphones, the detected application UX prompts or synchronizes the status correctly"
+          },
+          {
+            "index": 2,
+            "text": "When switching Bluetooth earphones, the detected application's UX status synchronization is abnormal"
+          }
+        ]
+      }
+    ]
+  }
+]

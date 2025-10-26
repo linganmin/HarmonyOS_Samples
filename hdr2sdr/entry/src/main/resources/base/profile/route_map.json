@@ -1,0 +1,20 @@
+{
+  "routerMap": [
+    {
+      "name": "Transcode",
+      "pageSourceFile": "src/main/ets/pages/Transcode.ets",
+      "buildFunction": "TranscodeBuilder",
+      "data": {
+        "description" : "this is Transcode"
+      }
+    },
+    {
+      "name": "Recording",
+      "pageSourceFile": "src/main/ets/pages/Recording.ets",
+      "buildFunction": "RecordingBuilder",
+      "data": {
+        "description" : "this is video Recording"
+      }
+    }
+  ]
+}

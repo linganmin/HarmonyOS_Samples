@@ -1,0 +1,36 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "label"
+    },
+    {
+      "name": "hwid_no_internet_connect",
+      "value": "No Internet connection. Check your network settings. "
+    },
+    {
+      "name":"hwid_text_button_known",
+      "value":"OK"
+    },
+    {
+      "name": "login_for_enjoy_service",
+      "value": "Enjoy more services after signing in"
+    },
+    {
+      "name": "login",
+      "value": "Sign in/Sign up"
+    },
+    {
+      "name": "personalInfo",
+      "value": "Personal info"
+    }
+  ]
+}

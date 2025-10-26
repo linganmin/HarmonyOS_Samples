@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "Push Demo"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "Push Main Ability"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "PushKitDemo"
+    },
+    {
+      "name": "FormAbility_label",
+      "value": "Form Ability"
+    },
+    {
+      "name": "FormAbility_desc",
+      "value": "Form Ability"
+    },
+    {
+      "name": "RemoteNotificationExtAbility_desc",
+      "value": "RemoteNotificationExtAbility"
+    },
+    {
+      "name": "ClickActionAbility_desc",
+      "value": "Click Action Ability"
+    },
+    {
+      "name": "ClickActionAbility_label",
+      "value": "Click Action Ability"
+    },
+    {
+      "name": "apply_token_button",
+      "value": "Apply Token"
+    },
+    {
+      "name": "apply_token_title",
+      "value": "Apply Token Ability"
+    },
+    {
+      "name": "apply_token_success",
+      "value": "Apply Token Success"
+    },
+    {
+      "name": "apply_token_failed",
+      "value": "Apply Token Failed"
+    },
+    {
+      "name": "default_card_text",
+      "value": "Default Card Text"
+    },
+    {
+      "name": "card_id",
+      "value": "Card Id:"
+    },
+    {
+      "name": "card_content",
+      "value": "Card Content:"
+    },
+    {
+      "name": "click_action_data",
+      "value": "Data in the message"
+    },
+    {
+      "name": "express_title",
+      "value": "Transfer notification"
+    },
+    {
+      "name": "express_message",
+      "value": "Received a transfer of %s on %s"
+    },
+    {
+      "name": "clear_badge",
+      "value": "Clear badge"
+    }
+  ]
+}

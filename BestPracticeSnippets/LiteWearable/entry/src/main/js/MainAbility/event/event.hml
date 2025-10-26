@@ -1,0 +1,9 @@
+<!-- [Start event] -- >
+<!-- index.hml -->
+<div class="container">
+    <text class="title" style="font-size: {{fontSize}}; color: {{fontColor}};">
+        Hello World
+    </text>
+    <input type="button" value="Change" style="width: 200px; height: 50px;" onclick="clickAction"></input>
+</div>
+<!-- [End event] -->

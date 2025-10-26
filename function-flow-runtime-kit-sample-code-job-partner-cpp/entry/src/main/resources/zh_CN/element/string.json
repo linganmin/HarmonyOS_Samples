@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "描述Job Partner并发范式如何提高任务执行效率。"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Job Partner演示"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Job Partner"
+    },
+    {
+      "name": "title",
+      "value": "JobPartner并发范式"
+    },
+    {
+      "name": "message",
+      "value": "有时任务中存在部分代码必须限定在master线程中执行（例如JavaScript与原生代码的桥阶层）。"
+    },
+    {
+      "name": "task",
+      "value": "假设存在1000个任务，每个任务包含三个阶段，每个阶段的执行时间都是50us，阶段二必须要在master线程中执行。"
+    },
+    {
+      "name": "SerialTaskCost",
+      "value": "串行执行时间"
+    },
+    {
+      "name": "JobPartnerTaskCost",
+      "value": "协作并发执行时间"
+    },
+    {
+      "name": "SerialTaskCostBtn",
+      "value": "串行执行任务"
+    },
+    {
+      "name": "JobPartnerTaskCostBtn",
+      "value": "协作并发执行任务"
+    },
+    {
+      "name": "TimeUnit",
+      "value": "毫秒"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Scene Recognize"
+    },
+    {
+      "name": "home_navbar_title",
+      "value": "Scene Recognize"
+    },
+    {
+      "name": "home_select_button_text",
+      "value": "select photo"
+    },
+    {
+      "name": "result_title",
+      "value": "Analyze results"
+    },
+    {
+      "name": "result_header_title",
+      "value": "The analyzed image"
+    },
+    {
+      "name": "result_select_photo_text",
+      "value": "select photo"
+    },
+    {
+      "name": "display_result",
+      "value": "Analyze results"
+    }
+  ]
+}

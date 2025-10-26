@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/ClickActionInnerPage",
+    "pages/MainPage"
+  ]
+}

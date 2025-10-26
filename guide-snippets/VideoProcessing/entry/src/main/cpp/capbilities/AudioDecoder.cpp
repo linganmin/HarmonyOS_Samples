@@ -1,0 +1,93 @@
+/*
+* Copyright (c) 2024 Huawei Device Co., Ltd.
+* Licensed under the Apache License, Version 2.0 (the "License");
+* you may not use this file except in compliance with the License.
+* You may obtain a copy of the License at
+*
+*     http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing, software
+* distributed under the License is distributed on an "AS IS" BASIS,
+* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+* See the License for the specific language governing permissions and
+* limitations under the License.
+*/
+
+#include "AudioDecoder.h"
+#include "dfx/error/AVCodecSampleError.h"
+#include "AVCodecSampleLog.h"
+#undef LOG_TAG
+#define LOG_TAG "AudioDecoder"
+
+AudioDecoder::~AudioDecoder() { Release(); }
+
+int32_t AudioDecoder::Create(const std::string &codecMime) { 
+    decoder_ = OH_AudioCodec_CreateByMime(codecMime.c_str(), false);
+    CHECK_AND_RETURN_RET_LOG(decoder_ != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Create AudioDecoder failed");
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t AudioDecoder::Config(const SampleInfo &sampleInfo, CodecUserData *codecUserData) { 
+    int32_t ret = Configure(sampleInfo);
+    CHECK_AND_RETURN_RET_LOG(ret == AVCODEC_SAMPLE_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "Configure failed");
+    ret = SetCallback(codecUserData);
+    CHECK_AND_RETURN_RET_LOG(ret == AVCODEC_SAMPLE_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "SetCallback failed");
+    {
+        ret = OH_AudioCodec_Prepare(decoder_);
+        CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "AudioCodec_Prepare failed");
+    }
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t AudioDecoder::Start() { 
+    int ret = OH_AudioCodec_Start(decoder_);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "AudioCodec_Start failed");
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t AudioDecoder::PushInputBuffer(CodecBufferInfo &info) { 
+    int32_t ret = OH_AVBuffer_GetBufferAttr(reinterpret_cast<OH_AVBuffer *>(info.buffer), &info.attr);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "GetBufferAttr failed");
+    ret = OH_AudioCodec_PushInputBuffer(decoder_, info.bufferIndex);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "PushInputBuffer failed");
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t AudioDecoder::FreeOutputBuffer(uint32_t bufferIndex, bool render) { 
+    int32_t ret = OH_AudioCodec_FreeOutputBuffer(decoder_, bufferIndex);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "FreeOutputBuffer failed");
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t AudioDecoder::Release() { 
+    if (decoder_ != nullptr) {
+        OH_AudioCodec_Flush(decoder_);
+        OH_AudioCodec_Stop(decoder_);
+        OH_AudioCodec_Destroy(decoder_);
+        decoder_ = nullptr;
+    }
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t AudioDecoder::SetCallback(CodecUserData *codecUserData) {
+    int32_t ret = OH_AudioCodec_RegisterCallback(decoder_,
+                                                {SampleCallback::OnCodecError, SampleCallback::OnCodecFormatChange, 
+                                                SampleCallback::OnNeedInputBuffer, SampleCallback::OnNewOutputBuffer},
+                                                codecUserData);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "Create SetCallback failed");
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t AudioDecoder::Configure(const SampleInfo &sampleInfo) { 
+    OH_AVFormat *format = OH_AVFormat_Create();
+    CHECK_AND_RETURN_RET_LOG(format != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Create AVFormat failed");
+    OH_AVFormat_SetIntValue(format, OH_MD_KEY_AUDIO_SAMPLE_FORMAT, SAMPLE_S16LE);
+    OH_AVFormat_SetIntValue(format, OH_MD_KEY_AUD_CHANNEL_COUNT, sampleInfo.audioChannelCount);
+    OH_AVFormat_SetIntValue(format, OH_MD_KEY_AUD_SAMPLE_RATE, sampleInfo.audioSampleRate);
+    OH_AVFormat_SetLongValue(format, OH_MD_KEY_CHANNEL_LAYOUT, sampleInfo.audioChannelLayout);
+    int ret = OH_AudioCodec_Configure(decoder_, format);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "AudioCodec Configure failed");
+    OH_AVFormat_Destroy(format);
+    format = nullptr;
+    return AVCODEC_SAMPLE_ERR_OK;
+}

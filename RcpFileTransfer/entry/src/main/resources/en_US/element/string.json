@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "RCP-based File Upload and Download"
+    },
+    {
+      "name": "title",
+      "value": "RCP-based File Upload and Download"
+    },
+    {
+      "name": "album_image_transfer",
+      "value": "Album Image Upload and Download"
+    },
+    {
+      "name": "chunked_file_transfer",
+      "value": "File Chunked Download"
+    },
+    {
+      "name": "resumable_file_transfer",
+      "value": "Resumable File Transfer"
+    },
+    {
+      "name": "background_file_transfer",
+      "value": "Background File Upload and Download"
+    },
+    {
+      "name": "button_text_download_album",
+      "value": "Download to Album"
+    },
+    {
+      "name": "button_text_upload_album",
+      "value": "Upload from Album"
+    },
+    {
+      "name": "button_text_download",
+      "value": "Download"
+    },
+    {
+      "name": "button_text_download_chunked",
+      "value": "Chunked Download"
+    },
+    {
+      "name": "button_text_pause",
+      "value": "Pause"
+    },
+    {
+      "name": "reason_background",
+      "value": "Allow Service Ability to run continuously in the background"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Allow the app to access the network for upload and download scenarios"
+    },
+    {
+      "name": "reason_network",
+      "value": "Allow the app to obtain data network information"
+    }
+  ]
+}

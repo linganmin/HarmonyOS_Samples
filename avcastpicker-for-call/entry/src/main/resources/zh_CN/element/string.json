@@ -1,0 +1,32 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "通话设备切换"
+    },
+    {
+      "name": "default_AVCastPicker",
+      "value": "默认样式组件"
+    },
+    {
+      "name": "custom_AVCastPicker",
+      "value": "自定义样式组件"
+    },
+    {
+      "name": "full_width",
+      "value": "100%"
+    },
+    {
+      "name": "full_height",
+      "value": "100%"
+    }
+  ]
+}

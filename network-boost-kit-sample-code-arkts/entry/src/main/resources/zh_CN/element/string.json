@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "Network_quality_assessment",
+      "value": "网络质量评估"
+    },
+    {
+      "name": "Network_scenario_identification",
+      "value": "网络场景识别"
+    },
+    {
+      "name": "App_data_transmission_quality_feedback",
+      "value": "传输体验反馈"
+    },
+    {
+      "name": "Network_handover_notification",
+      "value": "连接迁移通知"
+    },
+    {
+      "name": "Network_handover_mode_setting",
+      "value": "迁移模式设置"
+    },
+    {
+      "name": "Result",
+      "value": "结果"
+    },
+    {
+      "name": "Subscribe",
+      "value": "订阅"
+    },
+    {
+      "name": "UnSubscribe",
+      "value": "去订阅"
+    },
+    {
+      "name": "Click_to_report_qoe",
+      "value": "点击反馈"
+    },
+    {
+      "name": "Click_to_set_handover_mode",
+      "value": "点击设置"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DynamicComponent"
+    },
+    {
+      "name": "text_NavDestination_title",
+      "value": "Dynamic component creation Sample "
+    },
+    {
+      "name": "text_card_title",
+      "value": "Dynamic component creation sample title "
+    },
+    {
+      "name": "text_card_abstract",
+      "value": "Dynamic component creation sample text "
+    },
+    {
+      "name": "text_ad_icon",
+      "value": "AD"
+    },
+    {
+      "name": "text_dialog_title",
+      "value": "Block ads"
+    },
+    {
+      "name": "text_dialog_description",
+      "value": "Blocking will reduce the recommendation of such ads"
+    },
+    {
+      "name": "text_dialog_cancel",
+      "value": "Cancel"
+    },
+    {
+      "name": "text_dialog_shield",
+      "value": "Block"
+    },
+    {
+      "name": "tab1",
+      "value": "Dynamic Components"
+    },
+    {
+      "name": "tab2",
+      "value": "List stream ad component"
+    },
+    {
+      "name": "tab3",
+      "value": "Dynamically generate pages"
+    }
+  ]
+}

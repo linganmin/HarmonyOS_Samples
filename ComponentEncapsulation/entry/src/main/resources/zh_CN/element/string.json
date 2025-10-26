@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ArkUI组件封装场景"
+    },
+    {
+      "name": "scenario",
+      "value": "ArkUI组件封装场景"
+    },
+    {
+      "name": "common",
+      "value": "自定义组件封装"
+    },
+    {
+      "name": "dialog",
+      "value": "弹窗组件封装"
+    },
+    {
+      "name": "factory",
+      "value": "组件工厂类封装"
+    },
+    {
+      "name": "tips",
+      "value": "提示"
+    },
+    {
+      "name": "content",
+      "value": "已阅读并同意相关内容"
+    },
+    {
+      "name": "confirm",
+      "value": "确定"
+    },
+    {
+      "name": "cancel",
+      "value": "取消"
+    },
+    {
+      "name": "radio",
+      "value": "单选框"
+    },
+    {
+      "name": "checkbox",
+      "value": "复选框"
+    },
+    {
+      "name": "common_style_extract",
+      "value": "组件公共样式封装"
+    }
+  ]
+}

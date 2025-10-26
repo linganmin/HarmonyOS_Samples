@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "AttributionAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "AttributionAbility_label",
+      "value": "归因"
+    },
+    {
+      "name": "register_source",
+      "value": "Register Source"
+    },
+    {
+      "name": "register_trigger",
+      "value": "Register Trigger"
+    },
+    {
+      "name": "validate_source",
+      "value": "Validate Source"
+    },
+    {
+      "name": "set_postback",
+      "value": "Set Postback"
+    },
+    {
+      "name": "flush_postbacks",
+      "value": "Flush PostBacks"
+    },
+    {
+      "name": "gen_sign_failed",
+      "value": "签名生成失败"
+    },
+    {
+      "name": "register_source_success",
+      "value": "registerSource 成功"
+    },
+    {
+      "name": "register_source_failed",
+      "value": "registerSource 失败"
+    },
+    {
+      "name": "register_trigger_success",
+      "value": "registerTrigger 成功"
+    },
+    {
+      "name": "register_trigger_failed",
+      "value": "registerTrigger 失败"
+    },
+    {
+      "name": "validate_source_success",
+      "value": "validateSource 成功"
+    },
+    {
+      "name": "validate_source_failed",
+      "value": "validateSource 失败"
+    },
+    {
+      "name": "set_postback_success",
+      "value": "setPostback 成功"
+    },
+    {
+      "name": "set_postback_failed",
+      "value": "setPostback 失败"
+    },
+    {
+      "name": "flush_postbacks_success",
+      "value": "flushPostbacks 成功"
+    },
+    {
+      "name": "flush_postbacks_failed",
+      "value": "flushPostbacks 失败"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Multiple Images"
+    },
+    {
+      "name": "cute_pet",
+      "value": "@Rivers and mountains"
+    },
+    {
+      "name": "dots",
+      "value": "·"
+    },
+    {
+      "name": "date",
+      "value": "08-14"
+    },
+    {
+      "name": "pets",
+      "value": "#Scenery"
+    },
+    {
+      "name": "dog",
+      "value": "#Mountain"
+    },
+    {
+      "name": "spoiled",
+      "value": "#Lake"
+    },
+    {
+      "name": "placeholder",
+      "value": "Commentary"
+    },
+    {
+      "name": "collection",
+      "value": "12"
+    },
+    {
+      "name": "Comments",
+      "value": "Comments"
+    },
+    {
+      "name": "share",
+      "value": "5"
+    }
+  ]
+}

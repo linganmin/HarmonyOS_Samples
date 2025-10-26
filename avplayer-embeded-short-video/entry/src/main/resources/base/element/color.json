@@ -1,0 +1,59 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "back_button",
+      "value": "#33000000"
+    },
+    {
+      "name": "current_time_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "duration_time_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "detail_control_background_color",
+      "value": "#33000000"
+    },
+    {
+      "name": "detail_background_color",
+      "value": "#F1F3F5"
+    },
+    {
+      "name": "select_color_buffer",
+      "value": "#80000000"
+    },
+    {
+      "name": "select_color_show",
+      "value": "#317AF7"
+    },
+    {
+      "name": "track_color_buffer",
+      "value": "#E8E8E8"
+    },
+    {
+      "name": "track_color_show",
+      "value": "#00FF"
+    },
+    {
+      "name": "record_button_background_inactive_color",
+      "value": "#0C000000"
+    },
+    {
+      "name": "speed_dialog",
+      "value": "#33bab4b4"
+    },
+    {
+      "name": "scale_font_color",
+      "value": "#317AF7"
+    },    {
+      "name": "toggle",
+      "value": "#1A1A1A"
+    }
+  ]
+}

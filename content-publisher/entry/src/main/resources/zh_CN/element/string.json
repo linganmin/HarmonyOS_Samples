@@ -1,0 +1,436 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "内容发布器"
+    },
+    {
+      "name": "richEditor_placeholder",
+      "value": "点击输入正文......"
+    },
+    {
+      "name": "text_posts",
+      "value": "发帖"
+    },
+    {
+      "name": "text_publish",
+      "value": "发布"
+    },
+    {
+      "name": "add_local",
+      "value": "添加位置"
+    },
+    {
+      "name": "topic",
+      "value": "话题"
+    },
+    {
+      "name": "text_input_placeholder",
+      "value": "添加标题更容易被推荐（选填）"
+    },
+    {
+      "name": "contact",
+      "value": "联系人"
+    },
+    {
+      "name": "add_high_img",
+      "value": "添加优质首图"
+    },
+    {
+      "name": "trigger_emoji_event",
+      "value": "触发emoji事件"
+    },
+    {
+      "name": "add_picture_prompt",
+      "value": "添加图片达到上限"
+    },
+    {
+      "name": "continue_add",
+      "value": "继续添加"
+    },
+    {
+      "name": "default_location",
+      "value": "武汉XX路%d楼"
+    },
+    {
+      "name": "single_heading",
+      "value": "单一标题"
+    },
+    {
+      "name": "waiting_diary",
+      "value": "等车日记"
+    },
+    {
+      "name": "energy_sharing",
+      "value": "能耗分享"
+    },
+    {
+      "name": "fond_teasing",
+      "value": "爱用吐槽"
+    },
+    {
+      "name": "sunning_price",
+      "value": "晒晒价格"
+    },
+    {
+      "name": "utility_goods",
+      "value": "实用好物"
+    },
+    {
+      "name": "beautiful_life",
+      "value": "生活美图"
+    },
+    {
+      "name": "love_share",
+      "value": "爱用分享"
+    },
+    {
+      "name": "combined_head",
+      "value": "组合标题"
+    },
+    {
+      "name": "composite_head",
+      "value": "综合标题"
+    },
+    {
+      "name": "retrofit_operation",
+      "value": "改装作业"
+    },
+    {
+      "name": "everyone_reviews",
+      "value": "人人写点评"
+    },
+    {
+      "name": "crowd_theme_contest",
+      "value": "众测主题赛"
+    },
+    {
+      "name": "reading",
+      "value": "w 阅读"
+    },
+    {
+      "name": "topic1",
+      "value": "您可能感兴趣的话题"
+    },
+    {
+      "name": "topic2",
+      "value": "热议话题"
+    },
+    {
+      "name": "topic3",
+      "value": "热门话题"
+    },
+    {
+      "name": "name1",
+      "value": "阿飞"
+    },
+    {
+      "name": "name2",
+      "value": "阿泰"
+    },
+    {
+      "name": "name3",
+      "value": "阿高"
+    },
+    {
+      "name": "name4",
+      "value": "贝贝"
+    },
+    {
+      "name": "name5",
+      "value": "哔哔"
+    },
+    {
+      "name": "name6",
+      "value": "啵啵"
+    },
+    {
+      "name": "name7",
+      "value": "慈慈"
+    },
+    {
+      "name": "name8",
+      "value": "晨晨"
+    },
+    {
+      "name": "name9",
+      "value": "成成"
+    },
+    {
+      "name": "name10",
+      "value": "迪迪"
+    },
+    {
+      "name": "name11",
+      "value": "多多"
+    },
+    {
+      "name": "name12",
+      "value": "达达"
+    },
+    {
+      "name": "name13",
+      "value": "福福"
+    },
+    {
+      "name": "name14",
+      "value": "佛佛"
+    },
+    {
+      "name": "name15",
+      "value": "菲菲"
+    },
+    {
+      "name": "name16",
+      "value": "广广"
+    },
+    {
+      "name": "name17",
+      "value": "桂桂"
+    },
+    {
+      "name": "name18",
+      "value": "快乐"
+    },
+    {
+      "name": "name19",
+      "value": "高高"
+    },
+    {
+      "name": "name20",
+      "value": "赫赫"
+    },
+    {
+      "name": "name21",
+      "value": "合合"
+    },
+    {
+      "name": "name22",
+      "value": "杭杭"
+    },
+    {
+      "name": "name23",
+      "value": "呼呼"
+    },
+    {
+      "name": "name24",
+      "value": "慧慧"
+    },
+    {
+      "name": "name25",
+      "value": "济济"
+    },
+    {
+      "name": "name26",
+      "value": "九九"
+    },
+    {
+      "name": "name27",
+      "value": "佳佳"
+    },
+    {
+      "name": "name28",
+      "value": "凯凯"
+    },
+    {
+      "name": "name29",
+      "value": "康康"
+    },
+    {
+      "name": "name30",
+      "value": "开心"
+    },
+    {
+      "name": "name31",
+      "value": "兰兰"
+    },
+    {
+      "name": "name32",
+      "value": "丽丽"
+    },
+    {
+      "name": "name33",
+      "value": "洛洛"
+    },
+    {
+      "name": "name34",
+      "value": "满满"
+    },
+    {
+      "name": "name35",
+      "value": "梦梦"
+    },
+    {
+      "name": "name36",
+      "value": "南南"
+    },
+    {
+      "name": "name37",
+      "value": "妮妮"
+    },
+    {
+      "name": "name38",
+      "value": "宁宁"
+    },
+    {
+      "name": "name39",
+      "value": "盼盼"
+    },
+    {
+      "name": "name40",
+      "value": "青青"
+    },
+    {
+      "name": "name41",
+      "value": "七七"
+    },
+    {
+      "name": "name42",
+      "value": "秦秦"
+    },
+    {
+      "name": "name43",
+      "value": "若若"
+    },
+    {
+      "name": "name44",
+      "value": "蓉蓉"
+    },
+    {
+      "name": "name45",
+      "value": "石石"
+    },
+    {
+      "name": "name46",
+      "value": "三三"
+    },
+    {
+      "name": "name47",
+      "value": "双双"
+    },
+    {
+      "name": "name48",
+      "value": "苏苏"
+    },
+    {
+      "name": "name49",
+      "value": "天天"
+    },
+    {
+      "name": "name50",
+      "value": "台台"
+    },
+    {
+      "name": "name51",
+      "value": "唐唐"
+    },
+    {
+      "name": "name52",
+      "value": "UU"
+    },
+    {
+      "name": "name53",
+      "value": "Va Va"
+    },
+    {
+      "name": "name54",
+      "value": "维维"
+    },
+    {
+      "name": "name55",
+      "value": "文文"
+    },
+    {
+      "name": "name56",
+      "value": "温温"
+    },
+    {
+      "name": "name57",
+      "value": "伟伟"
+    },
+    {
+      "name": "name58",
+      "value": "西西"
+    },
+    {
+      "name": "name59",
+      "value": "香香"
+    },
+    {
+      "name": "name60",
+      "value": "响响"
+    },
+    {
+      "name": "name61",
+      "value": "湘湘"
+    },
+    {
+      "name": "name62",
+      "value": "银银"
+    },
+    {
+      "name": "name63",
+      "value": "延延"
+    },
+    {
+      "name": "name64",
+      "value": "宜宜"
+    },
+    {
+      "name": "name65",
+      "value": "扬扬"
+    },
+    {
+      "name": "name66",
+      "value": "珠珠"
+    },
+    {
+      "name": "name67",
+      "value": "舟舟"
+    },
+    {
+      "name": "name68",
+      "value": "张张"
+    },
+    {
+      "name": "name69",
+      "value": "真真"
+    },
+    {
+      "name": "name70",
+      "value": "左左"
+    },
+    {
+      "name": "name71",
+      "value": "紫紫"
+    },
+    {
+      "name": "name72",
+      "value": "章章"
+    },
+    {
+      "name": "name73",
+      "value": "邹邹"
+    },
+    {
+      "name": "recent_contact",
+      "value": "最近联系人"
+    },
+    {
+      "name": "reason_location",
+      "value": "允许应用在内容发布场景中获取位置信息"
+    },
+    {
+      "name": "reason_location_in_background",
+      "value": "允许应用在内容发布场景中后台获取位置信息"
+    }
+  ]
+}

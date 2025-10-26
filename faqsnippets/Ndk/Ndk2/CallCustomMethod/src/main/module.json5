@@ -1,0 +1,28 @@
+{
+  "module": {
+    "name": "CallCustomMethod",
+    "type": "feature",
+    "description": "$string:module_desc",
+    "mainElement": "CallCustomMethodAbility",
+    "deviceTypes": [
+      "phone",
+      "tablet",
+      "2in1"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "CallCustomMethodAbility",
+        "srcEntry": "./ets/callcustommethodability/CallCustomMethodAbility.ets",
+        "description": "$string:CallCustomMethodAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:CallCustomMethodAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true
+      }
+    ]
+  }
+}

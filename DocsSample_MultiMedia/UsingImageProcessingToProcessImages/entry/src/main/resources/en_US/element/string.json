@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UsingImageProcessingToProcessImages"
+    },
+    {
+      "name": "image_scaling",
+      "value": "ImageScaling"
+    },
+    {
+      "name": "image_space_conversion",
+      "value": "ImageColorSpaceConversion"
+    },
+    {
+      "name": "metadata_generation",
+      "value": "MetadataGeneration"
+    },
+    {
+      "name": "image_layer_conversion",
+      "value": "HDRImageSingleLayerDualLayerConversion"
+    },
+    {
+      "name": "ImageProcessing_Processes_Images",
+      "value": "ImageProcessing processes images"
+    },
+    {
+      "name": "sdr_image",
+      "value": "sdrImage"
+    },
+    {
+      "name": "scaling",
+      "value": "scaling"
+    },
+    {
+      "name": "can_not_converting",
+      "value": "This image does not currently support converting to other formats"
+    },
+    {
+      "name": "color_space_conversion",
+      "value": "color space conversion"
+    },
+    {
+      "name": "select_image",
+      "value": "choose image"
+    },
+    {
+      "name": "hdr_image",
+      "value": "hdr image"
+    },
+    {
+      "name": "generate_hdr_images",
+      "value": "Generate HDR images through metadata"
+    },
+    {
+      "name": "single_to_dual",
+      "value": "Single layer to double-layer conversion"
+    },
+    {
+      "name": "dual_to_single",
+      "value": "Double layer to single layer conversion"
+    },
+    {
+      "name": "sdr_not_hdr",
+      "value": "The color space conversion algorithm believes that this image is not suitable for converting to HDR image. Please replace it with another image!"
+    }
+  ]
+}

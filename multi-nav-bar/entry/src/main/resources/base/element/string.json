@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiNavBar"
+    },
+    {
+      "name": "tab_home",
+      "value": "Home"
+    },
+    {
+      "name": "tab_moments",
+      "value": "Moments"
+    },
+    {
+      "name": "tab_shopping",
+      "value": "Shopping"
+    },
+    {
+      "name": "tab_me",
+      "value": "Me"
+    },
+    {
+      "name": "selected",
+      "value": "Selected"
+    },
+    {
+      "name": "video",
+      "value": "Video"
+    },
+    {
+      "name": "community",
+      "value": "Community"
+    },
+    {
+      "name": "news",
+      "value": "News"
+    }
+  ]
+}

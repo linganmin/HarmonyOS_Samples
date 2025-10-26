@@ -1,0 +1,68 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ScreenFlickerSolution"
+    },
+    {
+      "name": "loading",
+      "value": "loading"
+    },
+    {
+      "name": "screen_flicker_solution",
+      "value": "解决应用动效闪屏的方案"
+    },
+    {
+      "name": "continuous_click_scene_counterexample",
+      "value": "连续点击场景-反例"
+    },
+    {
+      "name": "continuous_click_scene_positive_example",
+      "value": "连续点击场景-正例"
+    },
+    {
+      "name": "tabs_tab_switchover_scenario_counterexample",
+      "value": "Tabs页签切换场景-反例"
+    },
+    {
+      "name": "tabs_tab_switchover_scenario_positive_example",
+      "value": "Tabs页签切换场景-正例"
+    },
+    {
+      "name": "drop_down_refresh_scenario_counterexample",
+      "value": "下拉刷新场景-反例"
+    },
+    {
+      "name": "drop_down_refresh_scenario_positive_example",
+      "value": "下拉刷新场景-正例"
+    },
+    {
+      "name": "message",
+      "value": "资讯"
+    },
+    {
+      "name": "pulling_up_to_refresh",
+      "value": "正在上拉刷新..."
+    },
+    {
+      "name": "release_to_refresh",
+      "value": "放开刷新"
+    },
+    {
+      "name": "loading_at_risk",
+      "value": "正在玩命加载中..."
+    },
+    {
+      "name": "have_come_to_the_end",
+      "value": "已经到底啦"
+    }
+  ]
+}

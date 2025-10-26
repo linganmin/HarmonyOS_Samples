@@ -1,0 +1,46 @@
+<svg width="48.000000" height="48.000000" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_168_83817_dd" x="-1.263672" y="-0.210449" width="51.871094" height="53.157227" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="0"/>
+			<feGaussianBlur stdDeviation="7"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip168_83818">
+			<rect id="ic_grid_video" width="36.000000" height="36.000000" transform="translate(6.000000 6.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip168_83819">
+			<rect id="画板 53" rx="5.000000" width="48.000000" height="48.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="24.000000" y1="6.000000" x2="24.000000" y2="42.000000" id="paint_linear_168_83813_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#F26C18"/>
+			<stop offset="1.000000" stop-color="#FA932D"/>
+		</linearGradient>
+		<linearGradient x1="33.041157" y1="11.474010" x2="29.514587" y2="16.203131" id="paint_linear_168_83814_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#E56617" stop-opacity="0.901961"/>
+			<stop offset="1.000000" stop-color="#F26C18" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="30.565092" y1="13.277514" x2="33.353550" y2="10.283081" id="paint_linear_168_83815_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFC07A" stop-opacity="0.901961"/>
+			<stop offset="0.999563" stop-color="#FFAB57" stop-opacity="0.501961"/>
+		</linearGradient>
+	</defs>
+	<rect id="画板 53" rx="5.000000" width="48.000000" height="48.000000" fill="#FF9629" fill-opacity="0.100000"/>
+	<g clip-path="url(#clip168_83819)">
+		<g clip-path="url(#clip168_83818)">
+			<path id="矩形备份 113" d="M12.39 6L28.49 6C28.84 6 29.19 6.14 29.44 6.39L37.1 14.04C37.35 14.29 37.5 14.63 37.5 14.99L37.5 40.1C37.5 41.15 36.65 42 35.6 42L12.39 42C11.34 42 10.5 41.15 10.5 40.1L10.5 7.89C10.5 6.84 11.34 6 12.39 6Z" fill="url(#paint_linear_168_83813_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="矩形备份 137" d="M12.39 6L28.49 6C28.84 6 29.19 6.14 29.44 6.39L37.1 14.04C37.35 14.29 37.5 14.63 37.5 14.99L37.5 40.1C37.5 41.15 36.65 42 35.6 42L12.39 42C11.34 42 10.5 41.15 10.5 40.1L10.5 7.89C10.5 6.84 11.34 6 12.39 6Z" fill="url(#paint_linear_168_83814_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="形状结合" d="M29.24 6.15L29.25 6.16C29.24 6.15 29.24 6.15 29.24 6.15ZM29.7 7.15C29.7 7.17 29.69 7.18 29.69 7.2L29.69 11.95C29.69 12.94 30.5 13.75 31.49 13.75L36.28 13.75C36.71 13.75 37.09 13.96 37.33 14.28C37.27 14.18 37.19 14.08 37.1 14L29.37 6.28C29.57 6.51 29.7 6.81 29.7 7.15Z" fill="url(#paint_linear_168_83815_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<g filter="url(#filter_168_83817_dd)">
+				<path id="多边形备份 5" d="M29.21 27.04L20.91 31.84C20.39 32.14 19.73 31.76 19.73 31.15L19.73 21.57C19.73 20.97 20.39 20.59 20.91 20.89L29.21 25.68C29.73 25.98 29.73 26.74 29.21 27.04Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="evenodd"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,148 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "上下分屏常见开发场景"
+    },
+    {
+      "name": "short_video",
+      "value": "短视频"
+    },
+    {
+      "name": "detail_page",
+      "value": "图文详情"
+    },
+    {
+      "name": "waterFlow_page",
+      "value": "瀑布流场景"
+    },
+    {
+      "name": "another_scene",
+      "value": "其他场景"
+    },
+    {
+      "name": "index",
+      "value": "首页"
+    },
+    {
+      "name": "friend",
+      "value": "朋友"
+    },
+    {
+      "name": "message",
+      "value": "消息"
+    },
+    {
+      "name": "mine",
+      "value": "我"
+    },
+    {
+      "name": "recommended",
+      "value": "推荐"
+    },
+    {
+      "name": "follow",
+      "value": "关注"
+    },
+    {
+      "name": "city",
+      "value": "同城"
+    },
+    {
+      "name": "selected",
+      "value": "精选"
+    },
+    {
+      "name": "mall",
+      "value": "商城"
+    },
+    {
+      "name": "live",
+      "value": "直播"
+    },
+    {
+      "name": "society",
+      "value": "社会"
+    },
+    {
+      "name": "food",
+      "value": "美食"
+    },
+    {
+      "name": "user_name_1",
+      "value": "小鱼儿"
+    },
+    {
+      "name": "user_name_2",
+      "value": "熊猫大人"
+    },
+    {
+      "name": "user_name_3",
+      "value": "飞行日记"
+    },
+    {
+      "name": "user_type_1",
+      "value": "环保领域作者"
+    },
+    {
+      "name": "user_type_2",
+      "value": "萌宠领域作者"
+    },
+    {
+      "name": "user_type_3",
+      "value": "科技领域作者"
+    },
+    {
+      "name": "blog_content_1",
+      "value": "亲近大海，领悟海，体会到了海的心声，海自然与你共鸣，无需刻意强求，也无需费力搜寻，海，始终都会以潮声与你相亲，以其海色伴你舒适。"
+    },
+    {
+      "name": "blog_content_2",
+      "value": "野生动物和宠物动物，可爱的动物人人都喜欢。"
+    },
+    {
+      "name": "blog_content_3",
+      "value": "群鸟，仿佛从大地的心窝飞起的音符，旋风似地从田野腾空而起。小鸟的头部两侧镶嵌着一双黑宝石般的小眼睛，嘴巴长长的，上面是它的小鼻子。"
+    },
+    {
+      "name": "tab_name",
+      "value": "页签"
+    },
+    {
+      "name": "follow_button",
+      "value": "+关注"
+    },
+    {
+      "name": "share_button",
+      "value": "点击分享"
+    },
+    {
+      "name": "app_title",
+      "value": "上下分屏常见场景"
+    },
+    {
+      "name": "video_title",
+      "value": "探索生命之源"
+    },
+    {
+      "name": "video_time",
+      "value": "·2小时前"
+    },
+    {
+      "name": "video_content",
+      "value": "数百万年前，地貌形成"
+    },
+    {
+      "name": "video_music",
+      "value": "用户创作的音乐"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Grid Element Drag Swap"
+    },
+    {
+      "name": "grid_element_drag_swap",
+      "value": "Grid Element Drag Swap"
+    },
+    {
+      "name": "same_size_press_drag",
+      "value": "Long press and drag an item of the same size"
+    },
+    {
+      "name": "different_size_press_drag",
+      "value": "Long press and drag items of different sizes"
+    },
+    {
+      "name": "directly_drag_item",
+      "value": "Drag and drop items directly without long pressing"
+    },
+    {
+      "name": "show_jitter_animation",
+      "value": "After pressing and holding the item, a jitter animation is displayed"
+    },
+    {
+      "name": "details_page",
+      "value": "Detail page"
+    },
+    {
+      "name": "text",
+      "value": "Located in the southern part of Qinghai Province, with an average altitude of more than 4,000 meters, the Sanjiangyuan area is the headwaters of the Yangtze River, the Yellow River and the Lancang River, and is known as the \"Chinese Water Tower\". Here, snow leopards can be seen gazing into the distance from the cliffs, and herds of Tibetan antelopes can be seen frolicking."
+    },
+    {
+      "name": "equipment",
+      "value": "Equipment"
+    },
+    {
+      "name": "space",
+      "value": "Space"
+    },
+    {
+      "name": "mine",
+      "value": "Mine"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+/*
+ * Copyright (c) 2025 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+#include "muxer.h"
+#include "dfx/error/av_codec_sample_error.h"
+#include "av_codec_sample_log.h"
+#include <cstdint>
+
+#undef LOG_TAG
+#define LOG_TAG "Muxer"
+
+Muxer::~Muxer() { Release(); }
+
+int32_t Muxer::Create(int32_t fd) {
+    muxer_ = OH_AVMuxer_Create(fd, AV_OUTPUT_FORMAT_MPEG_4);
+    CHECK_AND_RETURN_RET_LOG(muxer_ != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Muxer create failed, fd: %{public}d", fd);
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t Muxer::Config(SampleInfo &sampleInfo) {
+    CHECK_AND_RETURN_RET_LOG(muxer_ != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Muxer is null");
+
+    int ret;
+
+    // 添加视频轨
+    OH_AVFormat *formatVideo =
+        OH_AVFormat_CreateVideoFormat(sampleInfo.videoCodecMime.data(), sampleInfo.videoWidth, sampleInfo.videoHeight);
+    CHECK_AND_RETURN_RET_LOG(formatVideo != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Create video format failed");
+
+    OH_AVFormat_SetDoubleValue(formatVideo, OH_MD_KEY_FRAME_RATE, sampleInfo.frameRate);
+    OH_AVFormat_SetIntValue(formatVideo, OH_MD_KEY_WIDTH, sampleInfo.videoWidth);
+    OH_AVFormat_SetIntValue(formatVideo, OH_MD_KEY_HEIGHT, sampleInfo.videoHeight);
+    OH_AVFormat_SetStringValue(formatVideo, OH_MD_KEY_CODEC_MIME, sampleInfo.videoCodecMime.data());
+
+    ret = OH_AVMuxer_AddTrack(muxer_, &videoTrackId_, formatVideo);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "AddTrack failed");
+    OH_AVFormat_Destroy(formatVideo);
+    OH_AVMuxer_SetRotation(muxer_, 0);
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t Muxer::Start() {
+    CHECK_AND_RETURN_RET_LOG(muxer_ != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Muxer is null");
+
+    int ret = OH_AVMuxer_Start(muxer_);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "Start failed, ret: %{public}d", ret);
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t Muxer::WriteSample(int32_t trackId, OH_AVBuffer *buffer, OH_AVCodecBufferAttr &attr) {
+    std::lock_guard<std::mutex> lock(writeMutex_);
+
+    CHECK_AND_RETURN_RET_LOG(muxer_ != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Muxer is null");
+    CHECK_AND_RETURN_RET_LOG(buffer != nullptr, AVCODEC_SAMPLE_ERR_ERROR, "Get a empty buffer");
+
+    int32_t ret = OH_AVBuffer_SetBufferAttr(buffer, &attr);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "SetBufferAttr failed");
+
+    ret = OH_AVMuxer_WriteSampleBuffer(muxer_, trackId, buffer);
+    CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "Write sample failed");
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t Muxer::Release() {
+    if (muxer_ != nullptr) {
+        int32_t ret = OH_AVMuxer_Stop(muxer_);
+        CHECK_AND_RETURN_RET_LOG(ret == AV_ERR_OK, AVCODEC_SAMPLE_ERR_ERROR, "Muxer stop failed");
+        OH_AVMuxer_Destroy(muxer_);
+        muxer_ = nullptr;
+    }
+    return AVCODEC_SAMPLE_ERR_OK;
+}
+
+int32_t Muxer::GetVideoTrackId() { return videoTrackId_; }
+int32_t Muxer::GetAudioTrackId() { return audioTrackId_; }

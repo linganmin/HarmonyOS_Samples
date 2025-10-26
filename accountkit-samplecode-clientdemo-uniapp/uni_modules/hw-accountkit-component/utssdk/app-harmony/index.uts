@@ -1,0 +1,90 @@
+/*
+ * Copyright (c) Huawei Technologies Co., Ltd. 2025-2025. All rights reserved.
+ */
+import './Home.ets';
+import './QuickLoginButton.ets';
+import './User.ets';
+import './Webview.ets';
+import { hilog } from '@kit.PerformanceAnalysisKit';
+import { BusinessError } from '@kit.BasicServicesKit';
+import { authentication } from '@kit.AccountKit';
+import { connection } from '@kit.NetworkKit';
+
+const logTag : string = 'getQuickLoginAnonymousPhone';
+const domainId : number = 0x0000;
+
+export enum ErrorCode {
+	// The agreements are not accepted.
+	ERROR_CODE_AGREEMENT_STATUS_NOT_ACCEPTED = 1005300001,
+	// No HUAWEI ID has been signed in.
+	ERROR_CODE_LOGIN_OUT = 1001502001,
+	// A network exception occurs in the authorization API.
+	AUTHENTICATION_NETWORK_ERROR = 1001502005,
+	// Internal error.
+	ERROR_CODE_INTERNAL_ERROR = 1001502009,
+	// Authorization revoking is performed.
+	ERROR_CODE_USER_CANCEL = 1001502012,
+	// System service exception.
+	ERROR_CODE_SYSTEM_SERVICE = 12300001,
+	// Repeated request.
+	ERROR_CODE_REQUEST_REFUSE = 1001500002
+}
+
+export async function getQuickLoginAnonymousPhone() : Promise<string> {
+	// Create an authorization request.
+	const authRequest = new authentication.HuaweiIDProvider().createAuthorizationWithHuaweiIDRequest();
+	// User information requested by the app.
+	authRequest.scopes = ['quickLoginAnonymousPhone'];
+	// In the one-tap sign-in scenario, forceAuthorization must be set to false.
+	authRequest.forceAuthorization = false;
+	const controller = new authentication.AuthenticationController();
+	let quickLoginAnonymousPhone : string = '';
+	try {
+		const response : authentication.AuthorizationWithHuaweiIDResponse = await controller.executeRequest(authRequest);
+		// If you need to enable code obfuscation, the quickLoginAnonymousPhone (anonymous phone number) property needs to be configured in the trustlist to prevent it from being obfuscated.
+		quickLoginAnonymousPhone = response.data?.extraInfo?.quickLoginAnonymousPhone as string ?? '';
+		hilog.info(domainId, logTag,
+			`Succeeded in authorizing. QuickLoginAnonymousPhone is ${quickLoginAnonymousPhone}`);
+	} catch (error) {
+		hilog.error(domainId, logTag,
+			`Failed to authorize. errCode is ${error.code}, message is ${error.message}`);
+		dealAllError(error);
+	}
+	return quickLoginAnonymousPhone;
+}
+
+export function dealAllError(error : BusinessError, errorCallBack?: () => void) : void {
+	if (error.code === ErrorCode.ERROR_CODE_LOGIN_OUT) {
+		hilog.info(domainId, logTag, 'The user has not signed in with a HUAWEI ID. Use a HUAWEI ID to sign in and try again, or sign in to the app in another way.');
+	} else if (error.code === ErrorCode.AUTHENTICATION_NETWORK_ERROR) {
+		// Network exception. Check the current network status and try again, or sign in to the app in another way.
+		hilog.info(domainId, logTag, 'Network exception. Check the current network status and try again, or sign in to the app in another way.');
+        if (errorCallBack) {
+			errorCallBack();
+		}
+	} else if (error.code === ErrorCode.ERROR_CODE_INTERNAL_ERROR) {
+		hilog.info(domainId, logTag, 'Failed to sign in, try another sign-in option.');
+	} else if (error.code === ErrorCode.ERROR_CODE_USER_CANCEL) {
+		hilog.info(domainId, logTag, 'The user cancels the authorization.');
+		if (errorCallBack) {
+			errorCallBack();
+		}
+	} else if (error.code === ErrorCode.ERROR_CODE_SYSTEM_SERVICE) {
+		hilog.info(domainId, logTag, 'System service exception. Try again later or sign in to the app in another way.');
+	} else if (error.code === ErrorCode.ERROR_CODE_AGREEMENT_STATUS_NOT_ACCEPTED) {
+		hilog.info(domainId, logTag, 'The user does not accept the agreements.');
+		if (errorCallBack) {
+			errorCallBack();
+		}
+	} else if (error.code === ErrorCode.ERROR_CODE_REQUEST_REFUSE) {
+		hilog.info(domainId, logTag, 'Repeated request. No further action is needed.');
+	} else {
+		hilog.info(domainId, logTag, 'Sign-in failed. Try another sign-in option.');
+	}
+}
+
+export function hasNetWork() : boolean {
+	console.error('connection.hasDefaultNetSync()', connection.hasDefaultNetSync());
+	// Return the current network connection status.
+	return connection.hasDefaultNetSync();
+}

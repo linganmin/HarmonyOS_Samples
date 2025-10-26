@@ -1,0 +1,132 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "嵌入式短视频"
+    },
+    {
+      "name": "info_detail",
+      "value": "亲近海，体会海的心声，海自然与你共鸣，无须刻意强求，海始终都会以潮声与你相亲，以海色伴你舒适。"
+    },
+    {
+      "name": "caption_title",
+      "value": "字幕设置"
+    },
+    {
+      "name": "caption_family",
+      "value": "字体"
+    },
+    {
+      "name": "caption_size",
+      "value": "字号"
+    },
+    {
+      "name": "caption_color",
+      "value": "颜色"
+    },
+    {
+      "name": "previousFrame",
+      "value": "上一帧"
+    },
+    {
+      "name": "nextFrame",
+      "value": "下一帧"
+    },
+    {
+      "name": "pip_start",
+      "value": "是否开启画中画"
+    },
+    {
+      "name": "more",
+      "value": "更多"
+    },
+    {
+      "name": "placeholder",
+      "value": "点我发弹幕吧"
+    },
+    {
+      "name": "comment1",
+      "value": "很好"
+    },
+    {
+      "name": "comment2",
+      "value": "精彩"
+    },
+    {
+      "name": "comment3",
+      "value": "再来一个"
+    },
+    {
+      "name": "currentCaption",
+      "value": "指尖轻触触发季节音效"
+    },
+    {
+      "name": "video_speed_1_0X",
+      "value": "1.0X"
+    },
+    {
+      "name": "video_speed_1_25X",
+      "value": "1.25X"
+    },
+    {
+      "name": "video_speed_1_75X",
+      "value": "1.75X"
+    },
+    {
+      "name": "video_speed_2_0X",
+      "value": "2.0X"
+    },
+    {
+      "name": "dialog_play_speed",
+      "value": "播放倍数"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "取消"
+    },
+    {
+      "name": "video_scale_fit",
+      "value": "拉伸至与窗口等大"
+    },
+    {
+      "name": "video_scale_fit_crop",
+      "value": "缩放至最短边填满窗口"
+    },
+    {
+      "name": "dialog_play_scale",
+      "value": "窗口缩放模式"
+    },
+    {
+      "name": "send_btn",
+      "value": "发送"
+    },
+    {
+      "name": "Chinese",
+      "value": "中文"
+    },
+    {
+      "name": "English",
+      "value": "英文"
+    },
+    {
+      "name": "language_switch",
+      "value": "语言切换"
+    },
+    {
+      "name": "user_name",
+      "value": "摄影爱好者"
+    },
+    {
+      "name": "title",
+      "value": "保持热爱"
+    }
+  ]
+}

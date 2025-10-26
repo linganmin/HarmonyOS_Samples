@@ -1,0 +1,92 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "远程车控应用"
+    },
+    {
+      "name": "temperature",
+      "value": "车内温度27℃"
+    },
+    {
+      "name": "open_conditioner",
+      "value": "开启空调"
+    },
+    {
+      "name": "close_conditioner",
+      "value": "关闭空调"
+    },
+    {
+      "name": "find_car",
+      "value": "寻车"
+    },
+    {
+      "name": "flash",
+      "value": "闪灯寻车"
+    },
+    {
+      "name": "flash_success",
+      "value": "闪灯寻车已开启"
+    },
+    {
+      "name": "voice",
+      "value": "闪灯鸣笛寻车"
+    },
+    {
+      "name": "Voice_success",
+      "value": "闪灯鸣笛寻车已开启"
+    },
+    {
+      "name": "password_input",
+      "value": "请输入安全码"
+    },
+    {
+      "name": "password_failed",
+      "value": "安全码错误"
+    },
+    {
+      "name": "password_success",
+      "value": "成功"
+    },
+    {
+      "name": "car_control",
+      "value": "车辆控制"
+    },
+    {
+      "name": "car_lock",
+      "value": "车锁"
+    },
+    {
+      "name": "car_window",
+      "value": "车窗"
+    },
+    {
+      "name": "car_conditioner",
+      "value": "空调"
+    },
+    {
+      "name": "car_trunk",
+      "value": "后备箱"
+    },
+    {
+      "name": "car_name",
+      "value": "问界M7"
+    },
+    {
+      "name": "charge_completed",
+      "value": "充电已完成"
+    },
+    {
+      "name": "Update",
+      "value": "更新于"
+    }
+  ]
+}

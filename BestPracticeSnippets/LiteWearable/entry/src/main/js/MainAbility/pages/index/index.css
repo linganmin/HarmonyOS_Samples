@@ -1,0 +1,31 @@
+.container {
+    width: 100%;/* The width of the container is set to 100%. */
+    height: 100%;/* The height of the container is set to 100%. */
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: aquamarine;/* Set the background color to light green. */
+}
+
+.stackContainer {
+    width: 50%;
+    height: 50%;
+    background-color: white;
+}
+
+.button {
+    top: 10%;/* Set the position on the y-axis to be 10% of the height of the parent component from the top. */
+    left: 10%;/* Set the position on the x-axis to be 10% of the width of the parent component from the parent component itself. */
+    width: 50%;
+    height: 30%;
+    font-size: 30px;
+    background-color: black;
+}
+
+.button2 {
+    width: 50%;
+    height: 20%;
+    font-size: 30px;
+    background-color: black;
+    margin-top: 2%;/* 2% of the height of the parent component. */
+}

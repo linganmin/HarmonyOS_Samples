@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/BuilderParamPage",
+    "pages/ControllerCallPage",
+    "pages/EmitterCallPage",
+    "pages/ParentCallPage",
+    "pages/WatchCallPage"
+  ]
+}

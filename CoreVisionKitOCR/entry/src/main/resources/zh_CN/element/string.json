@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CoreVisionKitOCR"
+    },
+    {
+      "name": "page_title",
+      "value": "图片识别"
+    },
+    {
+      "name": "page_subtitle",
+      "value": "新增地址"
+    },
+    {
+      "name": "dialog_title",
+      "value": "图片识别"
+    },
+    {
+      "name": "dialog_subtitle",
+      "value": "选择获取图片的方式"
+    },
+    {
+      "name": "dialog_camera_btn",
+      "value": "拍照"
+    },
+    {
+      "name": "dialog_photo_btn",
+      "value": "相册"
+    },
+    {
+      "name": "dialog_cancel_btn",
+      "value": "取消"
+    },
+    {
+      "name": "loading_content",
+      "value": "图片识别中"
+    },
+    {
+      "name": "input_placeholder",
+      "value": "图片识别的文本到此处，将自动识别收货信息 例：丽丽，139*******，广东省深圳市宝安区某小区"
+    },
+    {
+      "name": "open_dialog_btn",
+      "value": "图片识别"
+    },
+    {
+      "name": "parse_btn",
+      "value": "识别"
+    },
+    {
+      "name": "empty_toast",
+      "value": "请输入要识别的文本"
+    },
+    {
+      "name": "save_btn",
+      "value": "保存地址"
+    },
+    {
+      "name": "save_success_toast",
+      "value": "保存成功"
+    },
+    {
+      "name": "list_name_label",
+      "value": "收货人"
+    },
+    {
+      "name": "list_phone_label",
+      "value": "电话"
+    },
+    {
+      "name": "list_address_label",
+      "value": "地址"
+    },
+    {
+      "name": "list_name_placeholder",
+      "value": "收货人姓名"
+    },
+    {
+      "name": "list_phone_placeholder",
+      "value": "收货人电话"
+    },
+    {
+      "name": "list_address_placeholder",
+      "value": "详细地址与门牌号"
+    }
+  ]
+}

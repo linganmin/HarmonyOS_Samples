@@ -1,0 +1,137 @@
+body {
+	margin: 0;
+}
+
+#container {
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	background-color: #FFFFFF;
+	overflow-y: auto;
+}
+
+#cover {
+	width: 60%;
+	align-self: center;
+}
+
+#user-info {
+	padding-left: 16px;
+	padding-right: 16px;
+	height: 40px;
+	margin-top: 16px;
+	margin-bottom: 16px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+#user-avatar {
+	height: 40px;
+	width: 40px;
+	border-radius: 20px;
+	margin-right: 8px;
+}
+
+#user-name {
+	flex-grow: 1;
+}
+
+#btn-follow {
+	height: 40px;
+	width: 64px;
+	color: white;
+	background-color: #0A59F7;
+	border-radius: 20px;
+	border-width: 0px;
+}
+
+.article-text-title {
+	color: #000000e5;
+	font-weight: 500;
+	line-height: 24px;
+	font-size: 18px;
+}
+
+#article-title {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+#detail-text {
+	padding-left: 16px;
+	padding-right: 16px;
+	color: #000000e5;
+	font-weight: 400;
+	line-height: 19px;
+	font-size: 14px;
+	margin-top: 12px;
+	flex-grow: 1;
+	padding-bottom: 76px;
+}
+
+#app-info {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	height: 48px;
+	background-color: #F1F3F5;
+	padding-left: 16px;
+	padding-right: 16px;
+	align-items: center;
+	padding-top: 16px;
+	position: fixed;
+	bottom: 0;
+	padding-bottom: 12px;
+	border-top: #B0B0B0 solid 0.5px;
+}
+
+#app-icon {
+	height: 50px;
+	width: 50px;
+}
+
+#app-text {
+	display: flex;
+	flex-direction: column;
+	margin-left: 16px;
+	height: 48px;
+	justify-content: center;
+}
+
+#app-name {
+	font-weight: 500;
+	color: black;
+	font-size: 16px;
+	line-height: 21px;
+}
+
+#app-description {
+	font-size: 12px;
+	line-height: 16px;
+	font-weight: 400;
+	color: #00000066;
+}
+
+#bottom-button {
+	height: 28px;
+	width: 72px;
+	color: white;
+	background-color: #0A59F7;
+	border-radius: 14px;
+	border-width: 0px;
+	position: absolute;
+	right: 48px;
+}
+
+#download-button {
+	min-height: 28px;
+	width: 72px;
+	color: white;
+	background-color: #0A59F7;
+	border-radius: 14px;
+	border-width: 0px;
+	margin: 12px;
+	align-self: flex-end;
+}

@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "System Spatial Statistics"
+    },
+    {
+      "name": "app_space_statistics",
+      "value": "App Storage Statistics"
+    },
+    {
+      "name": "file_space_statistics",
+      "value": "File System Storage Statistics"
+    },
+    {
+      "name": "system_spatial_statistics",
+      "value": "System Spatial Statistics"
+    },
+    {
+      "name": "app_data_size",
+      "value": "APP Data Size"
+    },
+    {
+      "name": "cache_file_size",
+      "value": "APP Cache File Size"
+    },
+    {
+      "name": "app_total_data_size",
+      "value": "APP Total Data Size"
+    },
+    {
+      "name": "free_bytes",
+      "value": "Free size of the file system"
+    },
+    {
+      "name": "total_bytes",
+      "value": "Total size of the file system"
+    },
+    {
+      "name": "spatial_statistics",
+      "value": "Storage Statistics"
+    }
+  ]
+}

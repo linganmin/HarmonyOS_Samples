@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "reason_background",
+      "value": "用于音频播放场景，使音频保持在后台运行"
+    },
+    {
+      "name": "reason_microphone",
+      "value": "申请麦克风录音，用于录音场景"
+    }
+  ]
+}

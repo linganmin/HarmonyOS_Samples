@@ -1,0 +1,22 @@
+{
+  "login": "登录 / 注册",
+  "personalInfo": "个人信息",
+  "phone": "手机号",
+  "hwid_no_internet_connect": "网络未连接，请检查网络设置。",
+  "hwid_text_button_known": "知道了",
+  "agree": "已阅读并同意",
+  "and": "和",
+  "end": "。",
+  "cancel": "取消",
+  "close": "关闭",
+  "other_login_models": "其他方式登录",
+  "login_for_enjoy_service": "登录后享受更多服务",
+  "shopping_user_agreement": "《购物用户协议》",
+  "shopping_privacy_policy": "《购物隐私政策》",
+  "huaweiId_user_authentication_protocol": "《华为账号用户认证协议》",
+  "user_agreement_and_privacy_policy": "用户协议与隐私条款",
+  "protocol_separator": "",
+  "bind_huaweiId_number": "华为账号绑定号码",
+  "agree_and_sign_in": "同意并登录",
+  "logout": "退出登录"
+}

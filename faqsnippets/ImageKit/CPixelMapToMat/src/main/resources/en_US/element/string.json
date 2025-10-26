@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "CPixelMapToMatAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "CPixelMapToMatAbility_label",
+      "value": "label"
+    }
+  ]
+}

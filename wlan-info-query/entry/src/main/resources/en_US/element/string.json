@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "WlanInfoQuery"
+    },
+    {
+      "name": "nonSense",
+      "value": "xxxx"
+    },
+    {
+      "name": "wlan",
+      "value": "WLAN"
+    },
+    {
+      "name": "useless",
+      "value": "Encryption"
+    },
+    {
+      "name": "connected",
+      "value": "Connected"
+    },
+    {
+      "name": "wlanUseful",
+      "value": "Available WLAN"
+    },
+    {
+      "name": "wlanConnected",
+      "value": "Connected to Wi-Fi"
+    },
+    {
+      "name": "mac_address",
+      "value": "MAC"
+    },
+    {
+      "name": "ip_address",
+      "value": "IP"
+    },
+    {
+      "name": "net_mask",
+      "value": "Netmask"
+    },
+    {
+      "name": "gate_way",
+      "value": "Gateway"
+    },
+    {
+      "name": "dns",
+      "value": "DNS"
+    },
+    {
+      "name": "reason_get_wifi_info",
+      "value": "Used for querying WLAN information"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AudioCodec"
+    },
+    {
+      "name": "main_title",
+      "value": "Audio Codec"
+    },
+    {
+      "name": "select_audio",
+      "value": "Local audio selection"
+    },
+    {
+      "name": "record",
+      "value": "Record"
+    },
+    {
+      "name": "alert",
+      "value": "None audio selected"
+    },
+    {
+      "name": "permission_microphone",
+      "value": "Allow the application to use a microphone in recording audio scenes."
+    },
+    {
+      "name": "play_now",
+      "value": "Playing..."
+    },
+    {
+      "name": "audio_captures",
+      "value": "Play/Transcoding"
+    },
+    {
+      "name": "transcoding",
+      "value": "Transcoding"
+    },{
+      "name": "audio_record",
+      "value": "record"
+    },
+    {
+      "name": "pause_audio",
+      "value": "Pause"
+    },
+    {
+      "name": "CONTINUE",
+      "value": "Continue"
+    },
+    {
+      "name": "play_paused",
+      "value": "Paused"
+    },
+    {
+      "name": "target_save_format",
+      "value": "target save format"
+    },
+    {
+      "name": "picker_btn_cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "picker_btn_confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "recording_format",
+      "value": "recording format"
+    },
+    {
+      "name": "save_to_local",
+      "value": "save to local"
+    },
+    {
+      "name": "transcoding_format",
+      "value": "transcoding format"
+    }
+  ]
+}

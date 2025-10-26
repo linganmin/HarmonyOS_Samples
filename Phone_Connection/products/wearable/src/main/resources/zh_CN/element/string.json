@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "wearable_desc",
+      "value": "description"
+    },
+    {
+      "name": "wearable_label",
+      "value": "手表特性合集"
+    },
+    {
+      "name": "interconnection_communication",
+      "value": "手表互联通信"
+    },
+    {
+      "name": "Watch_sensor",
+      "value": "心率传感器"
+    },
+    {
+      "name": "Watch_sensor_toast",
+      "value": "请前往手表侧应用查看传感器功能"
+    },
+    {
+      "name": "sendMessage",
+      "value": "发送消息"
+    },
+    {
+      "name": "message_input",
+      "value": "请输入向手表发送的消息"
+    },
+    {
+      "name": "message_response",
+      "value": "手表侧收到了手机侧发来的消息"
+    },
+    {
+      "name": "Heart_rate_monitoring",
+      "value": "开启"
+    },
+    {
+      "name": "reason",
+      "value": "心率获取"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "module": {
+    "name": "entry",
+    "type": "entry",
+    "description": "$string:module_desc",
+    "mainElement": "EntryAbility",
+    "deviceTypes": [
+      "phone"
+    ],
+    "deliveryWithInstall": true,
+    "installationFree": false,
+    "pages": "$profile:main_pages",
+    "abilities": [
+      {
+        "name": "EntryAbility",
+        "srcEntry": "./ets/entryability/EntryAbility.ets",
+        "description": "$string:EntryAbility_desc",
+        "icon": "$media:layered_image",
+        "label": "$string:EntryAbility_label",
+        "startWindowIcon": "$media:startIcon",
+        "preferMultiWindowOrientation": "landscape_auto",
+        "startWindowBackground": "$color:start_window_background",
+        "exported": true,
+        // [Start SetAutoRotation]
+        "orientation": "auto_rotation_restricted",
+        // [End SetAutoRotation]
+        // [Start SetBackgroundMode]
+        "backgroundModes": [
+          "audioPlayback"
+        ],
+        // [End SetBackgroundMode]
+        "skills": [
+          {
+            "entities": [
+              "entity.system.home"
+            ],
+            "actions": [
+              "action.system.home"
+            ]
+          }
+        ]
+      }
+    ],
+    // [Start SetPermissions]
+    "requestPermissions": [
+      {
+        "name": "ohos.permission.KEEP_BACKGROUND_RUNNING",
+        "reason": "$string:reason_background",
+        "usedScene": {
+          "abilities": [
+            "EntryAbility"
+          ],
+          "when": "always"
+        }
+      }
+    ],
+    // [End SetPermissions]
+  }
+}

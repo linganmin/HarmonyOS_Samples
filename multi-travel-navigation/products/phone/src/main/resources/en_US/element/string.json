@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiTravelNavigation"
+    },
+    {
+      "name": "FormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "FormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "form_desc",
+      "value": "This is a service widget."
+    },
+    {
+      "name": "form_display_name",
+      "value": "form"
+    },
+    {
+      "name": "reason",
+      "value": "getUserLocation"
+    },
+    {
+      "name": "textInput_holder",
+      "value": "Search for location, address, and bus"
+    },
+    {
+      "name": "drive_form",
+      "value": "drive"
+    },
+    {
+      "name": "metro_form",
+      "value": "metro"
+    },
+    {
+      "name": "taxi_form",
+      "value": "taxi"
+    },
+    {
+      "name": "bus_form",
+      "value": "bus"
+    },
+    {
+      "name": "hotel_form",
+      "value": "hotel"
+    }
+  ]
+}

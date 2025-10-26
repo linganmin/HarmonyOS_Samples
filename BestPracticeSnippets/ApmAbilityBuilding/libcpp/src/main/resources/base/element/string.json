@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "LibcppAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "LibcppAbility_label",
+      "value": "label"
+    }
+  ]
+}

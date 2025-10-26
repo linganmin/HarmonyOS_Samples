@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "软键盘弹出"
+    },
+    {
+      "name": "Address_book",
+      "value": "通讯录"
+    },
+    {
+      "name": "Search_text",
+      "value": "搜索联系人"
+    },
+    {
+      "name": "prompt_text",
+      "value": "暂不支持搜索功能"
+    },
+    {
+      "name": "prompt_text2",
+      "value": "暂不支持发送功能"
+    },
+    {
+      "name": "comment_title",
+      "value": "评论"
+    },
+    {
+      "name": "sign_up",
+      "value": "登录"
+    },
+    {
+      "name": "chat_list",
+      "value": "ChatListPage"
+    },
+    {
+      "name": "mail_page",
+      "value": "MailPage"
+    },
+    {
+      "name": "comment_page",
+      "value": "CommentPage"
+    },
+    {
+      "name": "toast_avoid",
+      "value": "ToastAvoid"
+    },
+    {
+      "name": "new_email",
+      "value": "新建邮件"
+    },
+    {
+      "name": "from",
+      "value": "发件人"
+    },
+    {
+      "name": "to",
+      "value": "收件人"
+    },
+    {
+      "name": "subject",
+      "value": "主题"
+    },
+    {
+      "name": "comment_time",
+      "value": "刚刚"
+    },
+    {
+      "name": "commenter_name",
+      "value": "Suger"
+    }
+  ]
+}

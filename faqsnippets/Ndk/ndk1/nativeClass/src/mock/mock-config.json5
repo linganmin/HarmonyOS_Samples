@@ -1,0 +1,5 @@
+{
+  "libnativeclass.so": {
+    "source": "src/mock/Libnativeclass.mock.ets"
+  }
+}

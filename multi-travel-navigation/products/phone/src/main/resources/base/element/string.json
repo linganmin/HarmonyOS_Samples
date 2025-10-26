@@ -1,0 +1,60 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "MultiTravelNavigation"
+    },
+    {
+      "name": "reason",
+      "value": "getUserLocation"
+    },
+    {
+      "name": "FormAbility_desc",
+      "value": "form_description"
+    },
+    {
+      "name": "FormAbility_label",
+      "value": "form_label"
+    },
+    {
+      "name": "form_desc",
+      "value": "This is a service widget."
+    },
+    {
+      "name": "form_display_name",
+      "value": "form"
+    },
+    {
+      "name": "textInput_holder",
+      "value": "Search for location, address, and bus"
+    },
+    {
+      "name": "drive_form",
+      "value": "驾车"
+    },
+    {
+      "name": "metro_form",
+      "value": "公交地铁"
+    },
+    {
+      "name": "taxi_form",
+      "value": "打车"
+    },
+    {
+      "name": "bus_form",
+      "value": "实时公交"
+    },
+    {
+      "name": "hotel_form",
+      "value": "订酒店"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "strarray": [
+    {
+      "name": "tab_titles",
+      "value": [
+        {
+          "value": "所有"
+        },
+        {
+          "value": "健康"
+        },
+        {
+          "value": "小镇"
+        },
+        {
+          "value": "美食"
+        },
+        {
+          "value": "双人"
+        },
+        {
+          "value": "烟花"
+        }
+      ]
+    }
+  ]
+}

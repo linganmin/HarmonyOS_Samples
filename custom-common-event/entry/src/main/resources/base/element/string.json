@@ -1,0 +1,124 @@
+{
+  "string": [
+    {
+      "name": "entry_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "MainAbility_label",
+      "value": "无他"
+    },
+    {
+      "name": "LauncherAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "LauncherAbility_label",
+      "value": "无他"
+    },
+    {
+      "name": "always",
+      "value": "Always"
+    },
+    {
+      "name": "once",
+      "value": "Only this time"
+    },
+    {
+      "name": "never",
+      "value": "Never"
+    },
+    {
+      "name": "sample_version",
+      "value": "version 0.0.1"
+    },
+    {
+      "name": "sample_desc",
+      "value": "This example demonstrates how to subscribe to and publish common events. Note that this application is released as a system application because it uses the system behavior of releasing sticky events. This feature cannot be used by common third-party applications."
+    },
+    {
+      "name": "once_tips",
+      "value": "The following events take effect only in the current running period:"
+    },
+    {
+      "name": "screen_on_tips",
+      "value": "Do not use your phone. You have turned on the screen."
+    },
+    {
+      "name": "screen_off_tips",
+      "value": "Do not use your phone. You have turned off the screen."
+    },
+    {
+      "name": "wifi_tips",
+      "value": "Do not use your phone. you have connected or disconnected wifi."
+    },
+    {
+      "name": "screen_lock_tips",
+      "value": "Do not use your phone. You have locked the screen."
+    },
+    {
+      "name": "screen_unlock_tips",
+      "value": "Do not use your phone. You have unlocked the screen."
+    },
+    {
+      "name": "total_time_tips",
+      "value": "Monitoring duration:"
+    },
+    {
+      "name": "total_interrupt_tips",
+      "value": "Number of interference times during the monitoring period:"
+    },
+    {
+      "name": "current_listen_tips",
+      "value": "Current listening status:"
+    },
+    {
+      "name": "no_interrupt_tips",
+      "value": "No interference"
+    },
+    {
+      "name": "enable_screen_on",
+      "value": "Indicates whether to record the screen-on event."
+    },
+    {
+      "name": "enable_screen_locked",
+      "value": "Indicates whether to record the screen-lock events."
+    },
+    {
+      "name": "enable_screen_unlocked",
+      "value": "Indicates whether to record the screen-unlock events."
+    },
+    {
+      "name": "enable_screen_off",
+      "value": "Indicates whether to record the screen-off event."
+    },
+    {
+      "name": "enable_wifi",
+      "value": "Indicates whether to record online events."
+    },
+    {
+      "name": "start_time",
+      "value": "Start time:"
+    },
+    {
+      "name": "end_time",
+      "value": "End time:"
+    },
+    {
+      "name": "total_time",
+      "value": "Total time:"
+    },
+    {
+      "name": "total_interrupt",
+      "value": "Total interrupt:"
+    },
+    {
+      "name": "reason_common_event_sticky",
+      "value": "Allow the app to publish sticky public events in common event listening scenarios"
+    }
+  ]
+}

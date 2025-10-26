@@ -1,0 +1,59 @@
+//FAQ:编译打包CPU架构设置
+{
+  "apiType": "stageMode",
+  "buildOption": {
+    // [Start cpu_option]
+    "externalNativeOptions": {
+      "path": "./src/main/cpp/CMakeLists.txt",
+      //CMake configuration file, providing CMake build scripts
+      "arguments": "",
+      //Optional compilation parameters passed to CMake
+      "abiFilters": [
+        "x86_64",
+        "arm64-v8a"
+      ],
+      //Used to set up the local ABI compilation environment
+      "cppFlags": ""
+      //Set optional parameters for the C++compiler
+    },
+    // [End cpu_option]
+  },
+  "buildOptionSet": [
+    {
+      "name": "release",
+      "arkOptions": {
+        "obfuscation": {
+          "ruleOptions": {
+            "enable": false,
+            "files": [
+              "./obfuscation-rules.txt"
+            ]
+          },
+          "consumerFiles": [
+            "./consumer-rules.txt"
+          ]
+        }
+      },
+      //FAQ:打包体积大如何配置优化包体积问题
+      // [Start native_lib_package]
+      "nativeLib": {
+        "debugSymbol": {
+          // This configuration can be used to execute strip on the cpp compiled product so, removing debugging information and symbol tables from so
+          "strip": true,
+          // Execute strip
+          "exclude": []
+          //Execute strip filtering regular expression rules
+        }
+      },
+      // [End native_lib_package]
+    },
+  ],
+  "targets": [
+    {
+      "name": "default"
+    },
+    {
+      "name": "ohosTest"
+    }
+  ]
+}

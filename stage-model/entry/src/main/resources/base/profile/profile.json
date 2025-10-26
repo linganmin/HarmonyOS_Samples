@@ -1,0 +1,10 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/AbilityContextPage",
+    "pages/TestPage",
+    "pages/FormExtContextPage",
+    "pages/AbilityAccessCtrlPage",
+    "pages/WindowPage"
+  ]
+}

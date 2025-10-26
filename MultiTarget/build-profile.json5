@@ -1,0 +1,91 @@
+{
+  "app": {
+    "signingConfigs": [],
+    "products": [
+      {
+        "name": "official",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "targetSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        },
+        "bundleName": "com.official.com",
+        "bundleType": "app",
+        "icon": "$media:startIcon",
+        "label": "$string:official_app_name"
+      },
+      {
+        "name": "test",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "targetSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS",
+        "buildOption": {
+          "strictMode": {
+            "caseSensitiveCheck": true,
+            "useNormalizedOHMUrl": true
+          }
+        },
+        "bundleName": "com.test.com",
+        "bundleType": "app",
+        "icon": "$media:app_icon",
+        "label": "$string:test_app_name"
+      },
+      {
+        "name": "default",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "targetSdkVersion": "5.0.5(17)",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug",
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "official",
+          "applyToProducts": [
+            "official"
+          ]
+        },
+        {
+          "name": "test",
+          "applyToProducts": [
+            "test"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "myhar",
+      "srcPath": "./myhar",
+      "targets": [
+        {
+          "name": "official",
+          "applyToProducts": [
+            "official"
+          ]
+        },
+        {
+          "name": "test",
+          "applyToProducts": [
+            "test"
+          ]
+        }
+      ]
+    }
+  ]
+}

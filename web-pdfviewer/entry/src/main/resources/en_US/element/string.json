@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Web Component Preview PDF File"
+    },
+    {
+      "name": "tab_index_one_title",
+      "value": "Preview Local PDF File"
+    },
+    {
+      "name": "tab_index_two_title",
+      "value": "Preview Network PDF Files"
+    },
+    {
+      "name": "reason_internet",
+      "value": "Used for previewing network PDF files."
+    }
+  ]
+}

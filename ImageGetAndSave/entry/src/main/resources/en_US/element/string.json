@@ -1,0 +1,96 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Get and save image"
+    },
+    {
+      "name": "title",
+      "value": "Obtaining and Saving an Image"
+    },
+    {
+      "name": "get_image",
+      "value": "Get image"
+    },
+    {
+      "name": "get_image_info",
+      "value": "Get image info"
+    },
+    {
+      "name": "get_pixel_map",
+      "value": "Get pixel map"
+    },
+    {
+      "name": "save_image",
+      "value": "Save image"
+    },
+    {
+      "name": "get_image_from_component",
+      "value": "Get image from component"
+    },
+    {
+      "name": "title_get_image_from_component",
+      "value": "Get image from component"
+    },
+    {
+      "name": "confirm",
+      "value": "confirm"
+    },
+    {
+      "name": "get_image_from_photo_picker",
+      "value": "Get image from photo picker"
+    },
+    {
+      "name": "get_image_from_camera_picker",
+      "value": "Get image from camera picker"
+    },
+    {
+      "name": "get_image_from_document_picker",
+      "value": "Get image from document picker"
+    },
+    {
+      "name": "save_image_in_sandbox",
+      "value": "Save image in sandbox"
+    },
+    {
+      "name": "document_alert",
+      "value": "No image is choosen, please choose again!"
+    },
+    {
+      "name": "no_image_alert",
+      "value": "Please get a image first!"
+    },
+    {
+      "name": "no_image_info_alert",
+      "value": "Please get image info first!"
+    },
+    {
+      "name": "no_pixel_map_alert",
+      "value": "Please get pixel map first!"
+    },
+    {
+      "name": "get_image_info_success",
+      "value": "Get image info successful, read it in log!"
+    },
+    {
+      "name": "get_pixel_map_success",
+      "value": "Get pixel map successful!"
+    },
+    {
+      "name": "save_in_sandbox_success",
+      "value": "Image has saved in sandbox!"
+    },
+    {
+      "name": "save_in_gallery_success",
+      "value": "Image has saved in gallery!"
+    }
+  ]
+}

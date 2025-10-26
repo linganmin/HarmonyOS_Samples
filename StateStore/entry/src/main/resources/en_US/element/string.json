@@ -1,0 +1,88 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "StateStore"
+    },
+    {
+      "name": "today",
+      "value": "today"
+    },
+    {
+      "name": "completed",
+      "value": "completed"
+    },
+    {
+      "name": "clear_completed",
+      "value": "clear completed"
+    },
+    {
+      "name": "page_title",
+      "value": "Today's to-do list"
+    },
+    {
+      "name": "to_do_num",
+      "value": "%d to do"
+    },
+    {
+      "name": "to_do_task",
+      "value": "to do task"
+    },
+    {
+      "name": "closeTips",
+      "value": "Save the current changes?"
+    },
+    {
+      "name": "dialog_not_save",
+      "value": "cancel"
+    },
+    {
+      "name": "dialog_save",
+      "value": "save"
+    },
+    {
+      "name": "deleteTips",
+      "value": "Delete the %d todo tasks?"
+    },
+    {
+      "name": "deleteCurrentTips",
+      "value": "Delete the current todo tasks?"
+    },
+    {
+      "name": "dialog_delete",
+      "value": "delete"
+    },
+    {
+      "name": "dialog_cancel",
+      "value": "cancel"
+    },
+    {
+      "name": "sheet_title",
+      "value": "New to do tasks"
+    },
+    {
+      "name": "empty",
+      "value": "content cannot be empty"
+    },
+    {
+      "name": "syncing",
+      "value": "Data syncing..."
+    },
+    {
+      "name": "finished",
+      "value": "finished"
+    },
+    {
+      "name": "synced",
+      "value": "synchronized data completion"
+    }
+  ]
+}

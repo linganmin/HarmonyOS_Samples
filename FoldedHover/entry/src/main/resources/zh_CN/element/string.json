@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "折叠屏悬停态"
+    },
+    {
+      "name": "FoldStackComponent",
+      "value": "使用FolderStack组件"
+    },
+    {
+      "name": "FoldSplitContainerComponent",
+      "value": "使用FoldSplitContainer组件"
+    },
+    {
+      "name": "CustomComponent",
+      "value": "使用自定义组件"
+    },
+    {
+      "name": "selections",
+      "value": "选集"
+    },
+    {
+      "name": "super",
+      "value": "超清"
+    },
+    {
+      "name": "speed",
+      "value": "倍速"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "UseTaskPool"
+    },
+    {
+      "name": "priorityTask",
+      "value": "Priority Task Demo"
+    },
+    {
+      "name": "PeriodicTask",
+      "value": "Periodic Task Demo"
+    },
+    {
+      "name": "DelayedTask",
+      "value": "Delayed Task Demo"
+    },
+    {
+      "name": "LongTask",
+      "value": "Long Task Demo"
+    },
+    {
+      "name": "DependentTask",
+      "value": "Dependent Task Demo"
+    },
+    {
+      "name": "TaskGroup",
+      "value": "TaskGroup Demo"
+    },
+    {
+      "name": "SequenceRunner",
+      "value": "SequenceRunner Demo"
+    },
+    {
+      "name": "ThreadCommunication",
+      "value": "Thread Communication Demo"
+    },
+    {
+      "name": "ButtonCreate",
+      "value": "Create Tasks"
+    },
+    {
+      "name": "ButtonExe",
+      "value": "Execute Tasks"
+    },
+    {
+      "name": "ButtonCancel",
+      "value": "Cancel Tasks"
+    },
+    {
+      "name": "TaskPoolToMain",
+      "value": "TaskPool communicate with main thread"
+    },
+    {
+      "name": "WorkerToMain",
+      "value": "Worker communicate with main thread"
+    },
+    {
+      "name": "TaskPoolToWorker",
+      "value": "TaskPool communicate with Worker"
+    },
+    {
+      "name": "RunInfo",
+      "value": "Running information"
+    },
+    {
+      "name": "ThreadInfo",
+      "value": "TaskPool thread information"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+/*
+ * Copyright (c) 2025 Huawei Device Co., Ltd.
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+
+.recommends {
+  width: 100%;
+  padding: 0 var(--app-padding);
+  box-sizing: border-box;
+  display: grid;
+  row-gap: 12px;
+  place-items: center;
+  column-gap: 16px;
+}
+.recommends-item {
+  width: 100%;
+  overflow: hidden;
+}
+.recommends-item img {
+  width: 100%;
+  object-fit: cover;
+}
+.recommends-item .first-line {
+  width: 52%;
+  border-radius: 8px;
+  height: 16px;
+  margin: 10px 0 6px 0;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+.recommends-item .second-line {
+  width: 100%;
+  border-radius: 7px;
+  height: 14px;
+  background-color: rgba(0, 0, 0, 0.05);
+}
+.subtitle {
+  width: 280px;
+  height: 48px;
+  color: rgb(24, 36, 49);
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 48px;
+  padding: 0 var(--app-padding);
+  margin-top: 8px;
+  font-family: 鸿蒙黑体;
+}
+
+@media (320px<=width<600px) {
+  .recommends {
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 12px;
+  }
+}
+@media (600px<=width<840px) {
+  .recommends {
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 12px;
+  }
+}
+@media (width>=840px) {
+  .recommends {
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 16px;
+  }
+}

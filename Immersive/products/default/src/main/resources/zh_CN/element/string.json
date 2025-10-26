@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "沉浸式页面开发"
+    },
+    {
+      "name": "title",
+      "value": "沉浸式页面开发"
+    },
+    {
+      "name": "router_title_expand",
+      "value": "扩展组件安全区域"
+    },
+    {
+      "name": "router_title_fullscreen",
+      "value": "使用窗口全屏模式"
+    },
+    {
+      "name": "router_title_shopping",
+      "value": "商城案例"
+    },
+    {
+      "name": "router_title_music",
+      "value": "深色背景下状态栏颜色适配"
+    },
+    {
+      "name": "router_title_video",
+      "value": "隐藏状态烂和导航条"
+    },
+    {
+      "name": "router_title_shopping_fullscreen",
+      "value": "避让状态烂和导航条"
+    },
+    {
+      "name": "router_title_game",
+      "value": "避让挖孔和刘海"
+    }
+  ]
+}

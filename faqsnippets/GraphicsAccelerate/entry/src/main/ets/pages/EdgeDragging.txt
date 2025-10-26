@@ -1,0 +1,32 @@
+/*
+* FAQ:开启超帧外插模式后运动物体边缘出现严重拖影现象，可能的原因是什么？
+ */
+// [Start EdgeDragging]
+Shader "Standard_with_stencil"
+{
+    Properties
+    {
+        /* ... */
+        _LightingStencilRef("Lighting Stencil Reference", Float) = 128 // 将动态物体材质模板值改为1xxx xxxx，消除头身分离现象
+        [Enum(UnityEngine.Rendering.CompareFunction)] _LightingStencilComp("Lighting Stencil Comparison", Float) = 8
+        _StencilReadMask("Stencil Read Mask", Float) = 255
+        _StencilWriteMask("Stencil Write Mask", Float) = 255
+    }
+    SubShader
+    {
+        /* ... */
+        Pass
+        {
+            /* ... */
+            Stencil
+            {
+                Ref[_LightingStencilRef]
+                Comp[_LightingStencilComp]
+                ReadMask[_StencilReadMask]
+                WriteMask[_StencilWriteMask]
+                Pass Replace
+            }
+        }
+    }
+}
+// [End EdgeDragging]

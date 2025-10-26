@@ -1,0 +1,28 @@
+{
+  "routerMap": [
+    {
+      "name": "MainPage",
+      "pageSourceFile": "src/main/ets/pages/MainPage.ets",
+      "buildFunction": "MainPageBuilder",
+      "data": {
+        "description": "this is MainPage"
+      }
+    },
+    {
+      "name": "PasswordSelectionPage",
+      "pageSourceFile": "src/main/ets/pages/PasswordSelectionPage.ets",
+      "buildFunction": "PasswordSelectionPageBuilder",
+      "data": {
+        "description": "this is PasswordSelectionPage"
+      }
+    },
+    {
+      "name": "TradingPage",
+      "pageSourceFile": "src/main/ets/pages/TradingPage.ets",
+      "buildFunction": "TradingPageBuilder",
+      "data": {
+        "description": "this is TradingPage"
+      }
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "DataCacheSample"
+    },
+    {
+      "name": "pull_down_refresh_text",
+      "value": "下拉刷新"
+    },
+    {
+      "name": "release_refresh_text",
+      "value": "松开刷新"
+    },
+    {
+      "name": "refreshing_text",
+      "value": "正在刷新"
+    },
+    {
+      "name": "refresh_success_text",
+      "value": "刷新成功"
+    },
+    {
+      "name": "refresh_fail_text",
+      "value": "刷新失败"
+    },
+    {
+      "name": "pull_up_load_text",
+      "value": "加载中..."
+    },
+    {
+      "name": "page_none_msg",
+      "value": "网络加载失败"
+    },
+    {
+      "name": "prompt_message",
+      "value": "没有更多数据了"
+    },
+    {
+      "name": "clear_success",
+      "value": "缓存清除成功"
+    },
+    {
+      "name": "clear",
+      "value": "清除"
+    },
+    {
+      "name": "homepage",
+      "value": "首页"
+    },
+    {
+      "name": "recommendation",
+      "value": "推荐"
+    },
+    {
+      "name": "fileName",
+      "value": "newsData"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "允许应用在冷启动场景获取数据网络信息"
+    },
+    {
+      "name": "reason_internet",
+      "value": "允许应用在冷启动场景使用Internet网络"
+    }
+  ]
+}

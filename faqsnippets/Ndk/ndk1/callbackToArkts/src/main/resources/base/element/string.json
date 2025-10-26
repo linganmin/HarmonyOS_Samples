@@ -1,0 +1,16 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "CallbackToArktsAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "CallbackToArktsAbility_label",
+      "value": "label"
+    }
+  ]
+}

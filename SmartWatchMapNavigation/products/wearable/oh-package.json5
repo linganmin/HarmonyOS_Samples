@@ -1,0 +1,14 @@
+{
+  "name": "wearable",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "communication": 'file:../../commons/Communication',
+    "map": 'file:../../commons/map',
+    "vibrator" : 'file:../../commons/vibrator'
+  }
+}
+

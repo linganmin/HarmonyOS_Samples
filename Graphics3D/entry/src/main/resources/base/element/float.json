@@ -1,0 +1,24 @@
+{
+  "float": [
+    {
+      "name": "page_padding_left",
+      "value": "16vp"
+    },
+    {
+      "name": "text_font_size",
+      "value": "16fp"
+    },
+    {
+      "name": "board_radius_normal",
+      "value": "12vp"
+    },
+    {
+      "name": "text_area_padding",
+      "value": "12vp"
+    },
+    {
+      "name": "slider_height",
+      "value": "40vp"
+    }
+  ]
+}

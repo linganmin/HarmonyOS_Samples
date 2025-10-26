@@ -1,0 +1,27 @@
+{
+  "strarray": [
+    {
+      "name": "available_things",
+      "value": [
+        {
+          "value": "读书"
+        },
+        {
+          "value": "运动"
+        },
+        {
+          "value": "旅游"
+        },
+        {
+          "value": "听音乐"
+        },
+        {
+          "value": "看电影"
+        },
+        {
+          "value": "唱歌"
+        }
+      ]
+    }
+  ]
+}

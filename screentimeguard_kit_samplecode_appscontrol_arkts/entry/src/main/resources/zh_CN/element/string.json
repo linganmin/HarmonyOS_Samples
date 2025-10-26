@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "app_desc",
+      "value": "家长控制Demo"
+    },
+    {
+      "name": "parent_control_demo",
+      "value": "家长控制 Demo"
+    },
+    {
+      "name": "app_restrict_title",
+      "value": "设置限制App名单"
+    },
+    {
+      "name": "guard_strategy_title",
+      "value": "管控策略"
+    },
+    {
+      "name": "effective_immediately_title",
+      "value": "立即生效"
+    },
+    {
+      "name": "strategy_repeat_title",
+      "value": "重复每日"
+    },
+    {
+      "name": "selected_apps_desc",
+      "value": "已选择 %d 个应用"
+    },
+    {
+      "name": "start_title",
+      "value": "开始"
+    },
+    {
+      "name": "delete_title",
+      "value": "结束"
+    },
+    {
+      "name": "control_set_success_desc",
+      "value": "设置管控成功"
+    },
+    {
+      "name": "control_cancel_success_desc",
+      "value": "已取消管控"
+    }
+  ]
+}

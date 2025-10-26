@@ -1,0 +1,6 @@
+{
+  "name": "@types/libtetrahedron_napi.so",
+  "types": "./tetrahedron_napi.d.ts",
+  "version": "1.0.0",
+  "description": "Please describe the basic information."
+}

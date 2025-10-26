@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "MyApplication"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "fido2 demo"
+    }
+  ]
+}

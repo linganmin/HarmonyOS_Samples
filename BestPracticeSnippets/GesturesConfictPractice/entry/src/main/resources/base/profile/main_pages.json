@@ -1,0 +1,15 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/GesturesConflictScene1",
+    "pages/GesturesConflictScene2",
+    "pages/GesturesConflictScene3",
+    "pages/GesturesConflictScene4",
+    "pages/GesturesConflictScene5",
+    "pages/GesturesConflictScene6",
+    "pages/GesturesConflictScene7",
+    "pages/GesturesConflictScene2A",
+    "pages/GesturesConflictScene3A",
+    "pages/WebScrollDemo"
+  ]
+}

@@ -1,0 +1,63 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8">
+<body>
+<p>Hello world!</p>
+<button style="width: 200px; height: 100px;" onclick="xhrTest()">request</button>
+<button style="width: 200px; height: 100px;" onclick="request_100_times(0)">request_100_times_0_interval</button>
+<button style="width: 200px; height: 100px;" onclick="request_100_times(20)">request_100_times_20ms_interval</button>
+
+<script type="text/javascript">
+  var avgCost = 0;
+  let startTime = 0;
+  let endTime = 0;
+function xhrTest() {
+  console.log('williamETS start to get');
+  performance.mark('start_someFunction');
+  const xhr = new XMLHttpRequest();
+  fetch
+  xhr.open('GET', 'http://bridge', false);
+  xhr.onreadystatechange = function() {
+    if (xhr.readyState === XMLHttpRequest.DONE) {
+      if (xhr.status === 200) {
+        performance.mark('end_someFunction');
+        performance.measure('measure_someFunction', 'start_someFunction', 'end_someFunction');
+        const measures = performance.getEntriesByName('measure_someFunction');
+        if (measures.length > 0) {
+          const measure = measures[0];
+          avgCost += measure.duration;
+          console.log('william someFunction took ' + measure.duration + '            ms to execute.');
+<!--          console.log('xhr.response=' + xhr.response);-->
+          console.log('xhr.response.length=' + xhr.response.length);
+        } else {
+          console.log('No measures found with the name measure_someFunction.');
+        }
+        performance.clearMarks();
+        performance.clearMeasures();
+      } else {
+        console.error('请求失败，状态码：' + xhr.status);
+      }
+    }
+  };
+  xhr.send();
+};
+var count = 0;
+function request_100_times(interval_time) {
+    count = 0;
+    avgCost = 0;
+    const intervalId = setInterval(() => {
+        if (count >= 100) {
+            clearInterval(intervalId);
+            avgCost /= 100;
+            console.log('william someFunction took avgCost=' + avgCost + 'ms to execute.');
+        } else {
+            xhrTest();
+            count++;
+        }
+    }, interval_time);
+};
+
+</script>
+</body>
+</html>

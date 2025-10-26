@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "穿戴设备上的音乐应用"
+    },
+    {
+      "name": "permission_reason",
+      "value": "后台播放音乐"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ListOptimization"
+    },
+    {
+      "name": "foreach",
+      "value": "ForEach"
+    },
+    {
+      "name": "lazy_foreach",
+      "value": "LazyForEach"
+    },
+    {
+      "name": "tab_discover",
+      "value": "探索"
+    },
+    {
+      "name": "tab_learning",
+      "value": "学习"
+    },
+    {
+      "name": "tab_challenge",
+      "value": "溪村挑战赛"
+    },
+    {
+      "name": "tab_activity",
+      "value": "活动"
+    },
+    {
+      "name": "tab_mine",
+      "value": "我的"
+    },
+    {
+      "name": "reusable_article_cardView_title",
+      "value":"差异化构建打包，提升多版本应用开发效率"
+    },
+    {
+      "name": "reusable_article_cardView_content",
+      "value":"差异化构建打包，在面对多场景开发时开发者经常使用"
+    }
+  ]
+}

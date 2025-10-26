@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "NativeSub_MainThreadComm"
+    },
+    {
+      "name": "result_description",
+      "value": "Value calculation result:"
+    },
+    {
+      "name": "title_description",
+      "value": "Communication Between The Child Thread On The Native Side And The UI Main Thread"
+    },
+    {
+      "name": "threadSafe_Case",
+      "value": "Call in a thread-safe function way"
+    },
+    {
+      "name": "libUV_Case",
+      "value": "Call in the way of LibUV asynchronous library"
+    },
+    {
+      "name": "threadSafe_message",
+      "value": "Perform the operation of adding 30 in a thread-safe function way"
+    },
+    {
+      "name": "libUV_message",
+      "value": "Perform the operation of adding 30 in the way of LibUV asynchronous library"
+    }
+  ]
+}

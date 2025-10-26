@@ -1,0 +1,44 @@
+{
+  "routerMap": [
+    {
+      "name": "AdvancedControlsDemo",
+      "pageSourceFile": "src/main/ets/pages/AdvancedControlsDemo.ets",
+      "buildFunction": "AdvancedControlsDemoBuilder",
+      "data": {
+        "description" : "this is AdvancedControlsDemo"
+      }
+    },
+    {
+      "name": "MapControllerDemo",
+      "pageSourceFile": "src/main/ets/pages/MapControllerDemo.ets",
+      "buildFunction": "MapControllerDemoBuilder",
+      "data": {
+        "description" : "this is MapControllerDemo"
+      }
+    },
+    {
+      "name": "NaviDemo",
+      "pageSourceFile": "src/main/ets/pages/NaviDemo.ets",
+      "buildFunction": "NaviDemoBuilder",
+      "data": {
+        "description" : "this is NaviDemo"
+      }
+    },
+    {
+      "name": "OverlayDemo",
+      "pageSourceFile": "src/main/ets/pages/OverlayDemo.ets",
+      "buildFunction": "OverlayDemoBuilder",
+      "data": {
+        "description" : "this is OverlayDemo"
+      }
+    },
+    {
+      "name": "StaticMapDemo",
+      "pageSourceFile": "src/main/ets/pages/StaticMapDemo.ets",
+      "buildFunction": "StaticMapDemoBuilder",
+      "data": {
+        "description" : "this is StaticMapDemo"
+      }
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "ShortVideoChange"
+    },
+    {
+      "name": "focus",
+      "value": "Focus"
+    },
+    {
+      "name": "featured",
+      "value": "Featured"
+    },
+    {
+      "name": "recommend",
+      "value": "Recommend"
+    },
+    {
+      "name": "movie_room",
+      "value": "Movie Room"
+    },
+    {
+      "name": "name_one",
+      "value": "@Cat"
+    },
+    {
+      "name": "description_one",
+      "value": "On the other side of the sea, ......"
+    },
+    {
+      "name": "name_two",
+      "value": "@Mountaineer"
+    },
+    {
+      "name": "description_two",
+      "value": "#Mountain"
+    },
+    {
+      "name": "name_three",
+      "value": "@insipid"
+    },
+    {
+      "name": "description_three",
+      "value": "Life is not only about what is in front of you, but also about poetry and distance"
+    },
+    {
+      "name": "share",
+      "value": "share"
+    },
+    {
+      "name": "upgrade_hot",
+      "value": "upgrade_hot"
+    },
+    {
+      "name": "concern",
+      "value": "980,000 people are watching"
+    },
+    {
+      "name": "online_people",
+      "value": "980,000 people are watching"
+    },
+    {
+      "name": "hotspot_one",
+      "value": "sea"
+    },
+    {
+      "name": "hotspot_two",
+      "value": "The distance of the snow"
+    },
+    {
+      "name": "hotspot_three",
+      "value": "sunrise"
+    }
+  ]
+}

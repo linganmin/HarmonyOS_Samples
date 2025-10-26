@@ -1,0 +1,64 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "多线程IO读写"
+    },
+    {
+      "name": "title",
+      "value": "多线程操作密集型关系型数据库和文件读写"
+    },
+    {
+      "name": "button_name_1",
+      "value": "TaskPool 文件-写入"
+    },
+    {
+      "name": "button_name_2",
+      "value": "TaskPool 文件-读取"
+    },
+    {
+      "name": "button_name_3",
+      "value": "@Sendable 文件-写入"
+    },
+    {
+      "name": "button_name_4",
+      "value": "@Sendable 文件-读取"
+    },
+    {
+      "name": "button_name_5",
+      "value": "TaskPool 数据库-写入"
+    },
+    {
+      "name": "button_name_6",
+      "value": "TaskPool 数据库-读取"
+    },
+    {
+      "name": "button_name_7",
+      "value": "@Sendable 数据库-写入"
+    },
+    {
+      "name": "button_name_8",
+      "value": "@Sendable 数据库-读取"
+    },
+    {
+      "name": "remind",
+      "value": "在执行任务，请稍后"
+    },
+    {
+      "name": "success_remind",
+      "value": "成功"
+    },
+    {
+      "name": "empty_remind",
+      "value": "读取内容为空，请写入"
+    }
+  ]
+}

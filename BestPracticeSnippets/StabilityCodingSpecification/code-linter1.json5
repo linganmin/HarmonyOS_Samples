@@ -1,0 +1,52 @@
+{
+  "files":   //A glob pattern array used to represent the file range applicable to the configuration. Apply default configuration without specification
+  [
+    "**/*.js", //STRING
+    "**/*.ts"
+  ],
+  "ignore":  //A glob pattern array representing files that the configuration object should not be applicable to. If not specified, the configuration object will apply to all files matched by files
+  [
+    "build/**/*",    //STRING
+    "node_modules/**/*"
+  ],
+  "ruleSet":       //Set the rule set for checking to be applied
+  [
+    "plugin:@typescript-eslint/recommended"    //Quick batch import rule set, enumeration type：plugin:@typescript-eslint/all, plugin:@typescript-eslint/recommended, plugin:@cross-device-app-dev/all, plugin:@cross-device-app-dev/recommended等
+  ],
+  "rules":         //Specific rules in the rule set configured by ruleSet can be modified, disabled, or added outside of the rule set; RuleSet and rules jointly determine the rules applied for code checking
+  {
+    "@typescript-eslint/no-explicit-any":  // When ruleId is followed by an array, the first element is the alarm level, and the following object elements are rule specific switch configurations
+    [
+      "error",              //Alarm level: enumeration type, supports configuration as suggestion, error, warn, off
+      {
+        "ignoreRestArgs": true   //Specific switch configurations for rules are optional, and different rules have different configuration items at the lower level
+      }
+    ],
+    "@typescript-eslint/explicit-function-return-type": 2,   // When ruleId is followed by a single number, it indicates that only the alarm level is set. The enumeration values are: 3 (suggestion), 2 (error), 1 (warn), 0 (off)
+    "@typescript-eslint/no-unsafe-return": "warn"            // When ruleId is followed by a separate string, it indicates that only the alarm level is set, and the enumeration values are: suggestion, error, warn, off
+  },
+  "overrides":      //Customize rule configuration for specific directories or files
+  [
+    {
+      "files":   //Specify the files or directories that require customized configuration rules
+      [
+        "entry/**/*.ts"   //STRING
+      ],
+      "excluded":
+      [
+        "entry/**/*.test.js" //Specify the directories or files that need to be excluded, and the excluded directories or files will not be checked according to customized rule configurations; STRING
+      ],
+      "rules":   //Support modifying, disabling, or adding rules for public configurations outside of overlaps; This configuration will override the public configuration
+      {
+        "@typescript-eslint/explicit-function-return-type":  // ruleId: Enumeration type
+        [
+          "warn",     //Alarm level: enumeration type, supports configuration as error, warn, off; Covering public configuration, explicit function return type alarm level is warm
+          {
+            allowExpressions: true    //Specific switch configurations for rules are optional, and different rules have different configuration items at the lower level
+          }
+        ],
+        "@typescript-eslint/no-unsafe-return": "off"   // Covering public configurations without checking the no unsafe return rule
+      }
+    }
+  ]
+}

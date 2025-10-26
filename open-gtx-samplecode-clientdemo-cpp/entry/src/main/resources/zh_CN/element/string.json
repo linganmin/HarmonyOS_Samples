@@ -1,0 +1,28 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "OpenGtx Samples"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "OpenGtx Samples"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "OpenGTX"
+    },
+    {
+      "name": "title",
+      "value": "OpenGtx Samples"
+    },
+    {
+      "name": "OpenGtx_enabled",
+      "value": "OpenGtx开启"
+    },
+    {
+      "name": "OpenGtx_disabled",
+      "value": "OpenGtx关闭"
+    }
+  ]
+}

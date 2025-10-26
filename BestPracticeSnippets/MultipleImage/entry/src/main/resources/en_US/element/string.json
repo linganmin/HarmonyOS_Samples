@@ -1,0 +1,56 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Multiple Images"
+    },
+    {
+      "name": "cute_pet",
+      "value": "@Cute Pet"
+    },
+    {
+      "name": "dots",
+      "value": "·"
+    },
+    {
+      "name": "date",
+      "value": "08-14"
+    },
+    {
+      "name": "pets",
+      "value": "#Pets"
+    },
+    {
+      "name": "dog",
+      "value": "#Dog"
+    },
+    {
+      "name": "spoiled",
+      "value": "#Spoiled"
+    },
+    {
+      "name": "placeholder",
+      "value": "Commentary"
+    },
+    {
+      "name": "collection",
+      "value": "12"
+    },
+    {
+      "name": "Comments",
+      "value": "Comments"
+    },
+    {
+      "name": "share",
+      "value": "5"
+    }
+  ]
+}

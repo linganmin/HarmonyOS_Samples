@@ -1,0 +1,200 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": " "
+    },
+    {
+      "name": "location_desc",
+      "value": "允许应用在地图场景中获取设备位置信息"
+    },
+    {
+      "name": "approximately_location_desc",
+      "value": "允许应用在地图场景中获取设备模糊位置信息"
+    },
+    {
+      "name": "location_in_background",
+      "value": "允许应用在地图场景中后台获取位置信息"
+    },
+    {
+      "name": "reason_internet",
+      "value": "允许应用在地图场景中使用Internet网络"
+    },
+    {
+      "name": "reason_camera",
+      "value": "允许应用在扫码场景中使用相机"
+    },
+    {
+      "name": "reason_get_network_info",
+      "value": "允许应用在地图场景中获取网络信息"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "骑行体验"
+    },
+    {
+      "name": "navigation_title",
+      "value": "单车"
+    },
+    {
+      "name": "index_find_image_width",
+      "value": "92%"
+    },
+    {
+      "name": "index_find_image_height",
+      "value": "15%"
+    },
+    {
+      "name": "index_find_image_height_second",
+      "value": "23%"
+    },
+    {
+      "name": "index_button_height",
+      "value": "18%"
+    },
+    {
+      "name": "index_map_height",
+      "value": "25%"
+    },
+    {
+      "name": "find_image_row_width",
+      "value": "90%"
+    },
+    {
+      "name": "find_column_height",
+      "value": "25%"
+    },
+    {
+      "name": "pay_column_height",
+      "value": "35%"
+    },
+    {
+      "name": "riding_text_second",
+      "value": "还车"
+    },
+    {
+      "name": "riding_text",
+      "value": "骑行中"
+    },
+    {
+      "name": "completed_text_second",
+      "value": "2024-05-10 08:01:47"
+    },
+    {
+      "name": "completed_text",
+      "value": "已支付1.5元"
+    },
+    {
+      "name": "completed_title",
+      "value": "已支付"
+    },
+    {
+      "name": "pay_title",
+      "value": "行程详情"
+    },
+    {
+      "name": "pay_text_ninth",
+      "value": "立刻支付"
+    },
+    {
+      "name": "pay_text_eighth",
+      "value": "元"
+    },
+    {
+      "name": "pay_text_seventh",
+      "value": "1.5"
+    },
+    {
+      "name": "pay_text_sixth",
+      "value": "展开详情"
+    },
+    {
+      "name": "pay_text_fifth",
+      "value": "1.5元"
+    },
+    {
+      "name": "pay_text_fourth",
+      "value": "(骑行时长10分钟)"
+    },
+    {
+      "name": "pay_text_third",
+      "value": "骑行费"
+    },
+    {
+      "name": "pay_text_time",
+      "value": "2024-05-10 08:01:47"
+    },
+    {
+      "name": "pay_text",
+      "value": "待支付订单"
+    },
+    {
+      "name": "find_text_second",
+      "value": "15分钟内1.5元"
+    },
+    {
+      "name": "find_text",
+      "value": "骑行1.5元起"
+    },
+    {
+      "name": "find_scan",
+      "value": "扫码用车"
+    },
+    {
+      "name": "index_fix",
+      "value": "发现坏车"
+    },
+    {
+      "name": "index_redbag",
+      "value": "红包车"
+    },
+    {
+      "name": "index_cheap",
+      "value": "特惠购卡"
+    },
+    {
+      "name": "index_park",
+      "value": "搜停车点"
+    },
+    {
+      "name": "index_find_bike",
+      "value": "地图找车"
+    },
+    {
+      "name": "index_use_bike",
+      "value": "扫码用车"
+    },
+    {
+      "name": "unlock_button",
+      "value": "确认开锁"
+    },
+    {
+      "name": "rule",
+      "value": "计费规则"
+    },
+    {
+      "name": "terms",
+      "value": "当前城市单车服务价格为:法定节假日:起步价:1.8元(含15分钟)时长费:1.0元/15分钟其他时段:起步价:1.5元(含15分钟)时长费:1.0元/15分钟计"
+    },
+    {
+      "name": "service_alerts",
+      "value": "服务提醒"
+    },
+    {
+      "name": "ridding_text_third",
+      "value": "预计费用"
+    },
+    {
+      "name": "ridding_text",
+      "value": "时长"
+    },
+    {
+      "name": "default_view_riding_time",
+      "value": "骑行时长01:21"
+    }
+  ]
+}
