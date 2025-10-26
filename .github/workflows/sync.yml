@@ -424,7 +424,7 @@ jobs:
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/natural-language-kit-sample-code-client-demo-arkts.git &
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/wallet-kit-for-harmony-os_demo.git &
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/wallet-kit-sample-code-severdemo-nfc-java.git &
-          
+
           wait
       - name: Commit and Push
         run: |
@@ -445,7 +445,7 @@ jobs:
             fi
             # 移动内容到 GitHub 仓库根目录
             if [ -d "$dir" ]; then
-              mv "$dir" ./
+              rm -rf target_dir && mv source_dir ./
             fi
           done
           rm -rf repos                   # 清理临时目录
