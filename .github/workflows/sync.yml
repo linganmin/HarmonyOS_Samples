@@ -451,5 +451,5 @@ jobs:
           git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | \
           awk '$1=="blob" {print $3 "\t" $4}' | \
           sort -nr | \
-          numfmt --to=iec | head -n 20
-#           git push
+          numfmt --to=iec | head -n 100
+          git push
