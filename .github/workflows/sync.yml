@@ -427,8 +427,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          rsync -av --delete --ignore-missing-args repos/ ./ || [[ $? -eq 24 ]]
-          wait
+          # 删除每个子目录下的 .git
+          for dir in repos/*; do
+            if [ -d "$dir/.git" ]; then
+              rm -rf "$dir/.git"
+            fi
+            mv "$dir" ./
+          done
           rm -rf repos                   # 清理临时目录
           git add .
           git commit -m "🔄 Auto sync from Gitee on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
