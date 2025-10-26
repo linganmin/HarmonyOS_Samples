@@ -427,14 +427,37 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          # 删除每个子目录下的 .git
+
+          # 安装 Git LFS
+          sudo apt-get update
+          sudo apt-get install -y git-lfs
+          git lfs install
+
+          # 遍历每个子目录
           for dir in repos/*; do
+            # 拉取 LFS 对象
+            if [ -f "$dir/.gitattributes" ]; then
+              cd "$dir"
+              git lfs pull || echo "No LFS objects for $dir"
+              cd ..
+            fi
+
+            # 删除子目录的 .git
             if [ -d "$dir/.git" ]; then
               rm -rf "$dir/.git"
             fi
+
+            # 移动内容到 GitHub 仓库根目录
             mv "$dir" ./
           done
-          rm -rf repos                   # 清理临时目录
+
+          # 清理临时目录
+          rm -rf repos
+
+          # 提交并 push
           git add .
           git commit -m "🔄 Auto sync from Gitee on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
+
+          # 允许 push 时缺失 LFS 对象（防止 exit code 1）
+#           git config lfs.allowincompletepush true
           git push
