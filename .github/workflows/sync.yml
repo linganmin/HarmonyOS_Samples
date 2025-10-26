@@ -18,9 +18,6 @@ jobs:
 
       - name: Clone Gitee repo(s)
         run: |
-          rm -rf repos
-          mkdir repos
-          cd repos
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/VideoCast.git &
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/audio-interaction.git &
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/knock-share.git &
@@ -431,10 +428,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # 遍历每个子目录
-          for dir in repos/*; do
-            name=$(basename "$dir")
+          for dir in *; do
             echo "Processing $dir"
-            echo "Processing $name"
             # 拉取 LFS 对象
             if [ -f "$dir/.gitattributes" ]; then
               cd "$dir"
@@ -445,12 +440,7 @@ jobs:
             if [ -d "$dir/.git" ]; then
               rm -rf "$dir/.git"
             fi
-            # 移动内容到 GitHub 仓库根目录
-            if [ -d "$dir" ]; then
-              rm -rf $name &&  mv $dir ./
-            fi
           done
-          rm -rf repos                   # 清理临时目录
           git add .
           git commit -m "🔄 Auto sync from Gitee on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
