@@ -18,6 +18,8 @@ jobs:
 
       - name: Clone Gitee repo(s)
         run: |
+          mkdir repos
+          cd repos
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/VideoCast.git &
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/audio-interaction.git &
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/knock-share.git &
@@ -425,6 +427,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          rsync -av --delete repos/ ../
+          cd ..
           git add .
           git commit -m "🔄 Auto sync from Gitee on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
