@@ -432,7 +432,9 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           # 遍历每个子目录
           for dir in repos/*; do
+            name=$(basename "$dir")
             echo "Processing $dir"
+            echo "Processing $name"
             # 拉取 LFS 对象
             if [ -f "$dir/.gitattributes" ]; then
               cd "$dir"
@@ -445,7 +447,7 @@ jobs:
             fi
             # 移动内容到 GitHub 仓库根目录
             if [ -d "$dir" ]; then
-              rm -rf $dir && mv $dir ./
+              rm -rf $name &&  mv $dir ./
             fi
           done
           rm -rf repos                   # 清理临时目录
