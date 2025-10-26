@@ -18,6 +18,7 @@ jobs:
 
       - name: Clone Gitee repo(s)
         run: |
+          rm -rf repos
           mkdir repos
           cd repos
           git clone --depth=1 https://linganmin:cdf832312f130e2125157f802e357a9d@gitee.com/harmonyos_samples/VideoCast.git &
