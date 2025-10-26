@@ -427,8 +427,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          rsync -av --delete repos/ ../
-          cd ..
+          rsync -av --delete repos/ ./   # ✅ 保持在当前层级
+          rm -rf repos                   # 清理临时目录
           git add .
           git commit -m "🔄 Auto sync from Gitee on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git push
