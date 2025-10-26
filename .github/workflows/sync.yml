@@ -445,5 +445,11 @@ jobs:
           git commit -m "🔄 Auto sync from Gitee on $(date '+%Y-%m-%d %H:%M:%S')" || echo "No changes"
           git config lfs.allowincompletepush true
           git config --global http.postBuffer 524288000  # 500MB
-          git config --global http.maxRequestBuffer 100M
-          git push
+          git config --global http.maxRequestBuffer 500M
+          git config --global http.lowSpeedTime 999999
+          git rev-list --objects --all | \
+          git cat-file --batch-check='%(objecttype) %(objectname) %(objectsize) %(rest)' | \
+          awk '$1=="blob" {print $3 "\t" $4}' | \
+          sort -nr | \
+          numfmt --to=iec | head -n 20
+#           git push
