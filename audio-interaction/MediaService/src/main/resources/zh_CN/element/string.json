@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "reason_background",
+      "value": "允许应用在音乐播放器场景后台运行。"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "string": [
+    {
+      "name": "page_show",
+      "value": "page from package"
+    },
+    {
+      "name": "reason_background",
+      "value": "Allow applications to run in the background of music player scenes."
+    }
+  ]
+}
